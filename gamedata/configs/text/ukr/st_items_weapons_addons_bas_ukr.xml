@@ -120,7 +120,7 @@
 <text>Глушник КЗРЗП (BaS+Van)</text>
 </string>
 <string id="st_addon_sil_kzrzp_descr">
-<text>\n \n%c[ui_gray_2]СУМІСНІСТЬ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр\n \n%c[ui_gray_1]Прилад для беззвучної та без полум'яної стрільби зі СВД.\ n \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]середнє</text>
+<text>\n \n%c[ui_gray_2]СУМІСНІСТЬ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр\n \n%c[ui_gray_1]Прилад для беззвучної та без полум'яної стрільби зі СВД.\n \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]середнє</text>
 </string>
 
 <string id="st_addon_sil_nato">
@@ -341,7 +341,7 @@
 <text>Глушник Гексагон СКС 7.62x39 (BaS)</text>
 </string>
 <string id="st_addon_sil_hexagon_descr">
-<text>\n \n%c[ui_gray_2]СУМІСНІСТЬ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр\n \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон для СКС.\ n \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]низьке</text>
+<text>\n \n%c[ui_gray_2]СУМІСНІСТЬ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр\n \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон для СКС.\n \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]низьке</text>
 </string>
 
 <string id="st_addon_scope_marchf">
