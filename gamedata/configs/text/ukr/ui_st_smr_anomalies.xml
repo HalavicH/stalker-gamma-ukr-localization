@@ -4,39 +4,39 @@
 	</string>
 	
 	<string id="ui_mcm_menu_smr_anomalies">
-		<text>РђРЅРѕРјР°Р»С–С—</text>
+		<text>Аномалії</text>
   </string>
     <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance">
-		  <text>РљС–Р»СЊРєС–СЃС‚СЊ РґРёРЅР°РјС–С‡РЅРёС… Р°РЅРѕРјР°Р»С–Р№</text>
+		  <text>Кількість динамічних аномалій</text>
     </string>
     <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance_desc">
-      <text>РЇРєС‰Рѕ РґРёРЅР°РјС–С‡РЅС– Р°РЅРѕРјР°Р»С–С— СѓРІС–РјРєРЅРµРЅРѕ, С†Рµ Р·Р±С–Р»СЊС€РёС‚СЊ/Р·РјРµРЅС€РёС‚СЊ Р№РјРѕРІС–СЂРЅС–СЃС‚СЊ С—С… РїРѕСЏРІРё. Р‘РµР· ZCP РіСЂР° Р·Р°РІР¶РґРё РІРёРєРѕСЂРёСЃС‚РѕРІСѓС” 35%.</text>
+      <text>Якщо динамічні аномалії увімкнено, це збільшить/зменшить ймовірність їх появи. Без ZCP гра завжди використовує 35%.</text>
     </string>
 		<string id="ui_mcm_SMR_smr_anomalies_pulse">
-			<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅРѕРјР°Р»С–СЋ "РџСѓР»СЊСЃ"</text>
+			<text>Увімкнути аномалію "Пульс"</text>
 		</string>
 		<string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
-			<text>"РџСѓР»СЊСЃ" - С†Рµ Р°РЅРѕРјР°Р»С–СЏ, СЏРєР° С–РЅРѕРґС– Р·'СЏРІР»СЏС”С‚СЊСЃСЏ Сѓ РІРёРіР»СЏРґС– СЃРІС–С‚Р»Р° РЅР°Рґ РІР°РјРё С– РІРёРєР»РёРєР°С” РіСЂС–Рј С– Р±Р»РёСЃРєР°РІРєСѓ, С‰Рѕ Р±'С” РІ Р·РµРјР»СЋ.</text>
+			<text>"Пульс" - це аномалія, яка іноді з'являється у вигляді світла над вами і викликає грім і блискавку, що б'є в землю.</text>
 		</string>
     <string id="ui_mcm_smr_anomalies_anomalies_types_title">
-		<text>Р’РёРґРё Р°РЅРѕРјР°Р»С–Р№</text>
+		<text>Види аномалій</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_anomalies_anomalies_types_info">
-		<text>РќРёР¶С‡Рµ РІРё РјРѕР¶РµС‚Рµ РєРµСЂСѓРІР°С‚Рё С‚РёРїР°РјРё РґРёРЅР°РјС–С‡РЅРёС… Р°РЅРѕРјР°Р»С–Р№, СЏРєС– Р±СѓРґСѓС‚СЊ РїРѕСЂРѕРґР¶СѓРІР°С‚РёСЃСЏ.</text>
+		<text>Нижче ви можете керувати типами динамічних аномалій, які будуть породжуватися.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_anomalies_electric">
-		<text>Р•Р»РµРєС‚СЂРёС‡РЅС–</text>
+		<text>Електричні</text>
 	</string>
   <string id="ui_mcm_SMR_smr_anomalies_chemical">
-		<text>РҐС–РјС–С‡РЅС–</text>
+		<text>Хімічні</text>
 	</string>
   <string id="ui_mcm_SMR_smr_anomalies_thermal">
-		<text>РўРµСЂРјС–С‡РЅС–</text>
+		<text>Термічні</text>
 	</string>
   <string id="ui_mcm_SMR_smr_anomalies_gravitational">
-		<text>Р“СЂР°РІС–С‚Р°С†С–Р№РЅС–</text>
+		<text>Гравітаційні</text>
 	</string>
   <string id="ui_mcm_SMR_smr_anomalies_radioactive">
-		<text>Р Р°РґС–РѕР°РєС‚РёРІРЅС–</text>
+		<text>Радіоактивні</text>
 	</string>
   </string_table>

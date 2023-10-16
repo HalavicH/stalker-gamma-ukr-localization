@@ -1,100 +1,100 @@
 <string_table>
 	<string id="ui_mcm_menu_smr_mutants">
-		<text>РњСѓС‚Р°РЅС‚Рё</text>
+		<text>Мутанти</text>
 	</string>
     <string id="ui_mcm_smr_mutants_types_title">
-		<text>РўРёРїРё РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>Типи мутантів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_squad_size">
-		<text>Р РѕР·РјС–РІ Р·Р°РіРѕРЅС–РІ РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>Розмів загонів мутантів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance">
-		<text>Р’Р°СЂС–Р°С†С–С— СЂРѕР·РјС–СЂСѓ Р·Р°РіРѕРЅС–РІ</text>
+		<text>Варіації розміру загонів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance_desc">
-		<text>Р§РёРј РІРёС‰РёР№ С†РµР№ РїРѕРєР°Р·РЅРёРє, С‚РёРј Р±С–Р»СЊС€ РІРёРїР°РґРєРѕРІРёРј Р±СѓРґРµ СЂРѕР·РјС–СЂ Р·Р°РіРѕРЅС–РІ РјСѓС‚Р°РЅС‚С–РІ.</text>
+		<text>Чим вищий цей показник, тим більш випадковим буде розмір загонів мутантів.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_random_mutants">
-		<text>РЎС‚РІРѕСЂСЋР№С‚Рµ РІРёРїР°РґРєРѕРІС– Р·Р°РіРѕРЅРё РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>Створюйте випадкові загони мутантів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_random_mutants_desc">
-		<text>Р—Р°РјС–РЅСЋС” Р·Р°РіРѕРЅРё РјСѓС‚Р°РЅС‚С–РІ РЅР° С–РЅС€С–, РІРёРїР°РґРєРѕРІС– Р·Р°РіРѕРЅРё РјСѓС‚Р°РЅС‚С–РІ. Р¦Рµ РѕР·РЅР°С‡Р°С”, С‰Рѕ РІРё РјРѕР¶РµС‚Рµ Р·РЅР°Р№С‚Рё РїРµРІРЅРёС… РјСѓС‚Р°РЅС‚С–РІ С‚Р°Рј, РґРµ СЂР°РЅС–С€Рµ С—С… РЅРµ РѕС‡С–РєСѓРІР°Р»Рё.</text>
+		<text>Замінює загони мутантів на інші, випадкові загони мутантів. Це означає, що ви можете знайти певних мутантів там, де раніше їх не очікували.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_random_mutants_chance">
-		<text>Р’РёРїР°РґРєРѕРІРёР№ С€Р°РЅСЃ Р·Р°РіРѕРЅС–РІ РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>Випадковий шанс загонів мутантів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants">
-		<text>Р—Р±Р°Р»Р°РЅСЃРѕРІР°РЅС– РјСѓС‚Р°РЅС‚Рё СЂРѕР·РјРЅРѕР¶СѓСЋС‚СЊСЃСЏ</text>
+		<text>Збалансовані мутанти розмножуються</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants_desc">
-		<text>РњРµРЅС€ СЃРёР»СЊРЅС– РјСѓС‚Р°РЅС‚Рё Сѓ Р·РѕРІРЅС–С€РЅС–С… Р»РѕРєР°С†С–СЏС… С– РЅР°РІРїР°РєРё</text>
+		<text>Менш сильні мутанти у зовнішніх локаціях і навпаки</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_types_info">
-		<text>РќРёР¶С‡Рµ РІРё РјРѕР¶РµС‚Рµ РІРІС–РјРєРЅСѓС‚Рё Р°Р±Рѕ РІРёРјРєРЅСѓС‚Рё С‚РёРїРё РјСѓС‚Р°РЅС‚С–РІ. Р’РёРјРєРЅРµРЅС– РјСѓС‚Р°РЅС‚Рё РЅРµ Р·'СЏРІР»СЏС‚СЊСЃСЏ РІ Р—РѕРЅС–.</text>
+		<text>Нижче ви можете ввімкнути або вимкнути типи мутантів. Вимкнені мутанти не з'являться в Зоні.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads">
-		<text>Р—Р°РјС–РЅРёС‚Рё РІРёРґР°Р»РµРЅС– Р·Р°РіРѕРЅРё</text>
+		<text>Замінити видалені загони</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads_desc">
-		<text>Р—Р°РјС–РЅСЋС” Р·Р°РіРѕРЅРё Р· РІРёРјРєРЅРµРЅРёРјРё РјСѓС‚Р°РЅС‚Р°РјРё РЅР° Р·Р°РіРѕРЅРё Р· СѓРІС–РјРєРЅРµРЅРёРјРё РјСѓС‚Р°РЅС‚Р°РјРё.</text>
+		<text>Замінює загони з вимкненими мутантами на загони з увімкненими мутантами.</text>
 	</string>
 	<!-- TYPES -->
 	<string id="ui_mcm_SMR_smr_mutants_dogp">
-		<text>РЎРѕР±Р°РєРё</text>
+		<text>Собаки</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_psydogp">
-		<text>РџСЃС–-РЎРѕР±Р°РєРё</text>
+		<text>Псі-Собаки</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_tushkanop">
-		<text>РўСѓС€РєР°РЅРё</text>
+		<text>Тушкани</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_fracturep">
-		<text>Р†Р·Р»РѕРјРё</text>
+		<text>Ізломи</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_catp">
-		<text>РљРѕС‚Рё</text>
+		<text>Коти</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_fleshp">
-		<text>РџР»РѕС‚С–</text>
+		<text>Плоті</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_boarp">
-		<text>РљР°Р±Р°РЅРё</text>
+		<text>Кабани</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_snorkp">
-		<text>РЎРЅРѕСЂРєРё</text>
+		<text>Снорки</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_psysuckerp">
-		<text>РџСЃРё-РљСЂРѕРІРѕСЃРѕСЃРё</text>
+		<text>Пси-Кровососи</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_bloodsuckerp">
-		<text>РљСЂРѕРІРѕСЃРѕСЃРё</text>
+		<text>Кровососи</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_lurkerp">
-		<text>Р›СЋСЂРєРё</text>
+		<text>Люрки</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_karlikp">
-		<text>РљР°СЂР»РёРєРё</text>
+		<text>Карлики</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_burerp">
-		<text>Р‘СЋСЂРµСЂРё</text>
+		<text>Бюрери</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_poltergeistp">
-		<text>РџРѕР»С‚РµСЂРіРµР№СЃС‚Рё</text>
+		<text>Полтергейсти</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_controllerp">
-		<text>РљРѕРЅС‚СЂРѕР»РµСЂРё</text>
+		<text>Контролери</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_chimerap">
-		<text>РҐРёРјРµСЂРё</text>
+		<text>Химери</text>
 	</string>
     <string id="ui_mcm_SMR_smr_mutants_gigantp">
-		<text>РџСЃРµРІРґРѕРіС–РіР°РЅС‚Рё</text>
+		<text>Псевдогіганти</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_ratp">
-		<text>Р©СѓСЂС–</text>
+		<text>Щурі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_mutants_zombiep">
-		<text>Р—РѕРјР±С–</text>
+		<text>Зомбі</text>
 	</string>
 	<!-- UNUSED -->
 	<string id="ui_mcm_smr_mutants_unused_title">

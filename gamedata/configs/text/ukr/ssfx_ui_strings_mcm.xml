@@ -8,7 +8,7 @@
 <string_table>
 
 	<string id="ui_mcm_menu_ssfx_module">
-		<text>SSS Settings(РћРіРёРґРЅРµ СЂРѕР·РјРёС‚С‚СЏ)</text>
+		<text>SSS Settings(Огидне розмиття)</text>
 	</string>
 
 	<!-- Buttons -->
@@ -60,32 +60,32 @@
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_wpn_dof_blur_mcm">
-		<text>Р†РЅС‚РµРЅСЃРёРІРЅС–СЃС‚СЊ СЂРѕР·РјРёС‚С‚СЏ ( 0 = Disable )</text>
+		<text>Інтенсивність розмиття ( 0 = Disable )</text>
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_wpn_dof_edgeblur_mcm">
-		<text>РџРµСЂРёС„РµСЂС–Р№РЅРµ СЂРѕР·РјРёС‚С‚СЏ ( 0 = Disable )</text>
+		<text>Периферійне розмиття ( 0 = Disable )</text>
 	</string>
 
 
 	<string id="ui_mcm_ssfx_module_wpn_dof_reloading_mcm">
-		<text>DOF РїС–Рґ С‡Р°СЃ РїРµСЂРµР·Р°СЂСЏРґР¶Р°РЅРЅСЏ</text>
+		<text>DOF під час перезаряджання</text>
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_wpn_dof_pda_mcm">
-		<text>DOF РєРѕР»Рё РІРёРєРѕСЂРёСЃС‚РѕРІСѓС”С€ РљРџРљ</text>
+		<text>DOF коли використовуєш КПК</text>
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_wpn_dof_inventory_mcm">
-		<text>DOF РєРѕР»Рё РІС–РґРєСЂРёС‚РёР№ С–РЅРІРµРЅС‚Р°СЂ</text>
+		<text>DOF коли відкритий інвентар</text>
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_wpn_dof_fdda_mcm">
-		<text>DOF РїС–Рґ С‡Р°СЃ РІРёРєРѕСЂРёСЃС‚Р°РЅРЅСЏ РїСЂРµРґРјРµС‚С–РІ ( FDDA )</text>
+		<text>DOF під час використання предметів ( FDDA )</text>
 	</string>
 
 	<string id="ui_mcm_ssfx_module_wpn_dof_looting_mutant_mcm">
-		<text>DOF РїС–Рґ С‡Р°СЃ РѕР±С€СѓРєСѓ РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>DOF під час обшуку мутантів</text>
 	</string>
 	
 </string_table>

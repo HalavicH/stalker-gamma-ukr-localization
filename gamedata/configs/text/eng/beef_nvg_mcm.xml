@@ -6,11 +6,11 @@
 <string_table>
 
 	<string id="ui_mcm_beef_nvg_title">
-		<text>РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РџРќР‘ РІС–Рґ Beef</text>
+		<text>Налаштування ПНБ від Beef</text>
 	</string>	
 	
 	<string id="ui_mcm_beef_nvg_title_2">
-		<text>РЎСѓРјС–СЃРЅС–СЃС‚СЊ Р· С€РµР№РґРµСЂРЅРёРјРё 2D РїСЂРёС†С–Р»Р°РјРё</text>
+		<text>Сумісність з шейдерними 2D прицілами</text>
 	</string>	
 	
 	<string id="ui_mcm_menu_beef_nvg">
