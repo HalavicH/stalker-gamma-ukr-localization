@@ -1,45 +1,39 @@
 <!-- 
 	Anomaly Modconfiguration Menu strings	
 -->
-
 <string_table>
-
 	<string id="st_rax_fav">
-		<text>Mark Favorite</text>
+		<text>Додати в обране</text>
 	</string>
 	<string id="st_rax_unfav">
-		<text>UnMark Favorite</text>
+		<text>Прибрати з обраного</text>
 	</string>
 	<string id="st_rax_junk">
-		<text>Mark Junk</text>
+		<text>Додати в сміття</text>
 	</string>
 	<string id="st_rax_unjunk">
-		<text>UnMark Junk</text>
+		<text>Прибрати з сміття</text>
 	</string>
-
-
-
 	<string id="ui_mcm_title_SortingPlus">
-		<text>Sorting Plus</text>
+		<text>Настройки аддона Sorting Plus</text>
 	</string>
-
 	<string id="ui_mcm_menu_SortingPlus">
 		<text>Sorting Plus</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playerinv">
-		<text>Sort Player Inventory</text>
+		<text>Сортувати інвертар гравця</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playerinv_desc">
-		<text>Right side inventory on all screens except for trade.</text>
+		<text>Інвентар справа на всіх екранах, крім торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playertrade">
-		<text>Sort Player Trade Inventory</text>
+		<text>Сортувати інвентар гравця при торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playertrade_desc">
-		<text>Right Side Inventory when trading.</text>
+		<text>Інвентар справа при торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npcinv">
-		<text>Sort NPC Inventory</text>
+		<text>Сортувати інвентар NPC</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npcinv_desc">
 		<text>Left side inventory on all screens except for trade.</text>

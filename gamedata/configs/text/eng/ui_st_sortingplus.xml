@@ -3,16 +3,16 @@
 -->
 <string_table>
 	<string id="st_rax_fav">
-		<text>додати в обране</text>
+		<text>Додати в обране</text>
 	</string>
 	<string id="st_rax_unfav">
-		<text>прибрати з обраного</text>
+		<text>Прибрати з обраного</text>
 	</string>
 	<string id="st_rax_junk">
-		<text>додати в сміття</text>
+		<text>Додати в сміття</text>
 	</string>
 	<string id="st_rax_unjunk">
-		<text>прибрати з сміття</text>
+		<text>Прибрати з сміття</text>
 	</string>
 	<string id="ui_mcm_title_SortingPlus">
 		<text>Настройки аддона Sorting Plus</text>
@@ -21,19 +21,19 @@
 		<text>Sorting Plus</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playerinv">
-		<text>Сортировать инвентарь игрока</text>
+		<text>Сортувати інвертар гравця</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playerinv_desc">
-		<text>Сортировка правой стороны инвентаря на всех экранах, кроме торговли</text>
+		<text>Інвентар справа на всіх екранах, крім торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playertrade">
-		<text>Сортировать инвентарь игрока при торговле</text>
+		<text>Сортувати інвентар гравця при торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playertrade_desc">
-		<text>Сортировка правой стороны инвентаря на экране торговли</text>
+		<text>Інвентар справа при торгівлі</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npcinv">
-		<text>Сортировать инвентарь NPC</text>
+		<text>Сортувати інвентар NPC</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npcinv_desc">
 		<text>Сортировка левой стороны инвентаря на всех экранах, кроме торговли</text>
@@ -45,7 +45,7 @@
 		<text>Сортировка левой стороны инвентаря на экране торговли</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_useltx">
-		<text>Использовать sortingplus.ltx</text>
+		<text>Використовувати sortingplus.ltx</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_useltx_desc">
 		<text>Игноририрование всех настроек ниже в пользу тех, которые находятся в файле sortingplus.ltx, что дает возможность более тонкой настройки</text>
