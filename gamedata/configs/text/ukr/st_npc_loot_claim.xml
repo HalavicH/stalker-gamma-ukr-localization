@@ -51,5 +51,9 @@
 	<string id="st_npc_loot_claim_attack_5">
 		<text>Це твої останні секунди життя суко</text>
 	</string>
+	
+	<string id="st_npc_loot_claim_far">
+		<text>На цьому тілі ти не знайдеш нічого корисного тож йди подалі.</text>
+	</string>	
 
 </string_table>

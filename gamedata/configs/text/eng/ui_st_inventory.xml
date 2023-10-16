@@ -28,9 +28,6 @@
 	<string id="ui_st_tab_upgrades">
 		<text>Покращення (Зброя &amp; Броня) (9)</text>
 	</string>	
-    <string id="ui_st_tab_consumables">
-        <text>Живлення/Допомога (7)</text>
-    </string>
     <string id="ui_st_tab_misc">
         <text>Різне (10)</text>
     </string>
@@ -193,7 +190,7 @@
         <text>зарядити УЗУ</text>
     </string>
     <string id="st_item_money">
-        <text>взяти %s UAH</text>
+        <text>взяти %s грн</text>
     </string>
     <string id="st_item_details">
         <text>детально</text>

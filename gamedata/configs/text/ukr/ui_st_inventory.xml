@@ -19,11 +19,17 @@
     <string id="ui_st_tab_tools">
         <text>Пристрої/Інструменти/Ремонт (6)</text>
     </string>
-    <string id="ui_st_tab_consumables">
-        <text>Живлення/Допомога (7)</text>
-    </string>
+		<string id="ui_st_tab_food">
+		<text>Напої, Їжа, готування та крафт (7)</text>
+	</string>
+	<string id="ui_st_tab_meds">
+		<text>Медицина (8)</text>
+	</string>	
+	<string id="ui_st_tab_upgrades">
+		<text>Покращення (Зброя &amp; Броня) (9)</text>
+	</string>	
     <string id="ui_st_tab_misc">
-        <text>Різне (8)</text>
+        <text>Різне (10)</text>
     </string>
     <!-- Loot mode -->
     <string id="ui_st_put_all">

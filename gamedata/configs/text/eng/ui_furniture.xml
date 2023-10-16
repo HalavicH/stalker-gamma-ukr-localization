@@ -7,25 +7,25 @@
 		<text>Поставити предмет ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_far_popup">
-		<text>Це задалеко від мене щоб поставити.</text>
+		<text>Задалеко від мене щоб поставити.</text>
 	</string>
 	<string id="st_collision_warning">
-		<text>Неможливо поставити предмет - він зіткається з </text>
+		<text>Неможливо поставити предмет - він стикається з чимось</text>
 	</string>
 	<string id="st_rotation_label">
-		<text>Повертання</text>
+		<text>Зміщення обертання</text>
 	</string>
 	<string id="st_vertical_label">
 		<text>Зміщення по вертикалі</text>
 	</string>
 	<string id="st_enable_collision">
-		<text>Присутня колізія</text>
+		<text>Колізія увімкнена</text>
 	</string>
 	<string id="st_disable_collision">
-		<text>Відсутня колізія</text>
+		<text>Колізія вимкнена</text>
 	</string>
 	<string id="st_pickup">
-		<text>Підняти</text>
+		<text>Підібрати</text>
 	</string>
     <string id="st_close">
 		<text>Закрити</text>
@@ -65,7 +65,7 @@
 		<text>Темп</text>
 	</string>
 	<string id="st_transpose">
-		<text>Перенести</text>
+		<text>Транспонувати</text>
 	</string>
 	<string id="st_volume">
 		<text>Гучність</text>
