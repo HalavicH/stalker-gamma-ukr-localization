@@ -7,9 +7,6 @@
 	<string id="ui_mcm_quick_melee_keybind">
 		<text>Keybind</text>
 	</string>
-	<!-- <string id="ui_mcm_quick_melee_keybind">
-		<text>Keybind</text>
-	</string> -->
 	<string id="ui_mcm_quick_melee_normal_dmg">
 		<text>Normal damage multiplier</text>
 	</string>

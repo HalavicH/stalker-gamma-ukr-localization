@@ -1,127 +1,127 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_placeable_gas_lamp">
-		<text>Gas Lamp</text>
+		<text>Гасова лампа</text>
 	</string>
 	<string id="st_placeable_gas_lamp_descr">
-		<text>Generates light by igniting a wick doused in kerosene. Lanterns are an uncommon light source amongst stalkers as the fuel takes up weight and space in the backpacks that could otherwise be used for ammunition or priceless artefacts. Experienced stalkers that regularly travel along the path less troden make use of these lamps for their hideouts. This one has seen considerable wear over the years and appears to have lost its glass lampshade.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
-		%c[d_blue] • %c[ui_gray_2] low fuel consumption\n
-		%c[d_blue] • %c[ui_gray_2] fuel: kerosene\n</text>
+		<text>Генерує світло, підпалюючи гніт, залитий гасом. Ліхтарі - рідкісне джерело світла серед сталкерів, оскільки паливо забирає вагу і місце в рюкзаках, яке можна було б використати для боєприпасів або безцінних артефактів. Досвідчені сталкери, які регулярно мандрують менш обтяжливими стежками, використовують ці ліхтарі для своїх схованок. Цей ліхтар з роками значно зносився і, схоже, втратив скляний абажур.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+		%c[d_blue] • %c[ui_gray_2] низька витрата палива\n
+		%c[d_blue] • %c[ui_gray_2] паливо: гас\n</text>
 	</string>
 
 	<string id="st_placeable_metal_torch">
-		<text>Metal Torch</text>
+		<text>Металевий ліхтар</text>
 	</string>
 	<string id="st_placeable_metal_torch_descr">
-		<text>A soviet-era handheld flashlight. The bulky installation of the metal container makes efficient use of the batteries, which is more useful for illuminating hideouts. This particular light can be constructed in the field, though its usefulness is hampered by its conal light. Experienced stalkers use this to their advantage, illuminating potential intruders whilst maintaining their own concealment.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
-		%c[d_blue] • %c[ui_gray_2] low electric power consumption\n
-		%c[d_blue] • %c[ui_gray_2] fuel: batteries\n</text>
+		<text>Ручний ліхтарик совєцьких часів. Громіздка конструкція металевого контейнера дозволяє ефективно використовувати батарейки, що є більш корисним для освітлення схованок. Цей ліхтар можна сконструювати в польових умовах, хоча його корисність обмежена через конусоподібне світло. Досвідчені сталкери використовують це на свою користь, освітлюючи потенційних зловмисників, водночас зберігаючи власну маскування.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+		%c[d_blue] • %c[ui_gray_2] низька витрата палива\n
+		%c[d_blue] • %c[ui_gray_2] паливо: батареї\n</text>
 	</string>
 
 	<string id="st_placeable_light_altar">
-		<text>Compact Psi Light</text>
+		<text>Компактна Псі-лампа</text>
 	</string>
 	<string id="st_placeable_light_altar_descr">
-		<text>An object of unknown origin and purpose. Originally, this strange object emitted lethal psi-waves and was the cause of death to many unsuspecting stalkers who braved the northern areas. This one was modified by Sakharov and, with the help of a few artefacts, became a source of limitless light and mental strength.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
-		%c[d_blue] • %c[ui_gray_2] low electric power consumption\n
-		%c[d_blue] • %c[ui_gray_2] uses a Moonlight artefact\n
-		%c[d_blue] • %c[ui_gray_2] fuel: gauss batteries\n</text>
+		<text>Об'єкт невідомого походження та призначення. Спочатку цей дивний об'єкт випромінював смертоносні пси-хвилі і був причиною смерті багатьох нічого не підозрюючих сталкерів, які відважилися на північні території. Цей був модифікований Сахаровим і за допомогою кількох артефактів став джерелом безмежного світла та ментальної сили.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+		%c[d_blue] • %c[ui_gray_2] цінний\n
+		%c[d_blue] • %c[ui_gray_2] низька витрата електрохарчування\n
+		%c[d_blue] • %c[ui_gray_2] використовує артефакт Місячне світло\n
+		%c[d_blue] • %c[ui_gray_2] паливо: батареї гаусса\n</text>
 	</string>
 
 	<string id="st_placeable_case">
-		<text>Gun Case</text>
+		<text>Футляр для зброї</text>
 	</string>
 	<string id="st_placeable_case_descr">
-		<text>An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] moderate capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Порожній збройовий кейс, в якому немає жодної зброї. Забезпечує більше простору, ніж звичайні рюкзаки, але за рахунок ваги.\n \n
+			%c[ui_gray_1]ВЛАСТИВОСТІ:\n
+			%c[d_blue] • %c[ui_gray_2] зберігання речей\n
+			%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+			%c[d_blue] • %c[ui_gray_2] помірна місткість\n
+			%c[0,100,255,150] • %c[ui_gray_2] використовується як схованка\n</text>
 	</string>
 
 	<string id="st_placeable_blue_box">
-		<text>Metal Box</text>
+		<text>Металевий ящик</text>
 	</string>
 	<string id="st_placeable_blue_box_descr">
-		<text>A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its bulky container makes it harder to transport.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] high capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Просторий металевий ящик, призначений для зберігання речей. Він забезпечує найбільше місця порівняно з іншими варіантами, але його громіздкий контейнер ускладнює транспортування.\n \n
+			%c[ui_gray_1]ВЛАСТИВОСТІ:\n
+			%c[d_blue] • %c[ui_gray_2] зберігання речей\n
+			%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+			%c[d_blue] • %c[ui_gray_2] висока місткість\n
+			%c[0,100,255,150] • %c[ui_gray_2] використовується як схованка\n</text>
 	</string>
 
 	<string id="st_placeable_exo_kit">
-		<text>Empty Exoskeleton Repair Kit</text>
+		<text>Порожній комплект для ремонту екзоскелету</text>
 	</string>
 	<string id="st_placeable_exo_kit_descr">
-		<text>An empty case stripped of any useful items. Many stalkers simply discard these repair kits after tending to their high tech suits, though the capacity and size of this one is useful when reused as storage.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] moderate capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Порожній кейс, позбавлений будь-яких корисних речей. Багато сталкерів просто викидають такі ремонтні набори після того, як полагодять свої високотехнологічні костюми, хоча місткість і розмір цього кейсу можуть стати в нагоді для повторного використання в якості сховища.\n \n
+			%c[ui_gray_1]ВЛАСТИВОСТІ:\n
+			%c[d_blue] • %c[ui_gray_2] зберігання речей\n
+			%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+			%c[d_blue] • %c[ui_gray_2] помірна місткість\n
+			%c[0,100,255,150] • %c[ui_gray_2] використовується як схованка\n</text>
 	</string>
 
 	<string id="st_placeable_sumka6">
-		<text>Small Backpack</text>
+		<text>Маленький рюкзак</text>
 	</string>
 	<string id="st_placeable_sumka6_descr">
-		<text>Small cloth sheets sewn together to form a simple sack. While not particularly useful in permanent bases, this one finds its niche in creating a small stash when in a pinch.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] low capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Невеликі аркуші тканини, зшиті разом, утворюють простий мішок. Хоча такий мішок не дуже корисний для постійних баз, він знаходить свою нішу у створенні невеликої заначки на крайній випадок.\n \n
+			%c[ui_gray_1]ВЛАСТИВОСТІ:\n
+			%c[d_blue] • %c[ui_gray_2] зберігання речей\n
+			%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+			%c[d_blue] • %c[ui_gray_2] низька місткість\n
+			%c[0,100,255,150] • %c[ui_gray_2] використовується як схованка\n</text>
 	</string>
 
 	<string id="st_placeable_workshop">
-		<text>Portable Workshop</text>
+		<text>Портативна майстерня</text>
 	</string>
 	<string id="st_placeable_workshop_descr">
-		<text>A combination of a deployable table, workshop tools, and an integrated stash. This allows stalkers to be more self-sufficient in less than friendly areas, though its weight is a deterrent against crafting on the road.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
-		%c[d_blue] • %c[ui_gray_2] high capacity (integrated)\n
-		%c[d_orange] • %c[ui_gray_2] usable for repairing equipment\n</text>
+		<text>Поєднання розкладного столу, інструментів для майстерні та інтегрованої схованки. Це дозволяє сталкерам бути більш самодостатніми в не дуже дружніх районах, хоча його вага є стримуючим фактором від створення виробів у дорозі.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] цінний\n
+		%c[d_blue] • %c[ui_gray_2] висока місткість (інтегрована)\n
+		%c[d_orange] • %c[ui_gray_2] придатні для ремонту обладнання\n</text>
 	</string>
 
 	<string id="st_placeable_radio">
-		<text>Radio</text>
+		<text>Радіо</text>
 	</string>
 	<string id="st_placeable_radio_descr">
-		<text>A radio in working condition. It is able to receive the same signals as those heard in many bases throughout the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		<text>Рація в робочому стані. Здатна приймати ті самі сигнали, що й на багатьох базах у Зоні.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
 		</text>
 	</string>
 
 	<string id="st_placeable_piano">
-		<text>Portable Keyboard</text>
+		<text>Портативне піаніно</text>
 	</string>
 	<string id="st_placeable_piano_descr">
-		<text>A luxury installation not often seen in the Zone. Although it does not offer any protection against mutants or hostile stalkers, it can provide a brief respite against the hostilities of the Zone. This one appears to have many music sheets of varying difficulty and a number of synthetic-sounding instruments.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n</text>
+		<text>Розкішна інсталяція, яку не часто можна побачити в Зоні. Хоча вона не пропонує жодного захисту від мутантів чи ворожих сталкерів, вона може забезпечити короткий перепочинок від воєнних дій Зони. На ній є багато нот різної складності, а також кілька синтетичних інструментів.\n \n
+		%c[ui_gray_3]ВЛАСТИВОСТІ:\n
+		%c[d_blue] • %c[ui_gray_2] технологічний предмет\n
+		%c[d_blue] • %c[ui_gray_2] розміщуваний предмет\n
+		%c[d_blue] • %c[ui_gray_2] цінний\n</text>
 	</string>
 
 
     <string id="st_place_furniture">
-		<text>Place Item</text>
+		<text>Поставити предмет</text>
 	</string>
 </string_table>
