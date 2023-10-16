@@ -7,79 +7,79 @@
 		<text>Main</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_persist_info_mm">
-		<text>Р’Рё РЅРµ РІ РіСЂС–. Р‘СѓРґСЊ-СЏРєС– Р·РјС–РЅРё, Р·СЂРѕР±Р»РµРЅС– Р·Р°СЂР°Р·, Р±СѓРґСѓС‚СЊ Р·Р°СЃС‚РѕСЃРѕРІР°РЅС– РїС–Рґ С‡Р°СЃ Р·Р°РїСѓСЃРєСѓ РЅРѕРІРѕС— РіСЂРё, Р°Р»Рµ Р±СѓРґСѓС‚СЊ РїРµСЂРµР·Р°РїРёСЃР°РЅС–, СЏРєС‰Рѕ С„Р°Р№Р» Р·Р±РµСЂРµР¶РµРЅРЅСЏ, СЏРєРёР№ РІРё Р·Р°РІР°РЅС‚Р°Р¶РёР»Рё, РјС–СЃС‚РёС‚СЊ Р·Р±РµСЂРµР¶РµРЅСѓ РєРѕРЅС„С–РіСѓСЂР°С†С–СЋ.</text>
+		<text>Ви не в грі. Будь-які зміни, зроблені зараз, будуть застосовані під час запуску нової гри, але будуть перезаписані, якщо файл збереження, який ви завантажили, містить збережену конфігурацію.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_persist_info_level">
-		<text>Р’Рё РІ РіСЂС–. Р‘СѓРґСЊ-СЏРєС– Р·РјС–РЅРё, Р·СЂРѕР±Р»РµРЅС– Р·Р°СЂР°Р·, Р±СѓРґСѓС‚СЊ Р·Р±РµСЂРµР¶РµРЅС– С– Р·Р°РІР°РЅС‚Р°Р¶РµРЅС– СЂР°Р·РѕРј Р· РІР°С€РёРј С„Р°Р№Р»РѕРј Р·Р±РµСЂРµР¶РµРЅРЅСЏ.</text>
+		<text>Ви в грі. Будь-які зміни, зроблені зараз, будуть збережені і завантажені разом з вашим файлом збереження.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_tooltip_info">
-		<text>Р‘С–Р»СЊС€С–СЃС‚СЊ РѕРїС†С–Р№ РјР°СЋС‚СЊ РїС–РґРєР°Р·РєРё. РЇРєС‰Рѕ РІРё РЅРµ Р·РЅР°С”С‚Рµ, С‰Рѕ СЂРѕР±РёС‚СЊ РѕРїС†С–СЏ, РЅР°РІРµРґС–С‚СЊ РєСѓСЂСЃРѕСЂ РјРёС€С– РЅР° С—С— РЅР°Р·РІСѓ, С‰РѕР± РїРѕР±Р°С‡РёС‚Рё РѕРїРёСЃ.</text>
+		<text>Більшість опцій мають підказки. Якщо ви не знаєте, що робить опція, наведіть курсор миші на її назву, щоб побачити опис.</text>
 	</string>
 	<!-- GENERAL -->
 	<string id="st_smr_glitched_pda_text">
 		<text>FATAL ERROR: INTERNAL MEMORY CORRUPTION DETECTED</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_enabled">
-		<text>РЈРІС–РјРєРЅСѓС‚Рё ZCP</text>
+		<text>Увімкнути ZCP</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_debug_log">
-		<text>Р’РµРґРµРЅРЅСЏ debug Р¶СѓСЂРЅР°Р»Сѓ</text>
+		<text>Ведення debug журналу</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
-		<text>РЈРІС–РјРєРЅСѓС‚Рё РІРµРґРµРЅРЅСЏ Р¶СѓСЂРЅР°Р»Сѓ РЅР°Р»Р°РіРѕРґР¶РµРЅРЅСЏ. РџРћРџР•Р Р•Р”Р–Р•РќРќРЇ: Р¦Рµ РґСѓР¶Рµ С€РІРёРґРєРѕ СЂРѕР·РґСѓС” РІР°С€ С„Р°Р№Р» Р¶СѓСЂРЅР°Р»Сѓ, Р° С‚Р°РєРѕР¶ РѕРєСЂРµРјРёР№ С„Р°Р№Р» Р¶СѓСЂРЅР°Р»Сѓ "dph_zcp.log".</text>
+		<text>Увімкнути ведення журналу налагодження. ПОПЕРЕДЖЕННЯ: Це дуже швидко роздує ваш файл журналу, а також окремий файл журналу "dph_zcp.log".</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_persist_override">
-		<text>РќРµ Р·Р°РІР°РЅС‚Р°Р¶СѓРІР°С‚Рё РєРѕРЅС„С–РіСѓСЂР°С†С–СЋ Р·С– Р·Р±РµСЂРµР¶РµРЅРѕРіРѕ С„Р°Р№Р»Сѓ</text>
+		<text>Не завантажувати конфігурацію зі збереженого файлу</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_persist_override_desc">
-		<text>РџРµСЂРµРІРёР·РЅР°С‡Р°С” Р·Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РєРѕРЅС„С–РіСѓСЂР°С†С–С— Р·С– Р·Р±РµСЂРµР¶РµРЅРѕРіРѕ С„Р°Р№Р»Сѓ. РљРѕСЂРёСЃРЅРѕ, СЏРєС‰Рѕ РІРё РїС–РґРѕР·СЂСЋС”С‚Рµ, С‰Рѕ Р·Р±РµСЂРµР¶РµРЅС– РґР°РЅС– РїРѕС€РєРѕРґР¶РµРЅРѕ Р°Р±Рѕ РІРѕРЅРё РЅРµРґС–Р№СЃРЅС– Р· С–РЅС€РёС… РїСЂРёС‡РёРЅ.</text>
+		<text>Перевизначає завантаження конфігурації зі збереженого файлу. Корисно, якщо ви підозрюєте, що збережені дані пошкоджено або вони недійсні з інших причин.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_respawn_idle">
-		<text>Р§Р°СЃ РІС–РґСЂРѕРґР¶РµРЅРЅСЏ</text>
+		<text>Час відродження</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_10800">
-		<text>3 Р“РѕРґРёРЅРё</text>
+		<text>3 Години</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_21600">
-		<text>6 Р“РѕРґРёРЅ</text>
+		<text>6 Годин</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_43200">
-		<text>12 Р“РѕРґРёРЅРё</text>
+		<text>12 Години</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
-		<text>1 Р”РµРЅСЊ (default)</text>
+		<text>1 День (default)</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_172800">
-		<text>2 Р”РЅС–s</text>
+		<text>2 Дніs</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_345600">
-		<text>4 Р”РЅС–</text>
+		<text>4 Дні</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_604800">
-		<text>1 РўРёР¶РґРµРЅСЊ</text>
+		<text>1 Тиждень</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_1209600">
-		<text>2 РўРёР¶РЅС–</text>
+		<text>2 Тижні</text>
 	</string>
 	<string id="ui_mcm_lst_smr_amain_respawn_idle_1">
-		<text>РќС–РєРѕР»Рё</text>
+		<text>Ніколи</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_pop_factor_info">
-		<text>Р¦С– РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РїРѕРїСѓР»СЏС†С–Р№РЅРѕРіРѕ С„Р°РєС‚РѕСЂСѓ Р·Р°РјС–РЅСЏС‚СЊ РІР±СѓРґРѕРІР°РЅС– РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ Anomaly, РєРѕР»Рё Р±СѓРґРµ СѓРІС–РјРєРЅРµРЅРѕ ZCP.</text>
+		<text>Ці налаштування популяційного фактору замінять вбудовані налаштування Anomaly, коли буде увімкнено ZCP.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_monster_pop_factor">
-		<text>Р¤Р°РєС‚РѕСЂ РїРѕРїСѓР»СЏС†С–С— РјСѓС‚Р°РЅС‚С–РІ</text>
+		<text>Фактор популяції мутантів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_stalker_pop_factor">
-		<text>Р¤Р°РєС‚РѕСЂ РїРѕРїСѓР»СЏС†С–С— СЃС‚Р°Р»РєРµСЂС–РІ</text>
+		<text>Фактор популяції сталкерів</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_respawn_idle_desc">
-		<text>Р—РјС–РЅСЋС” С‚Р°Р№РјРµСЂ СЂРµСЃРїР°СѓРЅСѓ РґР»СЏ РІСЃС–С… СЃС‚Р°Р»РєРµСЂС–РІ, РјСѓС‚Р°РЅС‚С–РІ С– Р·РѕРјР±С–.</text>
+		<text>Змінює таймер респауну для всіх сталкерів, мутантів і зомбі.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_glitched_pda">
-		<text>Р—Р»Р°РјР°РЅС– РљРџРљ</text>
+		<text>Зламані КПК</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_glitched_pda_desc">
-		<text>РџРµСЂРµС‚РІРѕСЂСЋС” РІР°С€ РєРѕСЂРёСЃРЅРёР№ РљРџРљ РЅР° РїСЂРµСЃ-РїР°Рї'С”, РґРѕРїРѕРІРЅРµРЅРµ РјРёР»РёРј РїРѕРІС–РґРѕРјР»РµРЅРЅСЏРј РїСЂРѕ РїРѕРјРёР»РєСѓ.</text>
+		<text>Перетворює ваш корисний КПК на прес-пап'є, доповнене милим повідомленням про помилку.</text>
 	</string>
 </string_table>

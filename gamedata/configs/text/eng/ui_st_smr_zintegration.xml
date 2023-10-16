@@ -1,32 +1,32 @@
 <string_table>
 	<string id="ui_mcm_menu_smr_zzintegration">
-		<text>Р†РЅС‚РµРіСЂР°С†С–СЏ</text>
+		<text>Інтеграція</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_integration_info">
-		<text>РќР°РІРµРґРµРЅС– С‚СѓС‚ РѕРїС†С–С— РґРѕР·РІРѕР»СЏСЋС‚СЊ ZCP С‡СѓРґРѕРІРѕ РїСЂР°С†СЋРІР°С‚Рё СЂР°Р·РѕРј Р· С–РЅС€РёРјРё РґРѕРїРѕРІРЅРµРЅРЅСЏРјРё. Р¦Рµ СЃС…РѕР¶Рµ РЅР° РїР°С‚С‡С– СЃСѓРјС–СЃРЅРѕСЃС‚С–, С‚С–Р»СЊРєРё РЅР°Р±Р°РіР°С‚Рѕ Р·СЂСѓС‡РЅС–С€Рµ.</text>
+		<text>Наведені тут опції дозволяють ZCP чудово працювати разом з іншими доповненнями. Це схоже на патчі сумісності, тільки набагато зручніше.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks">
 		<text>Glowsticks</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks_info">
-		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Р”РѕР·РІРѕР»СЏС” РїР°Р»РёС‡РєРё-Р»С–С…С‚Р°СЂРёРєРё СЃС‚РІРѕСЂСЋРІР°С‚Рё РєРѕСЂРёСЃРЅС– РїСЂРµРґРјРµС‚Рё.</text>
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Дозволяє палички-ліхтарики створювати корисні предмети.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux">
 		<text>Anomaly Magazines Redux</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_chance">
-		<text>РЁР°РЅСЃ СЃРїР°РІРЅСѓ РјР°РіР°Р·РёРЅСѓ</text>
+		<text>Шанс спавну магазину</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_info">
-		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Р”РѕР·РІРѕР»СЏС” СЃС‚РІРѕСЂСЋРІР°С‚Рё РјР°РіР°Р·РёРЅРё РґР»СЏ РїРѕС‚РѕС‡РЅРѕ СЃРїРѕСЂСЏРґР¶РµРЅРѕС— Р·Р±СЂРѕС— СЏРє РґРѕРґР°С‚РєРѕРІРёР№ РїСЂРµРґРјРµС‚ Сѓ СЃС…РѕРІР°РЅРєР°С….</text>
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Дозволяє створювати магазини для поточно спорядженої зброї як додатковий предмет у схованках.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes">
 		<text>Anomaly Lootboxes</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_chance">
-		<text>РЁР°РЅСЃ СЃРїР°РІРЅСѓ Р»СѓС‚Р±РѕРєСЃСѓ</text>
+		<text>Шанс спавну лутбоксу</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_info">
-		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Р”РѕР·РІРѕР»СЏС” РІС–РґРјРёС‡РєР°Рј Р·'СЏРІР»СЏС‚РёСЃСЏ СЏРє РєРѕСЂРёСЃРЅС– РїСЂРµРґРјРµС‚Рё, Р° С‚Р°РєРѕР¶ СЏРє Р»СѓС‚Р±РѕРєСЃРё Сѓ РІР»Р°СЃРЅС–Р№ РєР°С‚РµРіРѕСЂС–С—.</text>
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Дозволяє відмичкам з'являтися як корисні предмети, а також як лутбокси у власній категорії.</text>
 	</string>
 </string_table>

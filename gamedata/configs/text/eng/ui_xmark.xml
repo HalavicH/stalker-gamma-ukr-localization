@@ -1,27 +1,27 @@
 <string_table>
         <!-- MCM -->
 <string id="ui_mcm_menu_xmark">
-         <text>РҐС–С‚РјР°СЂРє Р†РЅР°РєСЂС–РЅР°</text>
+         <text>Хітмарк Інакріна</text>
      </string>
      <string id="ui_mcm_menu_xmark_title">
-         <text>РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РїРѕР·РЅР°С‡РѕРє РїРѕРїР°РґР°РЅРЅСЏ (РїРѕС‚СЂС–Р±РЅРѕ РїРµСЂРµР·Р°РІР°РЅС‚Р°Р¶РёС‚Рё)</text>
+         <text>Налаштування позначок попадання (потрібно перезавантажити)</text>
      </string>
      <string id="ui_mcm_xmark_enable">
-         <text>РЈРІС–РјРєРЅСѓС‚Рё РїРѕР·РЅР°С‡РєСѓ РїРѕРїР°РґР°РЅРЅСЏ</text>
+         <text>Увімкнути позначку попадання</text>
      </string>
      <string id="ui_mcm_xmark_a">
-         <text>РђР»СЊС„Р°-РІРµСЂСЃС–СЏ РҐС–С‚РјР°СЂРєРё</text>
+         <text>Альфа-версія Хітмарки</text>
      </string>
      <string id="ui_mcm_xmark_r">
-         <text>РҐС–С‚РјР°СЂРєР°, С‡РµСЂРІРѕРЅР°</text>
+         <text>Хітмарка, червона</text>
      </string>
      <string id="ui_mcm_xmark_g">
-         <text>РҐС–С‚РјР°СЂРєР°, Р·РµР»РµРЅР°</text>
+         <text>Хітмарка, зелена</text>
      </string>
      <string id="ui_mcm_xmark_b">
-         <text>РҐС–С‚РјР°СЂРєР°, СЃРёРЅСЏ</text>
+         <text>Хітмарка, синя</text>
      </string>
      <string id="ui_mcm_xmark_fade">
-         <text>Р§Р°СЃ Р·РЅРёРєРЅРµРЅРЅСЏ</text>
+         <text>Час зникнення</text>
      </string>
 </string_table>

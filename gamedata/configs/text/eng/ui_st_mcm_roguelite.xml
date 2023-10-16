@@ -5,10 +5,10 @@
 
     <!--Global Settings-->
     <string id="ui_mcm_roguelite_title">
-        <text>РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ Ironman Roguelite РІС–Рґ Jabbers</text>
+        <text>Налаштування Ironman Roguelite від Jabbers</text>
     </string>
     <string id="ui_mcm_roguelite_is_roguelite_enabled">
-        <text>РЈРІС–РјРєРЅРµРЅРѕ</text>
+        <text>Увімкнено</text>
     </string>
     <string id="ui_mcm_roguelite_debug">
         <text>Debug</text>
@@ -19,7 +19,7 @@
         <text>Player Stashes Persistence</text>
     </string>
     <string id="ui_mcm_roguelite_is_stash_restore_enabled">
-        <text>РЈРІС–РјРєРЅРµРЅРѕ</text>
+        <text>Увімкнено</text>
     </string>
     <string id="ui_mcm_roguelite_show_stashes_on_pda">
         <text>Show restored player stashes on your PDA</text>
@@ -33,7 +33,7 @@
         <text>Trader Reputation Persistence</text>
     </string>
     <string id="ui_mcm_roguelite_is_trader_rep_restore_enabled">
-        <text>РЈРІС–РјРєРЅРµРЅРѕ</text>
+        <text>Увімкнено</text>
     </string>
     <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
         <text>Trader repuation loss % between playthroughs</text>
@@ -44,7 +44,7 @@
         <text>Charater Reputation Persistence</text>
     </string>
     <string id="ui_mcm_roguelite_is_character_rep_restore_enabled">
-        <text>РЈРІС–РјРєРЅРµРЅРѕ</text>
+        <text>Увімкнено</text>
     </string>
     <string id="ui_mcm_roguelite_character_rep_penalty_percent">
         <text>Character repuation loss % between playthroughs</text>

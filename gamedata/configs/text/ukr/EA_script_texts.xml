@@ -1,45 +1,45 @@
 	<string id="ui_mcm_menu_EA_settings">
-<text>РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ FDDA</text>
+<text>Налаштування FDDA</text>
 </string>
 
 <string id="ui_mcm_EA_settings_enable_animations">
-<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅС–РјР°С†С–СЋ FDDA</text>
+<text>Увімкнути анімацію FDDA</text>
 </string>
 
 <string id="ui_mcm_EA_settings_enable_backpack_addon">
-<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅС–РјР°С†С–СЋ СЂСЋРєР·Р°РєР°</text>
+<text>Увімкнути анімацію рюкзака</text>
 </string>
 
 <string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
-<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅС–РјР°С†С–СЋ РїСЂРёСЃС–РґР°РЅРЅСЏ РґР»СЏ СЂСЋРєР·Р°РєР°</text>
+<text>Увімкнути анімацію присідання для рюкзака</text>
 </string>
 
 <string id="ui_mcm_EA_settings_mutant_loot">
-<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅС–РјР°С†С–СЋ Р·РґРѕР±РёС‡С– РјСѓС‚Р°РЅС‚С–РІ</text>
+<text>Увімкнути анімацію здобичі мутантів</text>
 </string>
 
 <string id="ui_mcm_EA_settings_take_item_anim">
-<text>РЈРІС–РјРєРЅСѓС‚Рё Р°РЅС–РјР°С†С–СЋ РѕС‚СЂРёРјР°РЅРЅСЏ РїСЂРµРґРјРµС‚С–РІ</text>
+<text>Увімкнути анімацію отримання предметів</text>
 </string>
 
 <string id="ui_mcm_EA_settings_mutant_loot_desc">
-<text>РџСЂРёРјС–С‚РєР°: РІС–РЅ Р°РІС‚РѕРјР°С‚РёС‡РЅРѕ РІРёРјРёРєР°С”С‚СЊСЃСЏ \n
-\n СЏРєС‰Рѕ Р°РЅС–РјР°С†С–СЋ FDDA РІРёРјРєРЅРµРЅРѕ</text>
+<text>Примітка: він автоматично вимикається \n
+\n якщо анімацію FDDA вимкнено</text>
 </string>
 
 <string id="ui_mcm_EA_settings_take_dist">
-<text>Р’С–РґСЃС‚Р°РЅСЊ РїС–РґР№РѕРјСѓ Р°РЅС–РјР°С†С–С—</text>
+<text>Відстань підйому анімації</text>
 </string>
 
 <string id="ui_mcm_EA_settings_ea_debug">
-<text>РќР°Р»Р°РіРѕРґР¶РµРЅРЅСЏ EA</text>
+<text>Налагодження EA</text>
 </string>
 
 <string id="ui_mcm_EA_settings_take_dist_desc">
-<text>Р—Р° Р·Р°РјРѕРІС‡СѓРІР°РЅРЅСЏРј - 0,12, СЂРµРєРѕРјРµРЅРґРѕРІР°РЅРµ Р·РЅР°С‡РµРЅРЅСЏ РґР»СЏ РІРёРїСЂР°РІР»РµРЅРЅСЏ \n
-РїРѕРјРёР»РєР° Р°РґРґРѕРЅСѓ Р¶СѓСЂРЅР°Р»С–РІ - 0,3-0,5</text>
+<text>За замовчуванням - 0,12, рекомендоване значення для виправлення \n
+помилка аддону журналів - 0,3-0,5</text>
 </string>
 
 <string id="st_EA_ladder_item_not_allowed">
-       <text>Р’Р°С€С– СЂСѓРєРё Р·Р°СЂР°Р· Р·Р°Р№РЅСЏС‚С–</text>
+       <text>Ваші руки зараз зайняті</text>
      </string>

@@ -1,57 +1,57 @@
 <string_table>
 	<string id="ui_mcm_menu_smr_zombies">
-		<text>Р—РѕРјР±С–</text>
+		<text>Зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombie_spawn">
-		<text>РЈРІС–РјРєРЅСѓС‚Рё СЃРїР°РІРЅ Р·РѕРјР±С–</text>
+		<text>Увімкнути спавн зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombie_chance">
-		<text>РЁР°РЅСЃ СЃРїР°РІРЅСѓ Р·РѕРјР±С–</text>
+		<text>Шанс спавну зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombie_chance_desc">
-		<text>Р™РјРѕРІС–СЂРЅС–СЃС‚СЊ (Сѓ РІС–РґСЃРѕС‚РєР°С…), С‰Рѕ СЃС‚Р°Р»РєРµСЂРё/РјСѓС‚Р°РЅС‚Рё Р±СѓРґСѓС‚СЊ Р·Р°РјС–РЅРµРЅС– РЅР° Р·РѕРјР±С–.</text>
+		<text>Ймовірність (у відсотках), що сталкери/мутанти будуть замінені на зомбі.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_seek_enabled">
-		<text>Р—РѕРјР±С– С€СѓРєР°СЋС‚СЊ РіСЂР°РІС†СЏ</text>
+		<text>Зомбі шукають гравця</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
-		<text>РЈ СЂРµР¶РёРјС– "Р’РёР¶РёРІР°РЅРЅСЏ" Р·РѕРјР±С– СЂСѓС…Р°С‚РёРјСѓС‚СЊСЃСЏ РґРѕ РіСЂР°РІС†СЏ, СЏРєС‰Рѕ РІС–РЅ РїРµСЂРµР±СѓРІР°С‚РёРјРµ РІ РїРµРІРЅРѕРјСѓ СЂР°РґС–СѓСЃС– (РЅР°РІС–С‚СЊ СЏРєС‰Рѕ С—С… РЅРµ Р±СѓР»Рѕ СЃРїСЂРѕРІРѕРєРѕРІР°РЅРѕ). Р¦Рµ РІС–РґС‚РІРѕСЂРёС‚СЊ С‚Р°РєСѓ РїРѕРІРµРґС–РЅРєСѓ.</text>
+		<text>У режимі "Виживання" зомбі рухатимуться до гравця, якщо він перебуватиме в певному радіусі (навіть якщо їх не було спровоковано). Це відтворить таку поведінку.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_seek_distance">
-		<text>Р’РѕСЂРѕРі С‚СЂРёРјР°С” РґРёСЃС‚Р°РЅС†С–СЋ</text>
+		<text>Ворог тримає дистанцію</text>
 	</string>
 	<!-- ZOMBIE TYPES -->
 	<string id="ui_mcm_smr_zombies_zombie_types_title">
-		<text>Р’Р°СЂС–Р°РЅС‚Рё Р·РѕРјР±С–</text>
+		<text>Варіанти зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombie_types_info">
-		<text>РќРёР¶С‡Рµ РІРё РјРѕР¶РµС‚Рµ РєРµСЂСѓРІР°С‚Рё С‚РёРј, СЏРєС– РІР°СЂС–Р°РЅС‚Рё Р·РѕРјР±С– Р±СѓРґСѓС‚СЊ РІС–РґС‚РІРѕСЂСЋРІР°С‚РёСЃСЏ.</text>
+		<text>Нижче ви можете керувати тим, які варіанти зомбі будуть відтворюватися.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombiesp">
-		<text>Р—РІРёС‡Р°Р№РЅС– Р·РѕРјР±С–</text>
+		<text>Звичайні зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombies_amount">
-		<text>РљС–Р»СЊРєС–СЃС‚СЊ Р·РІРёС‡Р°Р№РЅРёС… Р·РѕРјР±С–</text>
+		<text>Кількість звичайних зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombies_amount_desc">
-		<text>РљРѕРµС„С–С†С–С”РЅС‚, РЅР° СЏРєРёР№ РјРЅРѕР¶Р°С‚СЊСЃСЏ СЃРїР°РІРЅРё РѕСЃРЅРѕРІРЅРёС… Р·РѕРјР±С– (СЏРєС‰Рѕ РІРІС–РјРєРЅРµРЅРѕ), РїРѕСЂС–РІРЅСЏРЅРѕ Р· С–РЅС€РёРјРё РІР°СЂС–Р°РЅС‚Р°РјРё.</text>
+		<text>Коефіцієнт, на який множаться спавни основних зомбі (якщо ввімкнено), порівняно з іншими варіантами.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_blindp">
-		<text>РЎР»С–РїС– (РџСЃС–) Р—РѕРјР±С–</text>
+		<text>Сліпі (Псі) Зомбі</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombifiedp">
-		<text>Р—РѕРјР±РѕРІР°РЅС– СЃС‚Р°Р»РєРµСЂРё</text>
+		<text>Зомбовані сталкери</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_fracturep">
-		<text>Р†Р·Р»РѕРјРё</text>
+		<text>Ізломи</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_snorkp">
-		<text>РЎРЅРѕСЂРєРё</text>
+		<text>Снорки</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_bloodsuckerp">
-		<text>РљСЂРѕРІРѕСЃРѕСЃРё</text>
+		<text>Кровососи</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_psysuckerp">
-		<text>РџСЃС–-РљСЂРѕРІРѕСЃРѕСЃРё</text>
+		<text>Псі-Кровососи</text>
 	</string>
 </string_table>

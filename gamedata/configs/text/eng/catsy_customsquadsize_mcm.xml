@@ -5,15 +5,15 @@
 
 <string_table>
 	<string id="ui_mcm_menu_customsquadsize">
-<text>Р’Р»Р°СЃРЅРёР№ СЂРѕР·РјС–СЂ СЃСѓРїСѓС‚РЅСЊРѕРіРѕ Р·Р°РіРѕРЅСѓ</text>
+<text>Власний розмір супутнього загону</text>
 </string>
 
 <string id="ui_mcm_customsquadsize_maxsquadsize">
-<text>Р—РІРёС‡Р°Р№РЅР° РјР°РєСЃРёРјР°Р»СЊРЅР° РєС–Р»СЊРєС–СЃС‚СЊ СЃСѓРїСѓС‚РЅРёРєС–РІ</text>
+<text>Звичайна максимальна кількість супутників</text>
 </string>
 
 <string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
-<text>РњР°РєСЃРёРјСѓРј РЅР°РїР°СЂРЅРёРєС–РІ С–Р· РґРѕСЃСЏРіРЅРµРЅРЅСЏРј В«РќР°СЂРѕРґРЅРёР№ РіРµСЂРѕР№В»</text>
+<text>Максимум напарників із досягненням «Народний герой»</text>
 </string>
 
 </string_table>
