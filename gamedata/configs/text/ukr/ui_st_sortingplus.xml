@@ -88,13 +88,13 @@
 		<text>Усі предмети, позначені як обране, будуть підсвічені</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortfavs">
-		<text>Use Favorites Category</text>
+		<text>Сортувати обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortfavs_desc">
-		<text>Sorts Favorites items into their own category, by default the first one.</text>
+		<text>Усі предмети, відмічені як вибране, будуть винесені в окрему категорію, за замовчуванням на початку інвентарю</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_putallfavs">
-		<text>Block "Move all" for Favorites.</text>
+		<text>Не переміщати вибране при натисканні "Скласти все"</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_putallfavs_desc">
 		<text>Favorites will not be moved from your inventory when doing transfer all.</text>
