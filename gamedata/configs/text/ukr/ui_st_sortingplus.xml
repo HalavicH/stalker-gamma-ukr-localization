@@ -52,22 +52,22 @@
 	</string>
 
 	<string id="ui_mcm_SortingPlus_iconjunk">
-		<text>Mark Junk</text>
+		<text>Позначати мотлох</text>	  
 	</string>
 	<string id="ui_mcm_SortingPlus_iconjunk_desc">
-		<text>Mark items flagged Junk with an icon.</text>
+		<text>Всі предмети, відмічені як мотлох, будуть позначені спеціальною іконкою</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitejunk">
-		<text>Highlight Junk</text>
+		<text>Підсвічувати мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
-		<text>Highlight items flagged Junk.</text>
+		<text>Усі предмети, відмічені як мотлох, будуть підсвічені</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortjunk">
-		<text>Use Junk Category</text>
+		<text>Сортувати мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortjunk_desc">
-		<text>Sorts Junk items into thier own category, by default the last one.</text>
+		<text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk">
 		<text>"Auto" Sell Junk</text>

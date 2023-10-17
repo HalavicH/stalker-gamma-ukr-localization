@@ -1,4 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
 <string_table>
+
+	<string id="st_wpn_glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_short">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>Класика пістолета з полімерною рамкою та короткою віддачею, Glock 17, варіант 4-го покоління, якби не гравіювання на затворі, розроблений та виготовлений австрійським виробником Glock Ges.m.b.H. Ця зброя надійшла на озброєння австрійської армії та поліції у 1982 році після того, як показала найкращі результати в тестах на надійність та безпеку. З того часу він експортується до багатьох інших країн, в тому числі і до України для спецпідрозділів. Завдяки невеликій вазі, дуже хорошій віддачі та калібру 9 мм, цей пістолет є дуже популярним серед усіх силових структур, і це цілком виправдано.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Глушник GemTech (після модифікації)</text>
+	</string>
+
+	<string id="st_up_glock17_45acp_name">
+		<text>Зміна калібра на .45 ACP</text>
+	</string>
 
 	<string id="st_wpn_hs2000">
 		<text>HS2000</text>
@@ -7,9 +29,9 @@
 		<text>HS2000</text>
 	</string>
 	<string id="st_wpn_hs2000_descr">
-		<text>The HS2000 is a Croatian-made pistol, manufactured by HS Produkt. It has a polymer frame and fires based on a Striker, which is similar to the Glock pistols. Although despite being a HS2000, this is actually a HS-9 4.0 G2, which is a civilian version of the HS2000 itself out for the market. This is due to Black Market manufacturing, the internals are clearly HS2000 while the rest is simply marked as HS-9, it also comes with an ambidextrous setup. This pistol was being manufactured in 1995, until it got released in 1999. After 2001, the Police and Army of Croatia deecided to adopt it, becoming their national gun. In USA, it is known as the "Springfield XD".  \n \n
+		<text>HS2000 - це хорватський пістолет хорватського виробництва, виготовлений компанією HS Produkt. Він має полімерну рамку і стріляє за принципом ударно-спускового механізму, схожого на пістолети Glock. Хоча, незважаючи на те, що це HS2000, насправді це HS-9 4.0 G2, який є цивільною версією самого HS2000, що випускається на ринок. Це пов'язано з виробництвом на чорному ринку, тому внутрішні компоненти пістолета чітко вказують на HS2000, тоді як решта просто позначена як HS-9, і він також оснащений амбідекстровим пристроєм для стрільби з обох рук. Цей пістолет вироблявся з 1995 року до 1999 року, коли він був випущений на озброєння. Після 2001 року поліція та армія Хорватії вирішили взяти його на озброєння, і він став національною зброєю. У США він відомий під назвою "Springfield XD".  \n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] Глушник GemTech</text>
 	</string>
 
 </string_table>

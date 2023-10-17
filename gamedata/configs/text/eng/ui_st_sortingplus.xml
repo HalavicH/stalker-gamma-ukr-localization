@@ -51,23 +51,22 @@
 		<text>Игноририрование всех настроек ниже в пользу тех, которые находятся в файле sortingplus.ltx, что дает возможность более тонкой настройки</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconjunk">
-		<text>Отмечать хлам иконкой</text>	  
+		<text>Позначати мотлох</text>	  
 	</string>
 	<string id="ui_mcm_SortingPlus_iconjunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут помечены специальной иконкой</text>
+		<text>Всі предмети, відмічені як мотлох, будуть позначені спеціальною іконкою</text>
 	</string>
-									   
 	<string id="ui_mcm_SortingPlus_hilitejunk">
-		<text>Подсвечивать хлам</text>
+		<text>Підсвічувати мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут подсвечены</text>
+		<text>Усі предмети, відмічені як мотлох, будуть підсвічені</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortjunk">
-		<text>Сортировать хлам</text>
+		<text>Сортувати мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortjunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут вынесены в отдельную категорию, по умолчанию в конце инвентаря</text>
+		<text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk">
 		<text>Автопродажа хлама</text>
