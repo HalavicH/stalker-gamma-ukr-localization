@@ -13,10 +13,10 @@
         <text>Прибрати з сміття</text>
     </string>
     <string id="ui_mcm_title_SortingPlus">
-        <text>Настройки аддона Sorting Plus</text>
+        <text>Налаштування аддону "Сортування Плюс"</text>
     </string>
     <string id="ui_mcm_menu_SortingPlus">
-        <text>Sorting Plus</text>
+        <text>Сортування Плюс</text>
     </string>
     <string id="ui_mcm_SortingPlus_playerinv">
         <text>Сортувати інвертар гравця</text>
@@ -34,19 +34,19 @@
         <text>Сортувати інвентар NPC</text>
     </string>
     <string id="ui_mcm_SortingPlus_npcinv_desc">
-        <text>Сортировка левой стороны инвентаря на всех экранах, кроме торговли</text>
+        <text>Інвентар зліва на всіх екранах, окрім торгівлі.</text>
     </string>
     <string id="ui_mcm_SortingPlus_npctrade">
-        <text>Сортировать инвентарь торговцев</text>
+        <text>Сортування торгового інвентарю NPC</text>
     </string>
     <string id="ui_mcm_SortingPlus_npctrade_desc">
-        <text>Сортировка левой стороны инвентаря на экране торговли</text>
+        <text>Інвентар зліва під час торгівлі.</text>
     </string>
     <string id="ui_mcm_SortingPlus_useltx">
         <text>Використовувати sortingplus.ltx</text>
     </string>
     <string id="ui_mcm_SortingPlus_useltx_desc">
-        <text>Игноририрование всех настроек ниже в пользу тех, которые находятся в файле sortingplus.ltx, что дает возможность более тонкой настройки</text>
+        <text>Ігнорує налаштування, наведені нижче, на користь налаштувань у файлі sortingplus.ltx, який пропонує більш детальний контроль.</text>
     </string>
     <string id="ui_mcm_SortingPlus_iconjunk">
         <text>Позначати мотлох</text>
@@ -94,13 +94,13 @@
         <text>Не переміщати вибране при натисканні "Скласти все"</text>
     </string>
     <string id="ui_mcm_SortingPlus_putallfavs_desc">
-        <text>Все предметы, отмеченные как избранное, не будут перемещены при нажатии кнопки "Сложить все"</text>
+        <text>Вибране не буде переміщено з вашого інвентарю при натисненні кнопки "Скласти все".</text>
     </string>
     <string id="ui_mcm_SortingPlus_resort">
-        <text>Сразу сортировать отмеченные предметы</text>
+        <text>Відразу сортувати відмічені предмети</text>
     </string>
     <string id="ui_mcm_SortingPlus_resort_desc">
-        <text>Как только предмет будет отмечен как избранное или как хлам, он сразу же будет отсортирован в инвентаре. В противном случае сортировка произойдет только при следующем открытии инвентаря. Может быть полезно, если отключена подсветка отмеченных предметов</text>
+        <text>Щойно предмет буде позначено як обране або як мотлох, його відразу ж буде відсортовано в інвентарі. В іншому разі сортування відбудеться тільки під час наступного відкриття інвентарю. Може бути корисно, якщо вимкнено підсвічування позначених предметів</text>
     </string>
     <string id="ui_mcm_SortingPlus_001loadout">
         <text>Розвантажувальні жилети</text>
