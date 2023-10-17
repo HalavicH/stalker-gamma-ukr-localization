@@ -1,65 +1,63 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	
-	<string id="st_wpn_k2">
-    <text>Daewoo K2</text>
+    <string id="st_wpn_k2">
+        <text>Daewoo K2</text>
     </string>
     <string id="st_wpn_k2_descr">
         <text>The Daewoo Precision Industries K2 assault rifle is the standard service rifle of the South Korean military. The rifle combines the best features from the AKM and M16 into a cold war era package. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer \n \n</text>
     </string>
-	<string id="st_wpn_dr200">
-    <text>Daewoo DR200</text>
+    <string id="st_wpn_dr200">
+        <text>Daewoo DR200</text>
     </string>
     <string id="st_wpn_dr200_descr">
         <text>The DR200 is a modernized version of the Daewoo K2. This one features a vertical grip and a rail to allow attachments for optics. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer, ACOG, EOTECH, that one budget red dot. \n \n</text>
     </string>
-	<string id="st_wpn_k1">
-    <text>Daewoo K1</text>
+    <string id="st_wpn_k1">
+        <text>Daewoo K1</text>
     </string>
     <string id="st_wpn_k1_descr">
-     <text>The Daewoo Precision Industries K1 assault rifle is the standard service rifle of the South Korean military. The rifle combines the best features from the AKM and M16 into a cold war era package. This rifle is essentially the same as the K2, except it has a wire stock instead of a fixed stock. \n \n
+        <text>The Daewoo Precision Industries K1 assault rifle is the standard service rifle of the South Korean military. The rifle combines the best features from the AKM and M16 into a cold war era package. This rifle is essentially the same as the K2, except it has a wire stock instead of a fixed stock. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer \n \n</text>
     </string>
-	<string id="st_wpn_k7">
-    <text>Daewoo K7</text>
+    <string id="st_wpn_k7">
+        <text>Daewoo K7</text>
     </string>
     <string id="st_wpn_k7_descr">
         <text>The Daewoo Telecom K7 is a 9x19mm Parabellum submachine gun with an integral suppressor used by the Republic of Korea Armed Forces. It is based on the Daewoo K1A assault rifle, but is simplified by utilizing a blowback action rather than the gas impingement system of its parent firearm. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] Integrated Silencer \n \n</text>
     </string>
-	<string id="st_wpn_9mmdaewoo">
-    <text>K7 Magazine</text>
+    <string id="st_wpn_9mmdaewoo">
+        <text>K7 Magazine</text>
     </string>
     <string id="st_wpn_9mmdaewoo_descr">
         <text>A 32 round 9mm magazine for the Daewoo K7. This goes fast, be sure to carry multiple.</text>
     </string>
-	<string id="st_wpn_ar70">
-    <text>Beretta AR70</text>
+    <string id="st_wpn_ar70">
+        <text>Beretta AR70</text>
     </string>
     <string id="st_wpn_ar70_descr">
         <text>The Beretta AR70 is the first iteration in a series of Cold War assault rifles developed and adopted by Italy. The weapon is pretty basic in its current configuration, featuring no bipod or grenade spigot but has a full auto fire control group. Various amounts of these rifles were sold by Italy for use with NATO supplied factions as a cheap alternative to the AR15. This rifle is often overshadowed by the AR15 and other modern platforms in the zone due to its ergonomics and old manual of arms. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] NATO Silencer \n \n</text>
     </string>
-	<string id="st_wpn_556ar70mag">
-    <text>AR70 Magazine</text>
+    <string id="st_wpn_556ar70mag">
+        <text>AR70 Magazine</text>
     </string>
     <string id="st_wpn_556ar70mag_descr">
         <text>A 30 round steel 5.56 AR70 magazine. It's odd and looks AK like, but it works and feeds ammunition fine.</text>
     </string>
-	<string id="st_wpn_k2gl">
-    <text>Daewoo K2 M203</text>
+    <string id="st_wpn_k2gl">
+        <text>Daewoo K2 M203</text>
     </string>
     <string id="st_wpn_k2gl_descr">
         <text>The Daewoo Precision Industries K2 assault rifle is the standard service rifle of the South Korean military. The rifle combines the best features from the AKM and M16 into a cold war era package. This one features an M203 and heatshield. \n \n
 		%c[ui_gray_2]Attachments: \n
 		%c[d_purple] • %c[ui_gray_2] Integrated Grenade Launcher \n \n	</text>
     </string>
-
 </string_table>

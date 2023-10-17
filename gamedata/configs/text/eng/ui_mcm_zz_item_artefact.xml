@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
 <string_table>
-	
-<string id="ui_mcm_item_artefact_title">
-<text>Стан артефактів</text>
-</string>
-<string id="ui_mcm_menu_item_artefact">
-<text>Стан артефактів</text>
-</string>
-<string id="ui_mcm_item_artefact_enable_condition_bar">
-<text>Увімкнути бар стану</text>
-</string>
-<string id="ui_mcm_item_artefact_enable_degraded_drops">
-<text>Включити зменшений стан артефактів/атачментів/частин при обшуку</text>
-</string>
-<string id="ui_mcm_item_artefact_mutant_part_condition_min">
-<text>Мінімальний стан отриманої частини мутанта</text>
-</string>
-<string id="ui_mcm_item_artefact_mutant_part_condition_max">
-<text>Максимальний стан отриманої частини мутанта</text>
-</string>
-	
-	
+    <string id="ui_mcm_item_artefact_title">
+        <text>Стан артефактів</text>
+    </string>
+    <string id="ui_mcm_menu_item_artefact">
+        <text>Стан артефактів</text>
+    </string>
+    <string id="ui_mcm_item_artefact_enable_condition_bar">
+        <text>Увімкнути бар стану</text>
+    </string>
+    <string id="ui_mcm_item_artefact_enable_degraded_drops">
+        <text>Включити зменшений стан артефактів/атачментів/частин при обшуку</text>
+    </string>
+    <string id="ui_mcm_item_artefact_mutant_part_condition_min">
+        <text>Мінімальний стан отриманої частини мутанта</text>
+    </string>
+    <string id="ui_mcm_item_artefact_mutant_part_condition_max">
+        <text>Максимальний стан отриманої частини мутанта</text>
+    </string>
 </string_table>

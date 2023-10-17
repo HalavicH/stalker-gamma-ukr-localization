@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Ammo_Check Messages -->
+    
+<!-- Ammo_Check Messages -->
     <string id="st_ac_overfull">
         <text>Переповнений</text>
     </string>
@@ -49,47 +50,34 @@
     <string id="st_ac_ammoLeft">
         <text>залишилося</text>
     </string>
-
-	
     <string id="ui_mcm_menu_rax_ammo_check">
         <text>Перевірка боєприпасів</text>
     </string>
     <string id="ui_mm_title_rax_ammo_check">
         <text>Перевірка боєприпасів</text>
     </string>
-
-	<string id="ui_mcm_rax_ammo_check_usecolor">
-		<text>Кольорові повідомлення.</text>
-	</string>
-
-	<string id="ui_mcm_rax_ammo_check_hidecounter">
-		<text>Приховати лічильник боєприпасів.</text>
-	</string>
-
-	<string id="ui_mcm_rax_ammo_check_hideicon">
-		<text>Приховати значок патронів.</text>
-	</string>
-
-
-	<string id="ui_mcm_rax_ammo_check_busy_hands_fix">
-		<text>Виправлення зайнятих рук.</text>
-	</string>
-	<string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
-		<text>Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно, якщо встановлено FDDA</text>
-	</string>
-
-	<string id="ui_mcm_rax_ammo_check_keybind">
-		<text>Клавіша перевірки набоїв</text>
-	</string>
-
-	<string id="ui_mcm_rax_ammo_check_keybind_desc">
-		<text>Цю прив’язку клавіш можна налаштувати так, щоб вимагалися додаткові клавіші-модифікатори для пом’якшення конфліктів.</text>
-	</string>
-
-	<string id="ui_mcm_rax_ammo_check_update_mcm">
-		<text>Оновіть MCM, щоб змінити прив’язку клавіши тут. Клавіша за замовчуванням T.</text>
-	</string>
-
-	
-
+    <string id="ui_mcm_rax_ammo_check_usecolor">
+        <text>Кольорові повідомлення.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hidecounter">
+        <text>Приховати лічильник боєприпасів.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hideicon">
+        <text>Приховати значок патронів.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_fix">
+        <text>Виправлення зайнятих рук.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
+        <text>Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно, якщо встановлено FDDA</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_keybind">
+        <text>Клавіша перевірки набоїв</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_keybind_desc">
+        <text>Цю прив’язку клавіш можна налаштувати так, щоб вимагалися додаткові клавіші-модифікатори для пом’якшення конфліктів.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_update_mcm">
+        <text>Оновіть MCM, щоб змінити прив’язку клавіши тут. Клавіша за замовчуванням T.</text>
+    </string>
 </string_table>

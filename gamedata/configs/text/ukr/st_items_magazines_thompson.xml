@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-   
     <string id="st_mag_thompson_11.43x23">
-		<text>Standard 30-round .45cal M1A1 Magazine</text>
-	</string>
-	<string id="st_mag_thompson_11.43x23_descr">
-		<text>
+        <text>Standard 30-round .45cal M1A1 Magazine</text>
+    </string>
+    <string id="st_mag_thompson_11.43x23_descr">
+        <text>
 Standard 30-round .45cal (11.43x23) magazine used in the modernized Thompson M1A1 submachine guns.
 		</text>
-	</string>
-	
-	
-
+    </string>
 </string_table>

@@ -1,65 +1,48 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
 <string_table>
-
-	<string id="st_mil_car">
-		<text>Military Car Radio</text>
-	</string>
-
-	<string id="st_mil_car_descr">
-		<text>A Military Spec Radio Sometimes Found Around Broken Down Vehicles. Junk To Most, But Maybe Someone Out There Would Pay Handsomely For It.</text>
-	</string>
-
-	<string id="st_mil_amp">
-		<text>Radio Amplification Module</text>
-	</string>
-
-	<string id="st_mil_amp_descr">
-		<text>A Burnt-Out Military Signal Amplification Unit That Has Been Torn From An Abandoned Vehicle. Junk To Most But Maybe Valuable To The Right People.</text>
-	</string>
-
-	<string id="ui_mcm_kit_rework_title">
-		<text>oops</text>
-	</string>
-
-	<string id="ui_mcm_menu_kit_rework">
-		<text>World-Spawns Rework</text>
-	</string>
-
-	<string id="ui_mcm_kit_rework_reset_kits">
-		<text>Check The Box and Click Apply At The Bottom To Reset Kits.</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_min">
-		<text>Minimum Toolkits Per Zone</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_max">
-		<text>Maximum Toolkits Per Zone</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_min_desc">
-		<text>Minimum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair kits. Not all kits can be found in all zones. Expert tools can not be found in the most southern zones for example.</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_max_desc">
-		<text>Maximum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair kits. Not all kits can be found in all zones. Expert tools can not be found in the most southern zones for example.</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_valuables_min">
-		<text>Minimum Other Valuable Items</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_valuables_max">
-		<text>Maximum Other Valuable Items</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_valuables_min_desc">
-		<text>Minimum other non-toolkit valuables per zone such as upgrade kits(previously only found on dead bodies), various cleaning kits, LLMCs, even a working headlamp, echo-detector or multitool if youre really lucky</text>
-	</string>
-
-	<string id="ui_mcm_kitspawn_valuables_max_desc">
-		<text>Maximum other non-toolkit valuables per zone such as upgrade kits(previously only found on dead bodies), various cleaning kits, LLMCs, even a working headlamp, echo-detector or multitool if youre really lucky</text>
-	</string>
-
+    <string id="st_mil_car">
+        <text>Military Car Radio</text>
+    </string>
+    <string id="st_mil_car_descr">
+        <text>A Military Spec Radio Sometimes Found Around Broken Down Vehicles. Junk To Most, But Maybe Someone Out There Would Pay Handsomely For It.</text>
+    </string>
+    <string id="st_mil_amp">
+        <text>Radio Amplification Module</text>
+    </string>
+    <string id="st_mil_amp_descr">
+        <text>A Burnt-Out Military Signal Amplification Unit That Has Been Torn From An Abandoned Vehicle. Junk To Most But Maybe Valuable To The Right People.</text>
+    </string>
+    <string id="ui_mcm_kit_rework_title">
+        <text>oops</text>
+    </string>
+    <string id="ui_mcm_menu_kit_rework">
+        <text>World-Spawns Rework</text>
+    </string>
+    <string id="ui_mcm_kit_rework_reset_kits">
+        <text>Check The Box and Click Apply At The Bottom To Reset Kits.</text>
+    </string>
+    <string id="ui_mcm_kitspawn_min">
+        <text>Minimum Toolkits Per Zone</text>
+    </string>
+    <string id="ui_mcm_kitspawn_max">
+        <text>Maximum Toolkits Per Zone</text>
+    </string>
+    <string id="ui_mcm_kitspawn_min_desc">
+        <text>Minimum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair kits. Not all kits can be found in all zones. Expert tools can not be found in the most southern zones for example.</text>
+    </string>
+    <string id="ui_mcm_kitspawn_max_desc">
+        <text>Maximum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair kits. Not all kits can be found in all zones. Expert tools can not be found in the most southern zones for example.</text>
+    </string>
+    <string id="ui_mcm_kitspawn_valuables_min">
+        <text>Minimum Other Valuable Items</text>
+    </string>
+    <string id="ui_mcm_kitspawn_valuables_max">
+        <text>Maximum Other Valuable Items</text>
+    </string>
+    <string id="ui_mcm_kitspawn_valuables_min_desc">
+        <text>Minimum other non-toolkit valuables per zone such as upgrade kits(previously only found on dead bodies), various cleaning kits, LLMCs, even a working headlamp, echo-detector or multitool if youre really lucky</text>
+    </string>
+    <string id="ui_mcm_kitspawn_valuables_max_desc">
+        <text>Maximum other non-toolkit valuables per zone such as upgrade kits(previously only found on dead bodies), various cleaning kits, LLMCs, even a working headlamp, echo-detector or multitool if youre really lucky</text>
+    </string>
 </string_table>

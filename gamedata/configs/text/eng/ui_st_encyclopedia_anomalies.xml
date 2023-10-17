@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	
-	<string id="encyclopedia_anomalies">
-	<text>Аномалії</text>
-</string>
-
-<string id="encyclopedia_anomalies_emission">
-<text>Викид</text>
-</string>
-<string id="encyclopedia_anomalies_emission_text">
-<text>
+    <string id="encyclopedia_anomalies">
+        <text>Аномалії</text>
+    </string>
+    <string id="encyclopedia_anomalies_emission">
+        <text>Викид</text>
+    </string>
+    <string id="encyclopedia_anomalies_emission_text">
+        <text>
 %c[pda_white]Викид%c[ui_gray_1] - різкий сплеск радіоактивної, аномальної та псионічної активності, що знищує все живе біля Зони.
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \n \nЗа кілька хвилин до викиду погода міняється - небо стає червоним, лунає грім, земля під ногами здригається.\n
@@ -17,13 +15,12 @@
 \n \nУкритися від викиду можна лише в будівлях або підземних тунелях.\n
 \n \nПісля викиду старі аномалії змінюють своє місце розташування і з'являються нові, проте деякі залишаються на своїх місцях. В аномаліях народжуються нові артефакти.\n
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_phantom">
-<text>Фантом</text>
-</string>
-<string id="encyclopedia_anomalies_phantom_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_phantom">
+        <text>Фантом</text>
+    </string>
+    <string id="encyclopedia_anomalies_phantom_text">
+        <text>
 %c[pda_white]Фантоми%c[ui_gray_1] - безтілесні істоти-ілюзії.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nФантоми є уявною проекцією мутантів, що існують у Зоні - їх важко класифікувати як аномалій або мутантів.\n
@@ -31,13 +28,12 @@
 \n \nНевідомо, чому вони завжди набувають форми реально існуючих мутантів, у тому числі і тих, з якими сталкер ніколи не стикався, але ніколи - таких, які вже вимерли: наприклад, тарка.\n
 Провідна теорія про це явище передбачає, що мутанти Зони, що живуть, якимось чином пов'язані з ноосферою. І що через її пси-поле їхній зовнішній вигляд і ворожість відбивається в умах жертв.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_psistorm">
-<text>Пси-шторм</text>
-</string>
-<string id="encyclopedia_anomalies_psistorm_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_psistorm">
+        <text>Пси-шторм</text>
+    </string>
+    <string id="encyclopedia_anomalies_psistorm_text">
+        <text>
 %c[pda_white]Пси-шторм%c[ui_gray_1] складається з декількох хвиль пси-вихорів, які вивільняють смертоносну кількість псионічної енергії.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nЦя незвичайна погодна аномалія зовсім недавно з'явилася в Зоні, і існує багато припущень щодо природи її виникнення.\n
@@ -46,13 +42,12 @@
 \n \nАле навіть із застосуванням найсучасніших засобів захисту потрібен прийом спеціальних препаратів, щоб уникнути шкідливих наслідків масивної пси-дії шторму.\n
 \n \nПодібно до викидів, величезна кількість енергії, що вивільняється пси-штормом, «перезаряджає» багато аномалій і сприяє появі нових артефактів.\n
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_radiation">
-<text>Вогнище радіації</text>
-</string>
-<string id="encyclopedia_anomalies_radiation_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_radiation">
+        <text>Вогнище радіації</text>
+    </string>
+    <string id="encyclopedia_anomalies_radiation_text">
+        <text>
 %c[ui_gray_1]Вогнища радіації, або просто %c[pda_green]радіація%c[ui_gray_1] - це зона підвищеного рівня - більше 50 мкР/год - радіації.
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
 \nЗаражені радіацією ділянки також можна назвати аномалією. Лише по тріску дозиметра можна визначити межі небезпечного місця. Найбільш поширеними джерелами радіації в Зоні є артефакти, кинута техніка, металеві конструкції, а також сміття часів першої катастрофи 1986 року.
@@ -63,24 +58,22 @@
 \n• Слідкуйте за станом та цілісністю Вашої маски або шолома.
 \n• %c[pda_white]Горілка%c[ui_gray_1] та %c[pda_white]тютюнові вироби%c[ui_gray_1] досить популярні і широко використовуються сталкерами як дешева альтернатива дорогим протирадіаційним препаратам.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_psi">
-<text>Пси-поле</text>
-	</string>
-	<string id="encyclopedia_anomalies_psi_text">
-		<text>
+    </string>
+    <string id="encyclopedia_anomalies_psi">
+        <text>Пси-поле</text>
+    </string>
+    <string id="encyclopedia_anomalies_psi_text">
+        <text>
 		\n \n%c[pda_green]Інформація%c[ui_gray_1]
 \nМісце з високим %c[pda_green]Пси-впливом %c[ui_gray_1]. Подібні «мозкові» галявини і галявини найчастіше утворюються поряд з вежами ЛЕП та іншими металевими спорудами, які відіграють роль антен при передачі пси-хвиль установками Кайманова. У таких місцях нерідкі галюцинації, втрата координації руху, сильні головні болі та різні психічні розлади. При тривалому впливі %c[pda_green]Пси-випромінювання%c[ui_gray_1] мозок людини або руйнується повністю, або зазнає незворотних змін, перетворюючи свого носія на зомбованого. Одна з найбільших зон пси-випромінювання – «Випалювач мозку». При попаданні під %c[pda_green]Пси-випромінювання%c[ui_gray_1] чуються голоси та шепіт, важко зосередитися на стрільбі.
 \n \nПоле пси-випромінювання не народжує артефактів.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_brain_scorcher">
-<text>«Випалювач мозку»</text>
-</string>
-<string id="encyclopedia_anomalies_brain_scorcher_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_brain_scorcher">
+        <text>«Випалювач мозку»</text>
+    </string>
+    <string id="encyclopedia_anomalies_brain_scorcher_text">
+        <text>
 %c[ui_gray_1]Так званий%c[pda_green]«Випалювач мозку»%c[ui_gray_1] являє собою колишній військовий радар, захоплений і переконструйований «О-Свідомістю» для своїх потреб, однією з яких було встановлення пси-поля, що перегороджує шлях до центру Зони.
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
 «О-свідомість» продовжило дослідження, розпочаті в лабораторії Х-8, навіть після розпаду СРСР, результатом яких стало захоплення вже виведеного на той момент військового об'єкту ЗГРЛС «Дуга» та бункера під ним.
@@ -88,13 +81,12 @@
 
 Коли більшість сталкерів, що потрапили під випромінювання, втрачає контроль над своїм розумом, широко відома Група Стрілка змогла подолати «Випалювач» (швидше за все, не без допомоги Провідника) і досягти центру Зони. Чи треба говорити, що навіть якщо комусь і пощастить пройти через нього, то йому, як і раніше, протистоятиме угруповання «Моноліт», бойовики якого невтомно патрулюють усі відомі проходи вглиб Зони.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_burner">
-<text>«Пекучка»</text>
-</string>
-<string id="encyclopedia_anomalies_burner_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_burner">
+        <text>«Пекучка»</text>
+    </string>
+    <string id="encyclopedia_anomalies_burner_text">
+        <text>
 • Назва: %c[d_cyan]"Пекучка"%c[ui_gray_1]
 \n• Тип: %c[d_orange]Термічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -104,13 +96,12 @@
 Смаки дуже небезпечні на високих рівнях складності навіть за наявності найкращої броні. Аномалія не має яскраво-вираженого центру, достатньо лише підійти на певну відстань, щоб вона вистрілила язиками полум'я.
 Один із способів проходження через аномалії цього походження - спочатку кинути в неї болт, а потім швидко пробігти через неї.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_comet">
-<text>«Комета»</text>
-</string>
-<string id="encyclopedia_anomalies_comet_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_comet">
+        <text>«Комета»</text>
+    </string>
+    <string id="encyclopedia_anomalies_comet_text">
+        <text>
 • Назва: %c[d_cyan]Комета%c[ui_gray_1]
 \n• Тип: %c[d_orange]Термічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -118,13 +109,12 @@
 Надзвичайно потужна аномалія, здатна миттєво вбити навіть самого захищеного сталкера при прямому попаданні в нього.
 \n Не породжує артефакти.
 </text>
-	</string>
-	
-	<string id="encyclopedia_anomalies_vortex">
-	<text>«Воронка»</text>
-</string>
-<string id="encyclopedia_anomalies_vortex_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_vortex">
+        <text>«Воронка»</text>
+    </string>
+    <string id="encyclopedia_anomalies_vortex_text">
+        <text>
 • Назва: %c[d_cyan]Воронка%c[ui_gray_1]
 \n• Тип: %c[d_orange]Аномалія гравітації%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -134,13 +124,12 @@
 Кращий спосіб порятунку від цієї аномалії - не потрапляти в неї взагалі, благо вона добре помітна і чутна. Болти хоч і дозволяють визначити її наявність, але їх недостатньо для її примусової розрядки.
 Воронки також небезпечні своїми частими скупченнями і подібні скупчення досить часто обігрують Венерину мухоловку, коли в центрі їхнього скупчення знаходиться артефакт.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_springboard">
-<text>«Трамплін»</text>
-</string>
-<string id="encyclopedia_anomalies_springboard_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_springboard">
+        <text>«Трамплін»</text>
+    </string>
+    <string id="encyclopedia_anomalies_springboard_text">
+        <text>
 • Назва: %c[d_cyan]Трамплін%c[ui_gray_1]
 \n• Тип: %c[d_orange]Аномалія гравітації%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -148,13 +137,12 @@
 У денний час досить легко виявляється по спотвореннях повітря над нею, листі, що кружляє, а також характерним плямам на землі червоно-бурого кольору. Вкидання в неї болтів дозволяє не тільки виявити її видимі межі, але і призводить до її розрядки, що дає можливість швидко подолати її без ушкоджень.
 \n \nМожуть бути вкрай небезпечні під час перестрілок і бою, коли вся увага йде на те, що відбувається, а не на увагу до навколишнього оточення.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_whirligig">
-<text>«Карусель»</text>
-</string>
-<string id="encyclopedia_anomalies_whirligig_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_whirligig">
+        <text>«Карусель»</text>
+    </string>
+    <string id="encyclopedia_anomalies_whirligig_text">
+        <text>
 • Назва: %c[d_cyan]Карусель%c[ui_gray_1]
 \n• Тип: %c[d_orange]Аномалія гравітації%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -163,13 +151,12 @@
 Навіть з урахуванням того, що збитки від аномалії не надто високі, її наявність у вузьких місцях може зробити їх практично непрохідними.
 \n \nУ неактивному стані Карусель можна розпізнати за невеликим пиловим вихором.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_fruit">
-<text>«Кисіль»</text>
-	</string>
-	<string id="encyclopedia_anomalies_fruit_text"> 	
-		<text>
+    </string>
+    <string id="encyclopedia_anomalies_fruit">
+        <text>«Кисіль»</text>
+    </string>
+    <string id="encyclopedia_anomalies_fruit_text">
+        <text>
 		• Назва: %c[d_cyan]«Кисіль» / «Студень» / «Холодець»%c[ui_gray_1]
 \n• Тип: %c[d_orange]Хімічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -178,26 +165,24 @@
 Ймовірно, що внаслідок Великого викиду в 2011 році, який дестабілізував Зону, аномалія втратила можливість породжувати артефакти. Зустрічається в основному у приміщеннях та підземних комплексах.
 В окремих випадках аномалія може взаємодіяти з «газуванням», результатом чого будуть вкрай небезпечні властивості - кислота, що роз'їдає шкіру, і отруйні гази, що з рівним успіхом роз'їдають легені.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_fuzz">
-<text>«Пекучий пух»</text>
-</string>
-<string id="encyclopedia_anomalies_fuzz_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_fuzz">
+        <text>«Пекучий пух»</text>
+    </string>
+    <string id="encyclopedia_anomalies_fuzz_text">
+        <text>
 • Назва: %c[d_cyan]Пекучий пух%c[ui_gray_1]
 \n• Тип: %c[d_orange]Хімічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
 Представляє собою зеленуваті водорості або лози, що звисають з металевих конструкцій, які є аномально видозміненою рослинністю. При швидкому наближенні живої істоти викидає хмарку частинок, які у разі контакту з відкритою або слабо захищеною шкірою серйозно травмують її. Не реагує на об'єкти, що повільно рухаються. Основний метод боротьби з аномалією - профілактика, не варто підходити до залізок, що обросли пухом. З'являється аномалія у містичних місцях, про які ходять страшні історії (село кровососів, завод на Янтарі, Радар).
 Найточніший приклад впливу аномальних здібностей Зони на флору. Органічний джерело може бути ключем до відповіді питанням «чому "пекучий пух" не реагує на оточення як інші аномалії?».
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_gas">
-<text>«Газування»</text>
-</string>
-<string id="encyclopedia_anomalies_gas_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_gas">
+        <text>«Газування»</text>
+    </string>
+    <string id="encyclopedia_anomalies_gas_text">
+        <text>
 • Назва: %c[d_cyan]Газування%c[ui_gray_1]
 \n• Тип: %c[d_orange]Хімічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -205,13 +190,12 @@
 Не слід плутати з Киселем через те, що «газування» є скоріше токсичною хмарою, а не рідиною.
 Можливо, є подальшим розвитком «киселя», оскільки останній не має ефектів, що призводять до хімічної задухи, і в основному небезпечний своїми корозійними властивостями.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_gascloud">
-<text>«Кислотний туман»</text>
-</string>
-<string id="encyclopedia_anomalies_gascloud_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_gascloud">
+        <text>«Кислотний туман»</text>
+    </string>
+    <string id="encyclopedia_anomalies_gascloud_text">
+        <text>
 • Назва: %c[d_cyan]Кислотний туман%c[ui_gray_1]
 \n• Тип: %c[d_orange]Хімічна аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -219,13 +203,12 @@
 Навіть при носінні спеціалізованого костюма хімзахисту та відповідних артефактів поразка цієї аномалії завдає відчутних ушкоджень аж до летального результату. Швидко пробігти через аномалію може бути найкращим рішенням, оскільки здоров'я та екіпірування будуть мінімально схильні до впливу хмари. Використання антидоту може здорово допомогти в зниженні шкідливого впливу ефектів аномалії.
 \n Не породжує артефакти.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_electro">
-<text>«Електра»</text>
-</string>
-<string id="encyclopedia_anomalies_electro_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_electro">
+        <text>«Електра»</text>
+    </string>
+    <string id="encyclopedia_anomalies_electro_text">
+        <text>
 • Назва: %c[d_cyan]Електра%c[ui_gray_1]
 \n• Тип: %c[d_orange]Електрична аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -233,13 +216,12 @@
 «Електра» завжди виникає скупченнями, які найчастіше розташовуються в місцях з обмеженим простором. «Електра» легко помітна у будь-який час доби: вдень її можна впізнати по світінню, а вночі – за допомогою детектора чи кидка металевого предмета.
 Її потужність і швидкість підзарядки можуть говорити, що аномалія цілком є природним генератором електричної енергії як блискавка або грозова хмара. Одна «електра» з усього скупчення може зберігати в собі напругу від 5000 і до кількох сотень тисяч вольт разом зі струмом сотні, і навіть тисячі, ампер. Чи треба говорити, що поразка нею здатна вбити практично будь-яку живу істоту. Смертоносність варіюється серед ігор серії, але найнебезпечніший варіант – у «Кличі Прип'яті».
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_tesla">
-<text>«Тесла»</text>
-</string>
-<string id="encyclopedia_anomalies_tesla_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_tesla">
+        <text>«Тесла»</text>
+    </string>
+    <string id="encyclopedia_anomalies_tesla_text">
+        <text>
 • Назва: %c[d_cyan]Тесла%c[ui_gray_1]
 \n• Тип: %c[d_orange]Електрична аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -248,13 +230,12 @@
 При відвідуванні рекомендується використання потужних артефактів-діелектриків і захисних костюмів при тому, що аномалія містить достатньо енергії, щоб завдати критичної шкоди (до 90% здоров'я) або миттєво вбити - при прямому потраплянні в неї.
 \n Не породжує артефакти.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_space">
-<text>«Просторовий міхур»</text>
-</string>
-<string id="encyclopedia_anomalies_space_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_space">
+        <text>«Просторовий міхур»</text>
+    </string>
+    <string id="encyclopedia_anomalies_space_text">
+        <text>
 • Назва: %c[d_cyan]Просторовий міхур%c[ui_gray_1]
 \n• Тип: %c[d_orange]Просторова аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -263,26 +244,24 @@
 Варто звернути увагу і на той факт, що сталкери можуть опинитися в «пастці», що є черговим свідченням нестабільності в Зонах, надаючи цій аномалії свого роду волю.
 Незважаючи на те, що аномалія не породжує артефакти, Лісник заявляє, що він знайшов «Компас» під час блукань у Пузирі. Ймовірно, аномалія якщо й породжує артефакти, то лише всередині себе, а тому спроби знайти вхід до внутрішнього плану аномалії, де можна опинитися у пастці – вкрай ризикована справа.
 </text>
-</string>
-
-<string id="encyclopedia_anomalies_teleport">
-<text>«Телепорт»</text>
-</string>
-<string id="encyclopedia_anomalies_teleport_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_teleport">
+        <text>«Телепорт»</text>
+    </string>
+    <string id="encyclopedia_anomalies_teleport_text">
+        <text>
 • Назва: %c[d_cyan]Телепорт%c[ui_gray_1]
 \n• Тип: %c[d_orange]Просторова аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
 Одна з рідкісних аномалій, виявлена в різних частинах Зони. Безневинна. А контакт із нею призводить до миттєвого переміщення до іншої точки.
 \n Не породжує артефакти.
 		</text>
-	</string>
-	
-	<string id="encyclopedia_anomalies_pulse">
-<text>«Імпульс»</text>
-</string>
-<string id="encyclopedia_anomalies_pulse_text">
-<text>
+    </string>
+    <string id="encyclopedia_anomalies_pulse">
+        <text>«Імпульс»</text>
+    </string>
+    <string id="encyclopedia_anomalies_pulse_text">
+        <text>
 • Назва: %c[d_cyan]Імпульс%c[ui_gray_1]
 \n• Тип: %c[d_orange]Електрична аномалія%c[ui_gray_1]
 \n \n%c[d_green]Інформація%c[ui_gray_1]
@@ -293,5 +272,5 @@
 \n \nЯкщо екіпірування та його додаткові елементи мають хороші показники пси- та електрозахисту, то носій має шанс пережити розрядку даної аномалії.
 \n Не породжує артефакти.
 		</text>
-	</string>
+    </string>
 </string_table>

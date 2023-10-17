@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON AGROPROM MAP
-<	CoC 1.4.10 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 14, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 14, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Default Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -36,8 +29,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_default_task_finish">
         <text>Бувай!</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Sniper Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Sniper Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name">
         <text>Сама Вірна Дівчина - це СВД</text>
     </string>
@@ -58,8 +53,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
         <text>Відмінна влучність і відмінна робота.</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Assault Enemy Camp Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Assault Enemy Camp Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
         <text>"Прийшов побачив переміг"</text>
     </string>
@@ -83,8 +80,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
         <text>Відмінна робота. Як ми їх, а! Нічого. Ми тут ще наведемо лад!</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Defend Military Base Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Defend Military Base Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
         <text>Ні кроку назад!</text>
     </string>
@@ -107,8 +106,10 @@
             ситуацію...
         </text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Save the Military Agent Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Save the Military Agent Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
         <text>Троянський кінь</text>
     </string>
@@ -145,8 +146,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_msg_leave">
         <text>Ну що ж, тут наші шляхи розходяться. Дякую тобі. Сподіваюсь ще побачимось!</text>
     </string>
-    <!-- - -->
-    <!-- Kirilov (Military Mechanic) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kirilov (Military Mechanic) Default Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -163,8 +166,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_default_task_finish">
         <text>Ну, ні пуху, боєць!</text>
     </string>
-    <!-- - -->
-    <!-- Kirilov (Military Mechanic) Battle Plans Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kirilov (Military Mechanic) Battle Plans Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
         <text>Військова справа</text>
     </string>
@@ -186,8 +191,10 @@
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_finish">
         <text>Відмінно спрацьовано! Знай, братик, що ти врятував багато життів.</text>
     </string>
-    <!-- - -->
-    <!-- Kirilov (Military Mechanic) Patrol Local Area Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Kirilov (Military Mechanic) Patrol Local Area Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
         <text>патрулювання</text>
     </string>
@@ -211,18 +218,22 @@
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_finish">
         <text>Хороша робота. Командир буде радий.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- CHANGE FACTIONS TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 14, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Payoff Change Factions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# CHANGE FACTIONS TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 14, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_name">
         <text>Військова присяга</text>
     </string>
@@ -246,18 +257,22 @@
             свого носа куди не попадя. Будеш куди спокійніше спати.
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 14, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 14, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name">
         <text>Злочин і кара</text>
     </string>
@@ -279,8 +294,10 @@
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
         <text>Відмінна робота. Ти допоміг мені, а я - батьківщині. Всі залишилися задоволені.</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Capture Territory Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Capture Territory Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
         <text>військовий суд</text>
     </string>
@@ -304,8 +321,10 @@
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
         <text>Задача виконана? Відмінна робота. Я повідомлю наверх про твої успіхи.</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
         <text>Наказано взяти живим або мертвим</text>
     </string>
@@ -326,8 +345,10 @@
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_finish">
         <text>Добре відпрацював! У МВС будуть задоволені нашою роботою.</text>
     </string>
-    <!-- - -->
-    <!-- Kuznetsov (Military Honcho) Tight Security Task -->
+    
+<!-- # -->
+    
+<!-- Kuznetsov (Military Honcho) Tight Security Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
         <text>В бой идут одни сталкери</text>
     </string>
@@ -379,18 +400,22 @@
             противника, буде цілий тиждень розважальних пригод в нарядах.
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- MECHANIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 06, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# MECHANIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 06, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
     <string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
         <text>Де прапорщики безсилі, ч.1</text>
     </string>
@@ -491,7 +516,8 @@
             й копійки не візьму з тебе.
         </text>
     </string>
-    <!-- (Military Medic) -->
+    
+<!-- (Military Medic) -->
     <string id="agr_1_6_medic_army_mlr_task_1_name">
         <text>Біль лікаря шукає</text>
     </string>

@@ -1,41 +1,35 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-   
     <string id="st_addon_kit_lewd_operator">
-		<text>Rifle Kit "Operator" (LEWD)</text>
-	</string>
-	<string id="st_addon_kit_lewd_operator_descr">
-		<text>
+        <text>Rifle Kit "Operator" (LEWD)</text>
+    </string>
+    <string id="st_addon_kit_lewd_operator_descr">
+        <text>
 This tacticool weapon kit will upgrade a base weapon (LEWD) with performance parts and scopes, enhancing it's battle readiness for special operations.
 		</text>
-	</string>
-
+    </string>
     <string id="st_addon_kit_lewd_specialist">
-		<text>Rifle Kit "Specialist" (LEWD)</text>
-	</string>
-	<string id="st_addon_kit_lewd_specialist_descr">
-		<text>
+        <text>Rifle Kit "Specialist" (LEWD)</text>
+    </string>
+    <string id="st_addon_kit_lewd_specialist_descr">
+        <text>
 This specialized weapon kit will upgrade a base weapon (LEWD) with selected parts and scopes, to perform with excellence in a specialist role, such as an infiltrator.
 		</text>
-	</string>
-
+    </string>
     <string id="st_addon_kit_lewd_marksman">
-		<text>Rifle Kit "marksman" (LEWD)</text>
-	</string>
-	<string id="st_addon_kit_lewd_marksman_descr">
-		<text>
+        <text>Rifle Kit "marksman" (LEWD)</text>
+    </string>
+    <string id="st_addon_kit_lewd_marksman_descr">
+        <text>
 This precision weapon kit will upgrade a base weapon (LEWD) with fine-tuned parts and scopes, to significantly raise its long-range engagement and sniper capabilites.
 		</text>
-	</string>
-
+    </string>
     <string id="st_addon_kit_lewd_warmonger">
-		<text>Rifle Kit "Warmonger" (LEWD)</text>
-	</string>
-	<string id="st_addon_kit_lewd_warmonger_descr">
-		<text>
+        <text>Rifle Kit "Warmonger" (LEWD)</text>
+    </string>
+    <string id="st_addon_kit_lewd_warmonger_descr">
+        <text>
 This brutal weapon kit will upgrade a base weapon (LEWD) with hardened parts and scopes, to enhance sustained high-RPM fire and maximize the kill-ratio in close quarter.
 		</text>
-	</string>
-
+    </string>
 </string_table>

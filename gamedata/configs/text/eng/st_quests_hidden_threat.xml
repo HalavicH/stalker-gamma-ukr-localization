@@ -1,346 +1,349 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<!--
-    Storyline: Hidden Threat
-	Version:   1.0
-    Autor:     Longreed
-	Last Edit: 01/11/2021
--->
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     
-	<!---------------------- Task 1 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_1_stage_0_title">
-	    <text>Прихована загроза: Початок</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_0_descr">
-	    <text>Командир дав завдання: знайти чорного кота в темній кімнаті.\n Розпитайте полковника Кузнєцова про завдання більш детально.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_1_title">
-	    <text>Прихована загроза: Сталкер, що вижив</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_1_descr">
-	    <text>Більше ніякої суттєвої інформації від Кузнєцова щодо мого завдання не було. Також полковник доручив мені перевірити, що сталося з сталкерами в Темній лощині. На фермі, що на Кордоні, є сталкер, який вижив після нападу на Лісопилку. Доведеться використовувати маскування, щоб поговорити з ним.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_2_title">
-	    <text>Прихована загроза: Повернення до полковника Кузнєцова.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_2_descr">
-	    <text>Щось пішло не так і сталкер мертвий. Повідомте Кузнєцова про невдачу.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_3_title">
-	    <text>Прихована загроза: Дістатися до лісопилки в темному ландшафті</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_3_descr">
-	    <text>Варто оглянути лісопилку самостійно, шукаючи будь-яку корисну інформацію, яка могла б пролити світло на події, що відбувалися тут у недалекому минулому.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_4_title">
-	    <text>Прихована загроза: Обстежте будівлю лісопилки</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_4_descr">
-	    <text>Варто оглянути лісопилку самостійно, шукаючи будь-яку корисну інформацію, яка може пролити світло на те, що тут відбувалося в недалекому минулому.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_5_title">
-	    <text>Прихована загроза: Повернення до полковника Кузнєцова</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_1_stage_5_descr">
-	    <text>Знайшли, м'яко кажучи, небагато. Більше тут робити нічого, час повертатися до командира зі звітом.</text>
-	</string>
-	<!---------------------- Task 2 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_2_stage_0_title">
-	    <text>Прихована загроза: Вимкнути "Випаювач мізків"</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_2_stage_0_descr">
-	    <text>"Випалювач мізків" серйозно заважає військовим операціям на півночі. Кузнєцов дав складне завдання: розібратися з ним. Вчені на Янтарі, напевно, вже придумали, як це зробити. Треба поговорити з Сахаровим.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_2_stage_1_title">
-	    <text>Прихована загроза: Повернутися до полковника Кузнєцова.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_2_stage_1_descr">
-	    <text>"Випалювач мізків" виведений з ладу. Залишається доповісти полковнику.</text>
-	</string>
-	<!---------------------- Task 3 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_3_stage_0_title">
-	    <text>Прихована загроза: Дістатися до заводу "Юпітер".</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_0_descr">
-	    <text>Сигнал "SOS" надійшов від загону, який Дегтярьов відправив на секретне завдання. Повідомлялося, що на території заводу "Юпітер" на загін напали невідомі і вони терміново потребують вогневої підтримки.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_1_title">
-	    <text>Прихована загроза: перевірка виробничих потужностей заводу "Юпітер"</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_1_descr">
-	    <text>На прохідній заводу порожньо, з адміністративних приміщень той самий звук. Нам потрібно пройти далі у виробничі приміщення.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_2_title">
-	    <text>Прихована загроза: Оглянути тіла нападників</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_2_descr">
-	    <text>Солдати загинули, врятувати їх не вдалося. Яку місію вони виконували на заводі, знає тільки Дегтярьов. Невідомі сталкери влаштували мені теплий прийом. Вони щось шукали на заводі. Хм... Шеврони з невідомою мені символікою. Можливо, полковник знає більше. Треба взяти хоча б один.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_3_title">
-	    <text>Hidden Threat: Talk to Colonel Kuznetsov.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_3_stage_3_descr">
-	    <text>Невідомі сталкери мали нашивки з невідомими мені символами. Можливо, полковник знає про них більше.</text>
-	</string>
-	<!---------------------- Task 4 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_4_stage_0_title">
-	    <text>Прихована загроза: Поговорити з лейтенантом Кириловим.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_0_descr">
-	    <text>Лейтенант Кирилов попросив мене зайти до нього. Дізнатися, що йому від мене потрібно.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_1_title">
-	    <text>Прихована загроза: Захопити військове радіо в Темній Долині</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_1_descr">
-	    <text>Все, що потрібно - це трохи попрацювати листоношею Пєчкіним. Думаю, я з цим впораюся. Загін військових охороняє вхід до "Х-18" у Темній Долині і чекає на мою посилку.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_2_title">
-	    <text>Прихована загроза: Відбити напад МДГ.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_2_descr">
-	    <text>О, Боже! Не той час, не те місце. Треба організувати захист.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_3_title">
-	    <text>Прихована загроза: Огляньте нападників.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_3_descr">
-	    <text>Гаразд. Живий і здоровий, це добре. Треба обстежити нападників на предмет корисної інформації.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_4_title">
-	    <text>Прихована загроза: Поговорити з лейтенантом Кириловим.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_4_descr">
-	    <text>Знайшли КПК в одного з найманців МДГ, скоріш за все, це командир групи. КПК заблокований, наш технік повинен з цим впоратися, нехай почитає заклинання, може, вийде зламати.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_5_title">
-	    <text>Прихована загроза: Чекаємо, коли Кирилов розблокує КПК</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_5_descr">
-	    <text>Кирилов сказав, що злам не займе багато часу. День або більше. А ми тим часом можемо займатися своїми справами.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_6_title">
-	    <text>Прихована загроза: Поговорити з лейтенантом Кириловим</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_6_descr">
-	    <text>Технік повідомляє, що КПК, схоже, був зламаний.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_7_title">
-	    <text>Прихована загроза: Поговорити з полковником Кузнєцовим</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_4_stage_7_descr">
-	    <text>На картах з КПК були позначки, які мені вже знайомі.Завод Юпітер, Завод над Х-18. Саме там я зустрівся з МДГ. Отже, інші позначки також є цілями МДГ, мені потрібно доповісти про це Кузнєцову.</text>
-	</string>
-	<!---------------------- Task 5 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_5_stage_0_title">
-	    <text>Прихована загроза:Зустріти сержанта Горобця.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_0_descr">
-	    <text>Сержант помітив групу МДГ і попросив про допомогу. Місце зустрічі - лікарня на околиці Прип'яті. Більше мені робити нічого, більше завдань полковник не давав.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_1_title">
-	    <text>Прихована загроза: Миша в мишоловці.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_1_descr">
-	    <text>.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_2_title">
-	    <text>Прихована загроза: Знищити снайпера МДГ</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_2_descr">
-	    <text>МДГ планує ліквідувати полковника Дегтярьова. У нього немає жодного шансу. Оперативну групу МДГ вже давно відправили, і я, мабуть, не встигну попередити полковника. Але я можу ризикнути, знищити снайпера і не дати пастці захлопнутися.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_3_title">
-	    <text>Прихована загроза: Надати вогневу підтримку загону СБУ</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_3_descr">
-	    <text>Снайпера ліквідовано. Загін СБУ на чолі з Дегтярьовим атакований штурмовою групою ІДІЛ, вам необхідно поспішати їм на допомогу.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_4_title">
-	    <text>Прихована загроза: Поговорити з полковником Дегтярьовим</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_4_descr">
-	    <text>Групу МДГ ліквідовано. Поговоріть з полковником.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_5_title">
-	    <text>Прихована загроза: Знайдіть валізу в універмазі</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_5_descr">
-	    <text>Полковник доручив мені забрати портфель з універмагу, який залишив агент СБУ.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_6_title">
-	    <text>Прихована загроза: Передати справу до Агропрому</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_5_stage_6_descr">
-	    <text>Дегтярьов чекає на мене з кейсом на військовій базі "Агропром".</text>
-	</string>
-	<!---------------------- Task 6 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_6_stage_0_title">
-	    <text>Прихована загроза: Поговорити з полковником Дегтярьовим</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_0_descr">
-	    <text>Я отримав наказ від полковника, повернутися на базу і поговорити з ним.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_1_title">
-	    <text>Прихована загроза: Мертве місто в закладках</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_1_descr">
-	    <text>Завдання не з легких, дістатися до Мертвого міста, і в будинку, що стоїть окремо на південному заході, закласти диктофон.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_2_title">
-	    <text>Прихована загроза: Зачекайте 2 дні.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_2_descr">
-	    <text>Закладка зроблена. Два дні, щоб забрати її.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_3_title">
-	    <text>Прихована загроза: Забрати закладку з Мертвого міста.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_3_descr">
-	    <text>Минуло 2 дні, вам потрібно забрати диктофон і відвезти його полковнику Дегтярьову.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_4_title">
-	    <text>Прихована загроза: Повернутися до Дегтярьова.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_4_descr">
-	    <text>Диктофон у мене, віднесіть його полковнику Дегтярьову.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_5_title">
-	    <text>Прихована загроза: Поговоріть з командиром загону до ЧАЕС.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_5_descr">
-	    <text>МДГ планує прорватися через моноліт на ЧАЕС. Швидше за все, вони вже там, і моє завдання - не допустити їх до Саркофагу. Моя група підтримки чекає на мене в обумовленому місці.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_6_title">
-	    <text>Прихована загроза: Йдіть на північний захід від ЧАЕС.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_6_descr">
-	    <text>На головному вході були виявлені лише найманці. МДГ знайти не вдалося. Командир загону повідомив, що один з його розвідників перестав виходити на зв'язок. Він міг бути виявлений і знищений, Оскільки головний вхід не є нашою основною метою, варто перевірити дорогу від лікарні.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_7_title">
-	    <text>Hidden Threat: Eliminate the ISG team.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_7_descr">
-	    <text>Все так, як я і підозрював. Найманці відволікали основні сили монохромних, а група МДГ тихо зайшла з боку лікарні, не привертаючи уваги. До бою!</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_8_title">
-	    <text>Прихована загроза: Повідомити про успіх Дегтярьову</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_6_stage_8_descr">
-	    <text>Місія виконана, група МДГ знищена, і тепер я маю доповісти полковнику.</text>
-	</string>
-	<!---------------------- Task 7 ------------------------------------------->
-	<string id="st_sl_hidden_threat_task_7_stage_0_title">
-	    <text>Прихована загроза: Доповісти полковнику Кузнєцову.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_0_descr">
-	    <text>За відсутності Дегтярьова я тепер знову підкоряюся Кузнєцову, а навіщо я йому знадобився? Ні дня спокою ...</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_1_title">
-	    <text>Прихована загроза: Поговорити з майором Верещагіним</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_1_descr">
-	    <text>Сказати, що я був здивований - нічого не сказати. Майор Верещагін - це той самий агент СБУ, який врятував мені життя в Прип'яті, я його впізнав. Що могло статися, що привело його сюди?</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_2_title">
-	    <text>Прихована загроза: Дістатися до входу в Прип'ятський метрополітен</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_2_descr">
-	    <text>Настав час покінчити з МДГ Мій штурмовий загін чекає на мене біля входу в метро Прип'яті, з боку "Юпітера".</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_3_title">
-	    <text>Прихована загроза: Вхід у прип'ятську підземку.</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_3_descr">
-	    <text>Давно пора покінчити з МДГ...</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_4_title">
-	    <text>Прихована загроза: Усунути будь-яку ворожу присутність у підземці Прип'яті</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_4_descr">
-	    <text>Настав час покласти край МДГ...</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_5_title">
-	    <text>Прихована загроза: Доповісти про успіх майору Верещагіну</text>
-	</string>
-	<string id="st_sl_hidden_threat_task_7_stage_5_descr">
-	    <text>З МДГ покінчено, штурм пройшов успішно, час доповідати майору Верещагіну.</text>
-	</string>
-	<!---------------------- Second Task 1 ------------------------------------>
-	<string id="st_sl_hidden_threat_second_task_1_stage_0_title">
-	    <text>[HT]КПВВ "Південний": Передайте документи</text>
-	</string>
-	<string id="st_sl_hidden_threat_second_task_1_stage_0_descr">
-	    <text>Бухгалтерські звіти передайте майору Журову на Південному блокпосту.</text>
-	</string>
-	<!---------------------- Second Task 2 ------------------------------------>
-	<string id="st_sl_hidden_threat_second_task_2_stage_0_title">
-	    <text>[HT]Агропром: Знайти кур'єра</text>
-	</string>
-	<string id="st_sl_hidden_threat_second_task_2_stage_0_descr">
-	    <text>Сержант Ложкін доручив знайти кур'єра, який десь загубився по дорозі на базу зі звалища. Сержанта більше цікавить пакунок, який кур'єр віз для нього.</text>
-	</string>
-	<string id="st_sl_hidden_threat_second_task_2_stage_1_title">
-	    <text>[HT]Агропром: Поверніть пакет Ложкіну</text>
-	</string>
-	<string id="st_sl_hidden_threat_second_task_2_stage_1_descr">
-	    <text>Сержанту Ложкіну доручають знайти кур'єра, який загубився десь по дорозі на базу зі Звалища. Сержанта більше цікавить пакунок, який кур'єр віз для нього.</text>
-	</string>
-	<!---------- Tips message для "Hidden Threat" ---------------------------->
-	<string id="st_sl_hidden_threat_msg_start">
-	    <text>%s, ваша присутність на базі необхідна. Є термінове завдання.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_2_start">
-	    <text>Бійцю, наша справа все ще в глухому куті. Але для тебе є складне завдання. Нашим північним операціям сильно заважає "Випалювач мізків". Поговори з Сахаровим на Янтарі і знайди спосіб його відключити.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_3_start">
-	    <text>Бійцю, прийди до мене, мені треба з тобою поговорити.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_4_start">
-	    <text>%s, зайди на хвилинку, треба поговорити.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_4_stg_6_msg">
-	    <text>%s, про твій КПК. Підійди, нам є про що поговорити.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_5_start">
-	    <text>Привіт, %s, давно не бачилися. Я помітив групу МДГ. Я не можу зробити це сам, мені потрібна допомога. Якщо наберешся сміливості, поїдь в лікарню на околиці Прип'яті, може, навіть заробиш нові нашивки від начальства.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_6_start">
-	    <text>Військовий сталкер %s, наказ прибути на базу і підійти прямо до мене.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_task_7_start">
-	    <text>Військовий сталкер %s, наказую негайно з'явитися до мене!</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_armistice_title">
-	    <text>Отримано.:</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_armistice_msg">
-	    <text>%s: вільні сталкери - 2 години</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_armistice_path">
-	    <text>Перемир'я</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_armistice_start">
-	    <text>%s питали про вас. Ми відкрили вільний прохід на наші бази на 2 години. Не робіть дурниць, якщо хочете жити. Наші хлопці не дуже люблять військових.</text>
-	</string>
-	<string id="st_sl_hidden_threat_msg_armistice_end">
-	    <text>%s перемир'я закінчилося.</text>
-	</string>
-	<string id="st_sl_hidden_threat_spooner_notes_title">
-	    <text>Отримано:</text>
-	</string>
-	<string id="st_sl_hidden_threat_spooner_notes_descr">
-	    <text>Новий запис на КПК: Лист від сержанта Ложкіна</text>
-	</string>
-	<string id="st_sl_hidden_threat_darkvalley_msg_header">
-	    <text>Військові</text>
-	</string>
-	<string id="st_sl_hidden_threat_darkvalley_msg_text">
-	    <text>Бачу ворога! До бою!</text>
-	</string>
-    <!------------------------------------------------------------------------->
+<!--#################### Task 1 #########################################-->
+    <string id="st_sl_hidden_threat_task_1_stage_0_title">
+        <text>Прихована загроза: Початок</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_0_descr">
+        <text>Командир дав завдання: знайти чорного кота в темній кімнаті.\n Розпитайте полковника Кузнєцова про завдання більш детально.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_1_title">
+        <text>Прихована загроза: Сталкер, що вижив</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_1_descr">
+        <text>Більше ніякої суттєвої інформації від Кузнєцова щодо мого завдання не було. Також полковник доручив мені перевірити, що сталося з сталкерами в Темній лощині. На фермі, що на Кордоні, є сталкер, який вижив після нападу на Лісопилку. Доведеться використовувати маскування, щоб поговорити з ним.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_2_title">
+        <text>Прихована загроза: Повернення до полковника Кузнєцова.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_2_descr">
+        <text>Щось пішло не так і сталкер мертвий. Повідомте Кузнєцова про невдачу.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_3_title">
+        <text>Прихована загроза: Дістатися до лісопилки в темному ландшафті</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_3_descr">
+        <text>Варто оглянути лісопилку самостійно, шукаючи будь-яку корисну інформацію, яка могла б пролити світло на події, що відбувалися тут у недалекому минулому.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_4_title">
+        <text>Прихована загроза: Обстежте будівлю лісопилки</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_4_descr">
+        <text>Варто оглянути лісопилку самостійно, шукаючи будь-яку корисну інформацію, яка може пролити світло на те, що тут відбувалося в недалекому минулому.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_5_title">
+        <text>Прихована загроза: Повернення до полковника Кузнєцова</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_1_stage_5_descr">
+        <text>Знайшли, м'яко кажучи, небагато. Більше тут робити нічого, час повертатися до командира зі звітом.</text>
+    </string>
+    
+<!--#################### Task 2 #########################################-->
+    <string id="st_sl_hidden_threat_task_2_stage_0_title">
+        <text>Прихована загроза: Вимкнути "Випаювач мізків"</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_2_stage_0_descr">
+        <text>"Випалювач мізків" серйозно заважає військовим операціям на півночі. Кузнєцов дав складне завдання: розібратися з ним. Вчені на Янтарі, напевно, вже придумали, як це зробити. Треба поговорити з Сахаровим.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_2_stage_1_title">
+        <text>Прихована загроза: Повернутися до полковника Кузнєцова.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_2_stage_1_descr">
+        <text>"Випалювач мізків" виведений з ладу. Залишається доповісти полковнику.</text>
+    </string>
+    
+<!--#################### Task 3 #########################################-->
+    <string id="st_sl_hidden_threat_task_3_stage_0_title">
+        <text>Прихована загроза: Дістатися до заводу "Юпітер".</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_0_descr">
+        <text>Сигнал "SOS" надійшов від загону, який Дегтярьов відправив на секретне завдання. Повідомлялося, що на території заводу "Юпітер" на загін напали невідомі і вони терміново потребують вогневої підтримки.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_1_title">
+        <text>Прихована загроза: перевірка виробничих потужностей заводу "Юпітер"</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_1_descr">
+        <text>На прохідній заводу порожньо, з адміністративних приміщень той самий звук. Нам потрібно пройти далі у виробничі приміщення.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_2_title">
+        <text>Прихована загроза: Оглянути тіла нападників</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_2_descr">
+        <text>Солдати загинули, врятувати їх не вдалося. Яку місію вони виконували на заводі, знає тільки Дегтярьов. Невідомі сталкери влаштували мені теплий прийом. Вони щось шукали на заводі. Хм... Шеврони з невідомою мені символікою. Можливо, полковник знає більше. Треба взяти хоча б один.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_3_title">
+        <text>Hidden Threat: Talk to Colonel Kuznetsov.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_3_stage_3_descr">
+        <text>Невідомі сталкери мали нашивки з невідомими мені символами. Можливо, полковник знає про них більше.</text>
+    </string>
+    
+<!--#################### Task 4 #########################################-->
+    <string id="st_sl_hidden_threat_task_4_stage_0_title">
+        <text>Прихована загроза: Поговорити з лейтенантом Кириловим.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_0_descr">
+        <text>Лейтенант Кирилов попросив мене зайти до нього. Дізнатися, що йому від мене потрібно.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_1_title">
+        <text>Прихована загроза: Захопити військове радіо в Темній Долині</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_1_descr">
+        <text>Все, що потрібно - це трохи попрацювати листоношею Пєчкіним. Думаю, я з цим впораюся. Загін військових охороняє вхід до "Х-18" у Темній Долині і чекає на мою посилку.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_2_title">
+        <text>Прихована загроза: Відбити напад МДГ.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_2_descr">
+        <text>О, Боже! Не той час, не те місце. Треба організувати захист.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_3_title">
+        <text>Прихована загроза: Огляньте нападників.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_3_descr">
+        <text>Гаразд. Живий і здоровий, це добре. Треба обстежити нападників на предмет корисної інформації.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_4_title">
+        <text>Прихована загроза: Поговорити з лейтенантом Кириловим.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_4_descr">
+        <text>Знайшли КПК в одного з найманців МДГ, скоріш за все, це командир групи. КПК заблокований, наш технік повинен з цим впоратися, нехай почитає заклинання, може, вийде зламати.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_5_title">
+        <text>Прихована загроза: Чекаємо, коли Кирилов розблокує КПК</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_5_descr">
+        <text>Кирилов сказав, що злам не займе багато часу. День або більше. А ми тим часом можемо займатися своїми справами.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_6_title">
+        <text>Прихована загроза: Поговорити з лейтенантом Кириловим</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_6_descr">
+        <text>Технік повідомляє, що КПК, схоже, був зламаний.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_7_title">
+        <text>Прихована загроза: Поговорити з полковником Кузнєцовим</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_4_stage_7_descr">
+        <text>На картах з КПК були позначки, які мені вже знайомі.Завод Юпітер, Завод над Х-18. Саме там я зустрівся з МДГ. Отже, інші позначки також є цілями МДГ, мені потрібно доповісти про це Кузнєцову.</text>
+    </string>
+    
+<!--#################### Task 5 #########################################-->
+    <string id="st_sl_hidden_threat_task_5_stage_0_title">
+        <text>Прихована загроза:Зустріти сержанта Горобця.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_0_descr">
+        <text>Сержант помітив групу МДГ і попросив про допомогу. Місце зустрічі - лікарня на околиці Прип'яті. Більше мені робити нічого, більше завдань полковник не давав.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_1_title">
+        <text>Прихована загроза: Миша в мишоловці.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_1_descr">
+        <text>.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_2_title">
+        <text>Прихована загроза: Знищити снайпера МДГ</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_2_descr">
+        <text>МДГ планує ліквідувати полковника Дегтярьова. У нього немає жодного шансу. Оперативну групу МДГ вже давно відправили, і я, мабуть, не встигну попередити полковника. Але я можу ризикнути, знищити снайпера і не дати пастці захлопнутися.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_3_title">
+        <text>Прихована загроза: Надати вогневу підтримку загону СБУ</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_3_descr">
+        <text>Снайпера ліквідовано. Загін СБУ на чолі з Дегтярьовим атакований штурмовою групою ІДІЛ, вам необхідно поспішати їм на допомогу.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_4_title">
+        <text>Прихована загроза: Поговорити з полковником Дегтярьовим</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_4_descr">
+        <text>Групу МДГ ліквідовано. Поговоріть з полковником.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_5_title">
+        <text>Прихована загроза: Знайдіть валізу в універмазі</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_5_descr">
+        <text>Полковник доручив мені забрати портфель з універмагу, який залишив агент СБУ.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_6_title">
+        <text>Прихована загроза: Передати справу до Агропрому</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_5_stage_6_descr">
+        <text>Дегтярьов чекає на мене з кейсом на військовій базі "Агропром".</text>
+    </string>
+    
+<!--#################### Task 6 #########################################-->
+    <string id="st_sl_hidden_threat_task_6_stage_0_title">
+        <text>Прихована загроза: Поговорити з полковником Дегтярьовим</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_0_descr">
+        <text>Я отримав наказ від полковника, повернутися на базу і поговорити з ним.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_1_title">
+        <text>Прихована загроза: Мертве місто в закладках</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_1_descr">
+        <text>Завдання не з легких, дістатися до Мертвого міста, і в будинку, що стоїть окремо на південному заході, закласти диктофон.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_2_title">
+        <text>Прихована загроза: Зачекайте 2 дні.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_2_descr">
+        <text>Закладка зроблена. Два дні, щоб забрати її.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_3_title">
+        <text>Прихована загроза: Забрати закладку з Мертвого міста.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_3_descr">
+        <text>Минуло 2 дні, вам потрібно забрати диктофон і відвезти його полковнику Дегтярьову.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_4_title">
+        <text>Прихована загроза: Повернутися до Дегтярьова.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_4_descr">
+        <text>Диктофон у мене, віднесіть його полковнику Дегтярьову.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_5_title">
+        <text>Прихована загроза: Поговоріть з командиром загону до ЧАЕС.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_5_descr">
+        <text>МДГ планує прорватися через моноліт на ЧАЕС. Швидше за все, вони вже там, і моє завдання - не допустити їх до Саркофагу. Моя група підтримки чекає на мене в обумовленому місці.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_6_title">
+        <text>Прихована загроза: Йдіть на північний захід від ЧАЕС.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_6_descr">
+        <text>На головному вході були виявлені лише найманці. МДГ знайти не вдалося. Командир загону повідомив, що один з його розвідників перестав виходити на зв'язок. Він міг бути виявлений і знищений, Оскільки головний вхід не є нашою основною метою, варто перевірити дорогу від лікарні.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_7_title">
+        <text>Hidden Threat: Eliminate the ISG team.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_7_descr">
+        <text>Все так, як я і підозрював. Найманці відволікали основні сили монохромних, а група МДГ тихо зайшла з боку лікарні, не привертаючи уваги. До бою!</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_8_title">
+        <text>Прихована загроза: Повідомити про успіх Дегтярьову</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_6_stage_8_descr">
+        <text>Місія виконана, група МДГ знищена, і тепер я маю доповісти полковнику.</text>
+    </string>
+    
+<!--#################### Task 7 #########################################-->
+    <string id="st_sl_hidden_threat_task_7_stage_0_title">
+        <text>Прихована загроза: Доповісти полковнику Кузнєцову.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_0_descr">
+        <text>За відсутності Дегтярьова я тепер знову підкоряюся Кузнєцову, а навіщо я йому знадобився? Ні дня спокою ...</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_1_title">
+        <text>Прихована загроза: Поговорити з майором Верещагіним</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_1_descr">
+        <text>Сказати, що я був здивований - нічого не сказати. Майор Верещагін - це той самий агент СБУ, який врятував мені життя в Прип'яті, я його впізнав. Що могло статися, що привело його сюди?</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_2_title">
+        <text>Прихована загроза: Дістатися до входу в Прип'ятський метрополітен</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_2_descr">
+        <text>Настав час покінчити з МДГ Мій штурмовий загін чекає на мене біля входу в метро Прип'яті, з боку "Юпітера".</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_3_title">
+        <text>Прихована загроза: Вхід у прип'ятську підземку.</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_3_descr">
+        <text>Давно пора покінчити з МДГ...</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_4_title">
+        <text>Прихована загроза: Усунути будь-яку ворожу присутність у підземці Прип'яті</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_4_descr">
+        <text>Настав час покласти край МДГ...</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_5_title">
+        <text>Прихована загроза: Доповісти про успіх майору Верещагіну</text>
+    </string>
+    <string id="st_sl_hidden_threat_task_7_stage_5_descr">
+        <text>З МДГ покінчено, штурм пройшов успішно, час доповідати майору Верещагіну.</text>
+    </string>
+    
+<!--#################### Second Task 1 ##################################-->
+    <string id="st_sl_hidden_threat_second_task_1_stage_0_title">
+        <text>[HT]КПВВ "Південний": Передайте документи</text>
+    </string>
+    <string id="st_sl_hidden_threat_second_task_1_stage_0_descr">
+        <text>Бухгалтерські звіти передайте майору Журову на Південному блокпосту.</text>
+    </string>
+    
+<!--#################### Second Task 2 ##################################-->
+    <string id="st_sl_hidden_threat_second_task_2_stage_0_title">
+        <text>[HT]Агропром: Знайти кур'єра</text>
+    </string>
+    <string id="st_sl_hidden_threat_second_task_2_stage_0_descr">
+        <text>Сержант Ложкін доручив знайти кур'єра, який десь загубився по дорозі на базу зі звалища. Сержанта більше цікавить пакунок, який кур'єр віз для нього.</text>
+    </string>
+    <string id="st_sl_hidden_threat_second_task_2_stage_1_title">
+        <text>[HT]Агропром: Поверніть пакет Ложкіну</text>
+    </string>
+    <string id="st_sl_hidden_threat_second_task_2_stage_1_descr">
+        <text>Сержанту Ложкіну доручають знайти кур'єра, який загубився десь по дорозі на базу зі Звалища. Сержанта більше цікавить пакунок, який кур'єр віз для нього.</text>
+    </string>
+    
+<!--######## Tips message для "Hidden Threat" ##########################-->
+    <string id="st_sl_hidden_threat_msg_start">
+        <text>%s, ваша присутність на базі необхідна. Є термінове завдання.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_2_start">
+        <text>Бійцю, наша справа все ще в глухому куті. Але для тебе є складне завдання. Нашим північним операціям сильно заважає "Випалювач мізків". Поговори з Сахаровим на Янтарі і знайди спосіб його відключити.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_3_start">
+        <text>Бійцю, прийди до мене, мені треба з тобою поговорити.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_4_start">
+        <text>%s, зайди на хвилинку, треба поговорити.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_4_stg_6_msg">
+        <text>%s, про твій КПК. Підійди, нам є про що поговорити.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_5_start">
+        <text>Привіт, %s, давно не бачилися. Я помітив групу МДГ. Я не можу зробити це сам, мені потрібна допомога. Якщо наберешся сміливості, поїдь в лікарню на околиці Прип'яті, може, навіть заробиш нові нашивки від начальства.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_6_start">
+        <text>Військовий сталкер %s, наказ прибути на базу і підійти прямо до мене.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_task_7_start">
+        <text>Військовий сталкер %s, наказую негайно з'явитися до мене!</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_armistice_title">
+        <text>Отримано.:</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_armistice_msg">
+        <text>%s: вільні сталкери - 2 години</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_armistice_path">
+        <text>Перемир'я</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_armistice_start">
+        <text>%s питали про вас. Ми відкрили вільний прохід на наші бази на 2 години. Не робіть дурниць, якщо хочете жити. Наші хлопці не дуже люблять військових.</text>
+    </string>
+    <string id="st_sl_hidden_threat_msg_armistice_end">
+        <text>%s перемир'я закінчилося.</text>
+    </string>
+    <string id="st_sl_hidden_threat_spooner_notes_title">
+        <text>Отримано:</text>
+    </string>
+    <string id="st_sl_hidden_threat_spooner_notes_descr">
+        <text>Новий запис на КПК: Лист від сержанта Ложкіна</text>
+    </string>
+    <string id="st_sl_hidden_threat_darkvalley_msg_header">
+        <text>Військові</text>
+    </string>
+    <string id="st_sl_hidden_threat_darkvalley_msg_text">
+        <text>Бачу ворога! До бою!</text>
+    </string>
+    
+<!--#####################################################################-->
     <string id="st_sl_hidden_threat_map_spot_cf">
-	    <text>Цікаві місця</text>
-	</string>
-
+        <text>Цікаві місця</text>
+    </string>
 </string_table>

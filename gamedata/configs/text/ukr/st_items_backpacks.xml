@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<!--
-	Backpacks
--->
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="st_itm_backpack_name">
         <text>Польовий рюкзак</text>

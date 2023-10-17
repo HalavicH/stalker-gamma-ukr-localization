@@ -633,36 +633,31 @@
     <string id="name_captain_0">
         <text>Капітан</text>
     </string>
-	
-	
-	
-	 <string id="name_stalker_123">
+    <string id="name_stalker_123">
         <text>Віктор</text>
     </string>
-	 <string id="name_stalker_124">
+    <string id="name_stalker_124">
         <text>Володя</text>
     </string>
-	 <string id="name_stalker_125">
+    <string id="name_stalker_125">
         <text>Мартин</text>
     </string>
-	 <string id="name_stalker_126">
+    <string id="name_stalker_126">
         <text>Назарій</text>
     </string>
-	 <string id="name_stalker_127">
+    <string id="name_stalker_127">
         <text>Павло</text>
     </string>
-	 <string id="name_stalker_128">
+    <string id="name_stalker_128">
         <text>Пилип</text>
     </string>
-	 <string id="name_stalker_129">
+    <string id="name_stalker_129">
         <text>Родіон</text>
     </string>
-	 <string id="name_stalker_130">
+    <string id="name_stalker_130">
         <text>Тарас</text>
     </string>
-	
-	
-	  <string id="name_science_22">
+    <string id="name_science_22">
         <text>Віктор</text>
     </string>
     <string id="name_science_23">
@@ -677,7 +672,7 @@
     <string id="name_science_26">
         <text>Ярема</text>
     </string>
-	  <string id="name_science_27">
+    <string id="name_science_27">
         <text>Ян</text>
     </string>
     <string id="name_science_28">
@@ -692,6 +687,4 @@
     <string id="name_science_31">
         <text>Маркіян</text>
     </string>
-	
-	
 </string_table>

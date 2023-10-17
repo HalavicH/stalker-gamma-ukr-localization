@@ -1,162 +1,162 @@
-<?xml version='1.0' encoding='windows-1251'?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="st_rax_fav">
-		<text>Додати в обране</text>
-	</string>
-	<string id="st_rax_unfav">
-		<text>Прибрати з обраного</text>
-	</string>
-	<string id="st_rax_junk">
-		<text>Додати в сміття</text>
-	</string>
-	<string id="st_rax_unjunk">
-		<text>Прибрати з сміття</text>
-	</string>
-	<string id="ui_mcm_title_SortingPlus">
-		<text>Налаштування аддону "Сортування Плюс"</text>
-	</string>
-	<string id="ui_mcm_menu_SortingPlus">
-		<text>Сортування Плюс</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_playerinv">
-		<text>Сортувати інвертар гравця</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_playerinv_desc">
-		<text>Інвентар справа на всіх екранах, крім торгівлі</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_playertrade">
-		<text>Сортувати інвентар гравця при торгівлі</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_playertrade_desc">
-		<text>Інвентар справа при торгівлі</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_npcinv">
-		<text>Сортувати інвентар NPC</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_npcinv_desc">
-		<text>Інвентар зліва на всіх екранах, окрім торгівлі.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_npctrade">
-		<text>Сортування торгового інвентарю NPC</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_npctrade_desc">
-		<text>Інвентар зліва під час торгівлі.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_useltx">
-		<text>Використовувати sortingplus.ltx</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_useltx_desc">
-		<text>Ігнорує налаштування, наведені нижче, на користь налаштувань у файлі sortingplus.ltx, який пропонує більш детальний контроль.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_iconjunk">
-		<text>Позначати мотлох</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_iconjunk_desc">
-		<text>Всі предмети, відмічені як мотлох, будуть позначені спеціальною іконкою</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_hilitejunk">
-		<text>Підсвічувати мотлох</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
-		<text>Усі предмети, відмічені як мотлох, будуть підсвічені</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_sortjunk">
-		<text>Сортувати мотлох</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_sortjunk_desc">
-		<text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_selljunk">
-		<text>Автопродаж мотлоху</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_selljunk_desc">
-		<text>Весь мотлох, який може купити торговець, буде автоматично поміщений у панель продажу. Все, що вам залишається, це натиснути кнопку продажу, щоб завершити угоду</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_iconfavs">
-		<text>Відзначати обране іконкою</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_iconfavs_desc">
-		<text>Усі предмети, позначені як обране, будуть позначені спеціальною іконкою</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_hilitefavs">
-		<text>Підсвічувати обране</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
-		<text>Усі предмети, позначені як обране, будуть підсвічені</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_sortfavs">
-		<text>Сортувати обране</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_sortfavs_desc">
-		<text>Усі предмети, відмічені як вибране, будуть винесені в окрему категорію, за замовчуванням на початку інвентарю</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_putallfavs">
-		<text>Не переміщати вибране при натисканні "Скласти все"</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_putallfavs_desc">
-		<text>Вибране не буде переміщено з вашого інвентарю під час перенесення всього.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_resort">
-		<text>Пересортуйте при маркуванні.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_resort_desc">
-		<text>Інвентар буде відкрито негайно при позначці Вибране/Небажане. В іншому випадку чекає до наступного відкриття інвентарю. Корисний зворотній зв'язок, якщо підсвічування вимкнено.</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_001loadout">
-		<text>Розвантажувальні жилети</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_002mags">
-		<text>Магазини</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_000favorites">
-		<text>Обране</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_999junk">
-		<text>Мотлох</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_010weapons">
-		<text>Зброя</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_020outfits">
-		<text>Спорядження</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_030artifacts">
-		<text>Артефакти</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_040devices">
-		<text>Пристрої</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_050tools">
-		<text>Інструменти</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_060medical">
-		<text>Медицина</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_070foods">
-		<text>Іжа</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_080mutantfoods">
-		<text>Їжа з мутантів</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_090quest">
-		<text>Квестові предмети</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_100notes">
-		<text>Нотатки</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_110ammo">
-		<text>Боєприпаси</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_120mutantparts">
-		<text>Частини мутантів</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_130misc">
-		<text>Різне</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_140upgrades">
-		<text>Апгрейди</text>
-	</string>
-	<string id="ui_mcm_SortingPlus_150parts">
-		<text>Запчастини</text>
-	</string>
+    <string id="st_rax_fav">
+        <text>Додати в обране</text>
+    </string>
+    <string id="st_rax_unfav">
+        <text>Прибрати з обраного</text>
+    </string>
+    <string id="st_rax_junk">
+        <text>Додати в сміття</text>
+    </string>
+    <string id="st_rax_unjunk">
+        <text>Прибрати з сміття</text>
+    </string>
+    <string id="ui_mcm_title_SortingPlus">
+        <text>Налаштування аддону "Сортування Плюс"</text>
+    </string>
+    <string id="ui_mcm_menu_SortingPlus">
+        <text>Сортування Плюс</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_playerinv">
+        <text>Сортувати інвертар гравця</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_playerinv_desc">
+        <text>Інвентар справа на всіх екранах, крім торгівлі</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_playertrade">
+        <text>Сортувати інвентар гравця при торгівлі</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_playertrade_desc">
+        <text>Інвентар справа при торгівлі</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_npcinv">
+        <text>Сортувати інвентар NPC</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_npcinv_desc">
+        <text>Інвентар зліва на всіх екранах, окрім торгівлі.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_npctrade">
+        <text>Сортування торгового інвентарю NPC</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_npctrade_desc">
+        <text>Інвентар зліва під час торгівлі.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_useltx">
+        <text>Використовувати sortingplus.ltx</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_useltx_desc">
+        <text>Ігнорує налаштування, наведені нижче, на користь налаштувань у файлі sortingplus.ltx, який пропонує більш детальний контроль.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_iconjunk">
+        <text>Позначати мотлох</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_iconjunk_desc">
+        <text>Всі предмети, відмічені як мотлох, будуть позначені спеціальною іконкою</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_hilitejunk">
+        <text>Підсвічувати мотлох</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_hilitejunk_desc">
+        <text>Усі предмети, відмічені як мотлох, будуть підсвічені</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_sortjunk">
+        <text>Сортувати мотлох</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_sortjunk_desc">
+        <text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_selljunk">
+        <text>Автопродаж мотлоху</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_selljunk_desc">
+        <text>Весь мотлох, який може купити торговець, буде автоматично поміщений у панель продажу. Все, що вам залишається, це натиснути кнопку продажу, щоб завершити угоду</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_iconfavs">
+        <text>Відзначати обране іконкою</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_iconfavs_desc">
+        <text>Усі предмети, позначені як обране, будуть позначені спеціальною іконкою</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_hilitefavs">
+        <text>Підсвічувати обране</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_hilitefavs_desc">
+        <text>Усі предмети, позначені як обране, будуть підсвічені</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_sortfavs">
+        <text>Сортувати обране</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_sortfavs_desc">
+        <text>Усі предмети, відмічені як вибране, будуть винесені в окрему категорію, за замовчуванням на початку інвентарю</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_putallfavs">
+        <text>Не переміщати вибране при натисканні "Скласти все"</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_putallfavs_desc">
+        <text>Вибране не буде переміщено з вашого інвентарю під час перенесення всього.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_resort">
+        <text>Пересортуйте при маркуванні.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_resort_desc">
+        <text>Інвентар буде відкрито негайно при позначці Вибране/Небажане. В іншому випадку чекає до наступного відкриття інвентарю. Корисний зворотній зв'язок, якщо підсвічування вимкнено.</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_001loadout">
+        <text>Розвантажувальні жилети</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_002mags">
+        <text>Магазини</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_000favorites">
+        <text>Обране</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_999junk">
+        <text>Мотлох</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_010weapons">
+        <text>Зброя</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_020outfits">
+        <text>Спорядження</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_030artifacts">
+        <text>Артефакти</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_040devices">
+        <text>Пристрої</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_050tools">
+        <text>Інструменти</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_060medical">
+        <text>Медицина</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_070foods">
+        <text>Іжа</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_080mutantfoods">
+        <text>Їжа з мутантів</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_090quest">
+        <text>Квестові предмети</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_100notes">
+        <text>Нотатки</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_110ammo">
+        <text>Боєприпаси</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_120mutantparts">
+        <text>Частини мутантів</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_130misc">
+        <text>Різне</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_140upgrades">
+        <text>Апгрейди</text>
+    </string>
+    <string id="ui_mcm_SortingPlus_150parts">
+        <text>Запчастини</text>
+    </string>
 </string_table>

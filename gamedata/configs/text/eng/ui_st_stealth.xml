@@ -1,145 +1,122 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!-- 
-	MCM
--->
 <string_table>
-
-
-	<string id="ui_mcm_stealth_title">
-		<text>Стелс</text>
-	</string>
-	<string id="ui_mcm_menu_stealth">
-		<text>Стелс</text>
-	</string>
-
-		<!-- MAIN -->
-	<string id="ui_mcm_stealth_header_main">
-		<text>Основні</text>
-	</string>
-
-	<string id="ui_mcm_stealth_memory">
-		<text>Пам'ять</text>
-	</string>
-	<string id="ui_mcm_stealth_memory_desc">
-		<text>Множник пам'яті. (Якщо НПС вже бачив ціль, то НПС отримає посилення свого бачення проти цієї цілі. Зменшується з часом, при значенні за замовчуванням 1.0 НПС потрібно близько 100 реальних секунд, щоб знизити свій бонус до 0 по відношенню до даної цілі) \n 
+    <string id="ui_mcm_stealth_title">
+        <text>Стелс</text>
+    </string>
+    <string id="ui_mcm_menu_stealth">
+        <text>Стелс</text>
+    </string>
+    
+<!-- MAIN -->
+    <string id="ui_mcm_stealth_header_main">
+        <text>Основні</text>
+    </string>
+    <string id="ui_mcm_stealth_memory">
+        <text>Пам'ять</text>
+    </string>
+    <string id="ui_mcm_stealth_memory_desc">
+        <text>Множник пам'яті. (Якщо НПС вже бачив ціль, то НПС отримає посилення свого бачення проти цієї цілі. Зменшується з часом, при значенні за замовчуванням 1.0 НПС потрібно близько 100 реальних секунд, щоб знизити свій бонус до 0 по відношенню до даної цілі) \n 
 				\n За замовчуванням: 1.0</text>
-	</string>
-
-	<string id="ui_mcm_stealth_luminocity">
-		<text>Освітлення</text>
-	</string>
-	<string id="ui_mcm_stealth_luminocity_desc">
-		<text>Множник освітленості. (Світло на об'єкті) \n 
+    </string>
+    <string id="ui_mcm_stealth_luminocity">
+        <text>Освітлення</text>
+    </string>
+    <string id="ui_mcm_stealth_luminocity_desc">
+        <text>Множник освітленості. (Світло на об'єкті) \n 
 				\n За замовчуванням: 1.0</text>
-	</string>
-
-	<string id="ui_mcm_stealth_distance">
-		<text>Дистанція</text>
-	</string>
-	<string id="ui_mcm_stealth_distance_desc">
-		<text>Множник дистанції. (Дистанція від об'єкта до об'єкта, відстань і FOV) \n 
+    </string>
+    <string id="ui_mcm_stealth_distance">
+        <text>Дистанція</text>
+    </string>
+    <string id="ui_mcm_stealth_distance_desc">
+        <text>Множник дистанції. (Дистанція від об'єкта до об'єкта, відстань і FOV) \n 
 				\n За замовчуванням: 1.0</text>
-	</string>
-
-	<string id="ui_mcm_stealth_velocity">
-		<text>Швидкість</text>
-	</string>
-	<string id="ui_mcm_stealth_velocity_desc">
-		<text>Множник швидкості. (Швидкість об'єкта) \n 
+    </string>
+    <string id="ui_mcm_stealth_velocity">
+        <text>Швидкість</text>
+    </string>
+    <string id="ui_mcm_stealth_velocity_desc">
+        <text>Множник швидкості. (Швидкість об'єкта) \n 
 				\n За замовчуванням: 1.0</text>
-	</string>
-
-	<string id="ui_mcm_stealth_weight">
-		<text>Вага</text>
-	</string>
-	<string id="ui_mcm_stealth_weight_desc">
-		<text>Множник ваги. (Вага речей гравця, що переносяться) \n 
+    </string>
+    <string id="ui_mcm_stealth_weight">
+        <text>Вага</text>
+    </string>
+    <string id="ui_mcm_stealth_weight_desc">
+        <text>Множник ваги. (Вага речей гравця, що переносяться) \n 
 				\n За замовчуванням: 1.0</text>
-	</string>
-
-	<string id="ui_mcm_stealth_crouch">
-		<text>Присідання</text>
-	</string>
-	<string id="ui_mcm_stealth_crouch_desc">
-		<text>Множник присідання. \n 
+    </string>
+    <string id="ui_mcm_stealth_crouch">
+        <text>Присідання</text>
+    </string>
+    <string id="ui_mcm_stealth_crouch_desc">
+        <text>Множник присідання. \n 
 				\n За замовчуванням: 0.4</text>
-	</string>
-
-	<string id="ui_mcm_stealth_low_crouch">
-		<text>Низьке присідання</text>
-	</string>
-	<string id="ui_mcm_stealth_low_crouch_desc">
-		<text>Множник низького присідання. \n 
+    </string>
+    <string id="ui_mcm_stealth_low_crouch">
+        <text>Низьке присідання</text>
+    </string>
+    <string id="ui_mcm_stealth_low_crouch_desc">
+        <text>Множник низького присідання. \n 
 				\n За замовчуванням: 0.25</text>
+    </string>
+    <string id="ui_mcm_stealth_nvg_val">
+        <text>НПС прилад нічого бачення</text>.
 	</string>
-
-	<string id="ui_mcm_stealth_nvg_val">
-		<text>НПС прилад нічого бачення</text>.
-	</string>
-	<string id="ui_mcm_stealth_nvg_val_desc">
-		<text>Деякі НПС починають використовувати прилад нічного бачення замість ліхтарика. Значення NVG додається незалежно від відстані, на відміну від ліхтарика ("0" відключає функцію). \n 
+    <string id="ui_mcm_stealth_nvg_val_desc">
+        <text>Деякі НПС починають використовувати прилад нічного бачення замість ліхтарика. Значення NVG додається незалежно від відстані, на відміну від ліхтарика ("0" відключає функцію). \n 
 				\n За замовчуванням: 1</text>
-	</string>
-
-		<!-- HUD -->
-	<string id="ui_mcm_stealth_header_hud">
-		<text>HUD</text>
-	</string>
-
-	<string id="ui_mcm_stealth_icon">
-		<text>Іконка</text>
-	</string>
-	<string id="ui_mcm_stealth_icon_desc">
-		<text>Іконка освітленості. (Показує кількість світла на гравцеві)</text>
-	</string>
-
-	<string id="ui_mcm_stealth_icon_type">
-		<text>Тип іконки</text>
-	</string>
-	<string id="ui_mcm_stealth_icon_type_desc">
-		<text>1) "Light indicator" показує кількість світла на гравцеві. \n \n
+    </string>
+    
+<!-- HUD -->
+    <string id="ui_mcm_stealth_header_hud">
+        <text>HUD</text>
+    </string>
+    <string id="ui_mcm_stealth_icon">
+        <text>Іконка</text>
+    </string>
+    <string id="ui_mcm_stealth_icon_desc">
+        <text>Іконка освітленості. (Показує кількість світла на гравцеві)</text>
+    </string>
+    <string id="ui_mcm_stealth_icon_type">
+        <text>Тип іконки</text>
+    </string>
+    <string id="ui_mcm_stealth_icon_type_desc">
+        <text>1) "Light indicator" показує кількість світла на гравцеві. \n \n
 				2) "NPC vision" показує як НПС (з вищими показниками видимості на гравцеві) бачить гравця: \n
 				- Біла іконка: НПС у звичайному стані і не бачить гравця; \n
 				- Жовта іконка: НПС у бою/небезпеці (має високі показники виявлення) і не бачить гравця; \n
 				- Червона іконка: НПС бачить гравця.</text>
+    </string>
+    <string id="ui_mcm_stealth_icon_x">
+        <text>Положення іконки X</text>.
 	</string>
-
-	<string id="ui_mcm_stealth_icon_x">
-		<text>Положення іконки X</text>.
-	</string>
-
-	<string id="ui_mcm_stealth_icon_y">
-		<text>Положення іконки Y</text>
-	</string>
-
-		<!-- Patches -->
-	<string id="ui_mcm_stealth_header_patches">
-		<text>Патчі</text>
-	</string>
-
-	<string id="ui_mcm_stealth_michiko_patch">
-		<text>Michiko weather патч</text>
-	</string>
-	<string id="ui_mcm_stealth_michiko_patch_desc">
-		<text>Рекомендується увімкнути якщо використовуєте погодний аддон від Мічіко.</text>
-	</string>
-
-		<!-- Debug -->
-	<string id="ui_mcm_stealth_header_debug">
-		<text>Дебаг</text>
-	</string>
-
-	<string id="ui_mcm_stealth_debugx">
-		<text>Дебаг</text>
-	</string>
-	<string id="ui_mcm_stealth_debugx_desc">
-		<text>Відображення змінних рівняння (для правильного відображення порога видимості ви повинні зберігати покажчик на об'єкті весь час): \n 
+    <string id="ui_mcm_stealth_icon_y">
+        <text>Положення іконки Y</text>
+    </string>
+    
+<!-- Patches -->
+    <string id="ui_mcm_stealth_header_patches">
+        <text>Патчі</text>
+    </string>
+    <string id="ui_mcm_stealth_michiko_patch">
+        <text>Michiko weather патч</text>
+    </string>
+    <string id="ui_mcm_stealth_michiko_patch_desc">
+        <text>Рекомендується увімкнути якщо використовуєте погодний аддон від Мічіко.</text>
+    </string>
+    
+<!-- Debug -->
+    <string id="ui_mcm_stealth_header_debug">
+        <text>Дебаг</text>
+    </string>
+    <string id="ui_mcm_stealth_debugx">
+        <text>Дебаг</text>
+    </string>
+    <string id="ui_mcm_stealth_debugx_desc">
+        <text>Відображення змінних рівняння (для правильного відображення порога видимості ви повинні зберігати покажчик на об'єкті весь час): \n 
 				\n Консоль: усі змінні \n 
 				\n Динамічні новини: чи бачить об'єкт гравця \n 
 				\n Повідомлення гравця: поріг видимості об'єкта і (змінні, які можна змінити в MCM)</text>
-	</string>
-
-
-
+    </string>
 </string_table>

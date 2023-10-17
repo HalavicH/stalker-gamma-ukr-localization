@@ -1,79 +1,52 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
-
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-
-
-	<string id="ui_mm_alife_general_dyn_mutants_target_numbers">
-<text>Динамічні мутанти – обмеження кількості цілей</text>
-</string>
-<string id="ui_mm_alife_general_dyn_mutants_target_numbers_desc">
-<text>Кількість мутантів, ДОДАНА ВИКЛЮЧНО ЦИМ АДДОНОМ, буде близько цієї межі. Він перевіряє його щодня. Буде поступово додавати нових мутантів, поки не досягне цієї кількості. Після цього він чекатиме, поки кількість мутантів зменшиться до 75% від цього ліміту, а потім додаватиме нових мутантів. Коротше кажучи, кількість мутантів буде близько цієї межі, навіть якщо це налаштування буде змінено. Він адаптується до цих змін.
+    <string id="ui_mm_alife_general_dyn_mutants_target_numbers">
+        <text>Динамічні мутанти – обмеження кількості цілей</text>
+    </string>
+    <string id="ui_mm_alife_general_dyn_mutants_target_numbers_desc">
+        <text>Кількість мутантів, ДОДАНА ВИКЛЮЧНО ЦИМ АДДОНОМ, буде близько цієї межі. Він перевіряє його щодня. Буде поступово додавати нових мутантів, поки не досягне цієї кількості. Після цього він чекатиме, поки кількість мутантів зменшиться до 75% від цього ліміту, а потім додаватиме нових мутантів. Коротше кажучи, кількість мутантів буде близько цієї межі, навіть якщо це налаштування буде змінено. Він адаптується до цих змін.
 \n \nВстановлення "Mutant Pop.Factor" Anomaly на 0,25, а цей повзунок на 1500 або вище - це варіант.
 \n \n%c[pda_yellow]Примітка:%c[ui_gray_2]
 \n(За замовчуванням: 1000)
 \n \nЦе налаштування також впливає на кількість мутантів, включених до майбутньої «хвилі».
 \n \nЯкщо встановлено значення 0, цей аддон фактично вимкнено.
 </text>
-</string>
-
-
-
-<string id="ui_mm_alife_general_dyn_noct_mutants_attacks_strength">
-<text>Динамічні НІЧНІ мутанти - присутність (%)</text>
-</string>
-<string id="ui_mm_alife_general_dyn_noct_mutants_attacks_strength_desc">
-<text>Визначає наявність нічних мутантів, тобто кількість, яка з’явиться вночі.
+    </string>
+    <string id="ui_mm_alife_general_dyn_noct_mutants_attacks_strength">
+        <text>Динамічні НІЧНІ мутанти - присутність (%)</text>
+    </string>
+    <string id="ui_mm_alife_general_dyn_noct_mutants_attacks_strength_desc">
+        <text>Визначає наявність нічних мутантів, тобто кількість, яка з’явиться вночі.
 \n \n%c[pda_yellow]Примітка:%c[ui_gray_2]
 \nУстановлення на 100% призведе до дуже небезпечних ночей. При 0 цей аддон фактично вимкнено. (За замовчуванням: 60)
 </text>
-</string>
-
-
-
-
-<string id="ui_mm_alife_general_dyn_mutants_enable_mwolf">
-<text>Включіть додаткові мутанти</text>
-</string>
-<string id="ui_mm_alife_general_dyn_mutants_enable_mwolf_desc">
-<text>Вмикає/вимикає появу мутантів VOLK, MEDVED, TARK, PIRANHA....
+    </string>
+    <string id="ui_mm_alife_general_dyn_mutants_enable_mwolf">
+        <text>Включіть додаткові мутанти</text>
+    </string>
+    <string id="ui_mm_alife_general_dyn_mutants_enable_mwolf_desc">
+        <text>Вмикає/вимикає появу мутантів VOLK, MEDVED, TARK, PIRANHA....
 \n \nЯкщо цей параметр вимкнено, цей аддон додаватиме лише аномальні мутанти.
 \n \n%c[pda_yellow]Примітка:%c[ui_gray_2]
 \n(За замовчуванням: УВІМКНЕНО)
 </text>
-</string>
-
-
-
-<string id="ui_mm_alife_general_amb_anomalies_density_factor">
-<text>Аномалії середовища – інтенсивність</text>
-</string>
-<string id="ui_mm_alife_general_amb_anomalies_density_factor_desc">
-<text>Установлює інтенсивність різних аномалій навколишнього середовища. Їх можна побачити в небі, над певними спорудами та в інших місцях.
+    </string>
+    <string id="ui_mm_alife_general_amb_anomalies_density_factor">
+        <text>Аномалії середовища – інтенсивність</text>
+    </string>
+    <string id="ui_mm_alife_general_amb_anomalies_density_factor_desc">
+        <text>Установлює інтенсивність різних аномалій навколишнього середовища. Їх можна побачити в небі, над певними спорудами та в інших місцях.
 \n \n%c[pda_yellow]Примітка:%c[ui_gray_2]
 \nПотрібна зміна рівня, щоб це налаштування діяло. (За замовчуванням: 10)
 </text>
-</string>
-
-
-
-<string id="ui_mm_alife_general_amb_anomalies_enabled">
-<text>Увімкнути аномалії середовища</text>
-</string>
-<string id="ui_mm_alife_general_amb_anomalies_enabled_desc">
-<text>Вмикає/вимикає відображення аномалій середовища. Якщо ввімкнено, їх можна побачити в небі, над певними спорудами та в інших місцях.
+    </string>
+    <string id="ui_mm_alife_general_amb_anomalies_enabled">
+        <text>Увімкнути аномалії середовища</text>
+    </string>
+    <string id="ui_mm_alife_general_amb_anomalies_enabled_desc">
+        <text>Вмикає/вимикає відображення аномалій середовища. Якщо ввімкнено, їх можна побачити в небі, над певними спорудами та в інших місцях.
 \n \n%c[pda_yellow]Примітка:%c[ui_gray_2]
 \nПотрібна зміна рівня, щоб це налаштування діяло. (За замовчуванням: УВІМКНЕНО)
 </text>
-</string>
-
-
-
+    </string>
 </string_table>
-
-
-
-
-
-

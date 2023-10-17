@@ -1,46 +1,33 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	
     <string id="ui_mcm_menu_aol_hf">
         <text>Меблі для схованки</text>
     </string>
-
-	<string id="ui_mcm_aol_hf_bind_left">
-		<text>Повернути об'єкт за годинниковою стрілкою</text>
-	</string>
-
+    <string id="ui_mcm_aol_hf_bind_left">
+        <text>Повернути об'єкт за годинниковою стрілкою</text>
+    </string>
     <string id="ui_mcm_aol_hf_bind_right">
-		<text>Повернути об'єкт проти годинникової стрілки</text>
-	</string>
-
-	<string id="ui_mcm_aol_hf_bind_up">
-		<text>Перемістити об'єкт вгору</text>
-	</string>
-
+        <text>Повернути об'єкт проти годинникової стрілки</text>
+    </string>
+    <string id="ui_mcm_aol_hf_bind_up">
+        <text>Перемістити об'єкт вгору</text>
+    </string>
     <string id="ui_mcm_aol_hf_bind_down">
-		<text>Перемістити об'єкт вниз</text>
-	</string>
-
+        <text>Перемістити об'єкт вниз</text>
+    </string>
     <string id="ui_mcm_aol_hf_bind_place">
-		<text>Розмістити об'єкт</text>
-	</string>
-
-	<string id="ui_mcm_aol_hf_bind_collision">
-		<text>Увімкнути перевірку на колізії</text>
-	</string>
-
-	<string id="ui_mcm_aol_hf_disable_bbox">
-		<text>Відключити обмежувальну рамку під час розміщення</text>
-	</string>
-
-	<string id="ui_mcm_aol_hf_use_ingame_time">
-		<text>Світлове шоу під час гри</text>
-	</string>
-
-	<string id="ui_mcm_aol_hf_update_mcm">
-		<text>Оновлення MCM для встановлення комбінацій клавіш. За замовчуванням клавіші зі стрілками для обертання і 'F' для переміщення.</text>
-	</string>
-
-
+        <text>Розмістити об'єкт</text>
+    </string>
+    <string id="ui_mcm_aol_hf_bind_collision">
+        <text>Увімкнути перевірку на колізії</text>
+    </string>
+    <string id="ui_mcm_aol_hf_disable_bbox">
+        <text>Відключити обмежувальну рамку під час розміщення</text>
+    </string>
+    <string id="ui_mcm_aol_hf_use_ingame_time">
+        <text>Світлове шоу під час гри</text>
+    </string>
+    <string id="ui_mcm_aol_hf_update_mcm">
+        <text>Оновлення MCM для встановлення комбінацій клавіш. За замовчуванням клавіші зі стрілками для обертання і 'F' для переміщення.</text>
+    </string>
 </string_table>

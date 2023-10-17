@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Description - Factions -->
+    
+<!-- Description # Factions -->
     <string id="st_faction_stalker">
         <text>Одинаки</text>
     </string>
@@ -130,7 +131,8 @@
             вся. \n\n%c[0,255,255,255] Рекомендовано для гри: тільки досвідченим гравцям.
         </text>
     </string>
-    <!-- Hint -->
+    
+<!-- Hint -->
     <string id="st_mm_box_faction_desc">
         <text>%c[0,150,150,150]%s.</text>
     </string>
@@ -247,7 +249,8 @@
             зробити ще одне збереження, поки не пройде відведений час. \n\n%c[200, 50,200,50] • %c[0,150,150,150]            Сумісний з усіма режимами збережень.
         </text>
     </string>
-    <!-- Static Text -->
+    
+<!-- Static Text -->
     <string id="st_mm_new_game_character">
         <text>Персонаж</text>
     </string>
@@ -284,7 +287,8 @@
     <string id="ui_st_random_location">
         <text>-Випадкова локація-</text>
     </string>
-    <!-- Description elements -->
+    
+<!-- Description elements -->
     <string id="st_mm_new_game_relations">
         <text>Відносини угруповань</text>
     </string>
@@ -297,11 +301,13 @@
     <string id="st_mm_new_game_essential">
         <text>Важливе</text>
     </string>
-    <!-- Hint -->
+    
+<!-- Hint -->
     <string id="st_mm_itm_desc_unknown">
         <text>Немає інформації</text>
     </string>
-    <!-- Options -->
+    
+<!-- Options -->
     <string id="st_cap_check_warfare">
         <text>«Війна угрупувань»</text>
     </string>
@@ -353,7 +359,8 @@
     <string id="st_diff_4">
         <text>Хардкор</text>
     </string>
-    <!--string id="st_diff_1">
+    
+<!--string id="st_diff_1">
           <text>Novice</text>
       </string>
       <string id="st_diff_2">
@@ -392,7 +399,8 @@
     <string id="st_new_game_lives">
         <text>шт.</text>
     </string>
-    <!-- Buttons -->
+    
+<!-- Buttons -->
     <string id="st_mm_btn_new_game_faction">
         <text>Угруповання</text>
     </string>
@@ -408,7 +416,8 @@
     <string id="st_mm_btn_new_game_rand">
         <text>Випадково</text>
     </string>
-    <!-- Discord -->
+    
+<!-- Discord -->
     <string id="st_hardcore_lives_left">
         <text>Життів залишилося</text>
     </string>

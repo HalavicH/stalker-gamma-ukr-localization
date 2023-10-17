@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
         <text>Множник досвіду медицини</text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
@@ -11,21 +12,19 @@
     <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
         <text>Множник досвіду бартеру</text>
     </string>
-	<string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
         <text>Множник досвіду поводження зі зброєю</text>
     </string>
-	
     <string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
         <text>Множник досвіду заряджання магазину</text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
         <text>Множник досвіду злому замків</text>
     </string>
-
     <string id="ui_mcm_ut_skill_system_title">
         <text>Налаштування розширенних навичок</text>
     </string>
-     <string id="ui_mcm_menu_ut_skill_system">
+    <string id="ui_mcm_menu_ut_skill_system">
         <text>Розширені навички</text>
     </string>
 </string_table>

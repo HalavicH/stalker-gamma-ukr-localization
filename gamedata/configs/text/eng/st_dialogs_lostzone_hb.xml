@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<!--===========================================================
-<
-< TEXT STRINGS FOR LOST TO THE ZONE: HOLLOW BOUNDARIES TASKS
-<	Anomaly 1.5 - Lost to the Zone: Hollow Boundaries
-<
-<	Made by: Tronex
-<	Last revised: 21 July 2019
-<
-<===========================================================-->
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Messages -->
+    
+<!-- Messages -->
     <string id="st_msg_hb_isg_dushman_intel">
         <text>Отже, якщо вже Душман тільки що зв'язався зі мною, то вважаю, що вся інформація при тобі. Я зараз
             організував нам табір на так званому «Юпітері», принаймні, місцеві посилаються на цю територію саме
@@ -29,7 +20,8 @@
     <string id="st_msg_hb_isg_petray">
         <text>Ах ти сучий син продажний...</text>
     </string>
-    <!-- Dynamic ISG stash\news -->
+    
+<!-- Dynamic ISG stash\news -->
     <string id="st_dyn_news_isg_stash_1">
         <text>На зв'язку $name. Точки з запасами на екстрений випадок $location, були поповнені. Координати додаю.
             Необхідно переконатися, що польові агенти отримають все їм необхідне.
@@ -45,7 +37,8 @@
             випадок майбутніх візитів. Передаю координати.
         </text>
     </string>
-    <!-- Main Dialog -->
+    
+<!-- Main Dialog -->
     <string id="hb_hernandez_ds_start_dialog_0">
         <text>Я слухаю.</text>
     </string>

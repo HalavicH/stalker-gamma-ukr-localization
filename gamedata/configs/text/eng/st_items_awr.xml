@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<!--
-	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
--->
 <string_table>
-    <!--
+    
+<!--
           Interface
       -->
     <string id="st_current_condition">
@@ -113,7 +111,8 @@
     <string id="st_mech_tiski_w">
         <text>Лещата механіка з %s</text>
     </string>
-    <!-- ListBox status texts -->
+    
+<!-- ListBox status texts -->
     <string id="st_ending_1">
         <text>и</text>
     </string>
@@ -174,7 +173,8 @@
     <string id="st_text_warning_mode_help">
         <text>ДЛЯ ОТРИМАННЯ ДОВІДКИ НАТИСНІТЬ "F1"</text>
     </string>
-    <!-- Disassembly -->
+    
+<!-- Disassembly -->
     <string id="st_dis_news">
         <text>[AWR]</text>
     </string>
@@ -201,7 +201,8 @@
     </string>
     <string id="st_dis_text_7">
         <text>%sВи розібрали %s%s%s%s</text>
-        <!--text>%s %s %s %s has been disassembled</text-->
+        
+<!--text>%s %s %s %s has been disassembled</text-->
     </string>
     <string id="st_dis_text_8">
         <text>%sВи розрізали %s%s%s%s</text>
@@ -215,7 +216,8 @@
     <string id="st_dis_text_11">
         <text>%s%s%s%s%s</text>
     </string>
-    <!-- Dialogues -->
+    
+<!-- Dialogues -->
     <string id="st_awr_dialog_1">
         <text>Слухай, я твоїми лещатами скористаюся? Треба підлатати де що...</text>
     </string>
@@ -241,7 +243,8 @@
             не захоплюватися, а то мене в будь-який момент ще чим-небудь заперечує можуть.
         </text>
     </string>
-    <!-- Sell dialog -->
+    
+<!-- Sell dialog -->
     <string id="st_awr_sell_dialog_1">
         <text>У мене тут зайві деталі залишилися. Не знаєш, кому їх запропонувати можна?</text>
     </string>
@@ -270,7 +273,8 @@
     <string id="st_awr_sell_dialog_8">
         <text>І на тому дякую. Бувай.</text>
     </string>
-    <!-- Help -->
+    
+<!-- Help -->
     <string id="st_awr_help_0">
         <text>ДОВІДКА</text>
     </string>

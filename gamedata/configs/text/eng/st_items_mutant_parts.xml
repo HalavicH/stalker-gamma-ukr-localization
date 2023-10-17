@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Mutant parts
--->
 <string_table>
     <string id="st_meat_tushkano">
         <text>Смажений тушкан</text>
@@ -574,7 +570,8 @@
             \n%c[d_cyan] • %c[ui_gray_2] рідкісний науковий екземпляр \n%c[d_cyan] • %c[ui_gray_2] висока цінність \n
         </text>
     </string>
-    <!-- Analogs addon-->
+    
+<!-- Analogs addon-->
     <string id="mutant_part_psy_dog_brain">
         <text>Мозок пси-собаки</text>
     </string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Olivius (Bandit Trader) -->
+    
+<!-- Olivius (Bandit Trader) -->
     <string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
         <text>Вітаю, брателло! Я тута типу барига місцевий, так шо якщо потрібен шмот або рушниці пристойні, а то і
             продати шо - це до мене. І це, якщо зовсім голяк буде - теж завалюй, у мене праця знайдеться.
@@ -74,7 +75,8 @@
     <string id="bandit_trader_st_12">
         <text>Зрозуміло. Так, історія, звичайно, та ще...</text>
     </string>
-    <!-- (Bandits Mechanic) -->
+    
+<!-- (Bandits Mechanic) -->
     <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
         <text>Ну, що тобі? Буде що полагодити - тягни сюди. І це, КПК знайдеш - теж неси, баблом не
             ображу.
@@ -138,7 +140,8 @@
     <string id="bandit_mechanic_st_12">
         <text>Неквола історія.</text>
     </string>
-    <!-- Sultan -->
+    
+<!-- Sultan -->
     <string id="zat_b7_bandit_boss_sultan_intro_0">
         <text>Запам'ятовуй: я Султан. Все, що тут відбувається, або вже під моїм контролем, або скоро буде. Хочеш добре
             жити - працюй на мене. Не хочеш - будеш жити погано. Ось так...
@@ -266,7 +269,8 @@
     <string id="sultan_st_10">
         <text>Гаразд. Благодарочка за інфу.</text>
     </string>
-    <!-- (Bandit guide) -->
+    
+<!-- (Bandit guide) -->
     <string id="meet_guid_dv_bandit_0">
         <text>Чим зайнятий?</text>
     </string>

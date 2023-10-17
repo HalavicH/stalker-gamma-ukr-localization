@@ -1,85 +1,86 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_SMR">
-		<text>ZCP</text>
-	</string>
-	
-	<string id="ui_mcm_menu_smr_amain">
-		<text>Main</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_persist_info_mm">
-		<text>Ви не в грі. Будь-які зміни, зроблені зараз, будуть застосовані під час запуску нової гри, але будуть перезаписані, якщо файл збереження, який ви завантажили, містить збережену конфігурацію.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_persist_info_level">
-		<text>Ви в грі. Будь-які зміни, зроблені зараз, будуть збережені і завантажені разом з вашим файлом збереження.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_tooltip_info">
-		<text>Більшість опцій мають підказки. Якщо ви не знаєте, що робить опція, наведіть курсор миші на її назву, щоб побачити опис.</text>
-	</string>
-	<!-- GENERAL -->
-	<string id="st_smr_glitched_pda_text">
-		<text>FATAL ERROR: INTERNAL MEMORY CORRUPTION DETECTED</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_smr_enabled">
-		<text>Увімкнути ZCP</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_smr_debug_log">
-		<text>Ведення debug журналу</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
-		<text>Увімкнути ведення журналу налагодження. ПОПЕРЕДЖЕННЯ: Це дуже швидко роздує ваш файл журналу, а також окремий файл журналу "dph_zcp.log".</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_smr_persist_override">
-		<text>Не завантажувати конфігурацію зі збереженого файлу</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_smr_persist_override_desc">
-		<text>Перевизначає завантаження конфігурації зі збереженого файлу. Корисно, якщо ви підозрюєте, що збережені дані пошкоджено або вони недійсні з інших причин.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_respawn_idle">
-		<text>Час відродження</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_10800">
-		<text>3 Години</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_21600">
-		<text>6 Годин</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_43200">
-		<text>12 Години</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
-		<text>1 День (default)</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_172800">
-		<text>2 Дніs</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_345600">
-		<text>4 Дні</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_604800">
-		<text>1 Тиждень</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_1209600">
-		<text>2 Тижні</text>
-	</string>
-	<string id="ui_mcm_lst_smr_amain_respawn_idle_1">
-		<text>Ніколи</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_pop_factor_info">
-		<text>Ці налаштування популяційного фактору замінять вбудовані налаштування Anomaly, коли буде увімкнено ZCP.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_monster_pop_factor">
-		<text>Фактор популяції мутантів</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_stalker_pop_factor">
-		<text>Фактор популяції сталкерів</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_respawn_idle_desc">
-		<text>Змінює таймер респауну для всіх сталкерів, мутантів і зомбі.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_glitched_pda">
-		<text>Зламані КПК</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_amain_glitched_pda_desc">
-		<text>Перетворює ваш корисний КПК на прес-пап'є, доповнене милим повідомленням про помилку.</text>
-	</string>
+    <string id="ui_mcm_menu_SMR">
+        <text>ZCP</text>
+    </string>
+    <string id="ui_mcm_menu_smr_amain">
+        <text>Main</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_persist_info_mm">
+        <text>Ви не в грі. Будь-які зміни, зроблені зараз, будуть застосовані під час запуску нової гри, але будуть перезаписані, якщо файл збереження, який ви завантажили, містить збережену конфігурацію.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_persist_info_level">
+        <text>Ви в грі. Будь-які зміни, зроблені зараз, будуть збережені і завантажені разом з вашим файлом збереження.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_tooltip_info">
+        <text>Більшість опцій мають підказки. Якщо ви не знаєте, що робить опція, наведіть курсор миші на її назву, щоб побачити опис.</text>
+    </string>
+    
+<!-- GENERAL -->
+    <string id="st_smr_glitched_pda_text">
+        <text>FATAL ERROR: INTERNAL MEMORY CORRUPTION DETECTED</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_smr_enabled">
+        <text>Увімкнути ZCP</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_smr_debug_log">
+        <text>Ведення debug журналу</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
+        <text>Увімкнути ведення журналу налагодження. ПОПЕРЕДЖЕННЯ: Це дуже швидко роздує ваш файл журналу, а також окремий файл журналу "dph_zcp.log".</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_smr_persist_override">
+        <text>Не завантажувати конфігурацію зі збереженого файлу</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_smr_persist_override_desc">
+        <text>Перевизначає завантаження конфігурації зі збереженого файлу. Корисно, якщо ви підозрюєте, що збережені дані пошкоджено або вони недійсні з інших причин.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_respawn_idle">
+        <text>Час відродження</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_10800">
+        <text>3 Години</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_21600">
+        <text>6 Годин</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_43200">
+        <text>12 Години</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
+        <text>1 День (default)</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_172800">
+        <text>2 Дніs</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_345600">
+        <text>4 Дні</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_604800">
+        <text>1 Тиждень</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_1209600">
+        <text>2 Тижні</text>
+    </string>
+    <string id="ui_mcm_lst_smr_amain_respawn_idle_1">
+        <text>Ніколи</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_pop_factor_info">
+        <text>Ці налаштування популяційного фактору замінять вбудовані налаштування Anomaly, коли буде увімкнено ZCP.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_monster_pop_factor">
+        <text>Фактор популяції мутантів</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_stalker_pop_factor">
+        <text>Фактор популяції сталкерів</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_respawn_idle_desc">
+        <text>Змінює таймер респауну для всіх сталкерів, мутантів і зомбі.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_glitched_pda">
+        <text>Зламані КПК</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_amain_glitched_pda_desc">
+        <text>Перетворює ваш корисний КПК на прес-пап'є, доповнене милим повідомленням про помилку.</text>
+    </string>
 </string_table>

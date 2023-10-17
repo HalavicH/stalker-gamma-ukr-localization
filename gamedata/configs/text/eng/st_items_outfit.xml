@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Miscellaneous gear -->
+    
+<!-- Miscellaneous gear -->
     <string id="st_psy_helmet_name">
         <text>«Пси-шолом»</text>
     </string>
@@ -30,7 +31,8 @@
             ймовірність помилки або неефективної роботи пристрою в зонах згаданого пси-випромінювання.
         </text>
     </string>
-    <!-- Headgear -->
+    
+<!-- Headgear -->
     <string id="st_helm_exo_name">
         <text>Екзошлем</text>
     </string>
@@ -360,7 +362,8 @@
             Пси-випромінювання. \n\n
         </text>
     </string>
-    <!--\novice outfits -->
+    
+<!--\novice outfits -->
     <string id="novice_outfit_name">
         <text>Шкіряна куртка</text>
     </string>
@@ -448,7 +451,8 @@
             тобто завжди. \n\n
         </text>
     </string>
-    <!-- Overcoats -->
+    
+<!-- Overcoats -->
     <string id="monolith_trenchcoat_outfit_name">
         <text>Плащ «Моноліту»</text>
     </string>
@@ -498,7 +502,8 @@
             ряду базових захисних костюмів. \n\n
         </text>
     </string>
-    <!-- Exploration -->
+    
+<!-- Exploration -->
     <string id="travel_outfit_name">
         <text>Комбінезон барахольщика</text>
     </string>
@@ -563,7 +568,8 @@
             знижує його ефективність і гнучкість підбору комплекту під відповідні потреби. \n\n
         </text>
     </string>
-    <!-- CS outfits -->
+    
+<!-- CS outfits -->
     <string id="csky_light_novice_outfit_name">
         <text>Бронежилет ЧН-1а</text>
     </string>
@@ -603,7 +609,8 @@
             кулю, а й забезпечує цілком прийнятну захист від аномального впливу. \n\n
         </text>
     </string>
-    <!--\nBC outfits -->
+    
+<!--\nBC outfits -->
     <string id="nbc_outfit_name">
         <text>Комбінезон РХБЗ</text>
     </string>
@@ -688,7 +695,8 @@
             ряду кримінальних елементів, яким доводиться по душі його дивом збереглася система розподілу ваги.\n\n
         </text>
     </string>
-    <!-- Assault vest -->
+    
+<!-- Assault vest -->
     <string id="light_loner_outfit_name">
         <text>Бронежилет «Перехоплювач»</text>
     </string>
@@ -766,7 +774,8 @@
             ООН, які мають намір здійснити рейди в секретні лабораторії, розташовані на території Зони. \n\n
         </text>
     </string>
-    <!-- Sunrise suits -->
+    
+<!-- Sunrise suits -->
     <string id="stalker_outfit_name">
         <text>Комбінезон «Зоря»</text>
     </string>
@@ -926,7 +935,8 @@
             сили, так і аномальної природи Зони. \n\n
         </text>
     </string>
-    <!-- STS (Special Tactical Suits) -->
+    
+<!-- STS (Special Tactical Suits) -->
     <string id="svoboda_light_outfit_name">
         <text>Комбінезон «Вітер свободи»</text>
     </string>
@@ -1023,7 +1033,8 @@
             рекомендується уникати уваги і зустрічей з місцевими сталкерами. \n\n
         </text>
     </string>
-    <!-- LCS (Light Combat Suit) -->
+    
+<!-- LCS (Light Combat Suit) -->
     <string id="merc_outfit_name">
         <text>Легкий комбінезон найманців</text>
     </string>
@@ -1180,7 +1191,8 @@
             радіаційним фоном. \n\n
         </text>
     </string>
-    <!-- Berill-5M Armoured Suits -->
+    
+<!-- Berill#5M Armoured Suits -->
     <string id="army_outfit_name">
         <text>Армійський бронежилет</text>
     </string>
@@ -1258,7 +1270,8 @@
             наближення до них. \n\n
         </text>
     </string>
-    <!-- PS5-M Universal protection suit -->
+    
+<!-- PS5#M Universal protection suit -->
     <string id="dolg_outfit_name">
         <text>Пс5-М "Універсальний захист»</text>
     </string>
@@ -1328,7 +1341,8 @@
             ніж хороший для суворих умов Зони. \n\n
         </text>
     </string>
-    <!-- Skat-9 Military Armoured Suits -->
+    
+<!-- Skat#9 Military Armoured Suits -->
     <string id="military_outfit_name">
         <text>Бронекостюм «СКАТ-9»</text>
     </string>
@@ -1396,7 +1410,8 @@
             ветерани «Обов'язку» часто використовують «Щит "Обов'язку"» в бою, щоб вшанувати пам'ять загиблого командира. \n\n
         </text>
     </string>
-    <!-- Scientific outfits -->
+    
+<!-- Scientific outfits -->
     <string id="scientific_outfit_name">
         <text>Комбінезон «СЄВА»</text>
     </string>
@@ -1589,7 +1604,8 @@
             \n\n
         </text>
     </string>
-    <!-- SSP-99 -->
+    
+<!-- SSP#99 -->
     <string id="st_ecologist_outfit_orange_name">
         <text>ССП-99 «Еколог»</text>
     </string>
@@ -1658,7 +1674,8 @@
             куль, ні від осколків. \n\n
         </text>
     </string>
-    <!-- Heavy combat suits -->
+    
+<!-- Heavy combat suits -->
     <string id="exolight_outfit_name">
         <text>Важкий бронекостюм</text>
     </string>
@@ -1892,7 +1909,8 @@
             зонах високої активності термічних аномалій. \n\n
         </text>
     </string>
-    <!-- Proptotype Exoskeleton -->
+    
+<!-- Proptotype Exoskeleton -->
     <string id="stalker_proto_exo_outfit_name">
         <text>Комбінезон «Зоря» з протоекзоскелетом</text>
     </string>
@@ -1989,7 +2007,8 @@
             екзоскелетом. З іншого боку, його техобслуговування обходиться набагато дешевше. \n\n
         </text>
     </string>
-    <!-- Exoskeletons -->
+    
+<!-- Exoskeletons -->
     <string id="exo_outfit_name">
         <text>Екзоскелет</text>
     </string>
@@ -2136,7 +2155,8 @@
             цьому залишається невідомим - чи є це відчуття справжнім чи ні.\n\n
         </text>
     </string>
-    <!--\nosorog exskeletal armour -->
+    
+<!--\nosorog exskeletal armour -->
     <string id="dolg_nosorog_outfit_name">
         <text>ПСЗ-10Д «Носоріг»</text>
     </string>
@@ -2177,7 +2197,8 @@
             його придбати доведеться викласти пристойну суму.\n\n
         </text>
     </string>
-    <!--\no group -->
+    
+<!--\no group -->
     <string id="ghillie_outfit_name">
         <text>Маскувальний костюм</text>
     </string>

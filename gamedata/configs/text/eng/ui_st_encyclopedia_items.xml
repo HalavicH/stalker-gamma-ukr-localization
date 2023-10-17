@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	
-	<string id="encyclopedia_items">
-	<text>Предмети</text>
-</string>
-
-<string id="encyclopedia_items_pda">
-<text>КПК</text>
-</string>
-<string id="encyclopedia_items_pda_text">
-<text>
+    <string id="encyclopedia_items">
+        <text>Предмети</text>
+    </string>
+    <string id="encyclopedia_items_pda">
+        <text>КПК</text>
+    </string>
+    <string id="encyclopedia_items_pda_text">
+        <text>
 %c[pda_white]КПК%c[ui_gray_1], або %c[pda_white]«PDA»%c[ui_gray_1] - кишеньковий електронний пристрій, призначений для виконання основних та найважливіших функцій комп'ютера.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -19,13 +17,12 @@
 \nВін також постачається з FM-радіоприймачем, що забезпечує доступ до місцевих радіоканалів.
 \n \n• Використовує %c[pda_white]0.1 мА·год%c[ui_gray_1] за секунду при тривалому використанні. Споживання енергії збільшується з новими моделями КПК.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_upd">
-<text>УЗП (UPD)</text>
-</string>
-<string id="encyclopedia_items_itm_upd_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_itm_upd">
+        <text>УЗП (UPD)</text>
+    </string>
+    <string id="encyclopedia_items_itm_upd_text">
+        <text>
 %c[pda_white]Універсальний зарядний пристрій (Universal Power Device)%c[ui_gray_1] є портативним блоком живлення розміром з невелику рацію. Сумісний майже з будь-яким типом батарей. Використовує енергію батарей до останньої краплі і передає її в електронні пристрої через невеликі тонкі дроти, що входять до комплекту. Можна підключити практично будь-яке обладнання, незалежно від складності та технічного покоління пристроїв. Саме УЗП допомагає сталкерам підтримувати свої електронні пристрої у робочому стані.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -34,13 +31,12 @@
 \nПри розрядженні УЗП всі підключені пристрої перестають працювати.
 \nЗавжди слідкуйте за рівнем заряду та майте при собі запасні батареї.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_basickit">
-<text>Інструменти для грубої роботи</text>
-</string>
-<string id="encyclopedia_items_itm_basickit_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_itm_basickit">
+        <text>Інструменти для грубої роботи</text>
+    </string>
+    <string id="encyclopedia_items_itm_basickit_text">
+        <text>
 %c[pda_white]Набір інструментів «Юний технік»%c[ui_gray_1] - для досвідченого техніка такий набір необхідний для найпростіших апгрейдів броні та зброї. Для звичайного сталкера стане зручним інструментом при створенні найпростіших речей.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -49,13 +45,12 @@
 \n \n%c[pda_white]Посібники з виживання%c[ui_gray_1] зазвичай надають інформацію про базове спорядження та набори виживання. За певних навичок і знань, економний сталкер знайде набору правильне застосування.
 Хорошою ідеєю буде мати необхідні для крафту сировину та матеріали прямо під рукою.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_advancedkit">
-<text>Інструменти для тонкої роботи</text>
-</string>
-<string id="encyclopedia_items_itm_advancedkit_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_itm_advancedkit">
+        <text>Інструменти для тонкої роботи</text>
+    </string>
+    <string id="encyclopedia_items_itm_advancedkit_text">
+        <text>
 Непоганий %c[pda_white]набір інструментів для радіомонтажу%c[ui_gray_1], необхідних для роботи з радіоапаратурою. Незамінна річ у разі поломки рації чи КПК. Незважаючи на своє пряме призначення, в умілих руках може бути корисний при різних видах робіт: від створення простенького спорядження до обладнання та апгрейдів.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -64,13 +59,12 @@
 \n \n%c[pda_white]Посібники з механіки%c[ui_gray_1] надають корисну інформацію про створення просунутого спорядження. За певних навичок і знань, економний сталкер знайде набору правильне застосування.
 Хорошою ідеєю буде мати необхідні для крафту сировину та матеріали прямо під рукою.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_expertkit">
-<text>Інструменти для калібрування</text>
-</string>
-	<string id="encyclopedia_items_itm_expertkit_text">
-		<text>
+    </string>
+    <string id="encyclopedia_items_itm_expertkit">
+        <text>Інструменти для калібрування</text>
+    </string>
+    <string id="encyclopedia_items_itm_expertkit_text">
+        <text>
 	%c[pda_white]Професійний набір інструментів для тонкого доведення обладнання%c[ui_gray_1], напис на якому свідчить, що набір вироблений у НДР. Того, що включено в комплект, достатньо не тільки для проведення майже будь-яких робіт з налаштування та калібрування, а й створення ряду обладнання та спорядження.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -79,13 +73,12 @@
 \n \n%c[pda_white]Посібники з промислової інженерії%c[ui_gray_1] надають корисну інформацію про промислову інженерію. За певних навичок і знань, економний сталкер знайде набору правильне застосування.
 Хорошою ідеєю буде мати необхідні для крафту сировину та матеріали прямо під рукою.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_drugkit">
-<text>Набір для створення медикаментів</text>
-</string>
-<string id="encyclopedia_items_itm_drugkit_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_itm_drugkit">
+        <text>Набір для створення медикаментів</text>
+    </string>
+    <string id="encyclopedia_items_itm_drugkit_text">
+        <text>
 %c[pda_white]Набір для створення медикаментів%c[ui_gray_1] може бути використаний для створення різних видів та типів як медикаментів, так і наркотичних речовин.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -93,13 +86,12 @@
 \n \nПарі людей з достатнім запасом знань та інформації про медикаменти та наркотики може стати в нагоді цей набір. Не втрачайте можливості отримати вкрай корисні рецепти %c[pda_white]%c[ui_gray_1].
 Хорошою ідеєю буде мати необхідні для крафту сировину та матеріали прямо під рукою.
 </text>
-</string>
-
-<string id="encyclopedia_items_itm_ammokit">
-<text>Збройові інструменти</text>
-</string>
-<string id="encyclopedia_items_itm_ammokit_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_itm_ammokit">
+        <text>Збройові інструменти</text>
+    </string>
+    <string id="encyclopedia_items_itm_ammokit_text">
+        <text>
 %c[pda_white]Збройові інструменти%c[ui_gray_1] можуть бути використані для утилізації старих боєприпасів та подальшого створення нових.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -108,13 +100,12 @@
 \n \n%c[pda_white]Посібники з техніки безпеки при користуванні боєприпасами%c[ui_gray_1] надають інформацію про різні види та типи боєприпасів, а також містять детальну інформацію про пристрій патронів. За певних навичок і знань, економний сталкер знайде набору правильне застосування.
 Хорошою ідеєю буде збір старих боєприпасів і зберігання їх під рукою. Грошей за них не дадуть, а от із боєприпасами допомогти – можуть.
 </text>
-</string>
-
-<string id="encyclopedia_items_kit_hunt">
-<text>Мисливський рюкзак</text>
-</string>
-<string id="encyclopedia_items_kit_hunt_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_kit_hunt">
+        <text>Мисливський рюкзак</text>
+    </string>
+    <string id="encyclopedia_items_kit_hunt_text">
+        <text>
 При використанні %c[pda_white]мисливського рюкзака%c[ui_gray_1] підвищується кількість частин мутантів, які можна зрізати.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -122,13 +113,12 @@
 Лише мала частина сталкерів використовує професійне спорядження при свіжуванні та обробці видобутку, що цілком пояснює харчові отруєння і захворювання, що стали вже буденністю серед сталкерів, після вживання м'яса мутантів в їжу.
 \nЗавдяки різному спорядженню в комплекті, може бути використаний і для обслуговування зброї та спорядження.
 </text>
-</string>
-
-<string id="encyclopedia_items_fieldcooker">
-<text>Мультипаливна піч</text>
-</string>
-	<string id="encyclopedia_items_fieldcooker_text">
-		<text>
+    </string>
+    <string id="encyclopedia_items_fieldcooker">
+        <text>Мультипаливна піч</text>
+    </string>
+    <string id="encyclopedia_items_fieldcooker_text">
+        <text>
 	%c[pda_white]Мультипаливна піч%c[ui_gray_1] дозволяє приготувати м'ясо мутантів.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -143,13 +133,12 @@
 Може приготувати м'ясо всіх мутантів.
 \n• Паливо, що використовується: %c[pda_white]бензин, природний газ, гас%c[ui_gray_1]
 </text>
-</string>
-
-<string id="encyclopedia_items_cooking">
-<text>Комплект приготування їжі</text>
-</string>
-<string id="encyclopedia_items_cooking_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_cooking">
+        <text>Комплект приготування їжі</text>
+    </string>
+    <string id="encyclopedia_items_cooking_text">
+        <text>
 %c[pda_white]Комплект приготування їжі%c[ui_gray_1] дозволяє приготувати на вогнищі м'ясо мутантів.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -163,13 +152,12 @@
 \n• Використовується для приготування м'яса мутантів «низького походження» %c[pda_white]на вогнищі%c[ui_gray_1].
 \n• Для приготування м'яса мутантів «високого походження», навпаки, потрібно %c[pda_white]деревне вугілля%c[ui_gray_1].
 </text>
-</string>
-
-<string id="encyclopedia_items_army_bowler">
-<text>Армійський казанок</text>
-</string>
-<string id="encyclopedia_items_army_bowler_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_army_bowler">
+        <text>Армійський казанок</text>
+    </string>
+    <string id="encyclopedia_items_army_bowler_text">
+        <text>
 %c[pda_white]Армійський казанок%c[ui_gray_1] дозволяє приготувати на вогнищі м'ясо мутантів.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -184,14 +172,12 @@
 \n• Може бути використаний на %c[pda_white]кострі%c[ui_gray_1] або разом з %c[pda_white]деревним вугіллям%c[ui_gray_1].
 Може приготувати м'ясо всіх мутантів.
 </text>
-</string>
-
-
-<string id="encyclopedia_items_detector_geiger">
-<text>Дозиметр</text>
-</string>
-<string id="encyclopedia_items_detector_geiger_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_geiger">
+        <text>Дозиметр</text>
+    </string>
+    <string id="encyclopedia_items_detector_geiger_text">
+        <text>
 %c[pda_white]Дозиметр%c[ui_gray_1] використовується для вимірювання іонізуючого (радіоактивного) випромінювання.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -200,13 +186,12 @@
 \n \n%c[pda_yellow]Додатково%c[ui_gray_1]
 \n• Вимірює значення як радіаційного фону, так і вже накопиченої радіації в реальному часі, коли знаходиться в руці - перемикання режимів роботи здійснюється за допомогою «SHIFT+8».
 </text>
-</string>
-
-<string id="encyclopedia_items_detector_simple">
-<text>Детектор «Відгук»</text>
-</string>
-<string id="encyclopedia_items_detector_simple_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_simple">
+        <text>Детектор «Відгук»</text>
+    </string>
+    <string id="encyclopedia_items_detector_simple_text">
+        <text>
 %c[pda_white]Детектор «Відгук»%c[ui_gray_1] - пристрій, що дозволяє виявляти артефакти у невеликому радіусі своєї дії.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -217,13 +202,12 @@
 
 \n \n• Використовує %c[pda_white]0.1 мА·год%c[ui_gray_1] за секунду при тривалому використанні.
 </text>
-</string>
-
-<string id="encyclopedia_items_detector_advanced">
-<text>Детектор «Ведмідь»</text>
-</string>
-<string id="encyclopedia_items_detector_advanced_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_advanced">
+        <text>Детектор «Ведмідь»</text>
+    </string>
+    <string id="encyclopedia_items_detector_advanced_text">
+        <text>
 %c[pda_white]Детектор "Ведмідь"%c[ui_gray_1] - пристрій, що дозволяє виявляти артефакти в невеликому радіусі своєї дії.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -233,13 +217,12 @@
 
 \n \n• Використовує %c[pda_white]0.15 мА·год%c[ui_gray_1] за секунду при тривалому використанні.
 </text>
-</string>
-
-<string id="encyclopedia_items_detector_elite">
-<text>Детектор "Велес"</text>
-</string>
-<string id="encyclopedia_items_detector_elite_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_elite">
+        <text>Детектор "Велес"</text>
+    </string>
+    <string id="encyclopedia_items_detector_elite_text">
+        <text>
 %c[pda_white]Детектор «Велес»%c[ui_gray_1] - просунутий пристрій, що дозволяє виявляти артефакти в невеликому радіусі своєї дії з високою точністю даних.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -249,13 +232,12 @@
 
 \n \n• Використовує %c[pda_white]0.15 мА·год%c[ui_gray_1] за секунду при тривалому використанні.
 </text>
-</string>
-
-<string id="encyclopedia_items_detector_scientific">
-<text>Прототип детектора «Сварог»</text>
-</string>
-<string id="encyclopedia_items_detector_scientific_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_scientific">
+        <text>Прототип детектора «Сварог»</text>
+    </string>
+    <string id="encyclopedia_items_detector_scientific_text">
+        <text>
 %c[pda_white]Прототип детектора «Сварог»%c[ui_gray_1] - є найдосконалішим на даний момент пристроєм, здатним не тільки виявляти артефакти, але також виявляти аномалії з високою точністю даних та виводити їх місцезнаходження на екран.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -265,13 +247,12 @@
 
 \n \n• Використовує %c[pda_white]0.2 мА·год%c[ui_gray_1] за секунду при тривалому використанні.
 </text>
-</string>
-
-<string id="encyclopedia_items_gps_tracker">
-<text>Військовий GPS-модуль</text>
-</string>
-<string id="encyclopedia_items_gps_tracker_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_gps_tracker">
+        <text>Військовий GPS-модуль</text>
+    </string>
+    <string id="encyclopedia_items_gps_tracker_text">
+        <text>
 %c[pda_white]Військовий GPS-модуль%c[ui_gray_1], що дозволяє користувачеві виявити сталкерів у радіусі дії пристрою.
 		\n \n%c[pda_green]Інформація%c[ui_gray_1]
 \nAПрототип наступного покоління GPS навігацій. На даний момент створено лише кілька екземплярів, розподілених серед вищих військових чинів, проте пара цих модулів уже встигла опинитися в інших руках.
@@ -284,13 +265,12 @@
 \n• Радіус сканування: %c[pda_white]300 метрів%c[ui_gray_1]
 \n• Споживає %c[pda_white]0.25 А·ч%c[ui_gray_1] за одне використання.
 </text>
-</string>
-
-<string id="encyclopedia_items_lead_box">
-<text>СІМК</text>
-</string>
-<string id="encyclopedia_items_lead_box_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_lead_box">
+        <text>СІМК</text>
+    </string>
+    <string id="encyclopedia_items_lead_box_text">
+        <text>
 %c[pda_white]Свинцево-ізольований металевий контейнер для артефактів (СІМК)%c[ui_gray_1] використовується для зберігання артефактів, повністю захищаючи носія від випромінюваної ними радіації та будь-яких властивостей.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -304,13 +284,12 @@
 \n• Для розміщення артефакту в контейнер натисніть на артефакт в інвентарі та, утримуючи, перетягніть його на контейнер.
 \n• Вага: %c[pda_white]2.12 кг%c[ui_gray_1]
 </text>
-</string>
-
-<string id="encyclopedia_items_af_iam">
-<text>СПМ</text>
-</string>
-<string id="encyclopedia_items_af_iam_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_af_iam">
+        <text>СПМ</text>
+    </string>
+    <string id="encyclopedia_items_af_iam_text">
+        <text>
 %c[pda_white]Самодельний прикладний модуль%c[ui_gray_1] використовується для зберігання артефактів і фільтрації слабкого рівня випромінюваної ними радіації, одночасно дозволяючи прикріпити контейнер на пояс.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -325,13 +304,12 @@
 \n• Вага: %c[pda_white]2.4 кг%c[ui_gray_1]
 \n • Макс. допустимий рівень випромінювання: %c[pda_white]7 мЗв%c[ui_gray_1]
 </text>
-</string>
-
-<string id="encyclopedia_items_af_aac">
-<text>ПКА</text>
-</string>
-<string id="encyclopedia_items_af_aac_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_af_aac">
+        <text>ПКА</text>
+    </string>
+    <string id="encyclopedia_items_af_aac_text">
+        <text>
 %c[pda_white]Прикладний контейнер для артефактів (ПКА) %c[ui_gray_1] використовується для зберігання артефактів і фільтрації середнього рівня радіації, що випромінюється ними, одночасно дозволяючи прикріпити контейнер на пояс.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -347,13 +325,12 @@
 \n• Вага: %c[pda_white]2.73 кг%c[ui_gray_1]
 \n • Макс. допустимий рівень випромінювання: %c[pda_white]12 мЗв%c[ui_gray_1]
 </text>
-</string>
-
-<string id="encyclopedia_items_af_aam">
-<text>ПМА</text>
-</string>
-<string id="encyclopedia_items_af_aam_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_af_aam">
+        <text>ПМА</text>
+    </string>
+    <string id="encyclopedia_items_af_aam_text">
+        <text>
 %c[pda_white]Прикладний модуль для артефактів (ПМА)%c[ui_gray_1] використовується для зберігання артефактів і фільтрації високого рівня радіації, що випромінюється ними, одночасно дозволяючи прикріпити контейнер на пояс.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -371,13 +348,12 @@
 \n• Вага: %c[pda_white]3.06 кг%c[ui_gray_1]
 \n • Макс. допустимий рівень випромінювання: %c[pda_white]23 мЗв%c[ui_gray_1]
 </text>
-</string>
-
-<string id="encyclopedia_items_detector_radio">
-<text>RF-ресивер</text>
-</string>
-<string id="encyclopedia_items_detector_radio_text">
-<text>
+    </string>
+    <string id="encyclopedia_items_detector_radio">
+        <text>RF-ресивер</text>
+    </string>
+    <string id="encyclopedia_items_detector_radio_text">
+        <text>
 %c[pda_white]RF-ресивер (приймач)%c[ui_gray_1] є маленьким пристроєм з високочутливим радіочастотним модулем, який використовується для забезпечення базового виду комунікації.
 
 \n \n%c[pda_green]Інформація%c[ui_gray_1]
@@ -394,6 +370,5 @@
 
 \n \n• Використовує %c[pda_white]0.1 мА·год%c[ui_gray_1] за секунду при тривалому використанні.
 </text>
-</string>
-	
+    </string>
 </string_table>

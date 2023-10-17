@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Consumable Items (Alcohol + Food + Smoke)
--->
 <string_table>
-    <!--< ALCOHOL >-->
+    
+<!--< ALCOHOL >-->
     <string id="st_vodka">
         <text>Горілка «Nemiroff»</text>
     </string>
@@ -50,7 +47,8 @@
             алкоголь низької якості\n
         </text>
     </string>
-    <!---< FOOD >-->
+    
+<!--#< FOOD >-->
     <string id="st_energy_drink">
         <text>Міцний енергетик (250 мл.)</text>
     </string>
@@ -315,7 +313,8 @@
             секунд. Смак, правда, гірше нікуди.\n
         </text>
     </string>
-    <!---< SMOKE >-->
+    
+<!--#< SMOKE >-->
     <string id="st_cuban_cigar">
         <text>Кубинські сигари</text>
     </string>
@@ -396,8 +395,10 @@
             використання (згортання в самокрутку)\n%c[d_blue] • %c[ui_gray_2] потужна протверезна дія\n%c[d_red]            • %c[ui_gray_2] низька якість\n
         </text>
     </string>
-    <!-- unused -->
-    <!--
+    
+<!-- unused -->
+    
+<!--
       <string id="st_vodka_1_radiated">
           <text>Putinka vodka (irradiated)</text>
       </string>
@@ -432,7 +433,7 @@
           <text>Mineral water (irradiated)</text>
       </string>
       <string id="st_cocacola_radiated">
-          <text>Coca-Cola (irradiated)</text>
+          <text>Coca#Cola (irradiated)</text>
       </string>
       <string id="st_redbull_radiated">
           <text>Redbull energy drink</text>
@@ -453,7 +454,7 @@
           <text>Cuban cigars (irradiated)</text>
       </string>
       <string id="st_wild_drink_radiated">
-          <text>Zone-produced liquor (irradiated)</text>
+          <text>Zone#produced liquor (irradiated)</text>
       </string>
       <string id="st_kolbasa_smoked_radiated">
           <text>Smoked sausage (irradiated)</text>
@@ -549,7 +550,7 @@
           <text>Special bandage (irradiated)</text>
       </string>
       <string id="st_drug_engine_radiated">
-          <text>Anti-hallucinogen (irradiated)</text>
+          <text>Anti#hallucinogen (irradiated)</text>
       </string>
       <string id="st_drug_cat_eye_radiated">
           <text>Cat's eye (irradiated)</text>

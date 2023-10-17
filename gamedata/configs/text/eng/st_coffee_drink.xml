@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="st_coffee_drink">
-		<text>Готова до вживання кава UCC Cold Brew</text>
-	</string>
-	<string id="st_coffee_drink_descr">
-		<text>UCC Кава холодного заварювання з арабіки та робусти на молоці.\n \n
+    <string id="st_coffee_drink">
+        <text>Готова до вживання кава UCC Cold Brew</text>
+    </string>
+    <string id="st_coffee_drink_descr">
+        <text>UCC Кава холодного заварювання з арабіки та робусти на молоці.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -12,6 +12,5 @@
 		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
 		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
 		</text>
-	</string>
-	
+    </string>
 </string_table>

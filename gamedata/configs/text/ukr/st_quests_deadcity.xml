@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON DEAD CITY MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Default Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -35,8 +28,10 @@
     <string id="drx_sl_cit_killers_merc_trader_stalker_default_task_finish">
         <text>Удачі, сталкер.</text>
     </string>
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_1_name">
         <text>Рейд</text>
     </string>
@@ -60,8 +55,10 @@
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_1_finish">
         <text>Відмінно спрацьовано. Наш клієнт задоволений, так само як і я. Тобі навіть бонус перепав, лови.</text>
     </string>
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
         <text>Конфлікт інтересів</text>
     </string>
@@ -83,8 +80,10 @@
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
         <text>Відмінна робота. Орел! Знову все вільніше стало. Ні до чого нам зайві сусіди.</text>
     </string>
-    <!-- - -->
-    <!-- Hog (Merc Mechanic) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Hog (Merc Mechanic) Default Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -98,8 +97,10 @@
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_finish">
         <text>Бувай-бувай.</text>
     </string>
-    <!-- - -->
-    <!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_name">
         <text>Йдучи, гасіть всіх</text>
     </string>
@@ -120,8 +121,10 @@
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
         <text>Відмінна робота. Тримай преміальні. \n\nОсь виродки тупоролие, все прут і прут...</text>
     </string>
-    <!-- - -->
-    <!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
         <text>Солдат невдачі</text>
     </string>
@@ -138,8 +141,10 @@
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_finish">
         <text>Хороша робота.</text>
     </string>
-    <!-- - -->
-    <!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_name">
         <text>Особиста помста</text>
     </string>
@@ -162,18 +167,22 @@
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
         <text>Убив цю худобу? Дякую, чоловіче.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- CHANGE FACTIONS TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Payoff Change Factions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# CHANGE FACTIONS TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Payoff Change Factions Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_name">
         <text>Солдат удачі</text>
     </string>
@@ -192,18 +201,22 @@
     <string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_finish">
         <text>Що ж, можеш вважати, що контракт з нами підписаний. Ласкаво просимо до нас, орел.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
     <string id="cit_killers_merc_trader_stalker_task_1_name">
         <text>Просто бізнес</text>
     </string>
@@ -223,7 +236,8 @@
     <string id="cit_killers_merc_trader_stalker_task_1_finish">
         <text>Зроблено? Відмінно. Ось твоя доля:</text>
     </string>
-    <!-- ASSAULT TERRITORY FOR MERCS TASK -->
+    
+<!-- ASSAULT TERRITORY FOR MERCS TASK -->
     <string id="cit_killers_merc_trader_stalker_task_2_name">
         <text>Зачистка</text>
     </string>
@@ -240,8 +254,10 @@
     <string id="cit_killers_merc_trader_stalker_task_2_finish">
         <text>Молоток. Лови гешефт.</text>
     </string>
-    <!-- - -->
-    <!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+    
+<!-- # -->
+    
+<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
     <string id="cit_killers_merc_trader_stalker_task_3_name">
         <text>Цінна інформація</text>
     </string>
@@ -260,18 +276,22 @@
     <string id="cit_killers_merc_trader_stalker_task_3_finish">
         <text>Ось порадував. Знав, що на тебе можна покластися. Лови належне.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- MECHANIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# MECHANIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
     <string id="cit_killers_merc_mechanic_stalker_task_1_name">
         <text>Інструменти війни, ч.1</text>
     </string>
@@ -341,7 +361,8 @@
             треба буде - ми це легко поміркуємо.
         </text>
     </string>
-    <!-- Aslan (Barman) -->
+    
+<!-- Aslan (Barman) -->
     <string id="cit_killers_merc_barman_mlr_task_1_name">
         <text>ліквідація</text>
     </string>
@@ -442,7 +463,8 @@
     <string id="cit_killers_merc_barman_mlr_task_5_finish">
         <text>Справу зроблено, а ось і нагорода. Молодцем, братик. Тепер хоч подрімати можна буде по-людськи.</text>
     </string>
-    <!-- Surgeon (Mercenary Medic) -->
+    
+<!-- Surgeon (Mercenary Medic) -->
     <string id="cit_killers_merc_medic_stalker_task_1_name">
         <text>Один лікує, інший - калічить</text>
     </string>

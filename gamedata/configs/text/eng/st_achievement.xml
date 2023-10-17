@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
     <string id="st_achievement_1_name">
         <text>«Підприємець»</text>
     </string>
@@ -355,5 +354,4 @@
     <string id="st_achievement_24_unlock">
         <text>Отримано досягнення «Нескорений».</text>
     </string>
-
 </string_table>

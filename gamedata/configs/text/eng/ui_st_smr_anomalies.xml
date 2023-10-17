@@ -1,42 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_SMR">
-		<text>ZCP</text>
-	</string>
-	
-	<string id="ui_mcm_menu_smr_anomalies">
-		<text>Аномалії</text>
-  </string>
+    <string id="ui_mcm_menu_SMR">
+        <text>ZCP</text>
+    </string>
+    <string id="ui_mcm_menu_smr_anomalies">
+        <text>Аномалії</text>
+    </string>
     <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance">
-		  <text>Кількість динамічних аномалій</text>
+        <text>Кількість динамічних аномалій</text>
     </string>
     <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance_desc">
-      <text>Якщо динамічні аномалії увімкнено, це збільшить/зменшить ймовірність їх появи. Без ZCP гра завжди використовує 35%.</text>
+        <text>Якщо динамічні аномалії увімкнено, це збільшить/зменшить ймовірність їх появи. Без ZCP гра завжди використовує 35%.</text>
     </string>
-		<string id="ui_mcm_SMR_smr_anomalies_pulse">
-			<text>Увімкнути аномалію "Пульс"</text>
-		</string>
-		<string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
-			<text>"Пульс" - це аномалія, яка іноді з'являється у вигляді світла над вами і викликає грім і блискавку, що б'є в землю.</text>
-		</string>
+    <string id="ui_mcm_SMR_smr_anomalies_pulse">
+        <text>Увімкнути аномалію "Пульс"</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
+        <text>"Пульс" - це аномалія, яка іноді з'являється у вигляді світла над вами і викликає грім і блискавку, що б'є в землю.</text>
+    </string>
     <string id="ui_mcm_smr_anomalies_anomalies_types_title">
-		<text>Види аномалій</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_anomalies_anomalies_types_info">
-		<text>Нижче ви можете керувати типами динамічних аномалій, які будуть породжуватися.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_anomalies_electric">
-		<text>Електричні</text>
-	</string>
-  <string id="ui_mcm_SMR_smr_anomalies_chemical">
-		<text>Хімічні</text>
-	</string>
-  <string id="ui_mcm_SMR_smr_anomalies_thermal">
-		<text>Термічні</text>
-	</string>
-  <string id="ui_mcm_SMR_smr_anomalies_gravitational">
-		<text>Гравітаційні</text>
-	</string>
-  <string id="ui_mcm_SMR_smr_anomalies_radioactive">
-		<text>Радіоактивні</text>
-	</string>
-  </string_table>
+        <text>Види аномалій</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_anomalies_types_info">
+        <text>Нижче ви можете керувати типами динамічних аномалій, які будуть породжуватися.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_electric">
+        <text>Електричні</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_chemical">
+        <text>Хімічні</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_thermal">
+        <text>Термічні</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_gravitational">
+        <text>Гравітаційні</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_radioactive">
+        <text>Радіоактивні</text>
+    </string>
+</string_table>

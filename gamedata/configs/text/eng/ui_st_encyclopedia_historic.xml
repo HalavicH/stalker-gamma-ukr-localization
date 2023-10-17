@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	
-	<string id="encyclopedia_historic">
-	<text>Історія</text>
-</string>
-
-<string id="encyclopedia_historic_final_day">
-<text>«Останній день»</text>
-</string>
-<string id="encyclopedia_historic_final_day_text">
-<text>
+    <string id="encyclopedia_historic">
+        <text>Історія</text>
+    </string>
+    <string id="encyclopedia_historic_final_day">
+        <text>«Останній день»</text>
+    </string>
+    <string id="encyclopedia_historic_final_day_text">
+        <text>
 %c[pda_white]«Останній день»%c[ui_gray_1] займалася вивченням Зони, подібно до вчених. Згідно з розповідями Бармена, всі члени цього угруповання були «дикими» хлопцями.
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nВони вважали, що з кожним днем "світ котиться до кінця світу" (завдяки такому припущенню, угруповання так і прозвали) і що територія Зони збільшується з кожним викидом.\n
@@ -21,13 +19,12 @@
 \n• Це угруповання згадується лише у дизайнерських документах розробників гри.
 \n• Була вирізана з фінальної версії S.T.A.L.K.E.R.«Тінь Чорнобиля».
 </text>
-</string>
-
-<string id="encyclopedia_historic_isg">
-<text>«ІДГ»</text>
-</string>
-<string id="encyclopedia_historic_isg_text">
-<text>
+    </string>
+    <string id="encyclopedia_historic_isg">
+        <text>«ІДГ»</text>
+    </string>
+    <string id="encyclopedia_historic_isg_text">
+        <text>
 The %c[pda_green]Інтернаціональна дослідницька група%c[ui_gray_1] була створена для дослідження Зони.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nПісля раптової появи Зони ООН створила новий дослідницький орган з єдиною метою - дослідити і пояснити це дивне явище.\n
@@ -42,13 +39,12 @@ The %c[pda_green]Інтернаціональна дослідницька група%c[ui_gray_1] була створена 
 \n• Це угруповання згадується лише у дизайнерських документах розробників гри.
 \n• Була вирізана з фінальної версії гри S.T.A.L.K.E.R.«Чисте Небо».
 </text>
-</string>
-
-<string id="encyclopedia_historic_renegade">
-<text>«Ренегати»</text>
-</string>
-<string id="encyclopedia_historic_renegade_text">
-<text>
+    </string>
+    <string id="encyclopedia_historic_renegade">
+        <text>«Ренегати»</text>
+    </string>
+    <string id="encyclopedia_historic_renegade_text">
+        <text>
 %c[pda_white]Ренегати%c[ui_gray_1] - нечисленне угруповання, що складається виключно з найнебезпечніших особистостей Зони.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nСамі безпринципні сталкери, які настільки завинили перед своїм угрупуванням, що їх виключили і ні в якому разі не приймають назад.\n
@@ -60,13 +56,12 @@ The %c[pda_green]Інтернаціональна дослідницька група%c[ui_gray_1] була створена 
 \n• Це угруповання було лише у грі S.T.A.L.K.E.R.«Чисте Небо».
 \n• Це угруповання існувало тільки для того, щоб гравець міг потоваришувати з бандитами.
 </text>
-</string>
-
-<string id="encyclopedia_historic_rat_wolf">
-<text>Пацюковий вовк</text>
-</string>
-<string id="encyclopedia_historic_rat_wolf_text">
-<text>
+    </string>
+    <string id="encyclopedia_historic_rat_wolf">
+        <text>Пацюковий вовк</text>
+    </string>
+    <string id="encyclopedia_historic_rat_wolf_text">
+        <text>
 %c[pda_white]Пацюкові волі%c[ui_gray_1] були рідкісним підвидом щурів, що мутували.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 			Будучи набагато небезпечніше, ніж його існуючі родичі, знайдені в Зоні, щурий вовк був невибагливою машиною для вбивств.\n
@@ -79,13 +74,12 @@ The %c[pda_green]Інтернаціональна дослідницька група%c[ui_gray_1] була створена 
 Все, що відомо про цей мутант - з документів ігрового дизайну.
 \n• Цей мутант був вирізаний з S.T.A.L.K.E.R.: Shadow of Chernobyl.
 </text>
-</string>
-
-<string id="encyclopedia_historic_tark">
-<text>Тарк</text>
-</string>
-<string id="encyclopedia_historic_tark_text">
-<text>
+    </string>
+    <string id="encyclopedia_historic_tark">
+        <text>Тарк</text>
+    </string>
+    <string id="encyclopedia_historic_tark_text">
+        <text>
 %c[pda_white]Тарки%c[ui_gray_1] - вимерлі конеподібні істоти, які, ймовірно, мутували з коня Пржевальського.\n
 \n%c[pda_green]Інформація%c[ui_gray_1]
 \nЦя істота мало була схожа на своїх предків через вплив радіації при виникненні Зони.\n
@@ -98,6 +92,5 @@ The %c[pda_green]Інтернаціональна дослідницька група%c[ui_gray_1] була створена 
 Все, що відомо про цей мутант, - це те, що супроводжувало його уявлення.
 Цей мутан програв снурку на конкурсі «Балл монстрів» від GSC Game World.
 </text>
-	</string>
-	
+    </string>
 </string_table>

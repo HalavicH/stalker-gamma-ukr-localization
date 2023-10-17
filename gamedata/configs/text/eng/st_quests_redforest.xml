@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Stribog (Sin Trader) Default Storyline Task -->
+    
+<!-- Stribog (Sin Trader) Default Storyline Task -->
     <string id="drx_sl_red_greh_trader_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -13,7 +14,8 @@
     <string id="drx_sl_red_greh_trader_default_task_finish">
         <text>Світ скоро буде очищений!</text>
     </string>
-    <!-- Stribog (Sin Trader) Retrieve the Secrets of Lab X-16 Storyline Task -->
+    
+<!-- Stribog (Sin Trader) Retrieve the Secrets of Lab X#16 Storyline Task -->
     <string id="drx_sl_red_greh_trader_task_1_name">
         <text>Великий розум</text>
     </string>
@@ -33,7 +35,8 @@
     <string id="drx_sl_red_greh_trader_task_1_finish">
         <text>Чи не знає кордонів твоя відданість нашій місії, брат. Це знання буде під надійним захистом.</text>
     </string>
-    <!-- Stribog (Sin Trader) Escort The Believer Storyline Task -->
+    
+<!-- Stribog (Sin Trader) Escort The Believer Storyline Task -->
     <string id="drx_sl_red_greh_trader_task_2_name">
         <text>Длань просвітлення</text>
     </string>
@@ -64,7 +67,8 @@
     <string id="drx_sl_red_greh_trader_task_2_msg_leave">
         <text>Ми досягли табору? Дякую брат. Вважаю, мені потрібно тепер уявити себе новим братам.</text>
     </string>
-    <!-- Stribog (Sin Trader) Avange the Sinners Storyline Task -->
+    
+<!-- Stribog (Sin Trader) Avange the Sinners Storyline Task -->
     <string id="drx_sl_red_greh_trader_task_3_name">
         <text>Тяжкі гріхи наші</text>
     </string>
@@ -84,7 +88,8 @@
             місії, брат.
         </text>
     </string>
-    <!-- Stribog (Sin Trader) Limansk Purge Storyline Task -->
+    
+<!-- Stribog (Sin Trader) Limansk Purge Storyline Task -->
     <string id="drx_sl_red_greh_trader_task_4_name">
         <text>очищення Лиманську</text>
     </string>
@@ -103,7 +108,8 @@
     <string id="drx_sl_red_greh_trader_task_4_finish">
         <text>Ти добре бився, брат.</text>
     </string>
-    <!-- Stribog (Sin Trader) Payoff Change Factions Task -->
+    
+<!-- Stribog (Sin Trader) Payoff Change Factions Task -->
     <string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_name">
         <text>Немає спокою грішникам</text>
     </string>
@@ -123,7 +129,8 @@
     <string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_finish">
         <text>Ласкаво просимо в сім'ю, брат. Разом ми явімо цього світу світло правди і очищення.</text>
     </string>
-    <!-- Dazhbog (Sin Mechanic) Default Storyline Task -->
+    
+<!-- Dazhbog (Sin Mechanic) Default Storyline Task -->
     <string id="drx_sl_red_greh_tech_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -138,7 +145,8 @@
     <string id="drx_sl_red_greh_tech_default_task_finish">
         <text>З тобою слуги Його, брат.</text>
     </string>
-    <!-- Dazhbog (Sin Mechanic) Retrieve the Secrets of Lab X-18 Storyline Task -->
+    
+<!-- Dazhbog (Sin Mechanic) Retrieve the Secrets of Lab X#18 Storyline Task -->
     <string id="drx_sl_red_greh_tech_task_1_name">
         <text>темні секрети</text>
     </string>
@@ -158,7 +166,8 @@
     <string id="drx_sl_red_greh_tech_task_1_finish">
         <text>Дякую тобі, брат. Це знання буде триматися під надійним захистом.</text>
     </string>
-    <!-- Dazhbog (Sin Mechanic) Hunt the Forest Beast Storyline Task -->
+    
+<!-- Dazhbog (Sin Mechanic) Hunt the Forest Beast Storyline Task -->
     <string id="drx_sl_red_greh_tech_task_2_name">
         <text>Страж лісу</text>
     </string>
@@ -177,7 +186,8 @@
     <string id="drx_sl_red_greh_tech_task_2_finish">
         <text>Брат був упокоєний, а звір переможений. Випробування вогнем пройдено, вітаю тебе, брат.</text>
     </string>
-    <!-- Dazhbog (Sin Mechanic) Slay the Enemy Informer Storyline Task -->
+    
+<!-- Dazhbog (Sin Mechanic) Slay the Enemy Informer Storyline Task -->
     <string id="drx_sl_red_greh_tech_task_3_name">
         <text>Слідами слідопита</text>
     </string>
@@ -199,7 +209,8 @@
             дякую тобі.
         </text>
     </string>
-    <!-- Dazhbog (Sin Mechanic) Find Toolkit Tasks -->
+    
+<!-- Dazhbog (Sin Mechanic) Find Toolkit Tasks -->
     <string id="red_greh_tech_task_1_name">
         <text>Немає межі для досконалості, ч.1</text>
     </string>

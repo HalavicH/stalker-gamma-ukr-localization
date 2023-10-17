@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	
-	<string id="encyclopedia_world">
-<text>Ігровий світ</text>
-</string>
-
-<string id="encyclopedia_world_craft">
-<text>Крафтинг</text>
-</string>
-<string id="encyclopedia_world_craft_text">
-<text>
+    <string id="encyclopedia_world">
+        <text>Ігровий світ</text>
+    </string>
+    <string id="encyclopedia_world_craft">
+        <text>Крафтинг</text>
+    </string>
+    <string id="encyclopedia_world_craft_text">
+        <text>
 Крафтинг - дуже велика тема. Вона включає: розбирання зброї, розбирання костюмів, створення предметів і спеціальних запчастин.
 \n Розбирання здійснюється шляхом безпосереднього перетягування потрібного інструменту або набору інструментів (для костюмів) на костюм у вашому інвентарі.\n
 
@@ -54,6 +52,5 @@
 \n За допомогою набору та сервоприводу можна відновити до 30% міцності екзоскелета незалежно від початкового стану цього.\n
 \n%c[0,215,215,215]• %c[0,240,140,140]Стаття може доповнитися з часом. %c[0,215,215,215]•.
 		</text>
-	</string>	
-	
+    </string>
 </string_table>

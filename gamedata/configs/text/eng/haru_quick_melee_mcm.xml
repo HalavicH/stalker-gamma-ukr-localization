@@ -1,14 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="ui_mcm_menu_haru_quick_melee">
-		<text>Швидкий рукопашний бій</text>
-	</string>
-	<string id="ui_mcm_haru_quick_melee_keybind">
-		<text>Клавіша швидкого рукопашного бою</text>
-	</string>
+        <text>Швидкий рукопашний бій</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_keybind">
+        <text>Клавіша швидкого рукопашного бою</text>
+    </string>
     <string id="ui_mcm_haru_quick_melee_keybind_desc">
-		<text>Змінює клавішу, яка використовується для швидкого ближнього бою. Клавіша за замовчуванням - C. Поведінку клавіші можна змінити у відповідній вкладці MCM.</text>
-	</string>
+        <text>Змінює клавішу, яка використовується для швидкого ближнього бою. Клавіша за замовчуванням - C. Поведінку клавіші можна змінити у відповідній вкладці MCM.</text>
+    </string>
     <string id="ui_mcm_haru_quick_melee_mcm">
-		<text>Оновіть MCM, щоб побачити цю функцію. За замовчуванням клавіша C</text>
-	</string>
+        <text>Оновіть MCM, щоб побачити цю функцію. За замовчуванням клавіша C</text>
+    </string>
 </string_table>

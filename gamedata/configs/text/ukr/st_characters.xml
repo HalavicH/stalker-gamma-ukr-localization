@@ -668,7 +668,8 @@
     <string id="devushka">
         <text>Хіп</text>
     </string>
-    <!-- Characters in MLR -->
+    
+<!-- Characters in MLR -->
     <string id="agr_1_6_barman_army_mlr_name">
         <text>Комбат</text>
     </string>

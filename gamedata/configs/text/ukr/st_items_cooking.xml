@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Faction Patches
--->
 <string_table>
     <string id="st_matches">
         <text>Набір для розпалювання</text>

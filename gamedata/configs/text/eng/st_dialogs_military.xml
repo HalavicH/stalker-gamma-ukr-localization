@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Lukash (Freedom Leader) -->
+    
+<!-- Lukash (Freedom Leader) -->
     <string id="about_freedom_lider_miklyha_0">
         <text>Офігіти, так це ти з загоном прорвався через «Випалювач» і протримався там півроку?</text>
     </string>
@@ -179,7 +180,8 @@
     <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
         <text>Давай як-небудь іншим разом, добре? У мене скоро нарада відбудеться.</text>
     </string>
-    <!-- (Freedom guide) -->
+    
+<!-- (Freedom guide) -->
     <string id="mil_freedom_guid_meet_0">
         <text>Вітаю, чоловіче, чим зайнятий?</text>
     </string>

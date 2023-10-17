@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Cold (Clear Sky Leader) -->
+    
+<!-- Cold (Clear Sky Leader) -->
     <string id="find_blackbox_mlr_reward_csky_0">
         <text>Ось, цей самописець я знайшов під уламками гвинтокрила.</text>
     </string>
     <string id="find_blackbox_mlr_reward_csky_1">
         <text>Відмінна знахідка. Може бути, ми знайдемо причину цих повітряних рейдів на наші болота.</text>
     </string>
-    <!-- Librarian (Clear Sky Barman) -->
+    
+<!-- Librarian (Clear Sky Barman) -->
     <string id="story_b_cs_0">
         <text>Що можеш сказати про Холода?</text>
     </string>
@@ -104,7 +106,8 @@
             нам він луною колишніх пригод угруповання... І ще до того ж провізії небагато.
         </text>
     </string>
-    <!-- (Clear Sky guide) -->
+    
+<!-- (Clear Sky guide) -->
     <string id="meet_guid_marsh_csky_0">
         <text>Привіт, чого тут стоїш?</text>
     </string>
@@ -179,7 +182,8 @@
     <string id="mar_csky_guide_background_4">
         <text>І так спочине його душа.</text>
     </string>
-    <!-- (Clear Sky Mechanic) -->
+    
+<!-- (Clear Sky Mechanic) -->
     <string id="marsh_stalker_tech_pragmatic_research_0">
         <text>Я так розумію, «Чисте небо» більше займається дослідженнями?</text>
     </string>

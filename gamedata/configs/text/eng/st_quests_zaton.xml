@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON ZATON MAP
-<	CoC 1.4.22 - DoctorX Questlines 1.25
-<
-<	Modified by: DoctorX
-<	Last revised: April 27, 2017
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.25
-      <!-	April 27, 2017
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Beard (Loner Trader) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.25
+      <!#	April 27, 2017
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Beard (Loner Trader) Default Storyline Task -->
     <string id="drx_sl_zat_a2_stalker_barmen_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -37,8 +30,10 @@
     <string id="drx_sl_zat_a2_stalker_barmen_default_task_finish">
         <text>Ну, вдалого плавання, сталкер!</text>
     </string>
-    <!-- - -->
-    <!-- Beard (Loner Trader) Retrieve PDA Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Beard (Loner Trader) Retrieve PDA Storyline Task -->
     <string id="drx_sl_zat_a2_stalker_barmen_task_1_name">
         <text>Акули бізнесу</text>
     </string>
@@ -59,8 +54,10 @@
     <string id="drx_sl_zat_a2_stalker_barmen_task_1_finish">
         <text>Ось Дякую! Хороша ти людина, чоловіче, побільше б таких.</text>
     </string>
-    <!-- - -->
-    <!-- Beard (Loner Trader) Search and Rescue Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Beard (Loner Trader) Search and Rescue Storyline Task -->
     <string id="drx_sl_zat_a2_stalker_barmen_task_2_name">
         <text>Сам гинь, а товариша виручай</text>
     </string>
@@ -82,8 +79,10 @@
     <string id="drx_sl_zat_a2_stalker_barmen_task_2_finish">
         <text>Ну, чоловіче, ну, герой! Дякую тобі від щирого серця. Ось, випий горілочки - за рахунок закладу!</text>
     </string>
-    <!-- - -->
-    <!--\noah (Loner Honcho) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!--\noah (Loner Honcho) Default Storyline Task -->
     <string id="drx_sl_zat_b18_noah_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -96,8 +95,10 @@
     <string id="drx_sl_zat_b18_noah_default_task_finish">
         <text>Так-так, бувай.</text>
     </string>
-    <!-- - -->
-    <!--\noah (Loner Honcho) Dog Food Storyline Task -->
+    
+<!-- # -->
+    
+<!--\noah (Loner Honcho) Dog Food Storyline Task -->
     <string id="drx_sl_zat_b18_noah_task_1_name">
         <text>«Педигри»: знайти %s як корм для собаки листопада</text>
     </string>
@@ -113,8 +114,10 @@
     <string id="drx_sl_zat_b18_noah_task_1_fetch_finish">
         <text>Ось, візьми.</text>
     </string>
-    <!-- - -->
-    <!--\noah (Loner Honcho) Exterminate Mutant Infestation Storyline Task -->
+    
+<!-- # -->
+    
+<!--\noah (Loner Honcho) Exterminate Mutant Infestation Storyline Task -->
     <string id="drx_sl_zat_b18_noah_task_2_name">
         <text>Кожній тварі по парі... дуплетом</text>
     </string>
@@ -129,8 +132,10 @@
     <string id="drx_sl_zat_b18_noah_task_2_finish">
         <text>Ось, візьми. Це тобі.</text>
     </string>
-    <!-- - -->
-    <!-- Vector (Mercenary Trader/Guide) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Vector (Mercenary Trader/Guide) Default Storyline Task -->
     <string id="drx_sl_zat_stancia_trader_merc_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -143,7 +148,8 @@
     <string id="drx_sl_zat_stancia_trader_merc_default_task_finish">
         <text>Бувай!</text>
     </string>
-    <!-- Vector (Mercenary Trader/Guide) Trace the Emergency Signal Storyline Task -->
+    
+<!-- Vector (Mercenary Trader/Guide) Trace the Emergency Signal Storyline Task -->
     <string id="drx_sl_zat_stancia_trader_merc_task_1_name">
         <text>Відстежити сигнал SOS на частоті $freq МГц</text>
     </string>
@@ -188,7 +194,8 @@
             розберемося конкретно, що там було... Ось твої грошва, чоловіче.
         </text>
     </string>
-    <!-- Vector (Mercenary Trader/Guide) Secure the Passage to the Outskirts Storyline Task -->
+    
+<!-- Vector (Mercenary Trader/Guide) Secure the Passage to the Outskirts Storyline Task -->
     <string id="drx_sl_zat_stancia_trader_merc_task_2_name">
         <text>Шлях на північ: зачистити Шляхопровід від «Моноліту»</text>
     </string>
@@ -210,18 +217,22 @@
     <string id="drx_sl_zat_stancia_trader_merc_task_2_finish">
         <text>Гідна робота, чоловіче! Благодарочка тобі за турботу. Тепер вже ми знову будемо на коні.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
     <string id="zat_a2_stalker_barmen_task_1_name">
         <text>Чистильник</text>
     </string>
@@ -249,7 +260,8 @@
             Бороди!
         </text>
     </string>
-    <!-- FIND ARTEFACT FOR BEARD TASK -->
+    
+<!-- FIND ARTEFACT FOR BEARD TASK -->
     <string id="zat_a2_stalker_barmen_task_2_name">
         <text>Мисливець за артефактами</text>
     </string>
@@ -278,7 +290,8 @@
     <string id="zat_a2_stalker_barmen_task_2_fetch_finish">
         <text>Ну, сталкер, з мене належить! Виручив ти Бороду, за що тобі ще й величезне дякую.</text>
     </string>
-    <!-- ASSASSINATION FOR BEARD TASK -->
+    
+<!-- ASSASSINATION FOR BEARD TASK -->
     <string id="zat_a2_stalker_barmen_task_3_name">
         <text>Якщо друг опинився тут...</text>
     </string>
@@ -315,7 +328,8 @@
             правосуддя.
         </text>
     </string>
-    <!-- zat_a2_stalker_mechanic -->
+    
+<!-- zat_a2_stalker_mechanic -->
     <string id="zat_a2_stalker_mechanic_task_1_name">
         <text>Інструментоносець «Скадовськ», ч.1</text>
     </string>
@@ -400,7 +414,8 @@
             Відтепер я тобі на особливих умовах буду все апгрейди організовувати.
         </text>
     </string>
-    <!--\noah -->
+    
+<!--\noah -->
     <string id="task_noah_2_1">
         <text>Меценат: пірнути в телепорт</text>
     </string>
@@ -452,7 +467,8 @@
     <string id="zat_stancia_trader_merc_task_1_fetch_finish">
         <text>Ось це реально тема! Лови грошва, солдат удачі!</text>
     </string>
-    <!-- (Mercenary Mechanic) -->
+    
+<!-- (Mercenary Mechanic) -->
     <string id="zat_stancia_mech_merc_task_1_name">
         <text>«Сієрра-Оскар-Сієрра», ч.1</text>
     </string>
@@ -543,7 +559,8 @@
             а то і зовсім на ящики ланцюг накинути, щоб знову який-небудь козел зальотні їх не поцупив.
         </text>
     </string>
-    <!-- Axel (Loner Medic) -->
+    
+<!-- Axel (Loner Medic) -->
     <string id="zat_b22_stalker_medic_task_1_name">
         <text>«Скадовськ» і Айсберг бажань</text>
     </string>

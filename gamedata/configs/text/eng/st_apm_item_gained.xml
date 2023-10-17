@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="st_aps_and_more">
+    <string id="st_aps_and_more">
         <text>Ще %s предметів</text>
     </string>
 </string_table>

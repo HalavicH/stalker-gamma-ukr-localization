@@ -1,360 +1,295 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!-- 
-	MCM
--->
 <string_table>
-
-	<string id="ui_mcm_menu_pda_inter">
-	<text>ПДА інтерактив</text>
-</string>
-
+    <string id="ui_mcm_menu_pda_inter">
+        <text>ПДА інтерактив</text>
+    </string>
+    
 <!-- Keybind -->
-<string id="ui_mcm_menu_pda_keys">
-<text>Клавіша</text>
-</string>
-
-<string id="ui_mcm_pda_inter_keystitle">
-<text>Клавіша</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_keys_int_pda_key">
-<text>Клавіша</text>
-</string>
-
+    <string id="ui_mcm_menu_pda_keys">
+        <text>Клавіша</text>
+    </string>
+    <string id="ui_mcm_pda_inter_keystitle">
+        <text>Клавіша</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_keys_int_pda_key">
+        <text>Клавіша</text>
+    </string>
+    
 <!-- RAID -->
-<string id="ui_mcm_menu_pda_raid">
-<text>Рейд</text>
-</string>
-
-<string id="ui_mcm_pda_inter_raidtitle">
-<text>Рейд</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_raid_raid_offer_mult">
-<text>Багато шансів відповіді</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_raid_raid_base_price">
-<text>Базова ціна</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_raid_raid_price_power">
-<text>Ступінь ціни</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_raid_raid_price_power_desc">
-<text>Чим менше це значення, тим менша ціна дорогих сквадів.</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_raid">
+        <text>Рейд</text>
+    </string>
+    <string id="ui_mcm_pda_inter_raidtitle">
+        <text>Рейд</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_raid_raid_offer_mult">
+        <text>Багато шансів відповіді</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_raid_raid_base_price">
+        <text>Базова ціна</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_raid_raid_price_power">
+        <text>Ступінь ціни</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_raid_raid_price_power_desc">
+        <text>Чим менше це значення, тим менша ціна дорогих сквадів.</text>
+    </string>
+    
 <!-- FIND -->
-<string id="ui_mcm_menu_pda_info">
-<text>Інформація</text>
-</string>
-
-<string id="ui_mcm_pda_inter_infotitle">
-<text>Інформація</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_info_find_respond_mult">
-<text>Багато шансів відповіді</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_info_find_see_distance">
-<text>Дистанція до мети</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_info_find_see_distance_desc">
-<text>Радіус, в якому відправники повинні бачити мету для надсилання повідомлення.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_info_find_can_lie">
-<text>НПС можуть брехати</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_info_find_can_lie_desc">
-<text>Залежить від угруповання, репутації та відносин. НПС матимуть шанс збрехати щодо місцезнаходження мети.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_info_find_base_price">
-<text>Базова ціна</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_info">
+        <text>Інформація</text>
+    </string>
+    <string id="ui_mcm_pda_inter_infotitle">
+        <text>Інформація</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_respond_mult">
+        <text>Багато шансів відповіді</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_see_distance">
+        <text>Дистанція до мети</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_see_distance_desc">
+        <text>Радіус, в якому відправники повинні бачити мету для надсилання повідомлення.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_can_lie">
+        <text>НПС можуть брехати</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_can_lie_desc">
+        <text>Залежить від угруповання, репутації та відносин. НПС матимуть шанс збрехати щодо місцезнаходження мети.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_info_find_base_price">
+        <text>Базова ціна</text>
+    </string>
+    
 <!-- GAMES -->
-<string id="ui_mcm_menu_pda_games">
-<text>Ігри</text>
-</string>
-
-<string id="ui_mcm_pda_inter_gamestitle">
-<text>Ігри</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_games_puzzle_reward">
-<text>П'ятнашки нагорода</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_games_slots_bet">
-<text>Слоти ставки</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_games">
+        <text>Ігри</text>
+    </string>
+    <string id="ui_mcm_pda_inter_gamestitle">
+        <text>Ігри</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_games_puzzle_reward">
+        <text>П'ятнашки нагорода</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_games_slots_bet">
+        <text>Слоти ставки</text>
+    </string>
+    
 <!-- TRADE -->
-<string id="ui_mcm_menu_pda_trade">
-<text>Торгівля</text>
-</string>
-
-<string id="ui_mcm_pda_inter_tradetitle">
-<text>Торгівля</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_trade_trade_respond_mult">
-<text>Багато шансів відповіді</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult">
-<text>Множина вартості доставки</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult_desc">
-<text>Велике значення - дорожче за доставку. Вартість доставки також залежить від типу торговця.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult">
-<text>Множина часу доставки</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult_desc">
-<text>Менше значення - менше часу доставки. Термін доставки залежить від відстані.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool">
-<text>Пул сталкерів (у %)</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool_desc">
-<text>Відсоток від усіх сталкерів, які будуть у пулі торговців. Менше сталкерів означає, що торговці відповідатимуть частіше, значення 0 означає що відповідатимуть тільки торговці.</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_trade">
+        <text>Торгівля</text>
+    </string>
+    <string id="ui_mcm_pda_inter_tradetitle">
+        <text>Торгівля</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_respond_mult">
+        <text>Багато шансів відповіді</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult">
+        <text>Множина вартості доставки</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_delivery_price_mult_desc">
+        <text>Велике значення - дорожче за доставку. Вартість доставки також залежить від типу торговця.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult">
+        <text>Множина часу доставки</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_delivery_time_mult_desc">
+        <text>Менше значення - менше часу доставки. Термін доставки залежить від відстані.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool">
+        <text>Пул сталкерів (у %)</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_trade_trade_stalker_pool_desc">
+        <text>Відсоток від усіх сталкерів, які будуть у пулі торговців. Менше сталкерів означає, що торговці відповідатимуть частіше, значення 0 означає що відповідатимуть тільки торговці.</text>
+    </string>
+    
 <!-- Comms -->
-<string id="ui_mcm_menu_pda_banter">
-<text>Спілкування</text>
-</string>
-
-<string id="ui_mcm_pda_inter_bantertitle">
-<text>Спілкування</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_distance">
-<text>SOS Радіус</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration">
-<text>SOS Тривалість (секунди)</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration_desc">
-<text>Коли виходить час - НПС, які відгукнулися, йдуть назад (якщо ще не вступили в бій).</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_cooldown">
-<text>SOS Кулдаун (секунди)</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit">
-<text>SOS Макс у загонах</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit_desc">
-<text>Максимальна кількість загонів, які можуть відгукнутися.</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_banter">
+        <text>Спілкування</text>
+    </string>
+    <string id="ui_mcm_pda_inter_bantertitle">
+        <text>Спілкування</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_distance">
+        <text>SOS Радіус</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration">
+        <text>SOS Тривалість (секунди)</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_duration_desc">
+        <text>Коли виходить час - НПС, які відгукнулися, йдуть назад (якщо ще не вступили в бій).</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_cooldown">
+        <text>SOS Кулдаун (секунди)</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit">
+        <text>SOS Макс у загонах</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_banter_banter_sos_limit_desc">
+        <text>Максимальна кількість загонів, які можуть відгукнутися.</text>
+    </string>
+    
 <!-- Tasks -->
-<string id="ui_mcm_menu_pda_tasks">
-<text>Завдання</text>
-</string>
-
-<string id="ui_mcm_pda_inter_taskstitle">
-<text>Завдання</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_respond_mult">
-<text>Багато шансів відповіді</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_base_reward">
-<text>Базова нагорода</text>
-</string>
-	<string id="ui_mcm_pda_inter_pda_tasks_task_base_reward_desc">
-	<text>Це значення потім множиться на складність мети (наприклад, ранг для сталкерів).</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_cooldown">
-<text>Час відновлення</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_tasks_task_cooldown_desc">
-<text>Час для кожного типу завдання, через яке завдання знову стає доступним.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult">
-<text>Множина відносин/репутації</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult_desc">
-<text>"1" дорівнює +25 до відносин угруповання та репутації гравця коли завдання виконане. "0" вимикає це.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_notes">
-<text>Додавати завдання до нотаток</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_tasks_task_notes_desc">
-<text>Автоматично додає всі прийняті завдання в меню Нотатки та видаляє, коли завдання виконане.</text>
-</string>
-
+    <string id="ui_mcm_menu_pda_tasks">
+        <text>Завдання</text>
+    </string>
+    <string id="ui_mcm_pda_inter_taskstitle">
+        <text>Завдання</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_respond_mult">
+        <text>Багато шансів відповіді</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_base_reward">
+        <text>Базова нагорода</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_base_reward_desc">
+        <text>Це значення потім множиться на складність мети (наприклад, ранг для сталкерів).</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_cooldown">
+        <text>Час відновлення</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_cooldown_desc">
+        <text>Час для кожного типу завдання, через яке завдання знову стає доступним.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult">
+        <text>Множина відносин/репутації</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_goodwill_mult_desc">
+        <text>"1" дорівнює +25 до відносин угруповання та репутації гравця коли завдання виконане. "0" вимикає це.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_notes">
+        <text>Додавати завдання до нотаток</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_notes_desc">
+        <text>Автоматично додає всі прийняті завдання в меню Нотатки та видаляє, коли завдання виконане.</text>
+    </string>
+    
 <!-- mutant -->
-<string id="ui_mcm_pda_inter_tasks_mutants_header">
-<text>Полювання на мутантів</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_mutant_reward">
-<text>Множина нагороди</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_mutant_distance">
-<text>Радіус для мети "Полювання на мутантів"</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_mutants_header">
+        <text>Полювання на мутантів</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_mutant_reward">
+        <text>Множина нагороди</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_mutant_distance">
+        <text>Радіус для мети "Полювання на мутантів"</text>
+    </string>
+    
 <!-- bounty -->
-<string id="ui_mcm_pda_inter_tasks_bounty_header">
-<text>Нагорода за голову</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_bounty_reward">
-<text>Множина нагороди</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_bounty_distance">
-<text>Радіус для мети "Нагорода за голову"</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_bounty_header">
+        <text>Нагорода за голову</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_bounty_reward">
+        <text>Множина нагороди</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_bounty_distance">
+        <text>Радіус для мети "Нагорода за голову"</text>
+    </string>
+    
 <!-- guide -->
-<string id="ui_mcm_pda_inter_tasks_guide_header">
-<text>Провідник</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_guide_reward">
-<text>Множина нагороди</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_guide_time_mult">
-<text>Множина часу завдання Провідник</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_guide_header">
+        <text>Провідник</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_guide_reward">
+        <text>Множина нагороди</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_guide_time_mult">
+        <text>Множина часу завдання Провідник</text>
+    </string>
+    
 <!-- fetch items -->
-<string id="ui_mcm_pda_inter_tasks_items_header">
-<text>Знайти предмети</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_items_reward">
-<text>Множина нагороди</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_items_header">
+        <text>Знайти предмети</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_items_reward">
+        <text>Множина нагороди</text>
+    </string>
+    
 <!-- squad -->
-<string id="ui_mcm_pda_inter_tasks_squad_header">
-<text>Небезпечний загін</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_squad_reward">
-<text>Множина нагороди</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_squad_distance">
-<text>Радіус для мети "Небезпечний загін"</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_squad_header">
+        <text>Небезпечний загін</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_squad_reward">
+        <text>Множина нагороди</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_squad_distance">
+        <text>Радіус для мети "Небезпечний загін"</text>
+    </string>
+    
 <!-- stealth -->
-<string id="ui_mcm_pda_inter_tasks_stealth_header">
-<text>Вкрасти предмет</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_stealth_reward">
-<text>Множина нагороди</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_stealth_header">
+        <text>Вкрасти предмет</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_stealth_reward">
+        <text>Множина нагороди</text>
+    </string>
+    
 <!-- guard -->
-<string id="ui_mcm_pda_inter_tasks_guard_header">
-<text>Охорона позиції</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_guard_reward">
-<text>Множина нагороди</text>
-</string>
-
+    <string id="ui_mcm_pda_inter_tasks_guard_header">
+        <text>Охорона позиції</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_guard_reward">
+        <text>Множина нагороди</text>
+    </string>
+    
 <!-- scout -->
-<string id="ui_mcm_pda_inter_tasks_scout_header">
-<text>Розвідка</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_tasks_task_scout_reward">
-<text>Множина нагороди</text>
-</string>
-
-
+    <string id="ui_mcm_pda_inter_tasks_scout_header">
+        <text>Розвідка</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_tasks_task_scout_reward">
+        <text>Множина нагороди</text>
+    </string>
+    
 <!-- Incoming -->
-<string id="ui_mcm_menu_pda_inc">
-<text>Вхідні повідомлення</text>
-</string>
-
-<string id="ui_mcm_pda_inter_inctitle">
-<text>Вхідні повідомлення</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable">
-<text>Увімкнути SOS сталкерів</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable_desc">
-<text>Сталкери іноді просять допомоги, якщо перебувають у бою.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_chance">
-<text>Шанс SOS сталкерів</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_money">
-<text>Базова грошова нагорода</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash">
-<text>Шанс нагороди схованою</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash_desc">
-<text>"1" зробить схованки єдиною нагородою за допомогу.</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_inc">
+        <text>Вхідні повідомлення</text>
+    </string>
+    <string id="ui_mcm_pda_inter_inctitle">
+        <text>Вхідні повідомлення</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable">
+        <text>Увімкнути SOS сталкерів</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_enable_desc">
+        <text>Сталкери іноді просять допомоги, якщо перебувають у бою.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_chance">
+        <text>Шанс SOS сталкерів</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_money">
+        <text>Базова грошова нагорода</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash">
+        <text>Шанс нагороди схованою</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_inc_inc_sos_stash_desc">
+        <text>"1" зробить схованки єдиною нагородою за допомогу.</text>
+    </string>
+    
 <!-- Debug -->
-<string id="ui_mcm_menu_pda_debug">
-<text>Різне/Дебаг</text>
-</string>
-
-<string id="ui_mcm_pda_inter_debugxtitle">
-<text>Різне/Дебаг</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_debug_debugx">
-<text>Дебаг</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_debug_debugx_desc">
-<text>Для відображення інформації в консолі.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_debug_notes_export">
-<text>Експорт Нотаток у .txt</text>
-</string>
-<string id="ui_mcm_pda_inter_pda_debug_notes_export_desc">
-<text>Експортує всі Нотатки в новий .txt файл у кореневій папці Anomaly.</text>
-</string>
-
-<string id="ui_mcm_pda_inter_pda_debug_cancel_tasks">
-<text>Скасувати всі завдання</text>
-	</string>
-	<string id="ui_mcm_pda_inter_pda_debug_cancel_tasks_desc">
-<text>Скасує всі активні завдання з цього аддону.</text>
-</string>
-
-
+    <string id="ui_mcm_menu_pda_debug">
+        <text>Різне/Дебаг</text>
+    </string>
+    <string id="ui_mcm_pda_inter_debugxtitle">
+        <text>Різне/Дебаг</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_debugx">
+        <text>Дебаг</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_debugx_desc">
+        <text>Для відображення інформації в консолі.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_notes_export">
+        <text>Експорт Нотаток у .txt</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_notes_export_desc">
+        <text>Експортує всі Нотатки в новий .txt файл у кореневій папці Anomaly.</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_cancel_tasks">
+        <text>Скасувати всі завдання</text>
+    </string>
+    <string id="ui_mcm_pda_inter_pda_debug_cancel_tasks_desc">
+        <text>Скасує всі активні завдання з цього аддону.</text>
+    </string>
 </string_table>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-    <!-- (Bandit Mechanic) -->
+    
+<!-- (Bandit Mechanic) -->
     <string id="trucks_cemetery_bandit_mechanic_start_0">
         <text>Опа-на, які люди в Жоповуді! Вечір в хату, брателло. Броню або зброю підлатати - все це до мене.
             Головне, шоб гриваси при тобі були.
         </text>
     </string>
-
 </string_table>

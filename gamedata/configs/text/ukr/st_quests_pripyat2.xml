@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Default Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -33,8 +26,10 @@
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_default_task_finish">
         <text>Благослови тебе Моноліт.</text>
     </string>
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Destroy the\non-Believers Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Destroy the\non#Believers Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_1_name">
         <text>Очищення невірних</text>
     </string>
@@ -51,8 +46,10 @@
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_1_finish">
         <text>Про Великий, слуга тебе не підвів, як Ти і бачив.</text>
     </string>
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Collect Supplies Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Collect Supplies Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_name">
         <text>Припаси для «Моноліту»</text>
     </string>
@@ -72,8 +69,10 @@
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_fetch_finish">
         <text>Дякую брат.</text>
     </string>
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Venture into the Zone Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Venture into the Zone Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_name">
         <text>Шлях пілігрима</text>
     </string>
@@ -92,8 +91,10 @@
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_finish">
         <text>Моноліт задоволений твоїми справами. Слава Великому Моноліту!</text>
     </string>
-    <!-- - -->
-    <!-- Cleric (Monolith Mechanic) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Cleric (Monolith Mechanic) Default Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -109,8 +110,10 @@
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_default_task_finish">
         <text>До твого повернення ми будемо чекати, брат.</text>
     </string>
-    <!-- - -->
-    <!-- Cleric (Monolith Mechanic) Recover Stolen Equipment Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Cleric (Monolith Mechanic) Recover Stolen Equipment Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_name">
         <text>Повернути обладнання «подавители агресії»</text>
     </string>
@@ -127,8 +130,10 @@
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_finish">
         <text>Моноліт цінує твою відданість, брат, знай це.</text>
     </string>
-    <!-- - -->
-    <!-- Cleric (Monolith Mechanic) Hunt for Food Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Cleric (Monolith Mechanic) Hunt for Food Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_2_name">
         <text>Велика полювання</text>
     </string>
@@ -146,8 +151,10 @@
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_2_finish">
         <text>Ти добре впорався з випробуванням, брат мій. Моноліт нас своїми знаннями осяває.</text>
     </string>
-    <!-- - -->
-    <!-- Cleric (Monolith Mechanic) Monolith Weapon Arsenal Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Cleric (Monolith Mechanic) Monolith Weapon Arsenal Storyline Task -->
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_name">
         <text>Інструмент очищення</text>
     </string>
@@ -174,8 +181,10 @@
         <text>Дякую тобі, брат. З таким озброєнням ми будемо бити невірних ще швидше. Моноліт буде нами задоволений.
         </text>
     </string>
-    <!-- - -->
-    <!-- Olivar (Monolith Trader) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Olivar (Monolith Trader) Default Storyline Task -->
     <string id="drx_sl_trader_monolith_kbo_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -191,7 +200,8 @@
     <string id="drx_sl_trader_monolith_kbo_default_task_finish">
         <text>І нехай буде з тобою Його сила, брат.</text>
     </string>
-    <!-- Olivar (Monolith Trader) Eliminate the Intruders Storyline Task -->
+    
+<!-- Olivar (Monolith Trader) Eliminate the Intruders Storyline Task -->
     <string id="drx_sl_trader_monolith_kbo_task_1_name">
         <text>Осквернителям - смерть</text>
     </string>
@@ -211,7 +221,8 @@
     <string id="drx_sl_trader_monolith_kbo_task_1_finish">
         <text>Славно, славно, брат, ти потрудився. Моноліт подяку слузі своєму вірному послав.</text>
     </string>
-    <!-- Olivar (Monolith Trader) Invitegate the Scouts Location Storyline Task -->
+    
+<!-- Olivar (Monolith Trader) Invitegate the Scouts Location Storyline Task -->
     <string id="drx_sl_trader_monolith_kbo_task_2_name">
         <text>Загальний тягар</text>
     </string>
@@ -245,8 +256,10 @@
     <string id="drx_sl_trader_monolith_kbo_task_2_finish">
         <text>Моноліт дякує тебе, брат. Знання, здобуті Його вірним слугою, що не згинуть у вирі небуття.</text>
     </string>
-    <!-- - -->
-    <!-- Griffith (Mercenary Operator) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Griffith (Mercenary Operator) Default Storyline Task -->
     <string id="drx_sl_merc_pri_grifon_mlr_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -261,7 +274,8 @@
     <string id="drx_sl_merc_pri_grifon_mlr_default_task_finish">
         <text>Ні пуху!</text>
     </string>
-    <!-- Griffith (Mercenary Operator) Hunt Down the Dangerous Mutant Storyline Task -->
+    
+<!-- Griffith (Mercenary Operator) Hunt Down the Dangerous Mutant Storyline Task -->
     <string id="drx_sl_merc_pri_grifon_mlr_task_1_name">
         <text>Ніч, вулиця, ліхтар, химера...</text>
     </string>
@@ -282,7 +296,8 @@
             нас.
         </text>
     </string>
-    <!-- Griffith (Mercenary Operator) Search Lab X-8 Location Storyline Task -->
+    
+<!-- Griffith (Mercenary Operator) Search Lab X#8 Location Storyline Task -->
     <string id="drx_sl_merc_pri_grifon_mlr_task_2_name">
         <text>Оселя зла</text>
     </string>
@@ -303,18 +318,22 @@
     <string id="drx_sl_merc_pri_grifon_mlr_task_2_finish">
         <text>Цікава інфа... Деякі люди душманів за таке добре відкотять грошви. Молорік!</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- CHANGE FACTIONS TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Payoff Change Factions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# CHANGE FACTIONS TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Payoff Change Factions Task -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_name">
         <text>Моноліт готовий прийняти нового слугу</text>
     </string>
@@ -329,18 +348,22 @@
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_finish">
         <text>Так тому і бути. Ласкаво просимо в братство Всемогутнього Моноліту, тепер ти серед вірних братів.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
     <string id="monolith_eidolon_task_1_name">
         <text>Каратель невірних</text>
     </string>
@@ -364,8 +387,10 @@
     <string id="monolith_eidolon_task_1_fetch_finish">
         <text>Яка відданість. \nНашій чудовій меті. \nТака відданість буде винагороджена.</text>
     </string>
-    <!-- - -->
-    <!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
+    
+<!-- # -->
+    
+<!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
     <string id="monolith_eidolon_task_2_name">
         <text>Велике полювання</text>
     </string>
@@ -392,8 +417,10 @@
             Великий Моноліт. \nТа хранитель його теж. \nНагороджений буде кожен.
         </text>
     </string>
-    <!-- - -->
-    <!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
+    
+<!-- # -->
+    
+<!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
     <string id="monolith_eidolon_task_3_name">
         <text>Пожиратель плодів</text>
     </string>
@@ -417,8 +444,10 @@
     <string id="monolith_eidolon_task_3_fetch_finish">
         <text>Чудово. Чудово. \nЗахоплює погляд. \nПовагу мою заслужив ти, мій брат.</text>
     </string>
-    <!-- - -->
-    <!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
+    
+<!-- # -->
+    
+<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
     <string id="monolith_eidolon_task_4_name">
         <text>Хранитель секретів</text>
     </string>
@@ -437,8 +466,10 @@
             несеш.
         </text>
     </string>
-    <!-- - -->
-    <!-- Rabbit (Monolith Trader) Assault Territory Task -->
+    
+<!-- # -->
+    
+<!-- Rabbit (Monolith Trader) Assault Territory Task -->
     <string id="pri_monolith_monolith_trader_stalker_task_1_name">
         <text>В ім'я Моноліту</text>
     </string>
@@ -455,7 +486,8 @@
     <string id="pri_monolith_monolith_trader_stalker_task_1_finish">
         <text>Цінує Моноліт хорошу роботу твою.</text>
     </string>
-    <!-- ASSASSINATION FOR MONOLITH TASK -->
+    
+<!-- ASSASSINATION FOR MONOLITH TASK -->
     <string id="pri_monolith_monolith_trader_stalker_task_2_name">
         <text>Кожен буде прощений від гріхів</text>
     </string>
@@ -475,7 +507,8 @@
     <string id="pri_monolith_monolith_trader_stalker_task_2_finish">
         <text>Ти все добре зробив. Пишаються тобою брати. Посилає свій дар Моноліт.</text>
     </string>
-    <!-- FIND WEAPON FOR MONOLITH TASK -->
+    
+<!-- FIND WEAPON FOR MONOLITH TASK -->
     <string id="pri_monolith_monolith_trader_stalker_task_3_name">
         <text>Віра рухає зброєю</text>
     </string>
@@ -501,7 +534,8 @@
     <string id="pri_monolith_monolith_trader_stalker_task_3_fetch_finish">
         <text>І бачив все Моноліт, і знав він, що так воно і буде. Брати пишаються тобою.</text>
     </string>
-    <!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+    
+<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
     <string id="pri_monolith_monolith_trader_stalker_task_4_name">
         <text>Славне полювання</text>
     </string>
@@ -526,7 +560,8 @@
     <string id="pri_monolith_monolith_trader_stalker_task_4_fetch_finish">
         <text>Слава Моноліту! Він бачив - і сталося це. Вклоняюся славному брату-мисливцеві.</text>
     </string>
-    <!-- FIND SUPPLIES FOR MONOLITH TASK -->
+    
+<!-- FIND SUPPLIES FOR MONOLITH TASK -->
     <string id="pri_monolith_monolith_trader_stalker_task_5_name">
         <text>Знайти «%s» для Кролика</text>
     </string>
@@ -552,7 +587,8 @@
     <string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
         <text>Моноліт благу роботу цінує і відданість твою, брат.</text>
     </string>
-    <!-- FIND ARTEFACT FOR MONOLITH TASK -->
+    
+<!-- FIND ARTEFACT FOR MONOLITH TASK -->
     <string id="pri_monolith_monolith_trader_stalker_task_6_name">
         <text>Підношені дари</text>
     </string>
@@ -575,18 +611,22 @@
     <string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
         <text>Ти добре служиш Моноліту. До братів сьогодні в святилище приєднуйся, бо спів там буде.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- MECHANIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Cleric (Monolith Mechanic) Find Level 1 Toolkit Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# MECHANIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Cleric (Monolith Mechanic) Find Level 1 Toolkit Task -->
     <string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
         <text>Інструмент віри, ч.1</text>
     </string>
@@ -688,7 +728,8 @@
     <string id="lider_monolith_haron_task_2_fetch_finish">
         <text>Слава Моноліту, брат. Ось твій дар.</text>
     </string>
-    <!-- Griffith -->
+    
+<!-- Griffith -->
     <string id="merc_pri_grifon_mlr_task_1_name">
         <text>Ліцензія на вбивство</text>
     </string>
@@ -748,7 +789,8 @@
     <string id="merc_pri_grifon_mlr_task_3_finish">
         <text>Молодець, дякую тобі. Тримай грошенят трохи:</text>
     </string>
-    <!-- (Mercenary Mechanic) -->
+    
+<!-- (Mercenary Mechanic) -->
     <string id="merc_pri_a18_mech_mlr_task_1_name">
         <text>Конструкторське бюро, ч.1</text>
     </string>
@@ -787,7 +829,8 @@
             особисто.
         </text>
     </string>
-    <!-- (Monolith Mechanic) -->
+    
+<!-- (Monolith Mechanic) -->
     <string id="mechanic_monolith_kbo_task_1_name">
         <text>Коваль без молота, ч.1</text>
     </string>

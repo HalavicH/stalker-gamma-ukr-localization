@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_hide_tooltip">
-		<text>!Hide Tooltip</text>
-	</string>
-	<string id="ui_mcm_hide_tooltip_key_hide">
-		<text>Клавіша приховування</text>
-	</string>
-	<string id="ui_mcm_hide_tooltip_key_hide_desc">
-     <text>При затисканні цієї клавіші ховається опис предмета</text>
-</string>
-<string id="ui_mcm_hide_tooltip_key_mode">
-<text>Альтернативний режим</text>
-</string>
-<string id="ui_mcm_hide_tooltip_key_mode_desc">
-         <text>При включенні приховує опис предметів, після натискання гарячої клавіші - він з'являється</text>
-</string>
+    <string id="ui_mcm_menu_hide_tooltip">
+        <text>!Hide Tooltip</text>
+    </string>
+    <string id="ui_mcm_hide_tooltip_key_hide">
+        <text>Клавіша приховування</text>
+    </string>
+    <string id="ui_mcm_hide_tooltip_key_hide_desc">
+        <text>При затисканні цієї клавіші ховається опис предмета</text>
+    </string>
+    <string id="ui_mcm_hide_tooltip_key_mode">
+        <text>Альтернативний режим</text>
+    </string>
+    <string id="ui_mcm_hide_tooltip_key_mode_desc">
+        <text>При включенні приховує опис предметів, після натискання гарячої клавіші - він з'являється</text>
+    </string>
 </string_table>

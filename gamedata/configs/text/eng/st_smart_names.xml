@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="monster_zombied_night">
         <text>Нічний гуманоїд</text>
@@ -1446,7 +1446,8 @@
     <string id="st_pas_b400_way_name">
         <text>Коридори</text>
     </string>
-    <!-- MLR -->
+    
+<!-- MLR -->
     <string id="ui_st_red_forest_vagon_csky">
         <text>Табір у капера</text>
     </string>
@@ -1603,7 +1604,8 @@
     <string id="st_dasc_treesucker_state_name">
         <text>Тартак</text>
     </string>
-    <!-- Missing Smarts -->
+    
+<!-- Missing Smarts -->
     <string id="st_esc_smart_terrain_9_10_name">
         <text>Багаття у тунелю</text>
     </string>

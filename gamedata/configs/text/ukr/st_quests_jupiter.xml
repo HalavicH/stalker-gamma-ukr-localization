@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON JUPITER (YANOV) MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Tukarev  (Ecologist Mechanic) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Tukarev  (Ecologist Mechanic) Default Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -37,8 +30,10 @@
     <string id="drx_sl_jup_b6_scientist_tech_default_task_finish">
         <text>Удачі, сталкер.</text>
     </string>
-    <!-- - -->
-    <!-- Tukarev  (Ecologist Mechanic) Mutant Tissue Experiment Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Tukarev  (Ecologist Mechanic) Mutant Tissue Experiment Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_1_name">
         <text>експеримент Гаріна</text>
     </string>
@@ -67,8 +62,10 @@
             обіцяв.
         </text>
     </string>
-    <!-- - -->
-    <!-- Tukarev  (Ecologist Mechanic) Find Missing Scientist Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Tukarev  (Ecologist Mechanic) Find Missing Scientist Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_2_name">
         <text>зниклий учений</text>
     </string>
@@ -96,8 +93,10 @@
     <string id="drx_sl_jup_b6_scientist_tech_task_2_finish">
         <text>Дякую тобі за допомогу, друг.</text>
     </string>
-    <!-- - -->
-    <!-- Tukarev  (Ecologist Mechanic) Recover Stolen PDA Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Tukarev  (Ecologist Mechanic) Recover Stolen PDA Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_3_name">
         <text>Грабіжники з великої дороги</text>
     </string>
@@ -124,8 +123,10 @@
             \nНавіть не можу сказати, що нас чекало б в іншому випадку...
         </text>
     </string>
-    <!-- - -->
-    <!-- Tukarev  (Ecologist Mechanic) Search Jupiter Underground Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Tukarev  (Ecologist Mechanic) Search Jupiter Underground Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_4_name">
         <text>У кролячу нору</text>
     </string>
@@ -156,8 +157,10 @@
     <string id="drx_sl_jup_b6_scientist_tech_task_4_finish">
         <text>От дякую тобі, друже. Добре, що дані не були втрачені. Я негайно передам їх Герману.</text>
     </string>
-    <!-- - -->
-    <!-- Loki  (Freedom Honcho) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Loki  (Freedom Honcho) Default Storyline Task -->
     <string id="drx_sl_jup_a6_freedom_leader_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -173,8 +176,10 @@
     <string id="drx_sl_jup_a6_freedom_leader_default_task_finish">
         <text>Бережи себе, мен.</text>
     </string>
-    <!-- - -->
-    <!-- Loki  (Freedom Honcho) Arms Dealer Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Loki  (Freedom Honcho) Arms Dealer Storyline Task -->
     <string id="drx_sl_jup_a6_freedom_leader_task_1_name">
         <text>Вільне носіння зброї</text>
     </string>
@@ -203,8 +208,10 @@
             працездатної зброї, тим краще ми тут спимо. \n\nОсь, бери свої гроші.
         </text>
     </string>
-    <!-- - -->
-    <!-- Loki  (Freedom Honcho) Clear Monolith Beachhead Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Loki  (Freedom Honcho) Clear Monolith Beachhead Storyline Task -->
     <string id="drx_sl_jup_a6_freedom_leader_task_2_name">
         <text>Коммандо</text>
     </string>
@@ -235,8 +242,10 @@
             Завтра-післязавтра, напевно. Десь так. Але ми точно почнемо! \n\nВ будь-якому випадку, дякую тобі, чувак.
         </text>
     </string>
-    <!-- - -->
-    <!-- Loki  (Freedom Honcho) Hunt Artefact Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Loki  (Freedom Honcho) Hunt Artefact Storyline Task -->
     <string id="drx_sl_jup_a6_freedom_leader_task_3_name">
         <text>Дарунки Зони</text>
     </string>
@@ -268,8 +277,10 @@
             тут.
         </text>
     </string>
-    <!-- - -->
-    <!-- Loki  (Freedom Honcho) Search Monolith Control Center (Chernobyl) Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Loki  (Freedom Honcho) Search Monolith Control Center (Chernobyl) Storyline Task -->
     <string id="drx_sl_jup_a6_freedom_leader_task_4_name">
         <text>Стиратель</text>
     </string>
@@ -296,7 +307,8 @@
             всякий пожежний.
         </text>
     </string>
-    <!-- Klenov (Bandit Trader) Default Storyline Task -->
+    
+<!-- Klenov (Bandit Trader) Default Storyline Task -->
     <string id="drx_sl_jup_cont_trader_bandit_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -311,7 +323,8 @@
     <string id="drx_sl_jup_cont_trader_bandit_default_task_finish">
         <text>Дивися братву НЕ підстав.</text>
     </string>
-    <!-- Klenov (Bandit Trader) Retrieve Weapons Shipment Storyline Task -->
+    
+<!-- Klenov (Bandit Trader) Retrieve Weapons Shipment Storyline Task -->
     <string id="drx_sl_jup_cont_trader_bandit_task_1_name">
         <text>Відлуння військових</text>
     </string>
@@ -335,7 +348,8 @@
     <string id="drx_sl_jup_cont_trader_bandit_task_1_finish">
         <text>Трясця, подгоніще знатне-знатне. Ось лавеха твоя, братуха!</text>
     </string>
-    <!-- Klenov (Bandit Trader) Kill the Enemy Scout Storyline Task -->
+    
+<!-- Klenov (Bandit Trader) Kill the Enemy Scout Storyline Task -->
     <string id="drx_sl_jup_cont_trader_bandit_task_2_name">
         <text>Шухер - небезпека, стрибок - пограбування</text>
     </string>
@@ -361,7 +375,8 @@
     <string id="drx_sl_jup_cont_trader_bandit_task_2_finish">
         <text>Ха! Ось і скопитіться фраєр, шо роги не в свої справи пхав. Лави могорич, брателло.</text>
     </string>
-    <!-- Klenov (Bandit Trader) Escort the Bandits Spy Storyline Task -->
+    
+<!-- Klenov (Bandit Trader) Escort the Bandits Spy Storyline Task -->
     <string id="drx_sl_jup_cont_trader_bandit_task_3_name">
         <text>джентльмен невдачі</text>
     </string>
@@ -403,18 +418,22 @@
             \nНа-на-на... \nо, чьо, доперло вже? Фух, благодарочка тобі, пацанчик. Ти заходь - за життя побазарити!
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
     <string id="jup_b6_scientist_tech_task_1_name">
         <text>дослідницька експедиція</text>
     </string>
@@ -476,8 +495,10 @@
             професорам. Дякую тобі, друже. \n\nОсь обіцяна нагорода.
         </text>
     </string>
-    <!-- - -->
-    <!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
+    
+<!-- # -->
+    
+<!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
     <string id="jup_b6_scientist_tech_task_3_name">
         <text>Розум проти сили</text>
     </string>
@@ -506,8 +527,10 @@
             відносній тиші і безпеки. І все завдяки тобі.
         </text>
     </string>
-    <!-- - -->
-    <!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
+    
+<!-- # -->
+    
+<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
     <string id="jup_b220_trapper_task_1_name">
         <text>Мутанти проти хижака</text>
     </string>
@@ -555,7 +578,8 @@
     <string id="jup_b220_trapper_task_2_finish">
         <text>Дякую, мисливець. Ось твоя нагорода:</text>
     </string>
-    <!-- FIND WEAPON FOR HUNTSMAN TASK -->
+    
+<!-- FIND WEAPON FOR HUNTSMAN TASK -->
     <string id="jup_b220_trapper_task_3_name">
         <text>Рушниця для мисливця - що сокира для теслі</text>
     </string>
@@ -587,7 +611,8 @@
             мисливця про доставку. \n\nА ось і гроші, які я обіцяв тобі.
         </text>
     </string>
-    <!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
+    
+<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
     <string id="jup_b220_trapper_task_4_name">
         <text>Особливості національної охоти</text>
     </string>
@@ -615,7 +640,8 @@
     <string id="jup_b220_trapper_task_4_fetch_finish">
         <text>Ще одна загроза була усунена, а табір поповнився новим трофеєм. Чудово. Молодець, мисливець.</text>
     </string>
-    <!--- Call of Chernobyl -->
+    
+<!--# Call of Chernobyl -->
     <string id="jup_b217_stalker_tech_task_1_name">
         <text>Двигун прогресу, ч.1</text>
     </string>
@@ -706,8 +732,10 @@
             будь-який час року і доби! Головне бережи себе там.
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- Jup A6 Yar -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- Jup A6 Yar -->
     <string id="jup_b19_freedom_yar_task_1_name">
         <text>Кур'єр</text>
     </string>
@@ -727,7 +755,8 @@
     <string id="jup_b19_freedom_yar_task_1_dm_query">
         <text>Я доставив повідомлення.</text>
     </string>
-    <!-- (Ecologists) -->
+    
+<!-- (Ecologists) -->
     <string id="jup_b6_scientist_nuclear_physicist_task_1_name">
         <text>дослідження аномалій</text>
     </string>
@@ -759,7 +788,8 @@
             достатньою...
         </text>
     </string>
-    <!-- (Monolith Mechanic) -->
+    
+<!-- (Monolith Mechanic) -->
     <string id="mechanic_monolith_jup_depo_task_1_name">
         <text>Технічна перевага, ч.1</text>
     </string>
@@ -843,7 +873,8 @@
             Брати дякують тобі, це вміння дарую тобі.
         </text>
     </string>
-    <!-- (Bandits Mechanic) -->
+    
+<!-- (Bandits Mechanic) -->
     <string id="jup_cont_mech_bandit_task_1_name">
         <text>Юпітерський централ, ч.1</text>
     </string>
@@ -928,7 +959,8 @@
             се, зара все точняк в ажурі буде. Закочуй в будь-який час, перетремо та ампулку роздавимо.
         </text>
     </string>
-    <!-- Bonesetter (Loner Medic) -->
+    
+<!-- Bonesetter (Loner Medic) -->
     <string id="jup_a6_stalker_medik_task_1_name">
         <text>Мануальна терапія</text>
     </string>

@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Artefacts Containers (IAM)
--->
 <string_table>
     <string id="st_af_itcher_af_iam_name">
         <text>СПМ з «Зудой»</text>

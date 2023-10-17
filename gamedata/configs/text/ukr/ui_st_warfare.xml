@@ -1,289 +1,279 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!-- 
-	WARFARE STRINGS
--->
-
 <string_table>
-<string id="st_wrfr_opt_presets">
-<text>Пресети</text>
-</string>
-<string id="st_wrfr_opt_apply_to_all">
-<text>Для всіх</text>
-</string>
-<string id="st_wrfr_opt_general">
-<text>Спільне</text>
-</string>
-<string id="st_wrfr_opt_azazel_respawn">
-<text>«Життя після життя»</text>
-</string>
-<string id="st_wrfr_opt_rand_settings">
-<text>Випадково</text>
-</string>
-
-<string id="st_wrfr_influnence_points">
-<text>Ігрові окуляри</text>
-</string>
-<string id="st_wrfr_release_control_faction">
-<text>Вимк. командування угрупуванням</text>
-</string>
-<string id="st_wrfr_take_control_faction">
-<text>Увімк. командування угрупуванням</text>
-</string>
-<string id="st_wrfr_show_points">
-<text>Відображати території / Смарти</text>
-</string>
-<string id="st_wrfr_hide_points">
-<text>Приховати території / Смарти</text>
-</string>
-<string id="st_wrfr_display_faction_info">
-<text>Дані про угруповання</text>
-</string>
-<string id="st_wrfr_unselect_squad">
-<text>Зняти мітку</text>
-</string>
-<string id="st_wrfr_select_squad">
-<text>Вибрати загін</text>
-</string>
-<string id="st_wrfr_unselect_point">
-<text>Скасувати вибір</text>
-</string>
-<string id="st_wrfr_select_point">
-<text>Вибір території</text>
-</string>
-<string id="st_wrfr_select_obj">
-<text>Вибраний об'єкт</text>
-</string>
-<string id="st_wrfr_add_influ">
-<text>Підвищити значущість</text>
-</string>
-<string id="st_wrfr_remove_influ">
-<text>Зменшити значущість</text>
-</string>
-
-<string id="st_wrfr_cap_point">
-<text>Захоплення</text>
-</string>
-<string id="st_wrfr_buy_novice_squad">
-<text>Найняти загін новачків</text>
-</string>
-<string id="st_wrfr_buy_adv_squad">
-<text>Найняти загін досвідчених</text>
-</string>
-<string id="st_wrfr_buy_veteran_squad">
-<text>Найняти загін ветеранів</text>
-</string>
-<string id="st_wrfr_buy_heli">
-<text>Найняти гвинтокрил</text>
-</string>
-<string id="st_wrfr_declare_war">
-<text>Оголосити війну</text>
-</string>
-<string id="st_wrfr_possess_leader">
-<text>Стати командиром загону</text>
-</string>
-<string id="st_wrfr_follow">
-<text>Висунення</text>
-</string>
-<string id="st_wrfr_attack">
-<text>Атака</text>
-</string>
-<string id="st_wrfr_target">
-<text>Мета</text>
-</string>
-<string id="st_wrfr_move_here">
-<text>Іти до точки</text>
-</string>
-<string id="st_wrfr_send_squad">
-<text>Надіслати загін</text>
-</string>
-<string id="st_wrfr_send_all_squad">
-<text>Надіслати всі загони</text>
-</string>
-<string id="st_wrfr_take_squad">
-<text>Відкликати загін</text>
-</string>
-<string id="st_wrfr_take_all_squads">
-<text>Відкликати всі загони</text>
-</string>
-<string id="st_wrfr_attack_with_all">
-<text>Атакувати всім</text>
-</string>
-<string id="st_wrfr_send_heli_to_point">
-<text>Надіслати гвинтокрил до точки</text>
-</string>
-<string id="st_wrfr_send_heli_to_squad">
-<text>Відправити гелікоптер до загону</text>
-</string>
-<string id="st_wrfr_remove_heli">
-<text>Відкликати гелікоптер</text>
-</string>
-<string id="st_wrfr_heli_route">
-<text>Гвинтокрил у дорозі.</text>
-</string>
-<string id="st_wrfr_order_1">
-<text>%s зі своїм загоном слідує до точки «%s».</text>
-</string>
-<string id="st_wrfr_order_2">
-<text>%s зі своїм загоном атакує ціль, якою є %s.</text>
-</string>
-<string id="st_wrfr_order_3">
-<text>%s зі своєю групою тепер супроводжує загін, який очолює %s.</text>
-</string>
-<string id="st_wrfr_order_4">
-<text>Територія %s відправила один загін до Гравця.</text>
-</string>
-<string id="st_wrfr_order_5">
-<text>Територія %s відправила до Гравця всі загони.</text>
-</string>
-<string id="st_wrfr_order_6">
-<text>Територія %s відправила один загін в атаку на групу противника, яку очолює %s.</text>
-</string>
-<string id="st_wrfr_order_7">
-<text>Територія %s відправила всі загони в атаку на групу супротивника, яку очолює %s.</text>
-</string>
-<string id="st_wrfr_order_8">
-<text>Територія «%s» відправила один загін для проходження за групою, яку очолює %s.</text>
-</string>
-<string id="st_wrfr_order_9">
-<text>Територія «%s» надіслала всі загони для проходження за групою, яку очолює %s.</text>
-</string>
-<string id="st_wrfr_order_10">
-<text>Об'єкт «%s» додано до списку цілей для загонів, що знаходяться на території «%s».</text>
-</string>
-<string id="st_wrfr_order_11">
-<text>Територія %s відправила один загін для атаки об'єкта %s.</text>
-</string>
-<string id="st_wrfr_order_12">
-<text>Територія %s відправила всі загони для атаки об'єкта %s.</text>
-</string>
-<string id="st_wrfr_order_13">
-<text>З об'єкта %s відправлено один загін до пункту %s.</text>
-</string>
-<string id="st_wrfr_order_14">
-<text>З об'єкта «%s» до пункту «%s» надіслано всі загони.</text>
-</string>
-	<string id="st_wrfr_order_15">
-<text>Територія %s відправила один загін на об'єкт %s.</text>
-</string>
-<string id="st_wrfr_order_16">
-<text>Територія %s відправила всі загони на об'єкт %s.</text>
-</string>
-<string id="st_wrfr_order_17">
-<text>Гвинтокрил відправлений. Ціль: %s.</text>
-</string>
-<string id="st_wrfr_heli_removed">
-<text>Гвинтокрил відкликаний.</text>
-</string>
-<string id="st_wrfr_heli_already_spawned">
-<text>У цьому квадраті вже є гвинтокрил!</text>
-</string>
-
-<string id="st_wrfr_smrt_auto_capture">
-<text>Автозахоплення: %s!</text>
-</string>
-<string id="st_wrfr_prop_base">
-<text>База</text>
-</string>
-<string id="st_wrfr_prop_resource">
-<text>Табір</text>
-</string>
-<string id="st_wrfr_prop_territory">
-<text>Стоянка</text>
-</string>
-<string id="st_wrfr_prop_lair">
-<text>Логове</text>
-</string>
-<string id="st_wrfr_prop_faction">
-<text>Угрупування</text>
-</string>
-<string id="st_wrfr_prop_curr_popu">
-<text>Загонів</text>
-</string>
-<string id="st_wrfr_prop_max_popu">
-<text>Макс. загонів</text>
-</string>
-<string id="st_wrfr_prop_resource_count">
-<text>Кількість ресурсів</text>
-</string>
-<string id="st_wrfr_prop_time_capture">
-<text>До захоплення</text>
-</string>
-<string id="st_wrfr_prop_next_defense">
-<text>До загону оборони</text>
-</string>
-<string id="st_wrfr_prop_next_patrol">
-<text>До загону патруля</text>
-</string>
-<string id="st_wrfr_prop_time_culc_hr">
-<text>%sч %sмін</text>
-</string>
-<string id="st_wrfr_prop_time_culc_min">
-<text>%s хв</text>
-</string>
-<string id="st_wrfr_prop_target">
-<text>Мета штурму</text>
-</string>
-<string id="st_wrfr_prop_invasion_size">
-<text>Кількість загонів</text>
-</string>
-<string id="st_wrfr_prop_targets">
-<text>--Цілі--</text>
-</string>
-<string id="st_wrfr_prop_invasion">
-<text>--Штурм--</text>
-</string>
-<string id="st_wrfr_smart_count_warning">
-<text>Загонів на території %s: %s!</text>
-</string>
-
-<string id="st_wrfr_heli">
-<text>Гвинтокрил</text>
-</string>
-<string id="st_wrfr_you">
-<text>Ви</text>
-</string>
-<string id="st_wrfr_mutant">
-<text>мутант</text>
-</string>
-<string id="st_wrfr_none">
-<text>Н/Д</text>
-</string>
-
-<string id="st_wrfr_sim_1">
-<text>Командир загону %s</text>
-</string>
-<string id="st_wrfr_sim_2">
-<text>Кількість</text>
-</string>
-<string id="st_wrfr_sim_3">
-<text>Секція</text>
-</string>
-<string id="st_wrfr_sim_4">
-<text>ID</text>
-</string>
-<string id="st_wrfr_sim_5">
-<text>У бою</text>
-</string>
-<string id="st_wrfr_sim_6">
-<text>Рухається(ються) до мети</text>
-</string>
-<string id="st_wrfr_sim_7">
-<text>Загін на позиції</text>
-</string>
-<string id="st_wrfr_sim_8">
-<text>Сила загону</text>
-</string>
-<string id="st_wrfr_sim_9">
-<text>Сила</text>
-</string>
-<string id="st_wrfr_sim_10">
-<text>Своя база</text>
-</string>
-<string id="st_wrfr_sim_11">
-<text>Час патруля</text>
-</string>
-<string id="st_wrfr_sim_12">
-<text>Локація</text>
-</string>
+    <string id="st_wrfr_opt_presets">
+        <text>Пресети</text>
+    </string>
+    <string id="st_wrfr_opt_apply_to_all">
+        <text>Для всіх</text>
+    </string>
+    <string id="st_wrfr_opt_general">
+        <text>Спільне</text>
+    </string>
+    <string id="st_wrfr_opt_azazel_respawn">
+        <text>«Життя після життя»</text>
+    </string>
+    <string id="st_wrfr_opt_rand_settings">
+        <text>Випадково</text>
+    </string>
+    <string id="st_wrfr_influnence_points">
+        <text>Ігрові окуляри</text>
+    </string>
+    <string id="st_wrfr_release_control_faction">
+        <text>Вимк. командування угрупуванням</text>
+    </string>
+    <string id="st_wrfr_take_control_faction">
+        <text>Увімк. командування угрупуванням</text>
+    </string>
+    <string id="st_wrfr_show_points">
+        <text>Відображати території / Смарти</text>
+    </string>
+    <string id="st_wrfr_hide_points">
+        <text>Приховати території / Смарти</text>
+    </string>
+    <string id="st_wrfr_display_faction_info">
+        <text>Дані про угруповання</text>
+    </string>
+    <string id="st_wrfr_unselect_squad">
+        <text>Зняти мітку</text>
+    </string>
+    <string id="st_wrfr_select_squad">
+        <text>Вибрати загін</text>
+    </string>
+    <string id="st_wrfr_unselect_point">
+        <text>Скасувати вибір</text>
+    </string>
+    <string id="st_wrfr_select_point">
+        <text>Вибір території</text>
+    </string>
+    <string id="st_wrfr_select_obj">
+        <text>Вибраний об'єкт</text>
+    </string>
+    <string id="st_wrfr_add_influ">
+        <text>Підвищити значущість</text>
+    </string>
+    <string id="st_wrfr_remove_influ">
+        <text>Зменшити значущість</text>
+    </string>
+    <string id="st_wrfr_cap_point">
+        <text>Захоплення</text>
+    </string>
+    <string id="st_wrfr_buy_novice_squad">
+        <text>Найняти загін новачків</text>
+    </string>
+    <string id="st_wrfr_buy_adv_squad">
+        <text>Найняти загін досвідчених</text>
+    </string>
+    <string id="st_wrfr_buy_veteran_squad">
+        <text>Найняти загін ветеранів</text>
+    </string>
+    <string id="st_wrfr_buy_heli">
+        <text>Найняти гвинтокрил</text>
+    </string>
+    <string id="st_wrfr_declare_war">
+        <text>Оголосити війну</text>
+    </string>
+    <string id="st_wrfr_possess_leader">
+        <text>Стати командиром загону</text>
+    </string>
+    <string id="st_wrfr_follow">
+        <text>Висунення</text>
+    </string>
+    <string id="st_wrfr_attack">
+        <text>Атака</text>
+    </string>
+    <string id="st_wrfr_target">
+        <text>Мета</text>
+    </string>
+    <string id="st_wrfr_move_here">
+        <text>Іти до точки</text>
+    </string>
+    <string id="st_wrfr_send_squad">
+        <text>Надіслати загін</text>
+    </string>
+    <string id="st_wrfr_send_all_squad">
+        <text>Надіслати всі загони</text>
+    </string>
+    <string id="st_wrfr_take_squad">
+        <text>Відкликати загін</text>
+    </string>
+    <string id="st_wrfr_take_all_squads">
+        <text>Відкликати всі загони</text>
+    </string>
+    <string id="st_wrfr_attack_with_all">
+        <text>Атакувати всім</text>
+    </string>
+    <string id="st_wrfr_send_heli_to_point">
+        <text>Надіслати гвинтокрил до точки</text>
+    </string>
+    <string id="st_wrfr_send_heli_to_squad">
+        <text>Відправити гелікоптер до загону</text>
+    </string>
+    <string id="st_wrfr_remove_heli">
+        <text>Відкликати гелікоптер</text>
+    </string>
+    <string id="st_wrfr_heli_route">
+        <text>Гвинтокрил у дорозі.</text>
+    </string>
+    <string id="st_wrfr_order_1">
+        <text>%s зі своїм загоном слідує до точки «%s».</text>
+    </string>
+    <string id="st_wrfr_order_2">
+        <text>%s зі своїм загоном атакує ціль, якою є %s.</text>
+    </string>
+    <string id="st_wrfr_order_3">
+        <text>%s зі своєю групою тепер супроводжує загін, який очолює %s.</text>
+    </string>
+    <string id="st_wrfr_order_4">
+        <text>Територія %s відправила один загін до Гравця.</text>
+    </string>
+    <string id="st_wrfr_order_5">
+        <text>Територія %s відправила до Гравця всі загони.</text>
+    </string>
+    <string id="st_wrfr_order_6">
+        <text>Територія %s відправила один загін в атаку на групу противника, яку очолює %s.</text>
+    </string>
+    <string id="st_wrfr_order_7">
+        <text>Територія %s відправила всі загони в атаку на групу супротивника, яку очолює %s.</text>
+    </string>
+    <string id="st_wrfr_order_8">
+        <text>Територія «%s» відправила один загін для проходження за групою, яку очолює %s.</text>
+    </string>
+    <string id="st_wrfr_order_9">
+        <text>Територія «%s» надіслала всі загони для проходження за групою, яку очолює %s.</text>
+    </string>
+    <string id="st_wrfr_order_10">
+        <text>Об'єкт «%s» додано до списку цілей для загонів, що знаходяться на території «%s».</text>
+    </string>
+    <string id="st_wrfr_order_11">
+        <text>Територія %s відправила один загін для атаки об'єкта %s.</text>
+    </string>
+    <string id="st_wrfr_order_12">
+        <text>Територія %s відправила всі загони для атаки об'єкта %s.</text>
+    </string>
+    <string id="st_wrfr_order_13">
+        <text>З об'єкта %s відправлено один загін до пункту %s.</text>
+    </string>
+    <string id="st_wrfr_order_14">
+        <text>З об'єкта «%s» до пункту «%s» надіслано всі загони.</text>
+    </string>
+    <string id="st_wrfr_order_15">
+        <text>Територія %s відправила один загін на об'єкт %s.</text>
+    </string>
+    <string id="st_wrfr_order_16">
+        <text>Територія %s відправила всі загони на об'єкт %s.</text>
+    </string>
+    <string id="st_wrfr_order_17">
+        <text>Гвинтокрил відправлений. Ціль: %s.</text>
+    </string>
+    <string id="st_wrfr_heli_removed">
+        <text>Гвинтокрил відкликаний.</text>
+    </string>
+    <string id="st_wrfr_heli_already_spawned">
+        <text>У цьому квадраті вже є гвинтокрил!</text>
+    </string>
+    <string id="st_wrfr_smrt_auto_capture">
+        <text>Автозахоплення: %s!</text>
+    </string>
+    <string id="st_wrfr_prop_base">
+        <text>База</text>
+    </string>
+    <string id="st_wrfr_prop_resource">
+        <text>Табір</text>
+    </string>
+    <string id="st_wrfr_prop_territory">
+        <text>Стоянка</text>
+    </string>
+    <string id="st_wrfr_prop_lair">
+        <text>Логове</text>
+    </string>
+    <string id="st_wrfr_prop_faction">
+        <text>Угрупування</text>
+    </string>
+    <string id="st_wrfr_prop_curr_popu">
+        <text>Загонів</text>
+    </string>
+    <string id="st_wrfr_prop_max_popu">
+        <text>Макс. загонів</text>
+    </string>
+    <string id="st_wrfr_prop_resource_count">
+        <text>Кількість ресурсів</text>
+    </string>
+    <string id="st_wrfr_prop_time_capture">
+        <text>До захоплення</text>
+    </string>
+    <string id="st_wrfr_prop_next_defense">
+        <text>До загону оборони</text>
+    </string>
+    <string id="st_wrfr_prop_next_patrol">
+        <text>До загону патруля</text>
+    </string>
+    <string id="st_wrfr_prop_time_culc_hr">
+        <text>%sч %sмін</text>
+    </string>
+    <string id="st_wrfr_prop_time_culc_min">
+        <text>%s хв</text>
+    </string>
+    <string id="st_wrfr_prop_target">
+        <text>Мета штурму</text>
+    </string>
+    <string id="st_wrfr_prop_invasion_size">
+        <text>Кількість загонів</text>
+    </string>
+    <string id="st_wrfr_prop_targets">
+        <text>--Цілі--</text>
+    </string>
+    <string id="st_wrfr_prop_invasion">
+        <text>--Штурм--</text>
+    </string>
+    <string id="st_wrfr_smart_count_warning">
+        <text>Загонів на території %s: %s!</text>
+    </string>
+    <string id="st_wrfr_heli">
+        <text>Гвинтокрил</text>
+    </string>
+    <string id="st_wrfr_you">
+        <text>Ви</text>
+    </string>
+    <string id="st_wrfr_mutant">
+        <text>мутант</text>
+    </string>
+    <string id="st_wrfr_none">
+        <text>Н/Д</text>
+    </string>
+    <string id="st_wrfr_sim_1">
+        <text>Командир загону %s</text>
+    </string>
+    <string id="st_wrfr_sim_2">
+        <text>Кількість</text>
+    </string>
+    <string id="st_wrfr_sim_3">
+        <text>Секція</text>
+    </string>
+    <string id="st_wrfr_sim_4">
+        <text>ID</text>
+    </string>
+    <string id="st_wrfr_sim_5">
+        <text>У бою</text>
+    </string>
+    <string id="st_wrfr_sim_6">
+        <text>Рухається(ються) до мети</text>
+    </string>
+    <string id="st_wrfr_sim_7">
+        <text>Загін на позиції</text>
+    </string>
+    <string id="st_wrfr_sim_8">
+        <text>Сила загону</text>
+    </string>
+    <string id="st_wrfr_sim_9">
+        <text>Сила</text>
+    </string>
+    <string id="st_wrfr_sim_10">
+        <text>Своя база</text>
+    </string>
+    <string id="st_wrfr_sim_11">
+        <text>Час патруля</text>
+    </string>
+    <string id="st_wrfr_sim_12">
+        <text>Локація</text>
+    </string>
 </string_table>

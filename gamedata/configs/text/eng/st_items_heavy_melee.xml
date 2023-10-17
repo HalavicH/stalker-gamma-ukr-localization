@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
 <string_table>
-
-	<string id="st_sledge_hammer">
-		<text>Кувалда</text>
-	</string>
-
-	<string id="st_sledge_hammer_descr">
-		<text>Тупа важка промислова кувалда. Колись інструмент, який використовувався для будівництва будівель навколо нас, тепер використовується для того, щоб розтрощити голови вашим ворогам або вагнерівцям хоча частіше всього це слова синоніми. \n \n
+    <string id="st_sledge_hammer">
+        <text>Кувалда</text>
+    </string>
+    <string id="st_sledge_hammer_descr">
+        <text>Тупа важка промислова кувалда. Колись інструмент, який використовувався для будівництва будівель навколо нас, тепер використовується для того, щоб розтрощити голови вашим ворогам або вагнерівцям хоча частіше всього це слова синоніми. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] Heavy Melee item\n</text>
-	</string>
-
+    </string>
 </string_table>

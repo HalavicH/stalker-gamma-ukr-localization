@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<!--
-	Basic items (Some are\not used anymore)
--->
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="st_cash_name">
         <text>Гаманець</text>

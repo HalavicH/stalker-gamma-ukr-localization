@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<!--===========================================================
-<
-< QUEST ITEMS TEXT  STRINGS
-<	CoC 1.4.07 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 06, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- DRX Storyline Documents Quest Item -->
+    
+<!-- DRX Storyline Documents Quest Item -->
     <string id="drx_sl_quest_item_1_name">
         <text>Документи</text>
     </string>
@@ -36,14 +28,16 @@
             сйяш'шчочті л Сшчо, бьшке илштцт ноуиьлтіцт це чо щшлевйхт тчнофи шщйичшиьт. \nцц -2018»
         </text>
     </string>
-    <!-- DRX Storyline Locked Case Quest Item -->
+    
+<!-- DRX Storyline Locked Case Quest Item -->
     <string id="drx_sl_quest_item_2_name">
         <text>Закритий кейс</text>
     </string>
     <string id="drx_sl_quest_item_2_desc">
         <text>Закритий кейс. Його вміст невідомо, проте важить він пристойно.</text>
     </string>
-    <!-- DRX Storyline PDA Quest Item -->
+    
+<!-- DRX Storyline PDA Quest Item -->
     <string id="drx_sl_quest_item_3_name">
         <text>КПК</text>
     </string>
@@ -195,7 +189,8 @@
             Вся отримана інформація повинна автоматично пересилатися в бункер вчених. \n\n%c[ui_gray_3]            ХАРАКТЕРИСТИКИ:\n%c[d_blue] • %c[ui_gray_2] технологічне пристосування\n
         </text>
     </string>
-    <!-- MLR -->
+    
+<!-- MLR -->
     <string id="mlr_strelok_item_01">
         <text>Зошит з записами</text>
     </string>
@@ -220,7 +215,8 @@
     <string id="item_pda_map_mlr_descr">
         <text>Персональний КПК, в розділі карти якого присутній цікава інформація про дорогу між локаціями.</text>
     </string>
-    <!-- DRX -->
+    
+<!-- DRX -->
     <string id="drx_x8_documents_name">
         <text>Документи з даними з антен</text>
     </string>

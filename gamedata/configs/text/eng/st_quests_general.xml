@@ -1,300 +1,353 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< GENERAL TEXT  STRINGS FOR TASKS
-<	CoC 1.4.10 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
-<
-<===========================================================-->
 <string_table>
-    <!--                                      -->
-    <!-- STORYLINE GENERAL TASK STRINGS       -->
-    <!--                                      -->
-    <!--	Modified by DoctorX               -->
-    <!--	for DoctorX Questlines 1.6        -->
-    <!--	October 07, 2016                  -->
-    <!--                                      -->
-    <!-- Find Wish Granter Task -->
+    
+<!--                                      -->
+    
+<!-- STORYLINE GENERAL TASK STRINGS       -->
+    
+<!--                                      -->
+    
+<!--	Modified by DoctorX               -->
+    
+<!--	for DoctorX Questlines 1.6        -->
+    
+<!--	October 07, 2016                  -->
+    
+<!--                                      -->
+    
+<!-- Find Wish Granter Task -->
     <string id="drx_sl_find_wish_granter_task_name">
         <text>Знайти Виконавця бажань</text>
     </string>
     <string id="drx_sl_find_wish_granter_task_text">
         <text>Якщо вірити чуткам, то «Виконавець» знаходиться всередині ЧАЕС. Необхідно знайти його.</text>
     </string>
-    <!--                                                -->
-    <!-- STORYLINE START GAME TASK TEXT  STRINGS        -->
-    <!--                                                -->
-    <!--	Modified by DoctorX                         -->
-    <!--	for DoctorX Questlines 1.6                  -->
-    <!--	October 14, 2016                            -->
-    <!--                                                -->
-    <!-- Start Game at Sidorovich (Loner) Task 1 -->
+    
+<!--                                                -->
+    
+<!-- STORYLINE START GAME TASK TEXT  STRINGS        -->
+    
+<!--                                                -->
+    
+<!--	Modified by DoctorX                         -->
+    
+<!--	for DoctorX Questlines 1.6                  -->
+    
+<!--	October 14, 2016                            -->
+    
+<!--                                                -->
+    
+<!-- Start Game at Sidorovich (Loner) Task 1 -->
     <string id="drx_sl_esc_m_trader_start_game_1_name">
         <text>Зустрітися з Сидоровичем</text>
     </string>
     <string id="drx_sl_esc_m_trader_start_game_1_text">
         <text>Сидорович - ключова фігура для новачка в Зоні, який може допомогти розжитися.</text>
     </string>
-    <!-- Start Game at Petrenko (Duty) Task 1 -->
+    
+<!-- Start Game at Petrenko (Duty) Task 1 -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_name">
         <text>Зустрітися з Петренком</text>
     </string>
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_text">
         <text>Прибути до Петренка за подальшими інструкціями.</text>
     </string>
-    <!-- Start Game at Lukash (Freedom) Task 1 -->
+    
+<!-- Start Game at Lukash (Freedom) Task 1 -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_name">
         <text>Зустрітися з Лукашем</text>
     </string>
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_text">
         <text>У Лукаша є якась справа.</text>
     </string>
-    <!-- Meet Cold1 (Clear Sky) Task 1 -->
+    
+<!-- Meet Cold1 (Clear Sky) Task 1 -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_name">
         <text>Поговорити з Холодом</text>
     </string>
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_text">
         <text>Зустрітися з Холодом на базі «Чистого неба». У нього щось є.</text>
     </string>
-    <!-- Start Game at Sakharov (Ecologist) Task 1 -->
+    
+<!-- Start Game at Sakharov (Ecologist) Task 1 -->
     <string id="drx_sl_yan_stalker_sakharov_start_game_1_name">
         <text>Поговорити з Сахаровим</text>
     </string>
     <string id="drx_sl_yan_stalker_sakharov_start_game_1_text">
         <text>У професора Сахарова напевно якесь доручення, пов'язане з наукою.</text>
     </string>
-    <!-- Start Game at Dushman (Mercenary) Task 1 -->
+    
+<!-- Start Game at Dushman (Mercenary) Task 1 -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_name">
         <text>Зайти до Душмана</text>
     </string>
     <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_text">
         <text>Поговорити з Душманом.</text>
     </string>
-    <!-- Start Game at Kuznetsov (Military Honcho) Task 1 -->
+    
+<!-- Start Game at Kuznetsov (Military Honcho) Task 1 -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_name">
         <text>Прибути до полковника Кузнєцова</text>
     </string>
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_text">
         <text>З'явитися до полковника Кузнєцова.</text>
     </string>
-    <!-- Start Game at Sultan (Bandit Honcho) Task 1 -->
+    
+<!-- Start Game at Sultan (Bandit Honcho) Task 1 -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_name">
         <text>До Султана</text>
     </string>
     <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_text">
         <text>Султан, той що пахан бандитів в Темній долині, бажає поговорити про своє.</text>
     </string>
-    <!-- Start Game at Rabbit (Monolith Trader) Task 1 -->
+    
+<!-- Start Game at Rabbit (Monolith Trader) Task 1 -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_name">
         <text>Аудієнції з Кроликом мати дозволено</text>
     </string>
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_text">
         <text>У Кролика шляху продовження напевно унать можна.</text>
     </string>
-    <!-- Start Game at Stribog (Sin Trader) Task 1 -->
+    
+<!-- Start Game at Stribog (Sin Trader) Task 1 -->
     <string id="drx_sl_red_greh_trader_start_game_1_name">
         <text>Прибути до брата Стрибога</text>
     </string>
     <string id="drx_sl_red_greh_trader_start_game_1_text">
         <text>Дорученням новому, мабуть, уготована доля, раз брат Стрибог аудієнції бажає.</text>
     </string>
-    <!--                                             -->
-    <!-- STORYLINE MEET HONCHO TASK TEXT  STRINGS    -->
-    <!--                                             -->
-    <!--	Modified by DoctorX                      -->
-    <!--	for DoctorX Questlines 1.6               -->
-    <!--	October 14, 2016                         -->
-    <!--                                             -->
-    <!-- Meet Sidorovich (Loner) Task 1 -->
+    
+<!--                                             -->
+    
+<!-- STORYLINE MEET HONCHO TASK TEXT  STRINGS    -->
+    
+<!--                                             -->
+    
+<!--	Modified by DoctorX                      -->
+    
+<!--	for DoctorX Questlines 1.6               -->
+    
+<!--	October 14, 2016                         -->
+    
+<!--                                             -->
+    
+<!-- Meet Sidorovich (Loner) Task 1 -->
     <string id="drx_sl_esc_m_trader_meet_task_1_name">
         <text>Зустрітися з Сидоровичем</text>
     </string>
     <string id="drx_sl_esc_m_trader_meet_task_1_text">
         <text>Наступний пункт призначення - Сидорович.</text>
     </string>
-    <!-- Meet Xenotech (Loner) Task 1 -->
+    
+<!-- Meet Xenotech (Loner) Task 1 -->
     <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_name">
         <text>Зустрітися з Фургоном</text>
     </string>
     <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Фургон.</text>
     </string>
-    <!-- Meet Beard (Loner) Task 1 -->
+    
+<!-- Meet Beard (Loner) Task 1 -->
     <string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_name">
         <text>Зустрітися з Бородою</text>
     </string>
     <string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_text">
         <text>Наступний пункт призначення - Борода.</text>
     </string>
-    <!-- Meet\noah (Loner) Task 1 -->
+    
+<!-- Meet\noah (Loner) Task 1 -->
     <string id="drx_sl_zat_b18_noah_meet_task_1_name">
         <text>Зустрітися з Ноєм</text>
     </string>
     <string id="drx_sl_zat_b18_noah_meet_task_1_text">
         <text>Наступний пункт призначення - Ной.</text>
     </string>
-    <!-- Meet Petrenko (Duty) Task 1 -->
+    
+<!-- Meet Petrenko (Duty) Task 1 -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_name">
         <text>Зустрітися з Петренко</text>
     </string>
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Петренко.</text>
     </string>
-    <!-- Meet Mangun (Duty) Task 1 -->
+    
+<!-- Meet Mangun (Duty) Task 1 -->
     <string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_name">
         <text>Зустрітися з Громовим</text>
     </string>
     <string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_text">
         <text>Наступний пункт призначення - Громов.</text>
     </string>
-    <!-- Meet Lukash (Freedom) Task 1 -->
+    
+<!-- Meet Lukash (Freedom) Task 1 -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_name">
         <text>Зустрітися з Лукашем</text>
     </string>
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Лукаш.</text>
     </string>
-    <!-- Meet Loki (Freedom) Task 1 -->
+    
+<!-- Meet Loki (Freedom) Task 1 -->
     <string id="drx_sl_jup_a6_freedom_leader_meet_task_1_name">
         <text>Зустрітися з Локі</text>
     </string>
     <string id="drx_sl_jup_a6_freedom_leader_meet_task_1_text">
         <text>Наступний пункт призначення - Локі.</text>
     </string>
-    <!-- Meet Cold (Clear Sky) Task 1 -->
+    
+<!-- Meet Cold (Clear Sky) Task 1 -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_name">
         <text>Зустрітися з Холодом</text>
     </string>
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_text">
         <text>Наступний пункт призначення - Холод.</text>
     </string>
-    <!-- Meet Librarian (Clear Sky) Task 1 -->
+    
+<!-- Meet Librarian (Clear Sky) Task 1 -->
     <string id="drx_sl_mar_base_stalker_barmen_meet_task_1_name">
         <text>Зустрітися з Бібліотекарем</text>
     </string>
     <string id="drx_sl_mar_base_stalker_barmen_meet_task_1_text">
         <text>Наступний пункт призначення - Бібліотекар.</text>
     </string>
-    <!-- Meet Sakharov (Ecologist) Task 1 -->
+    
+<!-- Meet Sakharov (Ecologist) Task 1 -->
     <string id="drx_sl_yan_stalker_sakharov_meet_task_1_name">
         <text>Зустрітися з професором Сахаровим</text>
     </string>
     <string id="drx_sl_yan_stalker_sakharov_meet_task_1_text">
         <text>Наступний пункт призначення - професор Сахаров.</text>
     </string>
-    <!-- Meet Tukarev (Ecologist) Task 1 -->
+    
+<!-- Meet Tukarev (Ecologist) Task 1 -->
     <string id="drx_sl_jup_b6_scientist_tech_meet_task_1_name">
         <text>Зустрітися з Гаріним</text>
     </string>
     <string id="drx_sl_jup_b6_scientist_tech_meet_task_1_text">
         <text>Наступний пункт призначення - Гарін.</text>
     </string>
-    <!-- Meet Dushman (Mercenary) Task 1 -->
+    
+<!-- Meet Dushman (Mercenary) Task 1 -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_name">
         <text>Зустрітися з Душманом</text>
     </string>
     <string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Душман.</text>
     </string>
-    <!-- Meet Hog (Mercenary) Task 1 -->
+    
+<!-- Meet Hog (Mercenary) Task 1 -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_name">
         <text>Зустрітися з Хогом</text>
     </string>
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Хог.</text>
     </string>
-    <!-- Meet Kuznetsov (Military) Task 1 -->
+    
+<!-- Meet Kuznetsov (Military) Task 1 -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_name">
         <text>Зустрітися з полковником Кузнєцовим</text>
     </string>
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_text">
         <text>Наступний пункт призначення - полковник Кузнєцов.</text>
     </string>
-    <!-- Meet Kirilov (Military) Task 1 -->
+    
+<!-- Meet Kirilov (Military) Task 1 -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_name">
         <text>Зустрітися з лейтенантом Кириловим</text>
     </string>
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - лейтенант Кирилов.</text>
     </string>
-    <!-- Meet Sultan (Bandit) Task 1 -->
+    
+<!-- Meet Sultan (Bandit) Task 1 -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_name">
         <text>Зустрітися з Султаном</text>
     </string>
     <string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_text">
         <text>Наступний пункт призначення - Султан.</text>
     </string>
-    <!-- Meet Olivius (Bandit) Task 1 -->
+    
+<!-- Meet Olivius (Bandit) Task 1 -->
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_name">
         <text>Зустрітися з Маслиною</text>
     </string>
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Маслина.</text>
     </string>
-    <!-- Meet Rabbit (Monolith) Task 1 -->
+    
+<!-- Meet Rabbit (Monolith) Task 1 -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_name">
         <text>Зустрітися з Кроликом</text>
     </string>
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Кролик.</text>
     </string>
-    <!-- Meet Cleric (Monolith) Task 1 -->
+    
+<!-- Meet Cleric (Monolith) Task 1 -->
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_name">
         <text>Зустрітися з Проповідником</text>
     </string>
     <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_text">
         <text>Наступний пункт призначення - Проповідник.</text>
     </string>
-    <!-- Meet Stribog (Sin) Task 1 -->
+    
+<!-- Meet Stribog (Sin) Task 1 -->
     <string id="drx_sl_red_greh_trader_meet_task_1_name">
         <text>Зустрітися зі Стрибогом</text>
     </string>
     <string id="drx_sl_red_greh_trader_meet_task_1_text">
         <text>Наступний пункт призначення - Стрибог.</text>
     </string>
-    <!-- Meet Dazhbog (Sin) Task 1 -->
+    
+<!-- Meet Dazhbog (Sin) Task 1 -->
     <string id="drx_sl_red_greh_tech_meet_task_1_name">
         <text>Зустрітися з Дажбогом</text>
     </string>
     <string id="drx_sl_red_greh_tech_meet_task_1_text">
         <text>Наступний пункт призначення - Дажбог.</text>
     </string>
-    <!-- Meet Olivar (Monolith) Task 1 -->
+    
+<!-- Meet Olivar (Monolith) Task 1 -->
     <string id="drx_sl_trader_monolith_kbo_meet_task_1_name">
         <text>Зустрітися зі Скупим</text>
     </string>
     <string id="drx_sl_trader_monolith_kbo_meet_task_1_text">
         <text>Наступний пункт призначення - Скупий.</text>
     </string>
-    <!-- Meet Griffith (Monolith) Task 1 -->
+    
+<!-- Meet Griffith (Monolith) Task 1 -->
     <string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_name">
         <text>Зустрітися з Грифоном</text>
     </string>
     <string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_text">
         <text>Наступний пункт призначення - Грифон.</text>
     </string>
-    <!-- Meet Vector (Mercenary) Task 1 -->
+    
+<!-- Meet Vector (Mercenary) Task 1 -->
     <string id="drx_sl_zat_stancia_trader_merc_meet_task_1_name">
         <text>Зустрітися з Вектором</text>
     </string>
     <string id="drx_sl_zat_stancia_trader_merc_meet_task_1_text">
         <text>Наступний пункт призначення - Вектор.</text>
     </string>
-    <!-- Meet Klenov (Bandit) Task 1 -->
+    
+<!-- Meet Klenov (Bandit) Task 1 -->
     <string id="drx_sl_jup_cont_trader_bandit_meet_task_1_name">
         <text>Зустрітися з Кленом</text>
     </string>
     <string id="drx_sl_jup_cont_trader_bandit_meet_task_1_text">
         <text>Наступний пункт призначення - Клен.</text>
     </string>
-    <!-- SIMULATION TASK TEXT  STRINGS     -->
-    <!--	Modified by DoctorX            -->
-    <!--	for DoctorX Questlines 1.6     -->
-    <!--	October 07, 2016               -->
-    <!-- Procure Supplies for Clear Sky Simulation Task -->
+    
+<!-- SIMULATION TASK TEXT  STRINGS     -->
+    
+<!--	Modified by DoctorX            -->
+    
+<!--	for DoctorX Questlines 1.6     -->
+    
+<!--	October 07, 2016               -->
+    
+<!-- Procure Supplies for Clear Sky Simulation Task -->
     <string id="simulation_task_1_name">
         <text>Польова допомога</text>
     </string>
@@ -332,7 +385,8 @@
             мародерствувати і саме мої схованки разграблять. .. Не напасешся ж!
         </text>
     </string>
-    <!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+    
+<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
     <string id="simulation_task_2_name">
         <text>Рука допомоги</text>
     </string>
@@ -365,7 +419,8 @@
     <string id="simulation_task_2_fetch_finish">
         <text>Во! Шікос, бро. Дякую.</text>
     </string>
-    <!-- FIND SUPPLIES FOR BANDIT TASK -->
+    
+<!-- FIND SUPPLIES FOR BANDIT TASK -->
     <string id="simulation_task_3_name">
         <text>Царський підгін</text>
     </string>
@@ -398,7 +453,8 @@
             своєю херней закінчу, то паханові точняк про тя все розповім. Авторитету ті привалить конкретно, мля буду!
         </text>
     </string>
-    <!-- FIND SUPPLIES FOR MILITARY TASK -->
+    
+<!-- FIND SUPPLIES FOR MILITARY TASK -->
     <string id="simulation_task_4_name">
         <text>Гум-допомога</text>
     </string>
@@ -428,7 +484,8 @@
             нею потім після відбою поговоримо... по-братськи.
         </text>
     </string>
-    <!-- Bring Supplies for Monolith Simulation Task -->
+    
+<!-- Bring Supplies for Monolith Simulation Task -->
     <string id="simulation_task_5_name">
         <text>Братські узи</text>
     </string>
@@ -454,7 +511,8 @@
             звільнив! Слава Йому, Великому Моноліту!
         </text>
     </string>
-    <!-- Find Supplies for Merc Simulation Task -->
+    
+<!-- Find Supplies for Merc Simulation Task -->
     <string id="simulation_task_6_name">
         <text>Поставка припасів</text>
     </string>
@@ -481,7 +539,8 @@
     <string id="simulation_task_6_fetch_finish">
         <text>Ось за це дякую, чоловіче. Добре так, прям від душі.</text>
     </string>
-    <!-- FIND WEAPON FOR STALKER TASK -->
+    
+<!-- FIND WEAPON FOR STALKER TASK -->
     <string id="simulation_task_7_name">
         <text>Любов до зброї</text>
     </string>
@@ -519,7 +578,8 @@
             пристреляв ствол на якомусь зламі...
         </text>
     </string>
-    <!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+    
+<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
     <string id="simulation_task_8_name">
         <text>Збройний дилер</text>
     </string>
@@ -561,7 +621,8 @@
     <string id="simulation_task_8_fetch_finish">
         <text>Молоток! Хороший агрегат, так? Вже я за ним прігляжу як слід. Ось, тобі належить за працю.</text>
     </string>
-    <!-- FIND WEAPON FOR BANDIT TASK -->
+    
+<!-- FIND WEAPON FOR BANDIT TASK -->
     <string id="simulation_task_9_name">
         <text>Арти, гроші, два стволи</text>
     </string>
@@ -592,7 +653,8 @@
             че-небудь ще про сходку ніколи не бачив і не чув, на. Вкурил? Ось і праільно.
         </text>
     </string>
-    <!-- Find a Reliable Weapon for Merc Simulation Task -->
+    
+<!-- Find a Reliable Weapon for Merc Simulation Task -->
     <string id="simulation_task_10_name">
         <text>Збройний барон</text>
     </string>
@@ -623,7 +685,8 @@
     <string id="simulation_task_10_fetch_finish">
         <text>Ай, дякую! Просто малорік. Виручив брата. А ось і твої заслужені шекелі.</text>
     </string>
-    <!-- Find a Reliable Weapon for Military Simulation Task -->
+    
+<!-- Find a Reliable Weapon for Military Simulation Task -->
     <string id="simulation_task_11_name">
         <text>Зброя на імпорт</text>
     </string>
@@ -656,7 +719,8 @@
             труди, братик. І будь обережний там.
         </text>
     </string>
-    <!-- FIND ARTEFACT FOR STALKER TASK -->
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
     <string id="simulation_task_12_name">
         <text>Гаряча пропозиція</text>
     </string>
@@ -689,7 +753,8 @@
             нарвемся на гопників по шляху...
         </text>
     </string>
-    <!-- FIND ARTEFACT FOR MILITARY TASK -->
+    
+<!-- FIND ARTEFACT FOR MILITARY TASK -->
     <string id="simulation_task_13_name">
         <text>ДМБ</text>
     </string>
@@ -728,7 +793,8 @@
             треба швидко заховати артефакт, щоб старший не впізнав.
         </text>
     </string>
-    <!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+    
+<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
     <string id="simulation_task_14_name">
         <text>Закриття сезону полювання</text>
     </string>
@@ -762,7 +828,8 @@
             завалялися, так ти і їх бери, чоловіче.
         </text>
     </string>
-    <!-- Mutant Meat Stew for Bandit Simulation Task -->
+    
+<!-- Mutant Meat Stew for Bandit Simulation Task -->
     <string id="simulation_task_15_name">
         <text>чітка кулінарія</text>
     </string>
@@ -788,7 +855,8 @@
             стіл» второпаю з ампулку.
         </text>
     </string>
-    <!-- Collect Mutant Tissue Sample for Ecologist Simulation Task -->
+    
+<!-- Collect Mutant Tissue Sample for Ecologist Simulation Task -->
     <string id="simulation_task_16_name">
         <text>Польова зоологія</text>
     </string>
@@ -818,7 +886,8 @@
             було домовлено, ось оплата за Ваші послуги.
         </text>
     </string>
-    <!-- Bring patches for Freedom Simulation Task -->
+    
+<!-- Bring patches for Freedom Simulation Task -->
     <string id="simulation_task_17_name">
         <text>Мама - Анархія</text>
     </string>
@@ -845,7 +914,8 @@
     <string id="simulation_task_17_fetch_finish">
         <text>Респект! У мене аж на душі полегшало. Ось, бро, лови арт. Заслужив ти його.</text>
     </string>
-    <!-- Bring patches for Duty Simulation Task -->
+    
+<!-- Bring patches for Duty Simulation Task -->
     <string id="simulation_task_18_name">
         <text>Наведення порядку</text>
     </string>
@@ -876,7 +946,8 @@
             вченим? Так ось я спеціально притримав один. Ось. Забирай його, поки ніхто не бачить... Заслужив.
         </text>
     </string>
-    <!-- Bring patches for Stalkers Simulation Task -->
+    
+<!-- Bring patches for Stalkers Simulation Task -->
     <string id="simulation_task_19_name">
         <text>Прибирання сміття</text>
     </string>
@@ -911,7 +982,8 @@
             навіть придумав застосування цим нашивкам... Але да ладно, я ж тобі арт обіцяв. Ось воно - диво Зони. Лови!
         </text>
     </string>
-    <!-- Bring patches for Bandits Simulation Task -->
+    
+<!-- Bring patches for Bandits Simulation Task -->
     <string id="simulation_task_20_name">
         <text>Розбірки в Зоні</text>
     </string>
@@ -946,7 +1018,8 @@
             сказав...
         </text>
     </string>
-    <!-- Find Trip Equipment Tasks -->
+    
+<!-- Find Trip Equipment Tasks -->
     <string id="simulation_task_21_name">
         <text>Підготовка до рейду</text>
     </string>
@@ -978,7 +1051,8 @@
     <string id="simulation_task_21_fetch_finish">
         <text>Від душі! Ось, тримай за турботу.</text>
     </string>
-    <!-- Find Trip Equipment Tasks -->
+    
+<!-- Find Trip Equipment Tasks -->
     <string id="simulation_task_22_name">
         <text>Допомога в зборі</text>
     </string>
@@ -1009,7 +1083,8 @@
     <string id="simulation_task_22_fetch_finish">
         <text>Так, воно саме! Хлопці будуть вдячні. А ось це тобі, друже. Дякую!</text>
     </string>
-    <!-- Find Repair Kit Tasks -->
+    
+<!-- Find Repair Kit Tasks -->
     <string id="simulation_task_23_name">
         <text>Тех-допомога</text>
     </string>
@@ -1041,7 +1116,8 @@
             це тобі за труди.
         </text>
     </string>
-    <!-- Find Upgrade Parts Tasks -->
+    
+<!-- Find Upgrade Parts Tasks -->
     <string id="simulation_task_24_name">
         <text>Технічне забезпечення</text>
     </string>
@@ -1078,7 +1154,8 @@
             я сам його на складові частини розберу.
         </text>
     </string>
-    <!-- Find Upgrade Parts Tasks -->
+    
+<!-- Find Upgrade Parts Tasks -->
     <string id="simulation_task_25_name">
         <text>Бережи, боєць, гвинтівку, як життя свою</text>
     </string>
@@ -1104,7 +1181,8 @@
     <string id="simulation_task_25_fetch_finish">
         <text>Ось порадував, чоловіче! Як то кажуть, ти мені - я тобі. Ось тобі за турботу</text>
     </string>
-    <!-- HOSTAGE RESCUE FOR STALKER TASK -->
+    
+<!-- HOSTAGE RESCUE FOR STALKER TASK -->
     <string id="simulation_task_26_name">
         <text>Пошук і порятунок</text>
     </string>
@@ -1132,7 +1210,8 @@
             мого друга живими! За нас так ще ніхто заступався. Ось - це тобі за допомогу. Бери-бери-бери, мені не шкода!
         </text>
     </string>
-    <!-- HOSTAGE RESCUE FOR DUTY TASK -->
+    
+<!-- HOSTAGE RESCUE FOR DUTY TASK -->
     <string id="simulation_task_27_name">
         <text>Операція «Звільнення»</text>
     </string>
@@ -1162,7 +1241,8 @@
             надалі не кортіло. Такі, мати їх, маски-шоу влаштуємо - вік не забуду!
         </text>
     </string>
-    <!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+    
+<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
     <string id="simulation_task_28_name">
         <text>На свободу!</text>
     </string>
@@ -1188,7 +1268,8 @@
             серця!
         </text>
     </string>
-    <!-- HOSTAGE RESCUE FOR ECOG TASK -->
+    
+<!-- HOSTAGE RESCUE FOR ECOG TASK -->
     <string id="simulation_task_29_name">
         <text>порятунок науки</text>
     </string>
@@ -1215,7 +1296,8 @@
             побачити Вас і нашого товариша живими!
         </text>
     </string>
-    <!-- ASSASSINATION  FOR STALKER TASK -->
+    
+<!-- ASSASSINATION  FOR STALKER TASK -->
     <string id="simulation_task_30_name">
         <text>Полювання на мисливця</text>
     </string>
@@ -1242,7 +1324,8 @@
             Заслужив!
         </text>
     </string>
-    <!-- VENGEANCE  FOR STALKER TASK -->
+    
+<!-- VENGEANCE  FOR STALKER TASK -->
     <string id="simulation_task_31_name">
         <text>Око за око</text>
     </string>
@@ -1270,7 +1353,8 @@
             Все твоє - мені за таку справу ні краплі не шкода.
         </text>
     </string>
-    <!-- ASSASINATION  FOR MILITARY TASK -->
+    
+<!-- ASSASINATION  FOR MILITARY TASK -->
     <string id="simulation_task_32_name">
         <text>Вправний цілець</text>
     </string>
@@ -1292,7 +1376,8 @@
             тобою б не забився на цю тему! \nГаразд, заклад є заклад. Все твоє.
         </text>
     </string>
-    <!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
+    
+<!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
     <string id="simulation_task_33_name">
         <text>Замовне вбивство</text>
     </string>
@@ -1316,7 +1401,8 @@
             професійних навичках ми замовникам теж розповімо.
         </text>
     </string>
-    <!-- Redemption for Monolith Simulation Task -->
+    
+<!-- Redemption for Monolith Simulation Task -->
     <string id="simulation_task_34_name">
         <text>Братське спокутування</text>
     </string>
@@ -1340,7 +1426,8 @@
             Моноліту дякує брата за вірність і поділ тягаря.
         </text>
     </string>
-    <!-- Subcontractor for Bandit Simulation Task -->
+    
+<!-- Subcontractor for Bandit Simulation Task -->
     <string id="simulation_task_35_name">
         <text>Гастролі</text>
     </string>
@@ -1363,7 +1450,8 @@
             могорич.
         </text>
     </string>
-    <!-- Eliminate Enemy Forces for Monolith Simulation Task -->
+    
+<!-- Eliminate Enemy Forces for Monolith Simulation Task -->
     <string id="simulation_task_36_name">
         <text>Священна земля жадає крові невірних</text>
     </string>
@@ -1380,7 +1468,8 @@
     <string id="simulation_task_36_finish">
         <text>Славімо ж Моноліт за це дивне полювання, брате. Слава тобі, Моноліт!</text>
     </string>
-    <!-- Scouting Expedition for Mercenary Simulation Task -->
+    
+<!-- Scouting Expedition for Mercenary Simulation Task -->
     <string id="simulation_task_37_name">
         <text>Розвідка, або один в полі - воїн</text>
     </string>
@@ -1402,7 +1491,8 @@
     <string id="simulation_task_37_finish">
         <text>Файно утирків розкидав, чоловіче. Як і домовлялися, твоя грошва.</text>
     </string>
-    <!-- Clear Research Area for Ecologist Simulation Task -->
+    
+<!-- Clear Research Area for Ecologist Simulation Task -->
     <string id="simulation_task_38_name">
         <text>Не науковий метод</text>
     </string>
@@ -1425,7 +1515,8 @@
             будь ласка, це в знак моєї вдячності.
         </text>
     </string>
-    <!-- Push Back Monolith Incursion for Freedom Simulation Task -->
+    
+<!-- Push Back Monolith Incursion for Freedom Simulation Task -->
     <string id="simulation_task_39_name">
         <text>Свідки Моноліту</text>
     </string>
@@ -1449,7 +1540,8 @@
             не ділитися з ближнім своїм, а тобі він просив виписати нагороду за настільки благородне діяння.
         </text>
     </string>
-    <!-- Interdict Enemy Forces for Duty Simulation Task -->
+    
+<!-- Interdict Enemy Forces for Duty Simulation Task -->
     <string id="simulation_task_40_name">
         <text>Відволікаючий маневр</text>
     </string>
@@ -1474,7 +1566,8 @@
             влаштують! Хотів би я на таке подивитися, ех-ех-ех...
         </text>
     </string>
-    <!-- Eliminate Dangerous Mutants for Duty Simulation Task -->
+    
+<!-- Eliminate Dangerous Mutants for Duty Simulation Task -->
     <string id="simulation_task_41_name">
         <text>Вогнем і мечем</text>
     </string>
@@ -1496,7 +1589,8 @@
             було, дякую тобі чоловіче. Добра справа зробив ти, так що ось і нагорода твоя заслужена.
         </text>
     </string>
-    <!-- Eliminate Dangerous Mutants for Clear Sky Simulation Task -->
+    
+<!-- Eliminate Dangerous Mutants for Clear Sky Simulation Task -->
     <string id="simulation_task_42_name">
         <text>знищення мутантів</text>
     </string>
@@ -1518,7 +1612,8 @@
     <string id="simulation_task_42_finish">
         <text>Як же я вдячний тобі, чоловіче. Дякую! Тварі ці з кожним днем розумнішають, ось пом'яни моє слово!</text>
     </string>
-    <!-- Eliminate Dangerous Mutants for Monolith Simulation Task -->
+    
+<!-- Eliminate Dangerous Mutants for Monolith Simulation Task -->
     <string id="simulation_task_43_name">
         <text>праведне помста</text>
     </string>
@@ -1537,7 +1632,8 @@
     <string id="simulation_task_43_finish">
         <text>Пом'янутий був брат наш, і Моноліту погляд проводив його до себе в царство. Дякую тобі.</text>
     </string>
-    <!-- Search the Stash Simulation Task -->
+    
+<!-- Search the Stash Simulation Task -->
     <string id="simulation_task_44_name">
         <text>Було ваше - стало наше</text>
     </string>
@@ -1557,7 +1653,8 @@
     <string id="simulation_task_44_finish">
         <text>Приніс? Ось і ладушки. Лови за незручності. Я сподіваюся, ти туди не залазив ..?</text>
     </string>
-    <!-- Drug Runner for Freedom Simulation Task -->
+    
+<!-- Drug Runner for Freedom Simulation Task -->
     <string id="simulation_task_45_name">
         <text>листоноша</text>
     </string>
@@ -1578,7 +1675,8 @@
             нагороду покошернее, ха!
         </text>
     </string>
-    <!-- Retrieve Documents for Clear Sky Simulation Task -->
+    
+<!-- Retrieve Documents for Clear Sky Simulation Task -->
     <string id="simulation_task_46_name">
         <text>Документи для «Чистого неба»</text>
     </string>
@@ -1598,7 +1696,8 @@
     <string id="simulation_task_46_finish">
         <text>От дякую, чоловіче. Дай я тобі віддячу!</text>
     </string>
-    <!-- Find PDA Tasks -->
+    
+<!-- Find PDA Tasks -->
     <string id="simulation_task_cl_name">
         <text>екран смерті</text>
     </string>
@@ -1632,7 +1731,8 @@
     <string id="simulation_task_ec_fetch_finish">
         <text>Ось це Ви мене врятували! Дякую!</text>
     </string>
-    <!-- Deliver Package Simulation Task -->
+    
+<!-- Deliver Package Simulation Task -->
     <string id="simulation_task_47_name">
         <text>посередник</text>
     </string>
@@ -1717,7 +1817,8 @@
             друже, бери. За допомогу.
         </text>
     </string>
-    <!-- Take Measurements of Anomaly Field Simulation Task -->
+    
+<!-- Take Measurements of Anomaly Field Simulation Task -->
     <string id="simulation_task_50_name">
         <text>польовий дослідник</text>
     </string>
@@ -1751,7 +1852,8 @@
         <text>А, дані при тобі? Відмінно. От дякую, друже. Виручив ти мене. А ось, як я і обіцяв, тобі за турботу.
         </text>
     </string>
-    <!-- Take Measurements of Anomaly Field Simulation Task -->
+    
+<!-- Take Measurements of Anomaly Field Simulation Task -->
     <string id="simulation_task_51_name">
         <text>сканування аномалій</text>
     </string>
@@ -1787,7 +1889,8 @@
             співтовариство щиро дякує Вам за надану допомогу.
         </text>
     </string>
-    <!-- Find Fate of Missing Squad Simulation Task -->
+    
+<!-- Find Fate of Missing Squad Simulation Task -->
     <string id="simulation_task_52_name">
         <text>Радіомовчання ($freq МГц)</text>
     </string>
@@ -1838,7 +1941,8 @@
             допомогу.
         </text>
     </string>
-    <!-- FIND SUPPLIES FOR RENEGADE TASK -->
+    
+<!-- FIND SUPPLIES FOR RENEGADE TASK -->
     <string id="simulation_task_53_name">
         <text>Взаємовиручка</text>
     </string>
@@ -1863,7 +1967,8 @@
     <string id="simulation_task_53_fetch_finish">
         <text>Ніштяк, виручив пацана реально!</text>
     </string>
-    <!-- FIND WEAPON FOR RENEGADE TASK -->
+    
+<!-- FIND WEAPON FOR RENEGADE TASK -->
     <string id="simulation_task_54_name">
         <text>живий тир</text>
     </string>
@@ -1891,7 +1996,8 @@
     <string id="simulation_task_54_fetch_finish">
         <text>Во, трясця, ось пов я розумію сервіс! Лови могорич.</text>
     </string>
-    <!-- Mutant Meat Stew for Renegade Simulation Task -->
+    
+<!-- Mutant Meat Stew for Renegade Simulation Task -->
     <string id="simulation_task_55_name">
         <text>свято живота</text>
     </string>
@@ -1921,7 +2027,8 @@
             магазин.
         </text>
     </string>
-    <!-- Subcontractor for Renegade Simulation Task -->
+    
+<!-- Subcontractor for Renegade Simulation Task -->
     <string id="simulation_task_56_name">
         <text>дамоклів меч</text>
     </string>
@@ -1941,7 +2048,8 @@
     <string id="simulation_task_56_finish">
         <text>Опа, одним каламутна менше, ось це тема! Тримай бабосікі.</text>
     </string>
-    <!-- Find Supplies for ISG Simulation Task -->
+    
+<!-- Find Supplies for ISG Simulation Task -->
     <string id="simulation_task_57_name">
         <text>Береженого Зона береже</text>
     </string>
@@ -1965,7 +2073,8 @@
     <string id="simulation_task_57_fetch_finish">
         <text>Дякую тобі!</text>
     </string>
-    <!-- Find a Reliable Weapon for ISG Simulation Task -->
+    
+<!-- Find a Reliable Weapon for ISG Simulation Task -->
     <string id="simulation_task_58_name">
         <text>MIA</text>
     </string>
@@ -1990,7 +2099,8 @@
     <string id="simulation_task_58_fetch_finish">
         <text>Дякую за допомогу! Ось нагорода за турботу. \n\nДа-а, як рідний в руках лежить. Краса!</text>
     </string>
-    <!-- Scouting Expedition for ISG Simulation Task -->
+    
+<!-- Scouting Expedition for ISG Simulation Task -->
     <string id="simulation_task_59_name">
         <text>Не полишаючи свідків</text>
     </string>
@@ -2012,7 +2122,8 @@
     <string id="simulation_task_59_finish">
         <text>Відмінна робота. Нам зайві вуха і очі ні до чого. Тримай за старання.</text>
     </string>
-    <!-- FIND ARTEFACT FOR ISG TASK -->
+    
+<!-- FIND ARTEFACT FOR ISG TASK -->
     <string id="simulation_task_60_name">
         <text>Аутсорсинг</text>
     </string>
@@ -2036,7 +2147,8 @@
     <string id="simulation_task_60_fetch_finish">
         <text>Так, це саме той самий артефакт! Чудово виконана робота. Ось, це за турботу.</text>
     </string>
-    <!-- Take Measurements of Anomaly Field Simulation Task -->
+    
+<!-- Take Measurements of Anomaly Field Simulation Task -->
     <string id="simulation_task_61_name">
         <text>Аномальне пізнання</text>
     </string>
@@ -2074,7 +2186,8 @@
             за допомогу.
         </text>
     </string>
-    <!-- Bring patches for Sin Simulation Task -->
+    
+<!-- Bring patches for Sin Simulation Task -->
     <string id="simulation_task_62_name">
         <text>Велике очищення</text>
     </string>
@@ -2103,7 +2216,8 @@
     <string id="simulation_task_62_fetch_finish">
         <text>Ти славно виконав свою місію брат. Тепер же справа за мною. Моноліт і Чорнобог дякують тебе.</text>
     </string>
-    <!-- Redemption for Sin Simulation Task -->
+    
+<!-- Redemption for Sin Simulation Task -->
     <string id="simulation_task_63_name">
         <text>Позбавлення від пороків</text>
     </string>
@@ -2122,7 +2236,8 @@
     <string id="simulation_task_63_finish">
         <text>І був вражений черв'як, і наближається час Великого Очищення! Слава Моноліту! Слава Чорнобогу!</text>
     </string>
-    <!-- Eliminate Enemy Forces for Sin Simulation Task -->
+    
+<!-- Eliminate Enemy Forces for Sin Simulation Task -->
     <string id="simulation_task_64_name">
         <text>На сторожі обителі Його</text>
     </string>
@@ -2139,7 +2254,8 @@
     <string id="simulation_task_64_finish">
         <text>Славне діяння ти здійснив, брат. І винагороджений будеш ти.</text>
     </string>
-    <!-- Eliminate Dangerous Mutants for Sin Simulation Task -->
+    
+<!-- Eliminate Dangerous Mutants for Sin Simulation Task -->
     <string id="simulation_task_65_name">
         <text>Жити значить боротися</text>
     </string>
@@ -2157,7 +2273,8 @@
     <string id="simulation_task_65_finish">
         <text>Дякую тобі за допомогу братам.</text>
     </string>
-    <!--\night-time Mutant hunting TASK -->
+    
+<!--\night#time Mutant hunting TASK -->
     <string id="simulation_task_66_name">
         <text>Нічний мисливець</text>
     </string>
@@ -2198,867 +2315,829 @@
     <string id="simulation_task_67_finish">
         <text>Вийшло! Що ж, це було славне полювання. Ось тобі за допомогу.</text>
     </string>
-			<!-- FIND ARTEFACT FOR STALKER TASK -->
-	<string id="simulation_task_68_name">
-		<text>Знайти %s артефакт</text>
-	</string>
-	<string id="simulation_task_68_text">
-		<text>Чистонебовець пропонує винагороду в обмін на artefact %s.</text>
-	</string>
-	<string id="simulation_task_68_about">
-		<text>Чи вмієте ви полювати за артефактами?</text>
-	</string>
-	<string id="simulation_task_68_fetch_about">
-		<text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
-	</string>
-	<string id="simulation_task_68_fetch_finish">
-		<text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
-	</string>
-
-	<!-- FIND ARTEFACT FOR STALKER TASK -->
-	<string id="simulation_task_69_name">
-		<text>Знайти артефакт %s</text>
-	</string>
-	<string id="simulation_task_69_text">
-		<text>Еколог пропонує винагороду в обмін на артефакт %s.</text>
-	</string>
-	<string id="simulation_task_69_about">
-		<text>Чи вмієте ви шукати артефакти?</text>
-	</string>
-	<string id="simulation_task_69_fetch_about">
-		<text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
-	</string>
-	<string id="simulation_task_69_fetch_finish">
-		<text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
-	</string>
-	
-		<!-- FIND ARTEFACT FOR STALKER TASK -->
-	<string id="simulation_task_70_name">
-		<text>Знайти артефакт %s</text>
-	</string>
-	<string id="simulation_task_70_text">
-		<text>Свобода пропонує винагороду в обмін на артефакт %s.</text>
-	</string>
-	<string id="simulation_task_70_about">
-		<text>Чи вмієте ви полювати на артефакти?</text>
-	</string>
-	<string id="simulation_task_70_fetch_about">
-		<text>If you happen to find the "%s" artefact, let me know. I have a very nice reward I think you'll like.</text>
-	</string>
-	<string id="simulation_task_70_fetch_finish">
-		<text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
-	</string>
-	
-		<!-- FIND ARTEFACT FOR STALKER TASK -->
-	<string id="simulation_task_71_name">
-		<text>Знайти артефакт %s</text>
-	</string>
-	<string id="simulation_task_71_text">
-		<text>Найманець пропонує винагороду в обмін на артефакт %s.</text>
-	</string>
-	<string id="simulation_task_71_about">
-		<text>Чи вмієте ви полювати на артефакти?</text>
-	</string>
-	<string id="simulation_task_71_fetch_about">
-		<text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
-	</string>
-	<string id="simulation_task_71_fetch_finish">
-		<text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
-	</string>
-	
-		<!-- FIND ARTEFACT FOR STALKER TASK -->
-	<string id="simulation_task_72_name">
-		<text>Знайти артефакт %s</text>
-	</string>
-	<string id="simulation_task_72_text">
-		<text>A fellow stalker is offering a reward in exchange for a %s artefact.</text>
-	</string>
-	<string id="simulation_task_72_about">
-		<text>Are you any good at artefact hunting?</text>
-	</string>
-	<string id="simulation_task_72_fetch_about">
-		<text>If you happen to find the "%s" artefact, let me know. I have a very nice reward I think you'll like.</text>
-	</string>
-	<string id="simulation_task_72_fetch_finish">
-		<text>Finally! You don't know how long I've been searching for this. Here. This is your reward.</text>
-	</string>
-	
-		<!-- FIND ARTEFACT FOR MILITARY TASK -->
-	<string id="simulation_task_73_name">
-		<text>Знайти артефакт %s</text>
-	</string>
-	<string id="simulation_task_73_text">
-		<text>Солдат пропонує гвинтівку в обмін на артефакт %s.</text>
-	</string>
-	<string id="simulation_task_73_about">
-		<text>Слухай, чувак. Я знаю, що це проти правил, але я скоро повернуся додому і хочу привезти сувенір на згадку. Як думаєш, зможеш знайти для мене артефакт?</text>
-	</string>
-	<string id="simulation_task_73_fetch_about">
-		<text>Я хочу дістати артефакт "%s". Якщо знайдеш його, я віддам тобі свою гвинтівку.</text>
-	</string>
-	<string id="simulation_task_73_fetch_finish">
-		<text>Чудово! Ось те, що я тобі обіцяв. Не кажи командиру, що це у мене.</text>
-	</string>
-	
-		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
-	<string id="simulation_task_74_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_74_text">
-		<text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_74_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_74_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших відсотків, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_74_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
-	<string id="simulation_task_75_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_75_text">
-		<text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_75_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_75_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших нарізок %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_75_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<string id="simulation_task_76_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_76_text">
-		<text>Розбійник має особливий рецепт приготування м'яса мутантів і потребує, щоб йому приносили %s.</text>
-	</string>
-	<string id="simulation_task_76_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_76_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших відсотків, це буде варте того, щоб ти витратив свій час.  Ммм... У мене слинки течуть, як подумаю про це.</text>
-	</string>
-	<string id="simulation_task_76_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, друже, ось твоя оплата і трохи здобичі для тебе.</text>
-	</string>
-	
-		<string id="simulation_task_77_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_77_text">
-		<text>Розбійник має особливий рецепт приготування м'яса мутантів і потребує, щоб йому приносили %s.</text>
-	</string>
-	<string id="simulation_task_77_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_77_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших відсотків, це буде варте того, щоб ти витратив свій час.  Ммм... У мене слинки течуть, як подумаю про це.</text>
-	</string>
-	<string id="simulation_task_77_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, друже, ось твоя оплата і трохи здобичі для тебе.</text>
-	</string>
-	
-		<string id="simulation_task_78_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_78_text">
-		<text>Братан має особливий рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_78_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_78_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твою працю. Ммм... У мене слинки течуть, як подумаю про це..</text>
-	</string>
-	<string id="simulation_task_78_fetch_finish">
-		<text>Yes! I'm going to eat good tonight! Thank you, brother. Here is your payment. Oh, and here: I have some ammo that doesn't fit my rifle. You can have it.</text>
-	</string>
-	
-		<string id="simulation_task_79_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_79_text">
-		<text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_79_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_79_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_79_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<string id="simulation_task_80_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_80_text">
-		<text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_80_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_80_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_80_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<string id="simulation_task_81_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_81_text">
-		<text>Сталкер має особливий рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_81_about">
-		<text>Dude, have you ever tasted mutant meat? Most guys wouldn't touch it unless they were starving, but I personally love it. Do you know how to hunt?</text>
-	</string>
-	<string id="simulation_task_81_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_81_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<string id="simulation_task_82_name">
-		<text>Принести %s</text>
-	</string>
-	<string id="simulation_task_82_text">
-		<text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
-	</string>
-	<string id="simulation_task_82_about">
-		<text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
-	</string>
-	<string id="simulation_task_82_fetch_about">
-		<text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
-	</string>
-	<string id="simulation_task_82_fetch_finish">
-		<text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
-	</string>
-	
-		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
-	<string id="simulation_task_83_name">
-		<text>Знайдіть %s для Сталкера</text>
-	</string>
-	<string id="simulation_task_83_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_83_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_83_fetch_about">
-		<text>Убий цього мутанта і принеси мені його %s, і я тобі добре заплачу, сталкере.</text>
-	</string>
-	<string id="simulation_task_83_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
-	<string id="simulation_task_84_name">
-		<text>Знайдіть %s для "Чистого неба</text>
-	</string>
-	<string id="simulation_task_84_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_84_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_84_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_84_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<string id="simulation_task_85_name">
-		<text>знайдіть %s для Свободи</text>
-	</string>
-	<string id="simulation_task_85_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_85_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_85_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_85_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<string id="simulation_task_86_name">
-		<text>Знайдіть %s для Обов'язку </text>
-	</string>
-	<string id="simulation_task_86_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_86_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_86_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_86_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<string id="simulation_task_87_name">
-		<text>Знайдіть %s для Військових</text>
-	</string>
-	<string id="simulation_task_87_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_87_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_87_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_87_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<string id="simulation_task_88_name">
-		<text>Знайдіть %s для Сталкера</text>
-	</string>
-	<string id="simulation_task_88_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_88_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_88_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_88_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
-	</string>
-	
-		<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
-	<string id="simulation_task_89_name">
-		<text>Знайдіть %s для Еколога</text>
-	</string>
-	<string id="simulation_task_89_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_89_about">
-		<text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Ти підійдеш?</text>
-	</string>
-	<string id="simulation_task_89_fetch_about">
-		<text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
-	</string>
-	<string id="simulation_task_89_fetch_finish">
-		<text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
-	</string>
-	
-			<string id="simulation_task_90_name">
-		<text>Знайдіть %s для Обов'язку</text>
-	</string>
-	<string id="simulation_task_90_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_90_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_90_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_90_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-		<string id="simulation_task_91_name">
-		<text>Знайдіть %s для Найманців</text>
-	</string>
-	<string id="simulation_task_91_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_91_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_91_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_91_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-		<string id="simulation_task_92_name">
-		<text>Знайдіть %s для Еколога</text>
-	</string>
-	<string id="simulation_task_92_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_92_about">
-		<text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
-	</string>
-	<string id="simulation_task_92_fetch_about">
-		<text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
-	</string>
-	<string id="simulation_task_92_fetch_finish">
-		<text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
-	</string>
-	
-			<string id="simulation_task_93_name">
-		<text>Знайдіть %s для Обов'язку</text>
-	</string>
-	<string id="simulation_task_93_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_93_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_93_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_93_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-			<string id="simulation_task_94_name">
-		<text>Знайдіть %s для Найманців</text>
-	</string>
-	<string id="simulation_task_94_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_94_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_94_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_94_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-			<string id="simulation_task_95_name">
-		<text>Знайдіть %s для Одинака</text>
-	</string>
-	<string id="simulation_task_95_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_95_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_95_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_95_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-			<string id="simulation_task_96_name">
-		<text>Знайдіть %s для Чистого Неба</text>
-	</string>
-	<string id="simulation_task_96_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_96_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_96_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_96_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець..</text>
-	</string>
-	
-			<string id="simulation_task_97_name">
-		<text>Знайдіть %s для Сталкерів</text>
-	</string>
-	<string id="simulation_task_97_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_97_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_97_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_97_fetch_finish">
-		<text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
-	</string>
-	
-			<string id="simulation_task_98_name">
-		<text>Знайдіть %s для Екологів</text>
-	</string>
-	<string id="simulation_task_98_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_98_about">
-		<text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
-	</string>
-	<string id="simulation_task_98_fetch_about">
-		<text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
-	</string>
-	<string id="simulation_task_98_fetch_finish">
-		<text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
-	</string>
-	
-			<string id="simulation_task_99_name">
-		<text>Знайдіть %s для Екологів</text>
-	</string>
-	<string id="simulation_task_99_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_99_about">
-		<text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
-	</string>
-	<string id="simulation_task_99_fetch_about">
-		<text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
-	</string>
-	<string id="simulation_task_99_fetch_finish">
-		<text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
-	</string>
-	
-				<string id="simulation_task_100_name">
-		<text>Знайдіть %s для Найманців</text>
-	</string>
-	<string id="simulation_task_100_text">
-		<text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
-	</string>
-	<string id="simulation_task_100_about">
-		<text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
-	</string>
-	<string id="simulation_task_100_fetch_about">
-		<text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
-	</string>
-	<string id="simulation_task_100_fetch_finish">
-		<text>Ah, another threat eliminated and a new decoration for the camp. Well done.</text>
-	</string>
-	
-		<!-- Find Trip Equipment Tasks -->	
-	<string id="simulation_task_101_name">
-		<text>Зберіть %s для одинаків</text>
-	</string>
-	<string id="simulation_task_101_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_101_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_101_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_101_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_102_name">
-		<text>Зберіть %s для ЧН</text>
-	</string>
-	<string id="simulation_task_102_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_102_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_102_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_102_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_103_name">
-		<text>Зберіть %s для Волі</text>
-	</string>
-	<string id="simulation_task_103_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_103_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_103_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_103_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_104_name">
-		<text>Зберіть %s для братків</text>
-	</string>
-	<string id="simulation_task_104_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_104_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_104_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_104_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_105_name">
-		<text>Зберіть %s для тітушок</text>
-	</string>
-	<string id="simulation_task_105_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_105_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_105_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_105_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_106_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_106_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_106_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_106_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_106_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_107_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_107_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_107_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_107_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_107_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_108_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_108_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_108_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_108_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_108_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_109_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_109_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_109_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_109_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_109_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_110_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_110_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_110_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_110_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_110_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_111_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_111_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_111_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_111_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_111_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_112_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_112_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_112_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_112_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_112_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_113_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_113_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_113_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_113_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_113_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_114_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_114_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_114_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_114_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_114_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<string id="simulation_task_115_name">
-		<text>Зберіть %s для дослідників</text>
-	</string>
-	<string id="simulation_task_115_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_115_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
-	</string>
-	<string id="simulation_task_115_fetch_about">
-		<text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
-	</string>
-	<string id="simulation_task_115_fetch_finish">
-		<text>Дякую! Ось трохи грошей за вашу допомогу.</text>
-	</string>
-	
-		<!-- Find Trip Equipment Tasks -->	
-	<string id="simulation_task_116_name">
-		<text>Знайди %s</text>
-	</string>
-	<string id="simulation_task_116_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_116_about">
-		<text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
-	</string>
-	<string id="simulation_task_116_fetch_about">
-		<text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
-	</string>
-	<string id="simulation_task_116_fetch_finish">
-		<text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
-	</string>
-	
-	<string id="simulation_task_117_name">
-		<text>Знайди %s</text>
-	</string>
-	<string id="simulation_task_117_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_117_about">
-		<text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
-	</string>
-	<string id="simulation_task_117_fetch_about">
-		<text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечних ситуаціях ситуаціях.</text>
-	</string>
-	<string id="simulation_task_117_fetch_finish">
-		<text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
-	</string>
-	
-		<string id="simulation_task_118_name">
-		<text>Знайди %s</text>
-	</string>
-	<string id="simulation_task_118_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_118_about">
-		<text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
-	</string>
-	<string id="simulation_task_118_fetch_about">
-		<text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
-	</string>
-	<string id="simulation_task_118_fetch_finish">
-		<text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
-	</string>
-	
-		<string id="simulation_task_119_name">
-		<text>Знайди %s</text>
-	</string>
-	<string id="simulation_task_119_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_119_about">
-		<text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
-	</string>
-	<string id="simulation_task_119_fetch_about">
-		<text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
-	</string>
-	<string id="simulation_task_119_fetch_finish">
-		<text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
-	</string>
-	
-		<string id="simulation_task_120_name">
-		<text>Знайди %s</text>
-	</string>
-	<string id="simulation_task_120_text">
-		<text>Хтось попросив мене знайти і принести йому %s.</text>
-	</string>
-	<string id="simulation_task_120_about">
-		<text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
-	</string>
-	<string id="simulation_task_120_fetch_about">
-		<text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
-	</string>
-	<string id="simulation_task_120_fetch_finish">
-		<text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
-	</string>
-    <!-- RESCUE UNDERCOVER AGENT -->
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
+    <string id="simulation_task_68_name">
+        <text>Знайти %s артефакт</text>
+    </string>
+    <string id="simulation_task_68_text">
+        <text>Чистонебовець пропонує винагороду в обмін на artefact %s.</text>
+    </string>
+    <string id="simulation_task_68_about">
+        <text>Чи вмієте ви полювати за артефактами?</text>
+    </string>
+    <string id="simulation_task_68_fetch_about">
+        <text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
+    </string>
+    <string id="simulation_task_68_fetch_finish">
+        <text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
+    </string>
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
+    <string id="simulation_task_69_name">
+        <text>Знайти артефакт %s</text>
+    </string>
+    <string id="simulation_task_69_text">
+        <text>Еколог пропонує винагороду в обмін на артефакт %s.</text>
+    </string>
+    <string id="simulation_task_69_about">
+        <text>Чи вмієте ви шукати артефакти?</text>
+    </string>
+    <string id="simulation_task_69_fetch_about">
+        <text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
+    </string>
+    <string id="simulation_task_69_fetch_finish">
+        <text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
+    </string>
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
+    <string id="simulation_task_70_name">
+        <text>Знайти артефакт %s</text>
+    </string>
+    <string id="simulation_task_70_text">
+        <text>Свобода пропонує винагороду в обмін на артефакт %s.</text>
+    </string>
+    <string id="simulation_task_70_about">
+        <text>Чи вмієте ви полювати на артефакти?</text>
+    </string>
+    <string id="simulation_task_70_fetch_about">
+        <text>If you happen to find the "%s" artefact, let me know. I have a very nice reward I think you'll like.</text>
+    </string>
+    <string id="simulation_task_70_fetch_finish">
+        <text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
+    </string>
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
+    <string id="simulation_task_71_name">
+        <text>Знайти артефакт %s</text>
+    </string>
+    <string id="simulation_task_71_text">
+        <text>Найманець пропонує винагороду в обмін на артефакт %s.</text>
+    </string>
+    <string id="simulation_task_71_about">
+        <text>Чи вмієте ви полювати на артефакти?</text>
+    </string>
+    <string id="simulation_task_71_fetch_about">
+        <text>Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна винагорода, яка вам сподобається.</text>
+    </string>
+    <string id="simulation_task_71_fetch_finish">
+        <text>Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.</text>
+    </string>
+    
+<!-- FIND ARTEFACT FOR STALKER TASK -->
+    <string id="simulation_task_72_name">
+        <text>Знайти артефакт %s</text>
+    </string>
+    <string id="simulation_task_72_text">
+        <text>A fellow stalker is offering a reward in exchange for a %s artefact.</text>
+    </string>
+    <string id="simulation_task_72_about">
+        <text>Are you any good at artefact hunting?</text>
+    </string>
+    <string id="simulation_task_72_fetch_about">
+        <text>If you happen to find the "%s" artefact, let me know. I have a very nice reward I think you'll like.</text>
+    </string>
+    <string id="simulation_task_72_fetch_finish">
+        <text>Finally! You don't know how long I've been searching for this. Here. This is your reward.</text>
+    </string>
+    
+<!-- FIND ARTEFACT FOR MILITARY TASK -->
+    <string id="simulation_task_73_name">
+        <text>Знайти артефакт %s</text>
+    </string>
+    <string id="simulation_task_73_text">
+        <text>Солдат пропонує гвинтівку в обмін на артефакт %s.</text>
+    </string>
+    <string id="simulation_task_73_about">
+        <text>Слухай, чувак. Я знаю, що це проти правил, але я скоро повернуся додому і хочу привезти сувенір на згадку. Як думаєш, зможеш знайти для мене артефакт?</text>
+    </string>
+    <string id="simulation_task_73_fetch_about">
+        <text>Я хочу дістати артефакт "%s". Якщо знайдеш його, я віддам тобі свою гвинтівку.</text>
+    </string>
+    <string id="simulation_task_73_fetch_finish">
+        <text>Чудово! Ось те, що я тобі обіцяв. Не кажи командиру, що це у мене.</text>
+    </string>
+    
+<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+    <string id="simulation_task_74_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_74_text">
+        <text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_74_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_74_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших відсотків, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_74_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    
+<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+    <string id="simulation_task_75_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_75_text">
+        <text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_75_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_75_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших нарізок %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_75_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    <string id="simulation_task_76_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_76_text">
+        <text>Розбійник має особливий рецепт приготування м'яса мутантів і потребує, щоб йому приносили %s.</text>
+    </string>
+    <string id="simulation_task_76_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_76_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших відсотків, це буде варте того, щоб ти витратив свій час.  Ммм... У мене слинки течуть, як подумаю про це.</text>
+    </string>
+    <string id="simulation_task_76_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, друже, ось твоя оплата і трохи здобичі для тебе.</text>
+    </string>
+    <string id="simulation_task_77_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_77_text">
+        <text>Розбійник має особливий рецепт приготування м'яса мутантів і потребує, щоб йому приносили %s.</text>
+    </string>
+    <string id="simulation_task_77_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_77_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших відсотків, це буде варте того, щоб ти витратив свій час.  Ммм... У мене слинки течуть, як подумаю про це.</text>
+    </string>
+    <string id="simulation_task_77_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, друже, ось твоя оплата і трохи здобичі для тебе.</text>
+    </string>
+    <string id="simulation_task_78_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_78_text">
+        <text>Братан має особливий рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_78_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_78_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твою працю. Ммм... У мене слинки течуть, як подумаю про це..</text>
+    </string>
+    <string id="simulation_task_78_fetch_finish">
+        <text>Yes! I'm going to eat good tonight! Thank you, brother. Here is your payment. Oh, and here: I have some ammo that doesn't fit my rifle. You can have it.</text>
+    </string>
+    <string id="simulation_task_79_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_79_text">
+        <text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_79_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_79_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_79_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    <string id="simulation_task_80_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_80_text">
+        <text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_80_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_80_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_80_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    <string id="simulation_task_81_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_81_text">
+        <text>Сталкер має особливий рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_81_about">
+        <text>Dude, have you ever tasted mutant meat? Most guys wouldn't touch it unless they were starving, but I personally love it. Do you know how to hunt?</text>
+    </string>
+    <string id="simulation_task_81_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_81_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    <string id="simulation_task_82_name">
+        <text>Принести %s</text>
+    </string>
+    <string id="simulation_task_82_text">
+        <text>Сталкер має спеціальний рецепт приготування м'яса мутантів і потребує, щоб йому принесли %s.</text>
+    </string>
+    <string id="simulation_task_82_about">
+        <text>Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться до нього, хіба що з голоду, але особисто я його обожнюю. Полювати вмієш?</text>
+    </string>
+    <string id="simulation_task_82_fetch_about">
+        <text>Якщо ти зможеш дістати мені кілька хороших шматків %s, я віддячу тобі за твій час. Ммм... У мене слинки течуть від однієї думки про це.</text>
+    </string>
+    <string id="simulation_task_82_fetch_finish">
+        <text>Так! Я сьогодні добре поїм! Дякую, сталкере. Ось твоя оплата. О, і ось: У мене є набої, які не підходять до моєї рушниці. Можеш забрати.</text>
+    </string>
+    
+<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+    <string id="simulation_task_83_name">
+        <text>Знайдіть %s для Сталкера</text>
+    </string>
+    <string id="simulation_task_83_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_83_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_83_fetch_about">
+        <text>Убий цього мутанта і принеси мені його %s, і я тобі добре заплачу, сталкере.</text>
+    </string>
+    <string id="simulation_task_83_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    
+<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+    <string id="simulation_task_84_name">
+        <text>Знайдіть %s для "Чистого неба</text>
+    </string>
+    <string id="simulation_task_84_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_84_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_84_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_84_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    <string id="simulation_task_85_name">
+        <text>знайдіть %s для Свободи</text>
+    </string>
+    <string id="simulation_task_85_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_85_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_85_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_85_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    <string id="simulation_task_86_name">
+        <text>Знайдіть %s для Обов'язку </text>
+    </string>
+    <string id="simulation_task_86_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_86_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_86_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_86_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    <string id="simulation_task_87_name">
+        <text>Знайдіть %s для Військових</text>
+    </string>
+    <string id="simulation_task_87_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_87_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_87_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_87_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    <string id="simulation_task_88_name">
+        <text>Знайдіть %s для Сталкера</text>
+    </string>
+    <string id="simulation_task_88_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_88_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_88_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_88_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.</text>
+    </string>
+    
+<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+    <string id="simulation_task_89_name">
+        <text>Знайдіть %s для Еколога</text>
+    </string>
+    <string id="simulation_task_89_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_89_about">
+        <text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Ти підійдеш?</text>
+    </string>
+    <string id="simulation_task_89_fetch_about">
+        <text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
+    </string>
+    <string id="simulation_task_89_fetch_finish">
+        <text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
+    </string>
+    <string id="simulation_task_90_name">
+        <text>Знайдіть %s для Обов'язку</text>
+    </string>
+    <string id="simulation_task_90_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_90_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_90_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_90_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_91_name">
+        <text>Знайдіть %s для Найманців</text>
+    </string>
+    <string id="simulation_task_91_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_91_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_91_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_91_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_92_name">
+        <text>Знайдіть %s для Еколога</text>
+    </string>
+    <string id="simulation_task_92_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_92_about">
+        <text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
+    </string>
+    <string id="simulation_task_92_fetch_about">
+        <text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
+    </string>
+    <string id="simulation_task_92_fetch_finish">
+        <text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
+    </string>
+    <string id="simulation_task_93_name">
+        <text>Знайдіть %s для Обов'язку</text>
+    </string>
+    <string id="simulation_task_93_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_93_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_93_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_93_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_94_name">
+        <text>Знайдіть %s для Найманців</text>
+    </string>
+    <string id="simulation_task_94_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_94_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_94_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_94_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_95_name">
+        <text>Знайдіть %s для Одинака</text>
+    </string>
+    <string id="simulation_task_95_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_95_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_95_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_95_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_96_name">
+        <text>Знайдіть %s для Чистого Неба</text>
+    </string>
+    <string id="simulation_task_96_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_96_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_96_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_96_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець..</text>
+    </string>
+    <string id="simulation_task_97_name">
+        <text>Знайдіть %s для Сталкерів</text>
+    </string>
+    <string id="simulation_task_97_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_97_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_97_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_97_fetch_finish">
+        <text>Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодець.</text>
+    </string>
+    <string id="simulation_task_98_name">
+        <text>Знайдіть %s для Екологів</text>
+    </string>
+    <string id="simulation_task_98_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_98_about">
+        <text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
+    </string>
+    <string id="simulation_task_98_fetch_about">
+        <text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
+    </string>
+    <string id="simulation_task_98_fetch_finish">
+        <text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
+    </string>
+    <string id="simulation_task_99_name">
+        <text>Знайдіть %s для Екологів</text>
+    </string>
+    <string id="simulation_task_99_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_99_about">
+        <text>Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?</text>
+    </string>
+    <string id="simulation_task_99_fetch_about">
+        <text>Вченим потрібно зібрати зразки тканин з %s. Мені байдуже, як ти їх дістанеш, головне, щоб вони були свіжими. Приходьте сюди, як тільки витягнете з мутанта те, що їм потрібно.</text>
+    </string>
+    <string id="simulation_task_99_fetch_finish">
+        <text>Дякую, сер. Це дуже допоможе в наших дослідженнях.</text>
+    </string>
+    <string id="simulation_task_100_name">
+        <text>Знайдіть %s для Найманців</text>
+    </string>
+    <string id="simulation_task_100_text">
+        <text>%s від %s каже, що добре заплатить, якщо я привезу йому %s.</text>
+    </string>
+    <string id="simulation_task_100_about">
+        <text>Я оголосив нагороду за певний тип мутанта. Зацікавлені?</text>
+    </string>
+    <string id="simulation_task_100_fetch_about">
+        <text>Вбий цього мутанта і принеси мені його %s, і я тобі добре заплачу.</text>
+    </string>
+    <string id="simulation_task_100_fetch_finish">
+        <text>Ah, another threat eliminated and a new decoration for the camp. Well done.</text>
+    </string>
+    
+<!-- Find Trip Equipment Tasks -->
+    <string id="simulation_task_101_name">
+        <text>Зберіть %s для одинаків</text>
+    </string>
+    <string id="simulation_task_101_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_101_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_101_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_101_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_102_name">
+        <text>Зберіть %s для ЧН</text>
+    </string>
+    <string id="simulation_task_102_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_102_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_102_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_102_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_103_name">
+        <text>Зберіть %s для Волі</text>
+    </string>
+    <string id="simulation_task_103_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_103_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_103_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_103_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_104_name">
+        <text>Зберіть %s для братків</text>
+    </string>
+    <string id="simulation_task_104_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_104_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_104_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_104_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_105_name">
+        <text>Зберіть %s для тітушок</text>
+    </string>
+    <string id="simulation_task_105_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_105_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_105_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_105_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_106_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_106_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_106_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_106_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_106_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_107_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_107_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_107_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_107_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_107_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_108_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_108_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_108_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_108_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_108_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_109_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_109_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_109_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_109_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_109_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_110_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_110_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_110_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_110_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_110_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_111_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_111_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_111_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_111_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_111_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_112_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_112_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_112_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_112_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_112_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_113_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_113_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_113_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_113_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_113_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_114_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_114_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_114_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_114_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_114_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    <string id="simulation_task_115_name">
+        <text>Зберіть %s для дослідників</text>
+    </string>
+    <string id="simulation_task_115_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_115_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження.</text>
+    </string>
+    <string id="simulation_task_115_fetch_about">
+        <text>Ми з товаришами готувалися до тривалої подорожі в Зону. Але нам би не завадило більше спорядження. Можеш дістати для нас трохи %ss?</text>
+    </string>
+    <string id="simulation_task_115_fetch_finish">
+        <text>Дякую! Ось трохи грошей за вашу допомогу.</text>
+    </string>
+    
+<!-- Find Trip Equipment Tasks -->
+    <string id="simulation_task_116_name">
+        <text>Знайди %s</text>
+    </string>
+    <string id="simulation_task_116_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_116_about">
+        <text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
+    </string>
+    <string id="simulation_task_116_fetch_about">
+        <text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
+    </string>
+    <string id="simulation_task_116_fetch_finish">
+        <text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
+    </string>
+    <string id="simulation_task_117_name">
+        <text>Знайди %s</text>
+    </string>
+    <string id="simulation_task_117_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_117_about">
+        <text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
+    </string>
+    <string id="simulation_task_117_fetch_about">
+        <text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечних ситуаціях ситуаціях.</text>
+    </string>
+    <string id="simulation_task_117_fetch_finish">
+        <text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
+    </string>
+    <string id="simulation_task_118_name">
+        <text>Знайди %s</text>
+    </string>
+    <string id="simulation_task_118_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_118_about">
+        <text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
+    </string>
+    <string id="simulation_task_118_fetch_about">
+        <text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
+    </string>
+    <string id="simulation_task_118_fetch_finish">
+        <text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
+    </string>
+    <string id="simulation_task_119_name">
+        <text>Знайди %s</text>
+    </string>
+    <string id="simulation_task_119_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_119_about">
+        <text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
+    </string>
+    <string id="simulation_task_119_fetch_about">
+        <text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
+    </string>
+    <string id="simulation_task_119_fetch_finish">
+        <text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
+    </string>
+    <string id="simulation_task_120_name">
+        <text>Знайди %s</text>
+    </string>
+    <string id="simulation_task_120_text">
+        <text>Хтось попросив мене знайти і принести йому %s.</text>
+    </string>
+    <string id="simulation_task_120_about">
+        <text>Мій загін збирається вирушати в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в небезпечнихх ситуаціях. Як щодо того, щоб ти дістав нам трохи %ss, а я дам тобі щось натомість?</text>
+    </string>
+    <string id="simulation_task_120_fetch_about">
+        <text>Мій загін збирається вирушити в інші частини Зони. Якщо подумати, то ми завжди можемо використати додаткове спорядження в поганих ситуаціях.</text>
+    </string>
+    <string id="simulation_task_120_fetch_finish">
+        <text>О, Друже! Мої друзі будуть щасливі. Ось, візьми. Ти добре попрацював.</text>
+    </string>
+    
+<!-- RESCUE UNDERCOVER AGENT -->
     <string id="spy_task_name">
         <text>З України з любов'ю</text>
     </string>
@@ -3088,14 +3167,16 @@
     <string id="spy_task_leave">
         <text>Ну що, тут наші шляхи розходяться. Побачимося!</text>
     </string>
-    <!-- HOSTAGE INTERACTION  TEXT -->
+    
+<!-- HOSTAGE INTERACTION  TEXT -->
     <string id="hostage_companion_task_1_start_dialog_1">
         <text>К-хто ти? Допоможи мені, будь ласка, чоловіче!</text>
     </string>
     <string id="hostage_companion_task_1_actor_reply">
         <text>Хочеш жити - йдемо зі мною!</text>
     </string>
-    <!--\nIMBLE SPECIAL ORDER TEXT -->
+    
+<!--\nIMBLE SPECIAL ORDER TEXT -->
     <string id="esc_2_12_nimble_items_get_order_name">
         <text>Особливий замовлення: забрати товар</text>
     </string>
@@ -3108,7 +3189,8 @@
     <string id="esc_2_12_nimble_items_wait_order_text">
         <text>Замовлення зроблене. Потрібно почекати, поки Спритний дістане товар.</text>
     </string>
-    <!-- SURGE HIDE MESSAGES -->
+    
+<!-- SURGE HIDE MESSAGES -->
     <string id="hide_from_surge_message">
         <text>Увага! Наближається викид!</text>
     </string>
@@ -3124,7 +3206,8 @@
     <string id="hide_from_surge_name_2">
         <text>Викид: перечекати в укритті</text>
     </string>
-    <!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+    
+<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
     <string id="hide_from_fallout_rad_message_caption">
         <text>Увага!</text>
     </string>
@@ -3149,7 +3232,8 @@
     <string id="end_fallout_rad_message">
         <text>Радіоактивні опади припинилися.</text>
     </string>
-    <!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+    
+<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
     <string id="hide_from_fallout_acid_message_caption">
         <text>Увага!</text>
     </string>
@@ -3174,7 +3258,8 @@
     <string id="end_fallout_acid_message">
         <text>Кислотний дощ припинився.</text>
     </string>
-    <!-- ATMOSFEAR PSI STORM MESSAGES -->
+    
+<!-- ATMOSFEAR PSI STORM MESSAGES -->
     <string id="hide_from_psi_storm_message_caption">
         <text>Увага!</text>
     </string>
@@ -3199,7 +3284,8 @@
     <string id="end_psi_storm_message">
         <text>Пси-шторм закінчився.</text>
     </string>
-    <!-- FACTION BASE DEFENSE VS MUTANTS -->
+    
+<!-- FACTION BASE DEFENSE VS MUTANTS -->
     <string id="faction_base_defense_name">
         <text>Захистити табір від хвилі мутантів</text>
     </string>

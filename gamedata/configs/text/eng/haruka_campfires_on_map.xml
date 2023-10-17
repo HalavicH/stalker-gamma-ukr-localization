@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
 <string_table>
     <string id="ui_mcm_menu_campfires_on_map">
-		<text>Багаття на карті</text>
-	</string>
-
-	<string id="ui_mcm_campfires_on_map_show_campfires">
-		<text>Відображення багатть</text>
-	</string>
-	<string id="ui_mcm_campfires_on_map_show_only_visited">
-		<text>Показувати тільки відвідані</text>
-	</string>
-	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
-		<text>На карті відображаються тільки багаття, з якими взаємодіяв гравець.</text>
-	</string>
-
+        <text>Багаття на карті</text>
+    </string>
+    <string id="ui_mcm_campfires_on_map_show_campfires">
+        <text>Відображення багатть</text>
+    </string>
+    <string id="ui_mcm_campfires_on_map_show_only_visited">
+        <text>Показувати тільки відвідані</text>
+    </string>
+    <string id="ui_mcm_campfires_on_map_show_only_visited_desc">
+        <text>На карті відображаються тільки багаття, з якими взаємодіяв гравець.</text>
+    </string>
     <string id="st_campfire">
-		<text>Багаття</text>
-	</string>
-      <string id="st_campfire_visited">
-		<text>%c[ui_white]Багаття (%c[d_orange]Відвіданий%c[ui_white])</text>
-	</string>
+        <text>Багаття</text>
+    </string>
+    <string id="st_campfire_visited">
+        <text>%c[ui_white]Багаття (%c[d_orange]Відвіданий%c[ui_white])</text>
+    </string>
 </string_table>

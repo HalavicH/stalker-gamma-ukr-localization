@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="ui_mcm_melee_degrade_onhit_title">
         <text>Melee Degrade Configuration</text>
@@ -20,7 +21,7 @@
     <string id="ui_mcm_melee_degrade_onhit_enemy_loss_mult">
         <text>Enemy Degrade Multiplier</text>
     </string>
-     <string id="ui_mcm_melee_degrade_onhit_light_loss_mult">
+    <string id="ui_mcm_melee_degrade_onhit_light_loss_mult">
         <text>Light Attack Degrade Multiplier</text>
     </string>
     <string id="ui_mcm_melee_degrade_onhit_heavy_loss_mult">

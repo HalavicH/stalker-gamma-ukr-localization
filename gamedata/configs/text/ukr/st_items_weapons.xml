@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Weapons
--->
 <string_table>
     <string id="st_trg_sako">
         <text>Sako TRG-42</text>
@@ -947,7 +943,8 @@
         </text>
     </string>
     <string id="st_wpn_famas3">
-        <!--\nEW GUNS -->
+        
+<!--\nEW GUNS -->
         <text>FAMAS F3</text>
     </string>
     <string id="st_wpn_famas3_descr">
@@ -2501,7 +2498,8 @@
             собі таїть. \n\n
         </text>
     </string>
-    <!--\new -->
+    
+<!--\new -->
     <string id="st_wpn_ash12">
         <text>АШ-12</text>
     </string>
@@ -2729,7 +2727,8 @@
             C-more Railway Tactical, «EOTech» \n \n
         </text>
     </string>
-    <!--
+    
+<!--
   Grenades
   -->
     <string id="st_grenade_f1">
@@ -2773,7 +2772,8 @@
             \n%c[d_purple] • %c[ui_gray_2] затримка вибуху: %c[ui_gray_1] ~ 4 секунди
         </text>
     </string>
-    <!--
+    
+<!--
       Melee
   -->
     <string id="st_knife_combat">

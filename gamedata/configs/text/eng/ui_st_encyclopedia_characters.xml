@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="encyclopedia_characters">
         <text>Персонажі</text>
@@ -518,7 +518,8 @@
             необхідні його молодшим братам для розширення Зони.\n
         </text>
     </string>
-    <!-- MLR -->
+    
+<!-- MLR -->
     <string id="encyclopedia_characters_spirit">
         <text>Дух</text>
     </string>
@@ -704,7 +705,8 @@
             знає пару прийомів в торгівлі. \n \n%c[pda_green] Інформація %c[ui_gray_1]            Колін перебрався на Затон разом з Вектором, щоб забезпечити допомогу найманцям, які працюють там.
         </text>
     </string>
-    <!-- LTTZ -->
+    
+<!-- LTTZ -->
     <string id="encyclopedia_characters_eidolon">
         <text>Фантом</text>
     </string>

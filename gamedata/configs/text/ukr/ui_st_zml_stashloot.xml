@@ -1,215 +1,232 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_zml_stashloot">
-		<text>Stash Loot</text>
-	</string>
-	<!-- GENERAL -->
-	<string id="ui_mcm_ZML_zml_stashloot_general_info">
-		<text>The options below add a chance to find extra items in stashes. Hovering your cursor on settings gives additionnal informations for the settings.</text>
-	</string>
-	<!-- PDA STASH MESSAGES -->
-	<string id="ui_mcm_ZML_zml_stashloot_send_message">
-		<text>Show PDA notification</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_send_message_desc">
-		<text>Shows a notification whenever the player finds an extra item in a stash.</text>
-	</string>
-	<string id="st_zml_stashloot_found_repair">
-		<text>Found a repair kit</text>
-	</string>
-	<string id="st_zml_stashloot_found_ammo">
-		<text>Found some ammo</text>
-	</string>
-	<string id="st_zml_stashloot_found_tool">
-		<text>Found an useful item</text>
-	</string>
-	<string id="st_zml_stashloot_found_meds">
-		<text>Found a medical item</text>
-	</string>
-	<string id="st_zml_stashloot_found_mags">
-		<text>Found a magazine for your weapon</text>
-	</string>
-	<string id="st_zml_stashloot_found_lootbox">
-		<text>Found a lootbox</text>
-	</string>
-	<string id="st_zml_stashloot_found_potion">
-		<text>Found some potions</text>
-	</string>
-	<string id="st_zml_stashloot_found_faction">
-		<text>Found a faction-specific item</text>
-	</string>
-	<string id="st_zml_stashloot_found_food">
-		<text>Found some found</text>
-	</string>
-	<string id="st_zml_stashloot_found_drink">
-		<text>Found a drink</text>
-	</string>
-	<string id="st_zml_stashloot_found_container">
-		<text>Found a container</text>
-	</string>
-	<string id="st_zml_stashloot_found_drug">
-		<text>Found some drug</text>
-	</string>
-	<string id="st_zml_stashloot_found_device">
-		<text>Found a device</text>
-	</string>
-	<!-- STASH LOOT -->
-	<string id="ui_mcm_ZML_zml_stashloot_stash_spawn">
-		<text>Find extra items in stashes (main)</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_stash_chance">
-		<text>Stash item spawn chance</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_stash_chance_desc">
-		<text>Chance to find extra items in stashes.</text>
-	</string>
-	<!-- ITEMS -->
-	<!-- REPAIR KIT -->
-	<string id="ui_mcm_ZML_zml_stashloot_repair_spawn">
-		<text>Spawn repair kits</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_repair_spawn_desc">
-		<text>Adds a chance to find repair kits. Any items to clean or repair parts, major repair kits in rarer tier.</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_repair_chance">
-		<text>Repair kits chance</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_repair_chance_desc">
-		<text>Chance to find repair kits.</text>
-	</string>
-	<!-- AMMO -->
-	<string id="ui_mcm_ZML_zml_stashloot_ammo_spawn">
-		<text>Spawn extra ammo</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_ammo_spawn_desc">
-		<text>Adds a chance to find ammo.</text>
-	</string>
-	<string id="ui_mcm_ZML_zml_stashloot_ammo_chance">
-		<text>Ammo chance</text>
-	</string>
+    <string id="ui_mcm_menu_zml_stashloot">
+        <text>Stash Loot</text>
+    </string>
+    
+<!-- GENERAL -->
+    <string id="ui_mcm_ZML_zml_stashloot_general_info">
+        <text>The options below add a chance to find extra items in stashes. Hovering your cursor on settings gives additionnal informations for the settings.</text>
+    </string>
+    
+<!-- PDA STASH MESSAGES -->
+    <string id="ui_mcm_ZML_zml_stashloot_send_message">
+        <text>Show PDA notification</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_send_message_desc">
+        <text>Shows a notification whenever the player finds an extra item in a stash.</text>
+    </string>
+    <string id="st_zml_stashloot_found_repair">
+        <text>Found a repair kit</text>
+    </string>
+    <string id="st_zml_stashloot_found_ammo">
+        <text>Found some ammo</text>
+    </string>
+    <string id="st_zml_stashloot_found_tool">
+        <text>Found an useful item</text>
+    </string>
+    <string id="st_zml_stashloot_found_meds">
+        <text>Found a medical item</text>
+    </string>
+    <string id="st_zml_stashloot_found_mags">
+        <text>Found a magazine for your weapon</text>
+    </string>
+    <string id="st_zml_stashloot_found_lootbox">
+        <text>Found a lootbox</text>
+    </string>
+    <string id="st_zml_stashloot_found_potion">
+        <text>Found some potions</text>
+    </string>
+    <string id="st_zml_stashloot_found_faction">
+        <text>Found a faction-specific item</text>
+    </string>
+    <string id="st_zml_stashloot_found_food">
+        <text>Found some found</text>
+    </string>
+    <string id="st_zml_stashloot_found_drink">
+        <text>Found a drink</text>
+    </string>
+    <string id="st_zml_stashloot_found_container">
+        <text>Found a container</text>
+    </string>
+    <string id="st_zml_stashloot_found_drug">
+        <text>Found some drug</text>
+    </string>
+    <string id="st_zml_stashloot_found_device">
+        <text>Found a device</text>
+    </string>
+    
+<!-- STASH LOOT -->
+    <string id="ui_mcm_ZML_zml_stashloot_stash_spawn">
+        <text>Find extra items in stashes (main)</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_stash_chance">
+        <text>Stash item spawn chance</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_stash_chance_desc">
+        <text>Chance to find extra items in stashes.</text>
+    </string>
+    
+<!-- ITEMS -->
+    
+<!-- REPAIR KIT -->
+    <string id="ui_mcm_ZML_zml_stashloot_repair_spawn">
+        <text>Spawn repair kits</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_repair_spawn_desc">
+        <text>Adds a chance to find repair kits. Any items to clean or repair parts, major repair kits in rarer tier.</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_repair_chance">
+        <text>Repair kits chance</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_repair_chance_desc">
+        <text>Chance to find repair kits.</text>
+    </string>
+    
+<!-- AMMO -->
+    <string id="ui_mcm_ZML_zml_stashloot_ammo_spawn">
+        <text>Spawn extra ammo</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_ammo_spawn_desc">
+        <text>Adds a chance to find ammo.</text>
+    </string>
+    <string id="ui_mcm_ZML_zml_stashloot_ammo_chance">
+        <text>Ammo chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_chance_desc">
-		<text>Chance to find ammo.</text>
-	</string>
+        <text>Chance to find ammo.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_bad_spawn">
-		<text>Spawn old ammo</text>
-	</string>
+        <text>Spawn old ammo</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_bad_chance">
-		<text>Old ammo chance</text>
-	</string>
+        <text>Old ammo chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_bad_chance_desc">
-		<text>Chance that the found ammo is old.</text>
-	</string>
+        <text>Chance that the found ammo is old.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_amount">
-		<text>Ammo amount</text>
-	</string>
+        <text>Ammo amount</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_ammo_amount_desc">
-		<text>Amount multiplier of ammo found.</text>
-	</string>
-	<!-- MEDS -->
+        <text>Amount multiplier of ammo found.</text>
+    </string>
+    
+<!-- MEDS -->
     <string id="ui_mcm_ZML_zml_stashloot_meds_spawn">
-		<text>Spawn medical items</text>
-	</string>
+        <text>Spawn medical items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_meds_spawn_desc">
-		<text>Adds a chance to find medical items. To keep you alive. Not covered by your insurance.</text>
-	</string>
+        <text>Adds a chance to find medical items. To keep you alive. Not covered by your insurance.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_meds_chance">
-		<text>Medical items chance</text>
-	</string>
+        <text>Medical items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_meds_chance_desc">
-		<text>Chance to find medical items.</text>
-	</string>
-	<!-- DRUG -->
+        <text>Chance to find medical items.</text>
+    </string>
+    
+<!-- DRUG -->
     <string id="ui_mcm_ZML_zml_stashloot_drug_spawn">
-		<text>Spawn drug items.</text>
-	</string>
+        <text>Spawn drug items.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drug_spawn_desc">
-		<text>Adds a chance to find drug items. Items to help mainly with stamina and carry weight. Obviously includes *real* drugs. Drugs are bad, m'kay.</text>
-	</string>
+        <text>Adds a chance to find drug items. Items to help mainly with stamina and carry weight. Obviously includes *real* drugs. Drugs are bad, m'kay.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drug_chance">
-		<text>Drug items chance</text>
-	</string>
+        <text>Drug items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drug_chance_desc">
-		<text>Chance to find drug items.</text>
-	</string>
-	<!-- FOOD -->
+        <text>Chance to find drug items.</text>
+    </string>
+    
+<!-- FOOD -->
     <string id="ui_mcm_ZML_zml_stashloot_food_spawn">
-		<text>Spawn food items</text>
-	</string>
+        <text>Spawn food items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_food_spawn_desc">
-		<text>Adds a chance to find food items. Food is food. No delivery fees.</text>
-	</string>
+        <text>Adds a chance to find food items. Food is food. No delivery fees.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_food_chance">
-		<text>Food items chance</text>
-	</string>
+        <text>Food items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_food_chance_desc">
-		<text>Chance to find food items.</text>
-	</string>
-	<!-- DRINK -->
+        <text>Chance to find food items.</text>
+    </string>
+    
+<!-- DRINK -->
     <string id="ui_mcm_ZML_zml_stashloot_drink_spawn">
-		<text>Spawn drink items</text>
-	</string>
+        <text>Spawn drink items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drink_spawn_desc">
-		<text>Adds a chance to find drink items. Liquid food, thirst sustenance, energy drinks.</text>
-	</string>
+        <text>Adds a chance to find drink items. Liquid food, thirst sustenance, energy drinks.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drink_chance">
-		<text>Drink items chance</text>
-	</string>
+        <text>Drink items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_drink_chance_desc">
-		<text>Chance to find drink items.</text>
-	</string>
-	<!-- DEVICE  -->
+        <text>Chance to find drink items.</text>
+    </string>
+    
+<!-- DEVICE  -->
     <string id="ui_mcm_ZML_zml_stashloot_device_spawn">
-		<text>Spawn device items</text>
-	</string>
+        <text>Spawn device items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_device_spawn_desc">
-		<text>Adds a chance to find device items. Any handheld devices that makes beeps and boops, headgear such as nightvision goggles and flashlights.</text>
-	</string>
+        <text>Adds a chance to find device items. Any handheld devices that makes beeps and boops, headgear such as nightvision goggles and flashlights.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_device_chance">
-		<text>Device items chance</text>
-	</string>
+        <text>Device items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_device_chance_desc">
-		<text>Chance to find device items.</text>
-	</string>
-	<!-- TOOL  -->
+        <text>Chance to find device items.</text>
+    </string>
+    
+<!-- TOOL  -->
     <string id="ui_mcm_ZML_zml_stashloot_tool_spawn">
-		<text>Spawn tool items</text>
-	</string>
+        <text>Spawn tool items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_tool_spawn_desc">
-		<text>Adds a chance to find tool items. Various useful items, such as batteries, dissassembling tools and camping gear.</text>
-	</string>
+        <text>Adds a chance to find tool items. Various useful items, such as batteries, dissassembling tools and camping gear.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_tool_chance">
-		<text>Tool items chance</text>
-	</string>
+        <text>Tool items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_tool_chance_desc">
-		<text>Chance to find tool items.</text>
-	</string>
-	<!-- CONTAINER -->
+        <text>Chance to find tool items.</text>
+    </string>
+    
+<!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_stashloot_container_spawn">
-		<text>Spawn container items</text>
-	</string>
+        <text>Spawn container items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_container_spawn_desc">
-		<text>Adds a chance to find container items. Items to put items into, like backpacks and artefact containers. Itemception.</text>
-	</string>
+        <text>Adds a chance to find container items. Items to put items into, like backpacks and artefact containers. Itemception.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_container_chance">
-		<text>Container items chance</text>
-	</string>
+        <text>Container items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_container_chance_desc">
-		<text>Chance to find container items.</text>
-	</string>
-	<!-- LOOTBOXES -->
+        <text>Chance to find container items.</text>
+    </string>
+    
+<!-- LOOTBOXES -->
     <string id="ui_mcm_ZML_zml_stashloot_zzlootbox_spawn">
-		<text>Anomaly Lootboxes (toggle spawn in integration)</text>
-	</string>
+        <text>Anomaly Lootboxes (toggle spawn in integration)</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_zzlootbox_spawn_desc">
-		<text>Adds a chance to find lootboxes.</text>
-	</string>
+        <text>Adds a chance to find lootboxes.</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_zzlootbox_chance">
-		<text>Lootbox items chance</text>
-	</string>
+        <text>Lootbox items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_zzlootbox_chance_desc">
-		<text>Chance to find lootboxes.</text>
-	</string>
-	<!-- POTIONS TEST -->
-	<!--	
+        <text>Chance to find lootboxes.</text>
+    </string>
+    
+<!-- POTIONS TEST -->
+    
+<!--	
     <string id="ui_mcm_ZML_zml_stashloot_potion_spawn">
 		<text>Spawn potion items</text>
 	</string>
@@ -229,17 +246,18 @@
 		<text>Change the amount of Potion items found in stash boxes.</text>
 	</string>
 	-->
-	<!-- FACTION -->
+    
+<!-- FACTION -->
     <string id="ui_mcm_ZML_zml_stashloot_faction_spawn">
-		<text>Spawn faction-specific items</text>
-	</string>
+        <text>Spawn faction-specific items</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_faction_spawn_desc">
-		<text>Adds a chance to find faction-specific items. Only spawns factions patches for now cause I'm lazy (untrue, I just have no idea for factions droptables yet).</text>
-	</string>
+        <text>Adds a chance to find faction-specific items. Only spawns factions patches for now cause I'm lazy (untrue, I just have no idea for factions droptables yet).</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_faction_chance">
-		<text>Faction items chance</text>
-	</string>
+        <text>Faction items chance</text>
+    </string>
     <string id="ui_mcm_ZML_zml_stashloot_faction_chance_desc">
-		<text>Chance to find faction-specific items.</text>
-	</string>
+        <text>Chance to find faction-specific items.</text>
+    </string>
 </string_table>

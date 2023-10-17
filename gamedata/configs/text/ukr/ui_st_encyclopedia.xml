@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- PDA -->
+    
+<!-- PDA -->
     <string id="pda_btn_encyclopedia">
         <text>Довідник</text>
     </string>
     <string id="pda_btn_encyclopedia_hint">
         <text>Відкрити довідник</text>
     </string>
-    <!-- Interface components -->
+    
+<!-- Interface components -->
     <string id="pda_encyclopedia_title">
         <text>Довідник Зони</text>
     </string>
@@ -17,14 +19,16 @@
     <string id="st_pda_encyclopedia_message_checkbox">
         <text>Показати повідомлення</text>
     </string>
-    <!-- Messages -->
+    
+<!-- Messages -->
     <string id="pda_encyclopedia_notify">
         <text>Відкрита стаття:%s, %s</text>
     </string>
     <string id="pda_encyclopedia_notify_note">
         <text>Нова нотатка:%s</text>
     </string>
-    <!-- Misc -->
+    
+<!-- Misc -->
     <string id="pda_encyclopedia_info">
         <text>Інформація</text>
     </string>
@@ -58,7 +62,8 @@
     <string id="pda_encyclopedia_ironman_3">
         <text>Я у безпеці.</text>
     </string>
-    <!-- Locked articles -->
+    
+<!-- Locked articles -->
     <string id="pda_encyclopedia_locked">
         <text>??????????</text>
     </string>

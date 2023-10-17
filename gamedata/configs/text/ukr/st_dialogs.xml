@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Trading / Repair dialog -->
+    
+<!-- Trading / Repair dialog -->
     <string id="st_stalker_trade_dialog_init">
         <text>Може, махнемося, у кого чим мішок багатий? %c[d_orange][Торговельне]</text>
     </string>
@@ -67,7 +68,8 @@
     <string id="st_bartender_dialog_reply_3">
         <text>Не хочеш пропустити чарочку? У мене тут свіжа партія «Бандерівки» прийшла.</text>
     </string>
-    <!-- Selling important documents -->
+    
+<!-- Selling important documents -->
     <string id="st_trade_important_documents_0">
         <text>Мені тут документи якісь старі попалися. Цікаво?</text>
     </string>
@@ -184,7 +186,8 @@
     <string id="st_trade_important_documents_answer_mil_smart_terrain_7_7_freedom_leader_stalker">
         <text>Чудово! Якщо ще знайдеш щось таке, що може нам допомогти - буду дуже вдячний.</text>
     </string>
-    <!-- Swap items with Companions -->
+    
+<!-- Swap items with Companions -->
     <string id="st_companion_inv_show_gui">
         <text>Мені б глянути дрібнички в твоєму рюкзаку.</text>
     </string>
@@ -192,7 +195,8 @@
         <text>Я скину в твій рюкзак пару речей, не заперечуєш?</text>
     </string>
     <string id="st_companion_inv_take_all_my_items_dummy">
-        <!-- НПС will refuse -->
+        
+<!-- НПС will refuse -->
         <text>Так, мені треба скинути дечого в твій рюкзак.</text>
     </string>
     <string id="st_companion_inv_take_all_my_items_response_accept_1">
@@ -216,7 +220,8 @@
     <string id="st_companion_inv_give_me_back_all_items_response">
         <text>Валяй.</text>
     </string>
-    <!-- Paid Companions -->
+    
+<!-- Paid Companions -->
     <string id="st_paid_companion_dialog_text_0">
         <text>Шукаю кого найняти для охорони, цікаво?</text>
     </string>
@@ -269,7 +274,8 @@
             »територій». Все, ти тепер сам по собі. Герой, трясця...
         </text>
     </string>
-    <!-- Medic general -->
+    
+<!-- Medic general -->
     <string id="st_dm_medic_general_text_0">
         <text>Мені потрібна медична допомога.</text>
     </string>
@@ -322,7 +328,8 @@
     <string id="st_dm_medic_general_text_7">
         <text>Залежить від тебе, хех.</text>
     </string>
-    <!-- Unlock PDAs -->
+    
+<!-- Unlock PDAs -->
     <string id="st_encrypted_pda_text_0">
         <text>У мене є заблокований КПК, та тільки ця чортівня ні на що не реагує. Подивишся, що там з ним?</text>
     </string>
@@ -341,7 +348,8 @@
     <string id="st_encrypted_pda_text_5">
         <text>Дякую.</text>
     </string>
-    <!-- Faction bribe -->
+    
+<!-- Faction bribe -->
     <string id="st_bribe_text_0">
         <text>У тебе ж є хороші зв'язки? Чи не міг би ти допомогти мені вирішити деякі конфлікти?</text>
     </string>
@@ -440,7 +448,8 @@
             можуть зірватися.
         </text>
     </string>
-    <!-- Guide Job -->
+    
+<!-- Guide Job -->
     <string id="st_jg_1">
         <text>Добро. Бачив тут твоє повідомлення з проханням супроводжувати на Кудикіну гору. Все ще потрібна
             допомога?
@@ -536,7 +545,8 @@
     <string id="st_jg_cancel_3">
         <text>Дякую тобі за мій витрачений без толку час, тьху...</text>
     </string>
-    <!-- Debt / Loan -->
+    
+<!-- Debt / Loan -->
     <string id="debt_register_0">
         <text>Слухай, %s, а можеш позичити грошей? Я б не питав, але потрібні прямо-таки конче.</text>
     </string>
@@ -596,7 +606,8 @@
     <string id="st_debt_no_trade_1">
         <text>Я так не думаю. Ти все ще стирчиш мені, не забув? Спершу поверни те, що займав.</text>
     </string>
-    <!-- purchase extra equipment -->
+    
+<!-- purchase extra equipment -->
     <string id="buy_extra_items_0">
         <text>Є що-небудь особливе на продаж?</text>
     </string>
@@ -641,7 +652,8 @@
     <string id="buy_extra_items_txt">
         <text>%s %c[d_orange][%s грн]</text>
     </string>
-    <!-- Purchase routes -->
+    
+<!-- Purchase routes -->
     <string id="st_buy_route_0">
         <text>Я хотів би купити інформацію про приховані маршрутах.</text>
     </string>
@@ -776,7 +788,8 @@
     <string id="st_route_w_lab">
         <text>Військова лабораторія</text>
     </string>
-    <!-- Travel - unused -->
+    
+<!-- Travel # unused -->
     <string id="ka_travel_dialog_ask">
         <text>Мені потрібно потрапити в одне місце... Думаєш, зможеш влаштувати це для мене?</text>
     </string>
@@ -825,7 +838,8 @@
     <string id="ka_travel_dialog_swamp">
         <text>База «Чистого неба» на Великих болотах.</text>
     </string>
-    <!-- About Quests Bandit -->
+    
+<!-- About Quests Bandit -->
     <string id="about_quests_dialog_bandit_0">
         <text>Чув які новини?</text>
     </string>
@@ -1114,7 +1128,8 @@
     <string id="about_quests_dialog_bandit_98">
         <text>Добре забудь.</text>
     </string>
-    <!-- About Quests Duty -->
+    
+<!-- About Quests Duty -->
     <string id="about_quests_dialog_dolg_0">
         <text>В курсі останніх новин?</text>
     </string>
@@ -1402,7 +1417,8 @@
     <string id="about_quests_dialog_dolg_98">
         <text>Добре забудь.</text>
     </string>
-    <!-- About Quests Freedom -->
+    
+<!-- About Quests Freedom -->
     <string id="about_quests_dialog_freedom_0">
         <text>Підкажи мені щодо однієї справи...</text>
     </string>
@@ -1724,7 +1740,8 @@
     <string id="about_quests_dialog_freedom_98">
         <text>Добре забудь.</text>
     </string>
-    <!-- About Quests Stalker -->
+    
+<!-- About Quests Stalker -->
     <string id="about_quests_dialog_stalkers_0">
         <text>Підкажи мені щодо однієї справи...</text>
     </string>
@@ -2255,7 +2272,8 @@
             прилітає рідко. Кому пощастило, той і урвав, а загадувати...
         </text>
     </string>
-    <!-- Call of Chernobyl -->
+    
+<!-- Call of Chernobyl -->
     <string id="dm_dialog_add_trade">
         <text>Я чув, з тобою можна вести справи. Як щодо торгівлі?</text>
     </string>
@@ -2265,7 +2283,8 @@
     <string id="dm_dialog_character_history">
         <text>Розкажи про себе.</text>
     </string>
-    <!-- General -->
+    
+<!-- General -->
     <string id="actor_break_dialog_0">
         <text>До зустрічі.</text>
     </string>
@@ -2278,7 +2297,8 @@
     <string id="actor_break_dialog_3">
         <text>Бувай!</text>
     </string>
-    <!-- Wish Granter -->
+    
+<!-- Wish Granter -->
     <string id="st_wish_1">
         <text>Я хочу, щоб Зона зникла!</text>
     </string>
@@ -2297,7 +2317,8 @@
     <string id="st_wish_99">
         <text>[Нічого не бажати]</text>
     </string>
-    <!-- Alundaio -->
+    
+<!-- Alundaio -->
     <string id="axr_phrase_npc_start_wounded">
         <text>Братан... виручай! ..</text>
     </string>

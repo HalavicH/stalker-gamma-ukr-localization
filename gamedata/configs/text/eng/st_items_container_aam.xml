@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Artefacts Containers (AAM)
--->
 <string_table>
     <string id="st_af_itcher_af_aam_name">
         <text>ПМА з «Зудой»</text>

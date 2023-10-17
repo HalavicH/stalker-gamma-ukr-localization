@@ -1,217 +1,214 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<!-- Jammin -->
-	<string id="kb_unjam">
-		<text>Прибрати Клин</text>
-	</string>
-	<string id="ui_st_misfire">
-		<text>Зброя дала осічку!</text>
-	</string>
-	<string id="ui_st_jam">
-		<text>Зброю заклинило!</text>
-	</string>
-	<string id="ui_st_superjam">
-		<text>Зброю сильно заклинило!</text>
-	</string>
-	<string id="ui_st_nothing">
-		<text>В руках немає стрілецької зброї.</text>
-	</string>
-	<string id="ui_st_unjam">
-		<text>Заклинування зброї усунуто.</text>
-	</string>
-	<string id="ui_st_functional">
-		<text>Зброя готова до стрільби</text>
-	</string>
-	<string id="ui_st_oldjam">
-		<text>Через поганий стан зброю заклинило. Перезаряди її.</text>
-	</string>
-	<string id="ui_st_unjam_fail">
-		<text>Зброя сильно заклинила - спочатку розряди магазин, а потім пересмикни затвор.</text>
-	</string>
-	<string id="ui_st_parts_damage">
-		<text>Всередині зброї щось зламалося.</text>
-	</string>
-	<string id="st_news_parts_alreadygood">
-		<text>Ця деталь не потребує заміни.</text>
-	</string>
-	<string id="ui_st_heat1">
-		<text>, але тепле.</text>
-	</string>
-	<string id="ui_st_heat2">
-		<text>, але гаряче!</text>
-	</string>
-	<string id="ui_st_heat3">
-		<text>, але дуже гаряче!</text>
-	</string>
-	
-	<string id="st_unjam">
-		<text>Прибрати Клин</text>
-	</string>
-	<!-- Messages -->
-	<string id="st_news_parts_success">
-		<text>%c[d_green]Деталь успішно замінена.</text>
-	</string>
-	<string id="st_news_parts_fail">
-		<text>%c[d_red]На зброю встановлено деталь кращої якості.</text>
-	</string>
-	<string id="st_news_parts_incompatible">
-		<text>%c[d_red]Ця деталь не сумісна з даною зброєю.</text>
-	</string>
-	<string id="st_news_parts_barrel">
-		<text>%c[d_red]Ствол не можна змінити в польових умовах.</text>
-	</string>
-	<string id="st_news_parts_rusty">
-		<text>%c[d_red]Неможливо розібрати цю зброю в польових умовах, оскільки вона занадто іржава.</text>
-	</string>
-	<string id="st_news_dis_items">
-		<text>%c[d_red]Для розбирання потрібен відповідний інструмент.</text>
-	</string>
-	<string id="st_news_fieldstrip">
-		<text>Видалені деталі:</text>
-	</string>
-	<string id="st_news_cleaned">
-		<text>Очищені деталі:</text>
-	</string>
-
-	<!-- MCM -->
-	<string id="ui_mcm_menu_wpo">
-		<text>Weapon Parts Overhaul</text>
-	</string>
-	<string id="ui_mcm_wpo_title">
-		<text>Налаштування аддона Weapon Parts Overhaul</text>
-	</string>
-	<string id="ui_mcm_wpo_profanity">
-		<text>Ненормативна лексика при клині</text>
-	</string>
-	<string id="ui_mcm_wpo_profanity_desc">
-		<text>Вмикає лайки головного героя під час заклинювання зброї.</text>
-	</string>
-	<string id="ui_mcm_wpo_profanity_timeout">
-		<text>Вимикає кулдаун на ненормативну лексику</text>
-	</string>
-	<string id="ui_mcm_wpo_profanity_timeout_desc">
-		<text>Додає невеликий кулдаун на лайку, якщо ввімкнено. Використовуйте якщо не любите веселощі.</text>
-	</string>
-	<string id="ui_mcm_wpo_profanity_language">
-		<text>"Мат" вибір мови</text>
-	</string>
-	<string id="ui_mcm_wpo_jamchance">
-		<text>Коефіцієнт шансу клину</text>
-	</string>
-	<string id="ui_mcm_wpo_jamchance_desc">
-		<text>Коефіцієнт шансу клину</text>
-	</string>
-	<string id="ui_mcm_wpo_superjam">
-		<text>Увімкнути "супер-клин"</text>
-	</string>
-	<string id="ui_mcm_wpo_superjam_desc">
-		<text>Вмикає (або вимикає) так званий "супер-клин". При "супер-кліні" потрібно повністю розрядити зброю.</text>.
-	</string>
-	<string id="ui_mcm_wpo_simplejam">
-		<text>Викидання магазина при супер-кліні</text>.
-	</string>
-	<string id="ui_mcm_wpo_simplejam_desc">
-		<text>Якщо ввімкнено, під час натискання перезарядки (за стандартом R) зі зброєю, що сильно заклинила, магазин буде витягнуто. Більше не доведеться возитися з інвентарем.</text>.
-	</string>
-	<string id="ui_mcm_wpo_threshold">
-		<text>Поріг стану пошкодження деталі</text>.
-	</string>
-	<string id="ui_mcm_wpo_threshold_desc">
-		<text>Стан зброї при якому є шанс пошкодити деталі. Чим менше, тим зброя має бути більше пошкоджена, щоб деталі почали пошкоджуватися.</text>
-	</string>
-	<string id="ui_mcm_wpo_cleancoef">
-		<text>Множитель очищення зброї техніком</text>.
-	</string>
-	<string id="ui_mcm_wpo_cleancoef_desc">
-		<text>Налаштування множника ціни при чищенні зброї у техніка.</text>
-	</string>
-	<string id="ui_mcm_wpo_verbosity">
-		<text>Подробна інформація в повідомленні про клин</text>
-	</string>
-	<string id="ui_mcm_wpo_verbosity_desc">
-		<text>Три варіанти повідомлень про стан зброї:\nНіяких повідомлень: сповіщення з'являються за фактом, інакше збивають з пантелику.\nНормальний варіант (рекомендується): буде попереджати про заклинювання та розряджання зброї.\nПовний варіант: отримуєте сповіщення про всі нюанси стану вашої зброї - коли заклинює, про пошкодження компонентів, буде потрібне чищення й розбирання ствола.\nПовний варіант: отримуєте попередження про всі нюанси стану вашої зброї - коли заклинює, про пошкодження компонентів, чи потрібен чистку та розбір ствола.</text>
-	</string>
-	<string id="ui_mcm_wpo_minpart">
-		<text>Стан запчастин для продажу Торговцям</text>
-	</string>
-	<string id="ui_mcm_wpo_minpart_desc">
-		<text>Мінімальний стан для можливості продажу ВСІХ збройових частин. Якщо збройова частина має стан нижче цього, то її не можна буде продати. Для вимкнення, встановіть значення на 0.</text>.
-	</string>
-	<string id="ui_mcm_wpo_fun">
-		<text>Рівень веселощів</text>
-	</string>
-	<string id="ui_mcm_wpo_title">
-		<text>Weapon Parts Overhaul</text>
-	</string>
-	<string id="ui_mcm_lst_eng">
-		<text>Англійська</text>
-	</string>
-	<string id="ui_mcm_lst_rus">
-		<text>Москальська</text>
-	</string>
-	<string id="ui_mcm_lst_verbosity_none">
-		<text>Вимкнений</text>
-	</string>
-	<string id="ui_mcm_lst_verbosity_normal">
-		<text>Зазвичайний</text>
-	</string>
-	<string id="ui_mcm_lst_verbosity_full">
-		<text>Повний</text>
-	</string>
-	<string id="ui_mcm_lst_no">
-		<text>Обов'язок</text>
-	</string>
-	<string id="ui_mcm_lst_yes">
-		<text>Одинаки</text>
-	</string>
-	<string id="ui_mcm_lst_ofc">
-		<text>Свобода</text>
-	</string>
-	<string id="ui_mcm_wpo_debug">
-		<text>Журнал налагодження</text>
-	</string>
-	<string id="ui_mcm_wpo_debug_desc">
-		<text>Журнал налагодження відображає додаткову інформацію в консолі.</text>
-	</string>
-	<string id="ui_mcm_wpo_babymode">
-		<text>Режим для дітей (без клина)</text>
-	</string>
-	<string id="ui_mcm_wpo_babymode_desc">
-		<text>Відключає функціонал заїдання зброї. Якщо тобі це потрібно... Навіщо ти взагалі тоді встановив цей аддон?</text>
-	</string>
-	<string id="ui_mcm_wpo_newdrops">
-		<text>Вмикає альтернативні значення стану частин, що випадають</text>
-	</string>
-	<string id="ui_mcm_wpo_newdrops_desc">
-		<text>Для визначення значення стану частин зброї використовується нова формула. На шанс частин у хорошому стані впливає стан зброї та прихована вага. Ускладнює ігровий процес. Вимкніть що б використовувати старий метод.</text>.
-	</string>
-	<string id="ui_mcm_wpo_newdropschance">
-		<text>Шанс витягти частини в хорошому стані за альтернативною формулою</text>
-	</string>
-	<string id="ui_mcm_wpo_degradation">
-		<text>Деградація зброї під час дощу</text>
-	</string>
-	<string id="ui_mcm_wpo_degradation_desc">
-		<text>Множник швидкості поломки вашої зброї під час дощу.</text>
-	</string>
-	
-	<string id="st_field_strip">
-		<text>зняти запчастини</text>
-	</string>
-	<string id="st_field_strip_fail">
-		<text> Зі зброї більше нічого витягти</text>
-	</string>
-	<string id="ui_st_missing">
-		<text>У зброї відсутні запчастини.</text>
-	</string>
-
-	
-	<string id="article_wpo">
-		<text>Обслуговування зброї WPO</text>.
-	</string>
-	<string id="article_wpo_text">
-		<text>
+    
+<!-- Jammin -->
+    <string id="kb_unjam">
+        <text>Прибрати Клин</text>
+    </string>
+    <string id="ui_st_misfire">
+        <text>Зброя дала осічку!</text>
+    </string>
+    <string id="ui_st_jam">
+        <text>Зброю заклинило!</text>
+    </string>
+    <string id="ui_st_superjam">
+        <text>Зброю сильно заклинило!</text>
+    </string>
+    <string id="ui_st_nothing">
+        <text>В руках немає стрілецької зброї.</text>
+    </string>
+    <string id="ui_st_unjam">
+        <text>Заклинування зброї усунуто.</text>
+    </string>
+    <string id="ui_st_functional">
+        <text>Зброя готова до стрільби</text>
+    </string>
+    <string id="ui_st_oldjam">
+        <text>Через поганий стан зброю заклинило. Перезаряди її.</text>
+    </string>
+    <string id="ui_st_unjam_fail">
+        <text>Зброя сильно заклинила - спочатку розряди магазин, а потім пересмикни затвор.</text>
+    </string>
+    <string id="ui_st_parts_damage">
+        <text>Всередині зброї щось зламалося.</text>
+    </string>
+    <string id="st_news_parts_alreadygood">
+        <text>Ця деталь не потребує заміни.</text>
+    </string>
+    <string id="ui_st_heat1">
+        <text>, але тепле.</text>
+    </string>
+    <string id="ui_st_heat2">
+        <text>, але гаряче!</text>
+    </string>
+    <string id="ui_st_heat3">
+        <text>, але дуже гаряче!</text>
+    </string>
+    <string id="st_unjam">
+        <text>Прибрати Клин</text>
+    </string>
+    
+<!-- Messages -->
+    <string id="st_news_parts_success">
+        <text>%c[d_green]Деталь успішно замінена.</text>
+    </string>
+    <string id="st_news_parts_fail">
+        <text>%c[d_red]На зброю встановлено деталь кращої якості.</text>
+    </string>
+    <string id="st_news_parts_incompatible">
+        <text>%c[d_red]Ця деталь не сумісна з даною зброєю.</text>
+    </string>
+    <string id="st_news_parts_barrel">
+        <text>%c[d_red]Ствол не можна змінити в польових умовах.</text>
+    </string>
+    <string id="st_news_parts_rusty">
+        <text>%c[d_red]Неможливо розібрати цю зброю в польових умовах, оскільки вона занадто іржава.</text>
+    </string>
+    <string id="st_news_dis_items">
+        <text>%c[d_red]Для розбирання потрібен відповідний інструмент.</text>
+    </string>
+    <string id="st_news_fieldstrip">
+        <text>Видалені деталі:</text>
+    </string>
+    <string id="st_news_cleaned">
+        <text>Очищені деталі:</text>
+    </string>
+    
+<!-- MCM -->
+    <string id="ui_mcm_menu_wpo">
+        <text>Weapon Parts Overhaul</text>
+    </string>
+    <string id="ui_mcm_wpo_title">
+        <text>Налаштування аддона Weapon Parts Overhaul</text>
+    </string>
+    <string id="ui_mcm_wpo_profanity">
+        <text>Ненормативна лексика при клині</text>
+    </string>
+    <string id="ui_mcm_wpo_profanity_desc">
+        <text>Вмикає лайки головного героя під час заклинювання зброї.</text>
+    </string>
+    <string id="ui_mcm_wpo_profanity_timeout">
+        <text>Вимикає кулдаун на ненормативну лексику</text>
+    </string>
+    <string id="ui_mcm_wpo_profanity_timeout_desc">
+        <text>Додає невеликий кулдаун на лайку, якщо ввімкнено. Використовуйте якщо не любите веселощі.</text>
+    </string>
+    <string id="ui_mcm_wpo_profanity_language">
+        <text>"Мат" вибір мови</text>
+    </string>
+    <string id="ui_mcm_wpo_jamchance">
+        <text>Коефіцієнт шансу клину</text>
+    </string>
+    <string id="ui_mcm_wpo_jamchance_desc">
+        <text>Коефіцієнт шансу клину</text>
+    </string>
+    <string id="ui_mcm_wpo_superjam">
+        <text>Увімкнути "супер-клин"</text>
+    </string>
+    <string id="ui_mcm_wpo_superjam_desc">
+        <text>Вмикає (або вимикає) так званий "супер-клин". При "супер-кліні" потрібно повністю розрядити зброю.</text>.
+	</string>
+    <string id="ui_mcm_wpo_simplejam">
+        <text>Викидання магазина при супер-кліні</text>.
+	</string>
+    <string id="ui_mcm_wpo_simplejam_desc">
+        <text>Якщо ввімкнено, під час натискання перезарядки (за стандартом R) зі зброєю, що сильно заклинила, магазин буде витягнуто. Більше не доведеться возитися з інвентарем.</text>.
+	</string>
+    <string id="ui_mcm_wpo_threshold">
+        <text>Поріг стану пошкодження деталі</text>.
+	</string>
+    <string id="ui_mcm_wpo_threshold_desc">
+        <text>Стан зброї при якому є шанс пошкодити деталі. Чим менше, тим зброя має бути більше пошкоджена, щоб деталі почали пошкоджуватися.</text>
+    </string>
+    <string id="ui_mcm_wpo_cleancoef">
+        <text>Множитель очищення зброї техніком</text>.
+	</string>
+    <string id="ui_mcm_wpo_cleancoef_desc">
+        <text>Налаштування множника ціни при чищенні зброї у техніка.</text>
+    </string>
+    <string id="ui_mcm_wpo_verbosity">
+        <text>Подробна інформація в повідомленні про клин</text>
+    </string>
+    <string id="ui_mcm_wpo_verbosity_desc">
+        <text>Три варіанти повідомлень про стан зброї:\nНіяких повідомлень: сповіщення з'являються за фактом, інакше збивають з пантелику.\nНормальний варіант (рекомендується): буде попереджати про заклинювання та розряджання зброї.\nПовний варіант: отримуєте сповіщення про всі нюанси стану вашої зброї - коли заклинює, про пошкодження компонентів, буде потрібне чищення й розбирання ствола.\nПовний варіант: отримуєте попередження про всі нюанси стану вашої зброї - коли заклинює, про пошкодження компонентів, чи потрібен чистку та розбір ствола.</text>
+    </string>
+    <string id="ui_mcm_wpo_minpart">
+        <text>Стан запчастин для продажу Торговцям</text>
+    </string>
+    <string id="ui_mcm_wpo_minpart_desc">
+        <text>Мінімальний стан для можливості продажу ВСІХ збройових частин. Якщо збройова частина має стан нижче цього, то її не можна буде продати. Для вимкнення, встановіть значення на 0.</text>.
+	</string>
+    <string id="ui_mcm_wpo_fun">
+        <text>Рівень веселощів</text>
+    </string>
+    <string id="ui_mcm_wpo_title">
+        <text>Weapon Parts Overhaul</text>
+    </string>
+    <string id="ui_mcm_lst_eng">
+        <text>Англійська</text>
+    </string>
+    <string id="ui_mcm_lst_rus">
+        <text>Москальська</text>
+    </string>
+    <string id="ui_mcm_lst_verbosity_none">
+        <text>Вимкнений</text>
+    </string>
+    <string id="ui_mcm_lst_verbosity_normal">
+        <text>Зазвичайний</text>
+    </string>
+    <string id="ui_mcm_lst_verbosity_full">
+        <text>Повний</text>
+    </string>
+    <string id="ui_mcm_lst_no">
+        <text>Обов'язок</text>
+    </string>
+    <string id="ui_mcm_lst_yes">
+        <text>Одинаки</text>
+    </string>
+    <string id="ui_mcm_lst_ofc">
+        <text>Свобода</text>
+    </string>
+    <string id="ui_mcm_wpo_debug">
+        <text>Журнал налагодження</text>
+    </string>
+    <string id="ui_mcm_wpo_debug_desc">
+        <text>Журнал налагодження відображає додаткову інформацію в консолі.</text>
+    </string>
+    <string id="ui_mcm_wpo_babymode">
+        <text>Режим для дітей (без клина)</text>
+    </string>
+    <string id="ui_mcm_wpo_babymode_desc">
+        <text>Відключає функціонал заїдання зброї. Якщо тобі це потрібно... Навіщо ти взагалі тоді встановив цей аддон?</text>
+    </string>
+    <string id="ui_mcm_wpo_newdrops">
+        <text>Вмикає альтернативні значення стану частин, що випадають</text>
+    </string>
+    <string id="ui_mcm_wpo_newdrops_desc">
+        <text>Для визначення значення стану частин зброї використовується нова формула. На шанс частин у хорошому стані впливає стан зброї та прихована вага. Ускладнює ігровий процес. Вимкніть що б використовувати старий метод.</text>.
+	</string>
+    <string id="ui_mcm_wpo_newdropschance">
+        <text>Шанс витягти частини в хорошому стані за альтернативною формулою</text>
+    </string>
+    <string id="ui_mcm_wpo_degradation">
+        <text>Деградація зброї під час дощу</text>
+    </string>
+    <string id="ui_mcm_wpo_degradation_desc">
+        <text>Множник швидкості поломки вашої зброї під час дощу.</text>
+    </string>
+    <string id="st_field_strip">
+        <text>зняти запчастини</text>
+    </string>
+    <string id="st_field_strip_fail">
+        <text> Зі зброї більше нічого витягти</text>
+    </string>
+    <string id="ui_st_missing">
+        <text>У зброї відсутні запчастини.</text>
+    </string>
+    <string id="article_wpo">
+        <text>Обслуговування зброї WPO</text>.
+	</string>
+    <string id="article_wpo_text">
+        <text>
 			%c[pda_green]Питання - Відповідь %c[ui_gray_1]\n \n \n
 			\n1. Чому моя зброя заклинює на 100%?
 			\nA. Швидше за все якісь частини зброї пошкоджені. Перевірте стан.
@@ -249,90 +246,88 @@
 			\nЗбройові частини по міцності вище 10% можуть бути відремонтовані дуже дорогими рем-комплектами доступними у трейдерів.
 			\n \n З усіх інших питань, пишіть arti#3278 в Discord. Я занадто ледачий щоб читати коментарі на Moddb.
 		</text>
+    </string>
+    <string id="st_partskit">
+        <text>Комплект для ремонту збройових деталей</text>
+    </string>
+    <string id="st_partskit_descr">
+        <text>Високотехнологічний набір інструментів, включно з мікро-напильниками, металевою епоксидною смолою для холодного зварювання, установкою електролізної ванни, і тоннами мастильних матеріалів, бензиновими дестилянтами та іншими розчинниками. Ці інструменти можуть перетворити двигун Лади на Феррарі, не кажучи про те, що він може зробити з іншими компонентами машини. Тільки найбільш зруйновані шматки металобрухту не можуть бути відновлені цим комплектом. Однак, цей комплект дуже складно зібрати в Зоні, тому техніки продають його в дуже невеликих кількостях.\n\n</text>.
 	</string>
-	
-	<string id="st_partskit">
-		<text>Комплект для ремонту збройових деталей</text>
-	</string>
-	<string id="st_partskit_descr">
-		<text>Високотехнологічний набір інструментів, включно з мікро-напильниками, металевою епоксидною смолою для холодного зварювання, установкою електролізної ванни, і тоннами мастильних матеріалів, бензиновими дестилянтами та іншими розчинниками. Ці інструменти можуть перетворити двигун Лади на Феррарі, не кажучи про те, що він може зробити з іншими компонентами машини. Тільки найбільш зруйновані шматки металобрухту не можуть бути відновлені цим комплектом. Однак, цей комплект дуже складно зібрати в Зоні, тому техніки продають його в дуже невеликих кількостях.\n\n</text>.
-	</string>
+    
 <!-- Info -->
-
-	<string id="st_dot">
-		<text>-</text>
-	</string>
-	<string id="st_damage_missing">
-		<text>відсутній</text>
-	</string>
-	<string id="st_damage_0">
-		<text>зламаний</text>
-	</string>
-	<string id="st_damage_1">
-		<text>пошкоджений</text>
-	</string>
-	<string id="st_damage_2">
-		<text>зношений</text>
-	</string>
-	<string id="st_damage_3">
-		<text>забруднений</text>
-	</string>
-	<string id="st_damage_4">
-		<text>справний</text>
-	</string>
-	<string id="st_damage_5">
-		<text>майже новий</text>
-	</string>	
-	<string id="st_wpo_replace_parts">
-		<text>обслуговування</text>
-	</string>
-	
-	<string id="st_wpo_replace">
-		<text>замінити</text>
-	</string>
-	<string id="st_wpo_clean">
-		<text>очистити</text>
-	</string>
-	<string id="st_wpo_remove">
-		<text>видалити</text>
-	</string>
-	<string id="st_name_trigger">
-		<text>ударно-спусковий механізм</text>
-	</string>
-	<string id="st_name_spring">
-		<text>зворотний механізм</text>
-	</string>
-	<string id="st_name_barrel">
-		<text>ствол</text>
-	</string>
-	<string id="st_name_bolt_carrier">
-		<text>поздовжньо-ковзний затвор</text>
-	</string>
-	<string id="st_name_bolt">
-		<text>ударник</text>
-	</string>
-	<string id="st_name_gas_tube">
-		<text>газ-блок</text>
-	</string>
-	<string id="st_name_extractor">
-		<text>екстрактор</text>
-	</string>
-	<string id="st_name_ejector">
-		<text>ежектор</text>
-	</string>
-	<string id="st_name_pump">
-		<text>помповий механізм</text>
-	</string>
-	<string id="st_name_hammers">
-		<text>молоток</text>
-	</string>
-	<string id="st_name_chock">
-		<text>підпір</text>
-	</string>
-	<string id="st_name_all">
-		<text>все</text>
-	</string>
-	<string id="st_name_issues">
-		<text>ПРОБЛЕМИ:</text>
-	</string>
+    <string id="st_dot">
+        <text>-</text>
+    </string>
+    <string id="st_damage_missing">
+        <text>відсутній</text>
+    </string>
+    <string id="st_damage_0">
+        <text>зламаний</text>
+    </string>
+    <string id="st_damage_1">
+        <text>пошкоджений</text>
+    </string>
+    <string id="st_damage_2">
+        <text>зношений</text>
+    </string>
+    <string id="st_damage_3">
+        <text>забруднений</text>
+    </string>
+    <string id="st_damage_4">
+        <text>справний</text>
+    </string>
+    <string id="st_damage_5">
+        <text>майже новий</text>
+    </string>
+    <string id="st_wpo_replace_parts">
+        <text>обслуговування</text>
+    </string>
+    <string id="st_wpo_replace">
+        <text>замінити</text>
+    </string>
+    <string id="st_wpo_clean">
+        <text>очистити</text>
+    </string>
+    <string id="st_wpo_remove">
+        <text>видалити</text>
+    </string>
+    <string id="st_name_trigger">
+        <text>ударно-спусковий механізм</text>
+    </string>
+    <string id="st_name_spring">
+        <text>зворотний механізм</text>
+    </string>
+    <string id="st_name_barrel">
+        <text>ствол</text>
+    </string>
+    <string id="st_name_bolt_carrier">
+        <text>поздовжньо-ковзний затвор</text>
+    </string>
+    <string id="st_name_bolt">
+        <text>ударник</text>
+    </string>
+    <string id="st_name_gas_tube">
+        <text>газ-блок</text>
+    </string>
+    <string id="st_name_extractor">
+        <text>екстрактор</text>
+    </string>
+    <string id="st_name_ejector">
+        <text>ежектор</text>
+    </string>
+    <string id="st_name_pump">
+        <text>помповий механізм</text>
+    </string>
+    <string id="st_name_hammers">
+        <text>молоток</text>
+    </string>
+    <string id="st_name_chock">
+        <text>підпір</text>
+    </string>
+    <string id="st_name_all">
+        <text>все</text>
+    </string>
+    <string id="st_name_issues">
+        <text>ПРОБЛЕМИ:</text>
+    </string>
 </string_table>

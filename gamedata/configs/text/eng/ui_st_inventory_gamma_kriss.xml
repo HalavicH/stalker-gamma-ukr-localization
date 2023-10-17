@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Weapons
--->
-
 <string_table>
-
-	<string id="st_wpn_kriss">
-		<text>KRISS Vector</text>
-	</string>
-
-	<string id="st_wpn_kriss_descr">
-		<text>KRISS Vector[4] - це серія зброї, що базується на конструкції пістолета-кулемета, розробленої американською компанією KRISS USA, раніше Transformational Defense Industries (TDI). Вони використовують нетрадиційну систему затримки відбою в поєднанні з лінійною конструкцією для зменшення відчутної віддачі та підйому дульного зрізу. \n
+    <string id="st_wpn_kriss">
+        <text>KRISS Vector</text>
+    </string>
+    <string id="st_wpn_kriss_descr">
+        <text>KRISS Vector[4] - це серія зброї, що базується на конструкції пістолета-кулемета, розробленої американською компанією KRISS USA, раніше Transformational Defense Industries (TDI). Вони використовують нетрадиційну систему затримки відбою в поєднанні з лінійною конструкцією для зменшення відчутної віддачі та підйому дульного зрізу. \n
 		%c[d_purple] - %c[ui_gray_2] .45 ACP suppressor\n
 		%c[d_purple] - %c[ui_gray_2] NATO scopes and reflex sights\n</text>
-	</string>
-
+    </string>
 </string_table>

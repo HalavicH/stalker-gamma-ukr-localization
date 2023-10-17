@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Repair Kits
--->
 <string_table>
     <string id="st_sharpening_stones">
         <text>Набір для заточки «3: 1»</text>

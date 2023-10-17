@@ -1,241 +1,224 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="ah_ecolog">
         <text>Дослідники</text>
     </string>
-
     <string id="Quest1_desc">
         <text>Опис квесту</text>
     </string>
     <string id="Quest1_title">
         <text>Перша назва квесту</text>
     </string>
-    
     <string id="ah_redirect_to_kovalev_quest_title">
         <text>Дослідники: Знайти професора Ковальова на Великих болотах</text>
     </string>
     <string id="ah_redirect_to_kovalev_quest_desc">
         <text>Я отримав інформацію, що професор Ковальов на Великих Болотах потребує допомоги у своїх дослідженнях. Я повинен шукати його в Старому костелі на півдні боліт.</text>
     </string>
-
     <string id="ah_redirect_to_markov_quest_title">
         <text>Дослідники: Знайти професора Маркова в Янтарі</text>
     </string>
     <string id="ah_redirect_to_markov_quest_desc">
         <text>Далі я повинен знайти професора Маркова. Він має бути десь поблизу бункера вчених у Янові.</text>
     </string>
-
     <string id="ah_redirect_to_pirogov_quest_title">
         <text>Науковці: Знайти доктора Пирогова</text>
     </string>
     <string id="ah_redirect_to_pirogov_quest_desc">
         <text>Доктору Пріогову доручили дослідити Темну Долину. Треба перевірити, чи він ще живий.</text>
     </string>
-
     <string id="ah_redirect_to_chernov_quest_title">
         <text>Дослідники: Знайти професора Чернова</text>
     </string>
     <string id="ah_redirect_to_chernov_quest_desc">
         <text> Тепер мені потрібно знайти старшого професора Чернова, якого востаннє бачили в покинутій халупі на півночі армійських складів.</text>
     </string>
-
     <string id="ah_redirect_to_juk_quest_title">
         <text>Дослідники: Знайти професора Жука</text>
     </string>
     <string id="ah_redirect_to_juk_quest_desc">
         <text>Щодо подальшої роботи мені треба поговорити з професором Жуком. Я можу знайти його десь біля залізничного вокзалу Янова в Юпітері. </text>
-    </string>   
-
+    </string>
     <string id="ah_redirect_to_vorobushkin_quest_title">
         <text>Дослідники: Знайти професора Воробушкіна</text>
     </string>
     <string id="ah_redirect_to_vorobushkin_quest_desc">
         <text>Професор Воробушкін перебуває на станції "Рейнджер". Мені потрібно знайти його, щоб продовжити допомагати дослідницькій групі. </text>
-    </string>   
-
+    </string>
     <string id="ah_redirect_to_skabinsky_quest_title">
         <text>Науковці: Знайти професора Скабінського</text>
     </string>
     <string id="ah_redirect_to_skabinsky_quest_desc">
         <text>Професор Воробушкін сказав мені, що керівник операції, професор Скабінський, вже пішов далі і зараз знаходиться десь у північній частині ЧАЕС. Я не знаю, як йому вдалося туди потрапити, але мені потрібно його швидко знайти.</text>
-    </string>       
-
+    </string>
     <string id="ah_fail_skabinsky_quest_title">
         <text>Дослідники: Знайдіть професора Скабінського.</text>
     </string>
     <string id="ah_fail_skabinsky_quest_desc">
         <text>Розрахунки професора Воробушкіна все ще повні прогалин, хоча вони, здається, вказують на аномалію Попелу. Мені потрібно знайти професора Скабінського, який вже пішов вперед і чекає на мене там.</text>
-    </string>   
-    
+    </string>
     <string id="ah_kovalev_quest1_title">
         <text>Дослідники: Принесіть професору Ковальову три аномальні зразки</text>
     </string>
     <string id="ah_kovalev_quest1_desc">
         <text>Дослідницька група на болотах зараз шукає зразки з деяких аномальних полів. Професор Ковальов попросив мене перевірити три з них.</text>
-    </string>   
+    </string>
     <string id="ah_bol_o1_title">
         <text>Знайдіть зразок в аномалії Фермі.</text>
     </string>
     <string id="ah_bol_o1_desc">
         <text>Один зі зразків знаходиться в аномалії Фермі.</text>
-    </string>       
+    </string>
     <string id="ah_bol_o2_title">
         <text>Знайдіть зразок в аномалії Болотний яр.</text>
     </string>
     <string id="ah_bol_o2_desc">
         <text>Один із зразків знаходиться в аномалії Болотний яр.</text>
-    </string>       
+    </string>
     <string id="ah_bol_g1_title">
         <text>Знайдіть зразок в аномалії Bog Pounder</text>
     </string>
     <string id="ah_bol_g1_desc">
         <text>Один зі зразків знаходиться в аномалії Bog Pounder.</text>
-    </string>       
-    
+    </string>
     <string id="ah_bol_e1_title">
         <text>Знайдіть зразок в аномалії Грім</text>
     </string>
     <string id="ah_bol_e1_desc">
         <text>Один зі зразків знаходиться в аномалії "Грім".</text>
-    </string>   
-
+    </string>
     <string id="ah_kovalev_quest2_title">
         <text>Дослідники: Принесіть професору Ковальову його ноутбук і три аномальні зразки</text>
     </string>
     <string id="ah_kovalev_quest2_desc">
         <text>Професор Ковальов проводив польові дослідження в Агропромі, але його команда потрапила в засідку під час роботи. Мені потрібно знайти ноутбук, який він залишив на місці нападу, і перевірити дані на ньому. Там має бути інформація про те, які аномалії я повинен просканувати для отримання зразків.</text>
-    </string>   
+    </string>
     <string id="ah_agr_pda_title">
         <text>Знайдіть ноутбук Ковальова біля аномалії "Нервовий руйнівник</text>
     </string>
     <string id="ah_agr_pda_desc">
         <text>Ноутбук має бути на другому поверсі будівлі, в якій напали на вчених. Мені потрібно буде пройти крізь електричні аномалії та пси-поле, щоб дістати його.</text>
-    </string>   
+    </string>
     <string id="ah_agr_none_title">
         <text>Знайдіть зразок. Місцезнаходження невідоме.</text>
     </string>
     <string id="ah_agr_none_desc">
         <text>Точна локація на ноутбуці Ковалева.</text>
-    </string>       
+    </string>
     <string id="ah_agr_g1_title">
         <text>Знайдіть зразок в аномалії "Скелясті пазурі</text>
     </string>
     <string id="ah_agr_g1_desc">
         <text>Дивна гравітаційна аномалія. Схоже, на неї можна піднятися.</text>
-    </string>       
+    </string>
     <string id="ah_agr_g2_title">
         <text>Знайдіть зразок в аномалії Бушвакера</text>
     </string>
     <string id="ah_agr_g2_desc">
         <text>Один зі зразків знаходиться в аномалії Бушвакер.</text>
-    </string>   
+    </string>
     <string id="ah_agr_h1_title">
         <text>Знайдіть зразок в аномалії "Собача м'ясорубка"</text>
     </string>
     <string id="ah_agr_h1_desc">
         <text>Один зі зразків знаходиться в аномалії "Собача м'ясорубка"</text>
-    </string>   
-
+    </string>
     <string id="ah_markov_quest1_title">
         <text>Дослідники: Принесіть професору Маркову три аномальні зразки</text>
     </string>
     <string id="ah_markov_quest1_desc">
         <text>Професор Марков з Янтаря попросив мене просканувати три аномалії моїм сканером і стежити за будь-якими незвичайними артефактами, які я зможу знайти.</text>
-    </string>   
+    </string>
     <string id="ah_yan_o1_title">
         <text>Знайдіть зразок в аномалії Багаття</text>
     </string>
     <string id="ah_yan_o1_desc">
         <text>Один зі зразків знаходиться в аномалії Багаття.</text>
-    </string>       
+    </string>
     <string id="ah_yan_h1_title">
         <text>Знайдіть зразок в аномалії Чорні води</text>
     </string>
     <string id="ah_yan_h1_desc">
         <text>Один із зразків знаходиться в аномалії Блеквотер.</text>
-    </string>       
+    </string>
     <string id="ah_yan_h2_title">
         <text>Знайдіть зразок в аномалії Бетонний звалище</text>
     </string>
     <string id="ah_yan_h2_desc">
         <text>Один зі зразків знаходиться в аномалії "Бетонне звалище". Щоб дістати його, мені знадобиться певний захист від пси-поля в цій місцевості.</text>
-    </string>       
-    
+    </string>
     <string id="ah_markov_quest2_title">
         <text>Дослідники: Принесіть Маркову три артефакти з Дикої Території.</text>
     </string>
     <string id="ah_markov_quest2_desc">
         <text>Професор Марков доручив мені розширити поточну зону пошуку. Я маю просканувати три різні локації на Дикій Території.</text>
-    </string>   
+    </string>
     <string id="ah_dt_o1_title">
         <text>Знайдіть зразок у Радіоактивній майстерні</text>
     </string>
     <string id="ah_dt_o1_desc">
         <text>Ця аномалія не позначена на карті. Я можу знайти майстерню безпосередньо перед контрольно-пропускним пунктом перед Ростоком, і вона дуже радіоактивна.</text>
-    </string>       
+    </string>
     <string id="ah_dt_e1_title">
         <text>Знайдіть зразок в аномалії Хрусткий потяг</text>
     </string>
     <string id="ah_dt_e1_desc">
         <text> Ця аномалія електрична, тож я повинен не забути взяти з собою достатньо болтів.</text>
-    </string>       
+    </string>
     <string id="ah_dt_e2_title">
         <text>Знайдіть зразок в аномалії Іскристий глухий кут</text>
     </string>
     <string id="ah_dt_e2_desc">
         <text>Ця аномалія знаходиться в підземному тунелі. Я чув, що через нього є безпечний шлях...</text>
-    </string>   
-
+    </string>
     <string id="ah_markov_quest3_title">
         <text>Дослідники: Принесіть професору Маркову три артефакти з області навколо лабораторії X16</text>
     </string>
     <string id="ah_markov_quest3_desc">
         <text>Я маю знайти три артефакти поблизу старої лабораторії Х16. Через Диво-машину це буде неможливо без належного психозахисту. Професор Сахаров повинен допомогти мені з цим.</text>
-    </string>   
+    </string>
     <string id="ah_yan_e1_title">
         <text>Знайдіть зразок в аномалії Тесли.</text>
     </string>
     <string id="ah_yan_e1_desc">
         <text>Це електроаномалія, тому я повинен принести достатньо болтів.</text>
-    </string>       
+    </string>
     <string id="ah_yan_e2_title">
         <text>Знайдіть зразок в аномалії Едісона</text>
     </string>
     <string id="ah_yan_e2_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
+    </string>
     <string id="ah_yan_g1_title">
         <text>Знайдіть зразок десь на заводі</text>
     </string>
     <string id="ah_yan_g1_desc">
         <text>Жоден з дослідників не заходив так далеко вглиб сполуки, проте сканування вказує на сильну аномальну активність. Я повинен бути обережним.</text>
-    </string>   
-
+    </string>
     <string id="ah_pirogov_quest1_title">
         <text>Дослідники: Принесіть кандидату Пирогову три аномальні зразки з Темної долини</text>
     </string>
     <string id="ah_pirogov_quest1_desc">
         <text>Професор Пирогов попросив мене перевірити для нього три різні аномалії в Темній Долині. Я маю бути обережним, адже там часто бродять мутанти та бандити.</text>
-    </string>   
+    </string>
     <string id="ah_td_o1_title">
         <text>Знайдіть зразок у тунелі з кометною аномалією</text>
     </string>
     <string id="ah_td_o1_desc">
         <text>Цікава аномалія, яку мало хто досліджував. Вона розташована в кінці довгого тунелю з аномалією Комета всередині. Вхід знаходиться недалеко від бази бандитів на півночі.</text>
-    </string>       
+    </string>
     <string id="ah_td_o2_title">
         <text>Знайдіть артефакт в аномалії Сяюча яма</text>
     </string>
     <string id="ah_td_o2_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
+    </string>
     <string id="ah_td_e1_title">
         <text>Знайдіть артефакт в аномалії Бульбашкова ванна</text>
     </string>
     <string id="ah_td_e1_desc">
         <text>Аномалія Бульбашкова ванна знаходиться на території бандитської бази, тому, якщо я не хочу перебити там усіх бандитів, мені варто спробувати пробратися всередину.</text>
-    </string>       
-    
+    </string>
     <string id="ah_pirogov_quest2_title">
         <text>Дослідники: Принесіть кандидату Пирогову три зразки з Вантажного кладовища</text>
     </string>
@@ -247,142 +230,136 @@
     </string>
     <string id="ah_kt_g1_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
+    </string>
     <string id="ah_kt_o1_title">
         <text>Знайдіть зразок в аномалії Вугільна Оселя</text>
     </string>
     <string id="ah_kt_o1_desc">
         <text>Один зі зразків знаходиться в аномалії Вугільна Обитель.</text>
-    </string>       
+    </string>
     <string id="ah_kt_h1_title">
         <text>Знайдіть зразок в аномалії Thorn-Bath</text>
     </string>
     <string id="ah_kt_h1_desc">
         <text>Один зі зразків знаходиться в аномалії Thorn-Bath.</text>
-    </string>   
-
+    </string>
     <string id="ah_pirogov_quest3_title">
         <text>Дослідники: Принесіть кандидату Пирогову КПК асистента і два аномальні зразки</text>
     </string>
     <string id="ah_pirogov_quest3_desc">
         <text>Асистент Пирогова, який вивчав аномалії в Смітнику до мене, зник. Однак на його КПК були дані сканування всіх аномалій у цьому районі. Мені потрібно знайти асистента, відновити дані і отримати зразки з аномалій, про які йде мова.</text>
-    </string>   
+    </string>
     <string id="ah_sv_pda_title">
         <text>Find the Pirogov's missing assistant</text>
     </string>
     <string id="ah_sv_pda_desc">
         <text>Швидше за все, сталкер потрапив у засідку бандитів. Мені сказали, що останній раз він виходив на зв'язок з "Блошиного ринку", тож пошуки слід починати звідти.</text>
-    </string>       
+    </string>
     <string id="ah_sv_g1_title">
         <text>Знайдіть зразок в аномалії Відьминого желе.</text>
     </string>
     <string id="ah_sv_g1_desc">
         <text>Досить велика і токсична аномалія. Це буде складно.</text>
-    </string>       
+    </string>
     <string id="ah_sv_h1_title">
         <text>Знайдіть зразок в аномалії Синапсу.</text>
     </string>
     <string id="ah_sv_h1_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
+    </string>
     <string id="ah_sv_none_title">
         <text>Отримати дані сканування з КПК зниклого сталкера</text>
     </string>
     <string id="ah_sv_none_desc">
         <text>Дані сканування, необхідні для пошуку аномалій, знаходяться на КПК зниклого сталкера. Я повинен знайти його.</text>
-    </string>       
-    
+    </string>
     <string id="ah_chernov_quest1_title">
         <text>Дослідники: Принесіть професору Чернову три артефакти з армійських складів</text>
     </string>
     <string id="ah_chernov_quest1_desc">
         <text>Мені потрібно знайти три різні артефакти і принести їх професору Чернову. Це буде справжнім випробуванням майстерності, адже армійські склади - небезпечна територія.</text>
-    </string>   
+    </string>
     <string id="ah_mil_h1_title">
         <text>Знайдіть зразок в аномалії Утилізатора трупів</text>
     </string>
     <string id="ah_mil_h1_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
+    </string>
     <string id="ah_mil_g1_title">
         <text>Знайдіть зразок в аномалії Машера</text>
     </string>
     <string id="ah_mil_g1_desc">
         <text>Один із зразків знаходиться в аномалії Машер.</text>
-    </string>       
+    </string>
     <string id="ah_mil_o1_title">
         <text>Знайдіть зразок у південній аномалії Пекельних стін.</text>
     </string>
     <string id="ah_mil_o1_desc">
         <text>Жорстока аномалія, що випромінює сильне тепло і пронизана мінами-горелками. Я повинен вибратися звідти якомога швидше, як тільки отримаю зразок..</text>
-    </string>   
-    
+    </string>
     <string id="ah_chernov_quest3_title">
         <text>Дослідники: Принесіть КПК сталкера Чернова та два зразки з Рудого лісу</text>
     </string>
     <string id="ah_chernov_quest3_desc">
         <text>Професор Чернов доручив одному сталкеру скласти карту аномалій у Рудому лісі. Він закінчив мапу, але був змушений втекти з району, перш ніж зміг повернути дані. Я маю знайти його КПК, який залишився десь у тунелях біля мосту на Лиманськ.</text>
-    </string>   
+    </string>
     <string id="ah_les_pda_title">
         <text>Знайдіть КПК сталкера в тунелях на захід.</text>
     </string>
     <string id="ah_les_pda_desc">
         <text>Тікаючи від фанатиків Моноліту, сталкер залишив свій КПК з даними сканування десь у західних тунелях. Мені потрібно знайти його, перш ніж я дізнаюся, які аномалії досліджувати.</text>
-    </string>       
+    </string>
     <string id="ah_les_o1_title">
         <text>Знайдіть зразок в аномалії Симбіонт</text>
     </string>
     <string id="ah_les_o1_desc">
         <text>Проаналізувавши дані сканування, можна зробити висновок, що це одна з ділянок, які становлять інтерес.</text>
-    </string>       
+    </string>
     <string id="ah_les_e1_title">
         <text>Знайдіть зразок у підземній електроаномалії</text>
     </string>
     <string id="ah_les_e1_desc">
         <text>Проаналізувавши дані, ми дійшли висновку, що в північно-західних шахтних стволах є прихована підземна аномалія. Я повинен дослідити.</text>
-    </string>   
+    </string>
     <string id="ah_les_none_title">
         <text>Знайдіть артефакт десь у Рудому лісі</text>
     </string>
     <string id="ah_les_none_desc">
         <text>Я маю знайти в Рудому лісі два різних артефакти. Однак, щоб точно визначити їх місцезнаходження, мені потрібно знайти КПК з даними сканування, який переді мною загубив десь у західних тунелях сталкер.</text>
-    </string>       
-    
+    </string>
     <string id="ah_chernov_quest4_title">
         <text>Дослідники: Знайти штучний артефакт</text>
     </string>
     <string id="ah_chernov_quest4_desc">
         <text>За словами Чернова, йому і його колезі вдалося створити артефакт штучно, ще до катастрофи. Я повинен поїхати до будинку його колишнього колеги і подивитися, чи залишився артефакт там. Біля його будинку зараз аномальне поле, що, мабуть, не випадково. Треба бути обережним.</text>
-    </string>   
-    
+    </string>
     <string id="ah_chernov_quest5_title">
         <text>Дослідники: Відвідайте лабораторію X-19</text>
     </string>
     <string id="ah_chernov_quest5_desc">
         <text>Лабораторія X-19, також відома як "Бункер", очевидно, займалася створенням штучних артефактів. Зараз лабораторія зруйнована, але, можливо, мені вдасться знайти якісь документи, що залишилися. Можливо, вони підкажуть нам, де знайти ці "ферми артефактів".  </text>
-    </string>   
+    </string>
     <string id="ah_rad_pda_title">
         <text>Обшукайте вхід до Х-19.</text>
     </string>
     <string id="ah_rad_pda_desc">
         <text>Треба обшукати місцевість на предмет чогось, що може вказати мені на ці "ліжка з артефактами". Здається, я бачив пачку документів десь біля входу.</text>
-    </string>       
+    </string>
     <string id="ah_rad_r_title">
         <text>Find three artifical samples in the Deadwood, south of the X19 complex.</text>
     </string>
     <string id="ah_rad_r_desc">
         <text>Згідно з документами, які я знайшов, артефакти були вирощені в лісі на південь від комплексу. Це буде широкий пошук, але мені потрібно просканувати весь ліс на наявність цих зразків.</text>
-    </string>       
-
+    </string>
     <string id="ah_chernov_quest6_title">
         <text>Дослідники: Знайти два артефакти в Мертвому місті</text>
     </string>
     <string id="ah_chernov_quest6_desc">
         <text>Професор Чернов звернувся до мене з проханням допомогти скласти карту аномалій Зони, провівши сканування в недослідженому Мертвому місті. Він дав мені приблизні координати двох аномалій, які його цікавлять.</text>
-    </string>   
+    </string>
     <string id="ah_mg_o1_title">
         <text>Зразок можна знайти в адміністративній будівлі.</text>
-    </string>       
+    </string>
     <string id="ah_mg_o1_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
     </string>
@@ -391,76 +368,73 @@
     </string>
     <string id="ah_mg_g1_desc">
         <text>Мій сканер повинен допомогти мені знайти його.</text>
-    </string>       
-
+    </string>
     <string id="ah_juk_quest1_title">
         <text>Дослідники: Знайдено три аномальні зразки на Юпітері</text>
     </string>
     <string id="ah_juk_quest1_desc">
         <text>Професор Жук намагається зробити спектрограму зразків з різних видів аномалій на Юпітері. Він доручив мені знайти зразки з трьох різних аномалій.</text>
-    </string>   
+    </string>
     <string id="ah_up_g1_title">
         <text>Знайдіть зразок у бітумній аномалії</text>
     </string>
     <string id="ah_up_g1_desc">
         <text>Ще одна теплова аномалія, яка потребує належного захисту, щоб пережити її.</text>
-    </string>       
+    </string>
     <string id="ah_up_h1_title">
         <text>Знайдіть зразок в аномалії Бетонна ванна</text>
     </string>
     <string id="ah_up_h1_desc">
         <text>Я чула, що сталкери стрибають на цементні стовпи, щоб уникнути кислотних калюж внизу.</text>
-    </string>       
+    </string>
     <string id="ah_up_h2_title">
         <text>Знайдіть зразок в Аномальному гаю</text>
     </string>
     <string id="ah_up_h2_desc">
         <text>Ця токсична аномалія вимагатиме певного адекватного захисту.</text>
     </string>
-
     <string id="ah_juk_quest2_title">
         <text>Дослідники: Знайти решту зразків для професора Жука</text>
     </string>
     <string id="ah_juk_quest2_desc">
         <text>Для другої партії зразків мені потрібно просканувати решту аномалій у цьому районі. Професор Жук дав мені їхні точні координати.</text>
-    </string>   
+    </string>
     <string id="ah_up_e2_title">
         <text>Знайдіть артефакт в аномальному поїзді</text>
     </string>
     <string id="ah_up_e2_desc">
         <text>Ця немаркована електроаномалія, схоже, застрягла у вагоні поїзда, що стоїть неподалік від бункера вчених. Я пам'ятаю, що ці вагони мали аварійний люк на даху, яким я міг би скористатися, щоб потрапити всередину.</text>
-    </string>       
+    </string>
     <string id="ah_up_e1_title">
         <text>Знайдіть артефакт у Північно-Західному тунелі</text>
     </string>
     <string id="ah_up_e1_desc">
         <text>Цей тунель малодосліджений, тому він особливо цікавий. Проте, до мене дійшли чутки, що цими тунелями полюбляють блукати контролери... </text>
-    </string>       
+    </string>
     <string id="ah_up_g2_title">
         <text>Знайти артефакт у комплексі "Волхов"</text>
     </string>
     <string id="ah_up_g2_desc">
         <text>Старий зенітно-ракетний комплекс покинутий через велику кількість підземних аномалій. Це також гаряча точка для мутантів, тому я повинен бути напоготові.</text>
     </string>
-
     <string id="ah_juk_quest3_title">
         <text>Дослідники: Знайдено чотири аномальні зразки у Прип'яті та околицях</text>
     </string>
     <string id="ah_juk_quest3_desc">
         <text>Місто Прип'ять практично недоступне для вчених через наявність моноліту. Однак для завершення досліджень необхідні зразки з аномалій у місті. Я повинен їх знайти. </text>
-    </string>   
+    </string>
     <string id="ah_p_h1_title">
         <text>Знайдіть зразок в аномалії Лози</text>
     </string>
     <string id="ah_p_h1_desc">
         <text>"Лоза" - найцікавіша аномалія в околицях Прип'яті. Я маю піднятися на неї і пошукати зразок на вершині аномалії.</text>
-    </string>       
+    </string>
     <string id="ah_p_g1_title">
         <text>Знайдіть зразок у Школі</text>
     </string>
     <string id="ah_p_g1_desc">
         <text>Посеред старої школи є гігантська гравітаційна аномалія. Вона сягає кількох поверхів, тож, можливо, мені доведеться перевірити всередині будівлі.</text>
-    </string>       
+    </string>
     <string id="ah_p_g2_title">
         <text>Знайдіть зразок в аномалії Авангард.</text>
     </string>
@@ -472,26 +446,25 @@
     </string>
     <string id="ah_p_e1_desc">
         <text>У південній частині Прип'яті є ще одна немаркована аномалія. Треба її теж просканувати.</text>
-    </string>   
-    
+    </string>
     <string id="ah_vorobushkin_quest1_title">
         <text>Дослідники: Знайти модуль пам'яті Воробушкіна і три аномальні зразки</text>
     </string>
     <string id="ah_vorobushkin_quest1_desc">
         <text>Професору Воробушкіну вдалося відремонтувати і використати частину старого обладнання старого антенного комплексу "Круг". Він залишив там свій модуль пам'яті, який містить місця розташування аномалій, необхідних мені для пошуку зразків.</text>
-    </string>   
+    </string>
     <string id="ah_zat_pda_title">
         <text>Знайдіть модуль пам'яті ВНЗ "Коло"</text>
     </string>
     <string id="ah_zat_pda_desc">
         <text>Професор Воробушкін залишив модуль у підземній частині комплексу, коли йшов. Мені потрібно знайти його, якщо я хочу знати, які аномалії мені потрібно сканувати.</text>
-    </string>       
+    </string>
     <string id="ah_zat_h1_title">
         <text>Знайдіть зразок в аномалії Болото</text>
     </string>
     <string id="ah_zat_h1_desc">
         <text>Дивне і дуже велике поле гравітаційних і токсичних аномалій. Мені потрібно обережно орієнтуватися в ньому, якщо я хочу зберегти всі свої кінцівки.</text>
-    </string>       
+    </string>
     <string id="ah_zat_h2_title">
         <text>Знайдіть зразок в аномалії газировка</text>
     </string>
@@ -504,74 +477,66 @@
     <string id="ah_zat_none_desc">
         <text>Щоб дізнатися точне місце розташування аномалій, які потрібно дослідити, мені потрібно отримати дані сканування з модуля пам'яті Воробушкіна.</text>
     </string>
-    
     <string id="ah_vorobushkin_quest2_title">
         <text>Дослідники: Знайдіть для доцента Воробушкіна ще три артефакти на Затоні</text>
     </string>
     <string id="ah_vorobushkin_quest2_desc">
         <text>Щоб завершити спектрограму різних артефактів, професор Воробушкін попросив мене просканувати три аномалії, що залишилися в Затоні.</text>
-    </string>   
+    </string>
     <string id="ah_zat_o1_title">
         <text>Знайдіть зразок в аномалії Котел</text>
     </string>
     <string id="ah_zat_o1_desc">
         <text>Жахлива теплова аномалія, яка забрала життя відважного вченого. Мені знадобиться належний захист або швидкі ноги, щоб безпечно переміщатися по ній.</text>
-    </string>       
+    </string>
     <string id="ah_zat_g1_title">
         <text>Знайдіть зразок в аномалії Кіготь.</text>
     </string>
     <string id="ah_zat_g1_desc">
         <text>Ця гравітаційна аномалія, схоже, пов'язана з серією тунелів. Дані сканування дозволяють припустити, що зразок якимось чином був переміщений у тунелі. </text>
-    </string>       
+    </string>
     <string id="ah_zat_g2_title">
         <text>Знайдіть зразок на Преображенському мосту.</text>
     </string>
     <string id="ah_zat_g2_desc">
         <text>Цей напівзруйнований міст пронизаний гравітаційними аномаліями. Його можна перетнути з великою обережністю, однак мені слід взяти з собою достатньо болтів.</text>
     </string>
-
     <string id="ah_skabinsky_quest1_title">
         <text>Дослідники: Принесіть академіку Скабінському камінь, що говорить</text>
     </string>
     <string id="ah_skabinsky_quest1_desc">
         <text>Ось він. Професор Скабінці та його команда пройшли весь цей шлях заради цього артефакту. Він випромінює дивну силу. Я повинен поспішити і показати його йому, він чекає на мене в Затоні.</text>
-    </string>   
+    </string>
     <string id="ah_gen_f1_title">
         <text>Знайдіть артефакт в аномалії М'ясорубка</text>
     </string>
     <string id="ah_gen_f1_desc">
         <text>Мабуть, це місце можна назвати центром зони. Саме тут почалися всі збурення ноосфери. Сканування вказує на підземну активність, тож мені слід почати з пошуку шляху вниз. Я повинен бути обережним. </text>
     </string>
-
     <string id="cs_story_task0_name">
         <text>Останній світанок: поверніть сканер Спорі</text>
     </string>
     <string id="cs_story_task0_name1">
         <text>Останній світанок: дістати сканер з аномалії в південно-західному куті боліт</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_name">
         <text>Останній світанок: повернення до холоду</text>
     </string>
     <string id="cs_task0_ambush_renegade_story_name1">
         <text>Останній світанок: відбийте атаку ренегатів</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_name3">
         <text>Останній світанок: повернення до Холода</text>
     </string>
     <string id="cs_task0_ambush_renegade_story_name4">
         <text>Останній світанок: очистіть південно-східний хутір від ренегатів.</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_descr">
         <text>Допоможіть загону "Чистого неба" утримати насосну станцію.</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_descr2">
         <text>Допоможіть штурмовому загону "Чисте небо" захопити дорогу до кордону.</text>
     </string>
-
     <string id="cs_story_task0_descr">
         <text>Сканер розташований в Архіаномалії, на північний захід від бази "Чистого неба".</text>
     </string>
@@ -656,10 +621,7 @@
     <string id="cs_task6_storytask_descr">
         <text>Загін вигнанців Моноліту опинився в пастці на сході Прип'яті, біля гуртожитку. Серед них - один з уцілілих членів "Чистого неба", я маю врятувати їх, інакше моя місія була марною.</text>
     </string>
-
-
-
-<string id="cs_anom_pribor_name">
+    <string id="cs_anom_pribor_name">
         <text>Сканер аномальної активності</text>
     </string>
     <string id="cs_deshefrator_name">
@@ -713,8 +675,7 @@
     <string id="st_voen_scaner_desc">
         <text>Новітня і зручна модель для вимірювань, створена спеціально для військових сталкерів і наукових груп, на жаль, для торговців особливої цінності не представляє, тому що кожен сканер індивідуальний і починає працювати тільки після введення коду.</text>
     </string>
-
-<string id="prin_case_traders">
+    <string id="prin_case_traders">
         <text>Віднесіть кейс торговцю.</text>
     </string>
     <string id="tm_find_case_trader_1">
@@ -741,17 +702,13 @@
     <string id="prinesi_military_docs_done_0">
         <text>Я знайшов їх, ось тут.</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_descr3">
         <text>Допоможіть штурмовому загону "Чистого неба" захопити машинний двір у військових на півночі Болота.</text>
     </string>
-
     <string id="cs_task0_ambush_renegade_story_name6">
         <text>Останній світанок: знищіть військових і захопіть машинний двір.</text>
     </string>
-
-
-<string id="kuznecov_find_document_1">
+    <string id="kuznecov_find_document_1">
         <text>Знайдіть документи в підземеллі НДІ "Агропром</text>
     </string>
     <string id="kuznecov_find_document_1_descr">
@@ -796,7 +753,7 @@
     <string id="kuznec_stry_doc">
         <text>Повернімося до полковника Кузнєцова.</text>
     </string>
-
+    
 <!-- Caaaaei ?a?o yoe oaiaoeeai! -->
     <string id="assault_gen_name">
         <text>Операція "Помста моноліту": Дістатися до генераторів АЕС</text>
@@ -836,6 +793,5 @@
     </string>
     <string id="army_assault_3_descr">
         <text>Допоможіть командам Спецназу знищити третій блокпост.</text>
-    </string>           
-    
-    </string_table>
+    </string>
+</string_table>

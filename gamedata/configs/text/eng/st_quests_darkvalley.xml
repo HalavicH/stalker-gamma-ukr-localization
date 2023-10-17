@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Default Storyline Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -35,8 +28,10 @@
     <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_finish">
         <text>Ага, бувай.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Retrieve Lock Box Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Retrieve Lock Box Storyline Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_name">
         <text>Кейс для Султана</text>
     </string>
@@ -56,8 +51,10 @@
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_finish">
         <text>Опа-на, а ось і благодарочка тобі.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Sultan's Enemy Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Sultan's Enemy Storyline Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_name">
         <text>Карачун і Церетелі</text>
     </string>
@@ -77,8 +74,10 @@
             тямущі і так в темі, що не треба зв'язуватися з Султаном. Ось дача.
         </text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Kill the Rat Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Kill the Rat Storyline Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_name">
         <text>Маслиновий пиріг</text>
     </string>
@@ -96,8 +95,10 @@
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_finish">
         <text>Кошерно ти позбувся цього баклана! Ось і те, що я обіцяв підігнати.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Search Lab X-16 (Yantar) Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Search Lab X#16 (Yantar) Storyline Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_name">
         <text>Куди сонце не світить</text>
     </string>
@@ -116,8 +117,10 @@
     <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_finish">
         <text>Все добре. Тримай мугорич.</text>
     </string>
-    <!-- - -->
-    <!-- Olivius (Bandit Trader) Default Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Olivius (Bandit Trader) Default Storyline Task -->
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -132,8 +135,10 @@
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_finish">
         <text>Ага, крути педалі.</text>
     </string>
-    <!-- - -->
-    <!-- Olivius (Bandit Trader) Gun Smuggler Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Olivius (Bandit Trader) Gun Smuggler Storyline Task -->
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
         <text>Контрабанда</text>
     </string>
@@ -159,8 +164,10 @@
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_finish">
         <text>Ля, молоток! Ось твоя доля.</text>
     </string>
-    <!-- - -->
-    <!-- Olivius (Bandit Trader) Kill the Double-Crosser Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Olivius (Bandit Trader) Kill the Double#Crosser Storyline Task -->
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
         <text>Камуфльований Жмур</text>
     </string>
@@ -181,18 +188,22 @@
     <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
         <text>Ага, знач все в ажурі. Молодець, братуха.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- CHANGE FACTIONS TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Payoff Change Factions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# CHANGE FACTIONS TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_name">
         <text>Бригада</text>
     </string>
@@ -212,18 +223,22 @@
     <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_finish">
         <text>Ось і на мазі все. Можеш взяти ампул ящик і братві галявину організувати - показати гостинність.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.0
-      <!-	July 18, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Mob Hit Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.0
+      <!#	July 18, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Mob Hit Task -->
     <string id="zat_b7_bandit_boss_sultan_task_1_name">
         <text>Розбірки</text>
     </string>
@@ -243,8 +258,10 @@
     <string id="zat_b7_bandit_boss_sultan_task_1_finish">
         <text>Реально за братву впрягся. Ось підгін для тебе.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
     <string id="zat_b7_bandit_boss_sultan_task_2_name">
         <text>Важко в навчанні - легко в осередку ураження</text>
     </string>
@@ -261,8 +278,10 @@
     <string id="zat_b7_bandit_boss_sultan_task_2_finish">
         <text>Відмінна робота, базару нуль. Тримай бабоси.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
     <string id="zat_b7_bandit_boss_sultan_task_3_name">
         <text>Замочити "будулая"</text>
     </string>
@@ -302,8 +321,10 @@
     <string id="zat_b7_bandit_boss_sultan_task_4_fetch_finish">
         <text>Давай спихай сюди це все. А сам тримай свою винагороду.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
     <string id="zat_b7_bandit_boss_sultan_task_5_name">
         <text>Вечір в хату</text>
     </string>
@@ -323,8 +344,10 @@
     <string id="zat_b7_bandit_boss_sultan_task_5_finish">
         <text>Ну прям Рембо, на. Ось, лови смаколик.</text>
     </string>
-    <!-- - -->
-    <!-- Sultan (Bandit Honcho)\night Terror Task -->
+    
+<!-- # -->
+    
+<!-- Sultan (Bandit Honcho)\night Terror Task -->
     <string id="zat_b7_bandit_boss_sultan_task_6_name">
         <text>Чікі-брікі, чік-чірік</text>
     </string>
@@ -343,8 +366,10 @@
     <string id="zat_b7_bandit_boss_sultan_task_6_finish">
         <text>Мля буду, красунчик! Конкретний красунчик!</text>
     </string>
-    <!-- - -->
-    <!-- Olivius (Bandit Trader) Eliminate Mutants Task- -->
+    
+<!-- # -->
+    
+<!-- Olivius (Bandit Trader) Eliminate Mutants Task# -->
     <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
         <text>Шухер в Долині</text>
     </string>
@@ -404,7 +429,8 @@
     <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
         <text>Ніштяк, брателло. Лови мугорич.</text>
     </string>
-    <!-- ASSASSINATION FOR OLIVIUS TASK -->
+    
+<!-- ASSASSINATION FOR OLIVIUS TASK -->
     <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
         <text>Мокруха</text>
     </string>
@@ -425,7 +451,8 @@
     <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
         <text>Ай малаца, заплющив цього будулая! Без базара. Тримай грошва.</text>
     </string>
-    <!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
+    
+<!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
     <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
         <text>Синя ізострічка та чиясь мати, ч.1</text>
     </string>
@@ -494,18 +521,22 @@
     <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
         <text>Йопта! Та ти в натурі реальний пацан! Ну, з мене чарка!</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- COMPANION DIALOG TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Dark Valley Raiders Companion Dialog -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# COMPANION DIALOG TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Dark Valley Raiders Companion Dialog -->
     <string id="bandit_companion_task_1_start_dialog_1">
         <text>Ну, що стоїш? Давай веди, йопта, мене в натурі вже заманало тут сидіти. Тока ти, головне, води там, де
             сазанів побільше і на шухері стій, поки ми хабар збираємо. Частку свою після справи отримаєш.
@@ -522,8 +553,10 @@
     <string id="bandit_companion_task_1_actor_reply">
         <text>Ага, бувай.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- (Bandit Medic) -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- (Bandit Medic) -->
     <string id="bandit_main_base_medic_mlr_task_1_name">
         <text>У всі тяжкі</text>
     </string>

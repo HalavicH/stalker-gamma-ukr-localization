@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Weapons
--->
-
 <string_table>
-	
-	<string id="st_wpn_raptr">
-		<text>Дрбовик RAPTR</text>
-	</string>
-	<string id="st_wpn_raptr_descr">
-		<text>
+    <string id="st_wpn_raptr">
+        <text>Дрбовик RAPTR</text>
+    </string>
+    <string id="st_wpn_raptr_descr">
+        <text>
 		RAPTR - це автоматична рушниця з магазинним живленням, створена в Зоні і пристосована до специфічних потреб цієї небезпечної частини світу.. Сталкери часто називають RAPTR "Вбивцею кровососів". Дійсно, висока скорострільність, великий магазин і неперевершена ергономіка роблять його ідеальною зброєю для вбивства швидкорухомих і невидимих цілей, якими є кровососи. В останні кілька років RAPTR вважався в основному модною зброєю, але популярність серед сталкерів почала зростати під час нещодавнього розквіту гнізд кровососів. Зараз він вважається одним з найкращих гвинтівок 12х70 в Зоні.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] Leupold M40, Eotech XPS3, Aimpoint CompM4s, Aimpoint Pro, Firefield MG Kemper XL\n 
 		%c[d_purple] • %c[ui_gray_2] Hexagon 12K silencer\n \n 
 		</text>
-	</string>
-	<string id="mag_raptr">
-		<text>Барабанний магазин для дробовика RAPTR</text>
-	</string>
-	<string id="mag_raptr_descr">
-		<text>Великий магазин, що вміщує 20 набоїв 12 калібру</text>
-	</string>
-	
+    </string>
+    <string id="mag_raptr">
+        <text>Барабанний магазин для дробовика RAPTR</text>
+    </string>
+    <string id="mag_raptr_descr">
+        <text>Великий магазин, що вміщує 20 набоїв 12 калібру</text>
+    </string>
 </string_table>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Sergeant Spooner (Military Trader) -->
+    
+<!-- Sergeant Spooner (Military Trader) -->
     <string id="guid_agr_mlr_military_0">
         <text>Слава Україні! Слухай, а ти з вилітами нічого «накумекать» не можеш? Ну, коротше кажучи, мені терміново
             до одного місця дістатися потрібно, раптом по шляху буде або поруч.
@@ -38,7 +39,8 @@
     <string id="find_blackbox_mlr_reward_army_1">
         <text>Нумо, нумо-же, давай його сюди.</text>
     </string>
-    <!-- Military - Medic -->
+    
+<!-- Military # Medic -->
     <string id="rogovets_about_himself_1_6_army_mlr_0">
         <text>Розкажи про себе.</text>
     </string>
@@ -78,7 +80,8 @@
     <string id="rogovets_hello_1_6_army_mlr_0">
         <text>А? А це ти.</text>
     </string>
-    <!-- Commander, barman in Agroprom -->
+    
+<!-- Commander, barman in Agroprom -->
     <string id="barmen_about_himself_1_6_army_mlr_0">
         <text>Розкажи про себе.</text>
     </string>

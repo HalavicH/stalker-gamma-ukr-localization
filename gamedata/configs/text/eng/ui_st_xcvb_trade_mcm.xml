@@ -1,52 +1,38 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!-- 
-	MCM
--->
 <string_table>
-
-
-	<string id="ui_mcm_xcvb_trade_title">
-		<text>Динамічні знижки</text>
-	</string>
-	<string id="ui_mcm_menu_xcvb_trade">
-		<text>Динамічні знижки</text>
-	</string>
-
-
-	<!-- Main -->
-	<string id="ui_mcm_xcvb_trade_min_event_time">
-		<text>Мін. тривалість івенту (дні)</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_max_event_time">
-		<text>Макс. тривалість івенту (дні)</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_min_event_disc">
-		<text>Мін. знижка івенту (%)</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_max_event_disc">
-		<text>Макс. знижка івенту (%)</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_max_disc_amount">
-		<text>Макс. кількість знижок івенту</text>
-	</string>
-	<string id="ui_mcm_xcvb_trade_max_disc_amount_desc">
-		<text>Максимальна кількість груп, які можуть отримати динамічну знижку під час івенту</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_msg_threshold">
-		<text>Поріг повідомлення івенту (%)</text>
-	</string>
-	<string id="ui_mcm_xcvb_trade_msg_threshold_desc">
-		<text>Ви будете сповіщені про нову знижку тільки в тому випадку, якщо вона буде вищою за цей поріг (або нижчою за від'ємний поріг).</text>
-	</string>
-
-	<string id="ui_mcm_xcvb_trade_dbgx">
-		<text>дебаг</text>
-	</string>
-
+    <string id="ui_mcm_xcvb_trade_title">
+        <text>Динамічні знижки</text>
+    </string>
+    <string id="ui_mcm_menu_xcvb_trade">
+        <text>Динамічні знижки</text>
+    </string>
+    
+<!-- Main -->
+    <string id="ui_mcm_xcvb_trade_min_event_time">
+        <text>Мін. тривалість івенту (дні)</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_max_event_time">
+        <text>Макс. тривалість івенту (дні)</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_min_event_disc">
+        <text>Мін. знижка івенту (%)</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_max_event_disc">
+        <text>Макс. знижка івенту (%)</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_max_disc_amount">
+        <text>Макс. кількість знижок івенту</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_max_disc_amount_desc">
+        <text>Максимальна кількість груп, які можуть отримати динамічну знижку під час івенту</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_msg_threshold">
+        <text>Поріг повідомлення івенту (%)</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_msg_threshold_desc">
+        <text>Ви будете сповіщені про нову знижку тільки в тому випадку, якщо вона буде вищою за цей поріг (або нижчою за від'ємний поріг).</text>
+    </string>
+    <string id="ui_mcm_xcvb_trade_dbgx">
+        <text>дебаг</text>
+    </string>
 </string_table>

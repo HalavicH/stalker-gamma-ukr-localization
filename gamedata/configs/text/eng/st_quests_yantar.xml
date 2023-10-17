@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON YANTAR MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
 <string_table>
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- STORYLINE TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Sakharov (Ecologist) Default Storyline Task -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# STORYLINE TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist) Default Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_default_task_name">
         <text>Отримати наступне завдання</text>
     </string>
@@ -34,8 +28,10 @@
     <string id="drx_sl_yan_stalker_sakharov_default_task_finish">
         <text>Всього Вам доброго!</text>
     </string>
-    <!-- - -->
-    <!-- Sakharov (Ecologist) Research Documents Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_1_name">
         <text>Польові звіти</text>
     </string>
@@ -65,8 +61,10 @@
             ласка, прийміть це в знак нашої вдячності, а також компенсації за надані незручності.
         </text>
     </string>
-    <!-- - -->
-    <!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_2_name">
         <text>Неприродня наука</text>
     </string>
@@ -114,8 +112,10 @@
             дякує.
         </text>
     </string>
-    <!-- - -->
-    <!-- Sakharov (Ecologist) Search Lab X-18 (Dark Valley) Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist) Search Lab X#18 (Dark Valley) Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_3_name">
         <text>Аморальна Чорнобильська Зона</text>
     </string>
@@ -147,8 +147,10 @@
             обіцяв, Ваше винагороду.
         </text>
     </string>
-    <!-- - -->
-    <!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_4_name">
         <text>Жага знань: встановити сканер поруч з аномалією «симбіонтів»</text>
     </string>
@@ -199,18 +201,22 @@
             негайно почнемо аналізувати дані!
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- CHANGE FACTIONS TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# CHANGE FACTIONS TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
     <string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
         <text>Наука і бюрократія</text>
     </string>
@@ -233,18 +239,22 @@
     <string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
         <text>Чудово! Просто чудово! Будь ласка, колега, відчувайте себе тут як вдома.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
-      <!-
-      <!- DYNAMIC TASK TEXT  STRINGS
-      <!-
-      <!-	Modified by DoctorX
-      <!-	for DoctorX Questlines 1.6
-      <!-	October 07, 2016
-      <!-
-      <!- - -->
-    <!-- - -->
-    <!-- Semenov (Ecog Honcho) Research Hunt Task -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!#
+      <!# DYNAMIC TASK TEXT  STRINGS
+      <!#
+      <!#	Modified by DoctorX
+      <!#	for DoctorX Questlines 1.6
+      <!#	October 07, 2016
+      <!#
+      <!# # -->
+    
+<!-- # -->
+    
+<!-- Semenov (Ecog Honcho) Research Hunt Task -->
     <string id="yan_ecolog_semenov_task_1_name">
         <text>Мисливці за знаннями</text>
     </string>
@@ -273,8 +283,10 @@
             Ваша нагорода... \n \nМилості просимо в нашу лабораторію. Нам завжди потрібні робочі руки і знають голови.
         </text>
     </string>
-    <!-- - -->
-    <!-- Sakharov (Ecog Trader) -->
+    
+<!-- # -->
+    
+<!-- Sakharov (Ecog Trader) -->
     <string id="yan_stalker_sakharov_task_1_name">
         <text>Науковий донор</text>
     </string>
@@ -303,7 +315,8 @@
             людина. Просто чудова робота. Я негайно продовжу свої експерименти.
         </text>
     </string>
-    <!-- Collect\new Artefact Task -->
+    
+<!-- Collect\new Artefact Task -->
     <string id="yan_stalker_sakharov_task_2_name">
         <text>Науковий прогрес</text>
     </string>
@@ -330,7 +343,8 @@
             допомогу.
         </text>
     </string>
-    <!-- Classified Information Task -->
+    
+<!-- Classified Information Task -->
     <string id="classified_information_task_name">
         <text>Втрачене знання</text>
     </string>
@@ -355,7 +369,8 @@
             подальша робота пройде без ексцесів.
         </text>
     </string>
-    <!-- yan_stalker_sakharov -->
+    
+<!-- yan_stalker_sakharov -->
     <string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
         <text>Калібрування пси-шолому</text>
     </string>
@@ -372,8 +387,10 @@
             потрібні передові пристрої пси-захисту.
         </text>
     </string>
-    <!-- - -->
-    <!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
+    
+<!-- # -->
+    
+<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
     <string id="mechanic_army_yan_mlr_task_1_name">
         <text>Спеціаліст по гравіцапі, ч.1</text>
     </string>

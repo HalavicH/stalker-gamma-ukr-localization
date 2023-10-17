@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- (Mercenary Guide) at the merc base -->
-    <!-- (Mercenary Trader) at the merc base -->
+    
+<!-- (Mercenary Guide) at the merc base -->
+    
+<!-- (Mercenary Trader) at the merc base -->
     <string id="meet_zaton_killer_guide_station_0">
         <text>Хай, чим займаєшся?</text>
     </string>
@@ -31,7 +33,8 @@
     <string id="travel_zaton_killer_guide_station_base_3">
         <text>Мабуть, я передумав.</text>
     </string>
-    <!-- Pilot (Loner Guide) -->
+    
+<!-- Pilot (Loner Guide) -->
     <string id="meet_guid_zat_0">
         <text>Привіт. Ким будеш?</text>
     </string>
@@ -140,7 +143,8 @@
             головне - не відволікатися.
         </text>
     </string>
-    <!-- Gonta -->
+    
+<!-- Gonta -->
     <string id="gonta_about_himself_0">
         <text>Розкажи про себе.</text>
     </string>
@@ -217,7 +221,8 @@
     <string id="gonta_about_mutants_1116">
         <text>Добре забудь.</text>
     </string>
-    <!-- Owl (Loner Trader) -->
+    
+<!-- Owl (Loner Trader) -->
     <string id="owl_story_0">
         <text>Розкажи про цю «тиху гавань».</text>
     </string>
@@ -265,7 +270,8 @@
     <string id="find_blackbox_mlr_reward_owl_1">
         <text>Звісно. Давай подивимося, що ти там знайшов.</text>
     </string>
-    <!-- Beard (Loner Barman) -->
+    
+<!-- Beard (Loner Barman) -->
     <string id="boroda_story_0">
         <text>Бородою, значить, кличуть?</text>
     </string>
@@ -300,7 +306,8 @@
             ви дуже вчасно. А ось вам обом - за праці і занепокоєння.
         </text>
     </string>
-    <!--\noah (Loner Honcho) Character Description -->
+    
+<!--\noah (Loner Honcho) Character Description -->
     <string id="noah_start_dialog_0">
         <text>Чоловіче, ти берега поплутав чи - палити куди попало ?! Ти ж мене ледь не поклав тут!</text>
     </string>
@@ -554,96 +561,96 @@
     <string id="zat_b3_stalker_tech_drink_3_0">
         <text>Є третя пляшка, якщо треба ще.</text>
     </string>
-
+    
 <!-- Nimble -->
-	<string id="player_inquiry">
-		<text>Я б хотів покращити зброю.</text>
-	</string>
-	<string id="nimble_response">
-		<text>Окей, яку саме щброю ти хочеш модифікувати? І не здумай давати мені роздовбані стволи. Стан кожної частини зброї повинен бути мінімум 90% справності, якщо ти хочеш покращити його гу мене.</text>
-	</string>
-	<string id="option_pistol_0">
-		<text>Пістолет.</text>
-	</string>
-	<string id="option_cqc_0">
-		<text>ПК.</text>
-	</string>
-	<string id="option_rifle_0">
-		<text>Гвинтівка.</text>
-	</string>
-	<string id="option_sniper_0">
-		<text>Снайперська гвинтівка.</text>
-	</string>
-	<string id="option_pistol_1">
-		<text>Який тип пістолета?</text>
-	</string>
-	<string id="option_cqc_1">
-		<text>Який тип ПК?</text>
-	</string>
-	<string id="option_rifle_1">
-		<text>Який тип гвинтівки?</text>
-	</string>
-	<string id="option_sniper_1">
-		<text>Який тип снайперської гвинтівки?</text>
-	</string>
-	<string id="option_pistol_2_1">
-		<text>Покращений 1911 що завдає більше шкоди [ 50 000 UAH ].</text>
-	</string>
-	<string id="option_pistol_2_2">
-		<text>Покращений 1911 зі збільшеною скорострільністю [ 70 000 UAH ].</text>
-	</string>
-	<string id="option_pistol_2_3">
-		<text>Desert Eagle [ 50 000 UAH ].</text>
-	</string>
-	<string id="option_pistol_2_4">
-		<text>USP [ 30 000 UAH ].</text>
-	</string>
-	<string id="option_cqc_2_1">
-		<text>Protecta [ 30 000 UAH ].</text>
-	</string>
-	<string id="option_cqc_2_2">
-		<text>SPAS-12 [ 30 000 UAH ].</text>
-	</string>
-	<string id="option_cqc_2_3">
-		<text>ТОЗ-34 [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_cqc_2_4">
-		<text>MP5 [ 40 000 UAH ].</text>
-	</string>
-	<string id="option_rifle_2_1">
-		<text>G36 [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_rifle_2_2">
-		<text>Гроза [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_rifle_2_3">
-		<text>ПКМ [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_sniper_2_1">
-		<text>DVL-10 Урбана [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_sniper_2_2">
-		<text>DVL-10 Диверсант [ 45 000 UAH ].</text>
-	</string>
-	<string id="option_sniper_2_3">
-		<text>СВУ [ 45 000 UAH ].</text>
-	</string>
-	<string id="convo_exit">
-		<text>Взагалі-то я передумав.</text>
-	</string>
-	<string id="convo_back">
-		<text>Які типи зброї можна ще раз покращити?</text>
-	</string>
-	<string id="nimble_rant_missing_gun_and_money">
-		<text>Якщо ти серйозно прийшов до мене зі зброєю якої в тебе немає, з грошима яких в тебе і не було, то я буду Гаагою, а ти Лукашенком.</text>
-	</string>
-	<string id="nimble_rant_missing_gun">
-		<text>Ти думаєш що я вирощую зброю на подвір'ї? Приходь коли матимеш зброю.</text>
-	</string>
-	<string id="nimble_rant_missing_money">
-		<text>Як, бляха, я можу дозволити собі запчастини, якщо ти не дав мені грошей? Повертайся з грошима тоді і поговоримо.</text>
-	</string>
-	<string id="player_acknowledge">
-		<text>Окей.</text>
-	</string>	
+    <string id="player_inquiry">
+        <text>Я б хотів покращити зброю.</text>
+    </string>
+    <string id="nimble_response">
+        <text>Окей, яку саме щброю ти хочеш модифікувати? І не здумай давати мені роздовбані стволи. Стан кожної частини зброї повинен бути мінімум 90% справності, якщо ти хочеш покращити його гу мене.</text>
+    </string>
+    <string id="option_pistol_0">
+        <text>Пістолет.</text>
+    </string>
+    <string id="option_cqc_0">
+        <text>ПК.</text>
+    </string>
+    <string id="option_rifle_0">
+        <text>Гвинтівка.</text>
+    </string>
+    <string id="option_sniper_0">
+        <text>Снайперська гвинтівка.</text>
+    </string>
+    <string id="option_pistol_1">
+        <text>Який тип пістолета?</text>
+    </string>
+    <string id="option_cqc_1">
+        <text>Який тип ПК?</text>
+    </string>
+    <string id="option_rifle_1">
+        <text>Який тип гвинтівки?</text>
+    </string>
+    <string id="option_sniper_1">
+        <text>Який тип снайперської гвинтівки?</text>
+    </string>
+    <string id="option_pistol_2_1">
+        <text>Покращений 1911 що завдає більше шкоди [ 50 000 UAH ].</text>
+    </string>
+    <string id="option_pistol_2_2">
+        <text>Покращений 1911 зі збільшеною скорострільністю [ 70 000 UAH ].</text>
+    </string>
+    <string id="option_pistol_2_3">
+        <text>Desert Eagle [ 50 000 UAH ].</text>
+    </string>
+    <string id="option_pistol_2_4">
+        <text>USP [ 30 000 UAH ].</text>
+    </string>
+    <string id="option_cqc_2_1">
+        <text>Protecta [ 30 000 UAH ].</text>
+    </string>
+    <string id="option_cqc_2_2">
+        <text>SPAS-12 [ 30 000 UAH ].</text>
+    </string>
+    <string id="option_cqc_2_3">
+        <text>ТОЗ-34 [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_cqc_2_4">
+        <text>MP5 [ 40 000 UAH ].</text>
+    </string>
+    <string id="option_rifle_2_1">
+        <text>G36 [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_rifle_2_2">
+        <text>Гроза [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_rifle_2_3">
+        <text>ПКМ [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_sniper_2_1">
+        <text>DVL-10 Урбана [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_sniper_2_2">
+        <text>DVL-10 Диверсант [ 45 000 UAH ].</text>
+    </string>
+    <string id="option_sniper_2_3">
+        <text>СВУ [ 45 000 UAH ].</text>
+    </string>
+    <string id="convo_exit">
+        <text>Взагалі-то я передумав.</text>
+    </string>
+    <string id="convo_back">
+        <text>Які типи зброї можна ще раз покращити?</text>
+    </string>
+    <string id="nimble_rant_missing_gun_and_money">
+        <text>Якщо ти серйозно прийшов до мене зі зброєю якої в тебе немає, з грошима яких в тебе і не було, то я буду Гаагою, а ти Лукашенком.</text>
+    </string>
+    <string id="nimble_rant_missing_gun">
+        <text>Ти думаєш що я вирощую зброю на подвір'ї? Приходь коли матимеш зброю.</text>
+    </string>
+    <string id="nimble_rant_missing_money">
+        <text>Як, бляха, я можу дозволити собі запчастини, якщо ти не дав мені грошей? Повертайся з грошима тоді і поговоримо.</text>
+    </string>
+    <string id="player_acknowledge">
+        <text>Окей.</text>
+    </string>
 </string_table>

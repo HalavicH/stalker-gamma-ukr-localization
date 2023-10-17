@@ -1,18 +1,11 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<!--===========================================================
-<
-< TEXT STRINGS FOR LOST TO THE ZONE: MORTAL SIN TASKS
-<	Anomaly 1.5 - Lost to the Zone: Mortal Sin
-<
-<	Made by: SarisKhan
-<	Last revised: 04 August 2019
-<
-<===========================================================-->
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- - -->
-    <!-- Mortal Sin Task 1 -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 1 -->
     <string id="lttz_ms_start_title">
         <text>Смертний гріх - Таємничий посланник</text>
     </string>
@@ -93,8 +86,10 @@
             братів. Разом ми пронесемо слово через весь світ.»
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 2 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 2 -->
     <string id="lttz_ms_red_forester_title">
         <text>Смертний гріх - Лісовик</text>
     </string>
@@ -103,8 +98,10 @@
             знайти його і поговорити з ним.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 3 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 3 -->
     <string id="lttz_ms_red_forest_attackers_title">
         <text>Смертний гріх - Привиди Рудого лісу</text>
     </string>
@@ -125,8 +122,10 @@
             величезну кількість зашифрованих даних, можливо, представляють велику цінність.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 4 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 4 -->
     <string id="lttz_ms_runaway_title">
         <text>Смертний гріх - Втікач</text>
     </string>
@@ -134,8 +133,10 @@
         <text>Грішники когось переслідували. Вони збиралися перевірити шахти на заході. Слід теж перевірити це місце.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 5 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 5 -->
     <string id="lttz_ms_needle_haystack_title">
         <text>Смертний гріх - Голка в стозі сіна</text>
     </string>
@@ -156,8 +157,10 @@
             розкиданими по всій Зоні.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 6 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 6 -->
     <string id="lttz_ms_report_title">
         <text>Смертний гріх - Звіт про ситуацію</text>
     </string>
@@ -191,8 +194,10 @@
             повертатися до своїх і доповісти про знахідки професору Сахарову.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 7 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 7 -->
     <string id="lttz_ms_ambush_title">
         <text>Смертний гріх - Засада</text>
     </string>
@@ -232,8 +237,10 @@
     <string id="lttz_ms_ambush_ecolog_done_descr">
         <text>Напад противника було відбито. Пора повертатися до Професора Сахарову.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task -->
     <string id="lttz_ms_dark_crusade_title">
         <text>Смертний гріх - Темний хрестовий похід</text>
     </string>
@@ -244,8 +251,10 @@
     <string id="lttz_ms_dark_crusade_descr2">
         <text>Чорнобог хоче дозволити Зоні поширитися на весь світ. Необхідно зупинити його за всяку ціну.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 8 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 8 -->
     <string id="lttz_ms_preemptive_strike_title">
         <text>Смертний гріх - Превентивний удар</text>
     </string>
@@ -266,8 +275,10 @@
     <string id="lttz_ms_protect_brain_scorcher_descr">
         <text>«Гріх» планує перезавантажити «Випалювач». Потрібно вирушати на Радар і знищити всі сили ворога.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 9 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 9 -->
     <string id="lttz_ms_to_war_title">
         <text>Смертний гріх - На війну</text>
     </string>
@@ -276,8 +287,10 @@
             удару у відповідь.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 10 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 10 -->
     <string id="lttz_ms_urban_warfare_title">
         <text>Смертний гріх - Війна в місті</text>
     </string>
@@ -301,16 +314,20 @@
             далі, за обрій погляду і природи людини. Я буду вістрям його списа.»
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 11 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 11 -->
     <string id="lttz_ms_war_prisoner_title">
         <text>Смертний гріх - В'язень війни</text>
     </string>
     <string id="lttz_ms_war_prisoner_descr">
         <text>Волоцюгу вдалося схопити мови «Гріха». Слід допитати його, щоб отримати необхідні відомості.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 12 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 12 -->
     <string id="lttz_ms_contact_lost_title">
         <text>Смертний гріх - Контакт втрачений</text>
     </string>
@@ -330,8 +347,10 @@
             він загинув.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 13 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 13 -->
     <string id="lttz_ms_destruction_site_title">
         <text>Смертний гріх - Руйнівна майданчик</text>
     </string>
@@ -340,8 +359,10 @@
             дорогу в північну частину міста і почати контрнаступ.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 14 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 14 -->
     <string id="lttz_ms_hospital_assault_title">
         <text>Смертний гріх - Госпіталізація</text>
     </string>
@@ -354,8 +375,10 @@
     <string id="lttz_ms_hospital_assault_descr3">
         <text>Голос якийсь нібито телепатичного сили закликав мене відвідати молитовне місце. Що ще за хрень...</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 15 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 15 -->
     <string id="lttz_ms_heart_zone_title">
         <text>Смертний гріх - Серце Зони</text>
     </string>
@@ -370,8 +393,10 @@
     <string id="lttz_ms_heart_zone_descr3">
         <text>Невідомий сталкер зв'язався зі мною через КПК. Хочеться вірити, що це не пастка.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 16 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 16 -->
     <string id="lttz_ms_decisive_blow_title">
         <text>Смертний гріх - Відволікаючий маневр</text>
     </string>
@@ -380,16 +405,20 @@
             на себе, щоб дати Стрілку достатньо часу на саботаж.
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 17 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 17 -->
     <string id="lttz_ms_confrontation_title">
         <text>Смертний гріх - Очна ставка</text>
     </string>
     <string id="lttz_ms_confrontation_descr">
         <text>«Гріх» зазнав катастрофічної поразки. Тепер прийшов час зустрітися віч-на-віч з Чорнобогом.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 18 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 18 -->
     <string id="lttz_ms_endgame_title">
         <text>Смертний гріх - Фінал</text>
     </string>
@@ -429,8 +458,10 @@
             добитися.»
         </text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 19 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 19 -->
     <string id="lttz_ms_choice_title">
         <text>Смертний гріх - Вибір</text>
     </string>
@@ -440,8 +471,10 @@
     <string id="lttz_ms_choice_descr2">
         <text>Звернутися до Виконавця бажань.</text>
     </string>
-    <!-- - -->
-    <!-- Mortal Sin Task 20 -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Task 20 -->
     <string id="lttz_ms_zone_hero_title">
         <text>Смертний гріх: - Герой Зони</text>
     </string>
@@ -474,9 +507,12 @@
             для подальшого мирного дослідження. Професор Сахаров буде радий почути ці новини.
         </text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    <!-- - -->
-    <!-- Mortal Sin Unquenchable Flame Tasks -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- # -->
+    
+<!-- Mortal Sin Unquenchable Flame Tasks -->
     <string id="unquenchable_flame_task_name">
         <text>Невгасаюче полум'я</text>
     </string>
@@ -514,5 +550,6 @@
     <string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
         <text>Відмінно спрацьовано. Думаю, ми перевиконали наш план перестрілок на пару років вперед.</text>
     </string>
-    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 </string_table>

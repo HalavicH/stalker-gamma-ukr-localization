@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <!-- Forester -->
+    
+<!-- Forester -->
     <string id="red_forester_hello_dialog_0">
         <text>Яка дорога привела тебе сюди?</text>
     </string>
@@ -133,7 +134,8 @@
             розмови, він серйозно мав намір примкнути до них.
         </text>
     </string>
-    <!-- (Monolith Trader) by the bridge to Limansk -->
+    
+<!-- (Monolith Trader) by the bridge to Limansk -->
     <string id="meet_guid_red_forest_mon_0">
         <text>Брат. Чи не маєш ти знаннями таємними, з застосуванням яких можна дістатися до наших основних баз?</text>
     </string>
@@ -166,7 +168,8 @@
     <string id="travel_guid_red_forest_mon_5">
         <text>Я передумав.</text>
     </string>
-    <!-- Sin trader -->
+    
+<!-- Sin trader -->
     <string id="red_greh_trader_start_dialog_0">
         <text>Підходь, брат. Я подбаю про те, щоб ти вірно служив Зоні.</text>
     </string>
@@ -181,7 +184,8 @@
             іронію цю настільки кумедною і повчальною, брат?
         </text>
     </string>
-    <!-- Sin mechanic -->
+    
+<!-- Sin mechanic -->
     <string id="red_greh_tech_start_dialog_0">
         <text>У Зоні є багато всього, що не здатна уліцезреть око, брат.</text>
     </string>

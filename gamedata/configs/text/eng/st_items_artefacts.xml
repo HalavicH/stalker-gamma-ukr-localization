@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Artefacts (active)
--->
 <string_table>
     <string id="st_af_itcher_name">
         <text>«Сверблячки»</text>
@@ -551,7 +547,8 @@
             Всього лише частинка колишньої могутності Виконавця бажань.
         </text>
     </string>
-    <!-- MLR -->
+    
+<!-- MLR -->
     <string id="st_af_misery_bread_name">
         <text>«Аномальний хліб»</text>
     </string>

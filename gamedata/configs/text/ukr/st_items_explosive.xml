@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Explosive items + Mines
--->
 <string_table>
     <string id="st_mine_name">
         <text>Уламкова протипіхотна міна</text>

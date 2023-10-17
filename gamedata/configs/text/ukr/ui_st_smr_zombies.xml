@@ -1,57 +1,59 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_smr_zombies">
-		<text>Зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombie_spawn">
-		<text>Увімкнути спавн зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombie_chance">
-		<text>Шанс спавну зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombie_chance_desc">
-		<text>Ймовірність (у відсотках), що сталкери/мутанти будуть замінені на зомбі.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_seek_enabled">
-		<text>Зомбі шукають гравця</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
-		<text>У режимі "Виживання" зомбі рухатимуться до гравця, якщо він перебуватиме в певному радіусі (навіть якщо їх не було спровоковано). Це відтворить таку поведінку.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_seek_distance">
-		<text>Ворог тримає дистанцію</text>
-	</string>
-	<!-- ZOMBIE TYPES -->
-	<string id="ui_mcm_smr_zombies_zombie_types_title">
-		<text>Варіанти зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombie_types_info">
-		<text>Нижче ви можете керувати тим, які варіанти зомбі будуть відтворюватися.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombiesp">
-		<text>Звичайні зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombies_amount">
-		<text>Кількість звичайних зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombies_amount_desc">
-		<text>Коефіцієнт, на який множаться спавни основних зомбі (якщо ввімкнено), порівняно з іншими варіантами.</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_blindp">
-		<text>Сліпі (Псі) Зомбі</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_zombifiedp">
-		<text>Зомбовані сталкери</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_fracturep">
-		<text>Ізломи</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_snorkp">
-		<text>Снорки</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_bloodsuckerp">
-		<text>Кровососи</text>
-	</string>
-	<string id="ui_mcm_SMR_smr_zombies_psysuckerp">
-		<text>Псі-Кровососи</text>
-	</string>
+    <string id="ui_mcm_menu_smr_zombies">
+        <text>Зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombie_spawn">
+        <text>Увімкнути спавн зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombie_chance">
+        <text>Шанс спавну зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombie_chance_desc">
+        <text>Ймовірність (у відсотках), що сталкери/мутанти будуть замінені на зомбі.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_seek_enabled">
+        <text>Зомбі шукають гравця</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
+        <text>У режимі "Виживання" зомбі рухатимуться до гравця, якщо він перебуватиме в певному радіусі (навіть якщо їх не було спровоковано). Це відтворить таку поведінку.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_seek_distance">
+        <text>Ворог тримає дистанцію</text>
+    </string>
+    
+<!-- ZOMBIE TYPES -->
+    <string id="ui_mcm_smr_zombies_zombie_types_title">
+        <text>Варіанти зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombie_types_info">
+        <text>Нижче ви можете керувати тим, які варіанти зомбі будуть відтворюватися.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombiesp">
+        <text>Звичайні зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombies_amount">
+        <text>Кількість звичайних зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombies_amount_desc">
+        <text>Коефіцієнт, на який множаться спавни основних зомбі (якщо ввімкнено), порівняно з іншими варіантами.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_blindp">
+        <text>Сліпі (Псі) Зомбі</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_zombifiedp">
+        <text>Зомбовані сталкери</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_fracturep">
+        <text>Ізломи</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_snorkp">
+        <text>Снорки</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_bloodsuckerp">
+        <text>Кровососи</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_zombies_psysuckerp">
+        <text>Псі-Кровососи</text>
+    </string>
 </string_table>

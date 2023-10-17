@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_menu_roguelite">
-		<text>Ironman Roguelite</text>
-	</string>
-
-    <!--Global Settings-->
+    <string id="ui_mcm_menu_roguelite">
+        <text>Ironman Roguelite</text>
+    </string>
+    
+<!--Global Settings-->
     <string id="ui_mcm_roguelite_title">
         <text>Налаштування Ironman Roguelite від Jabbers</text>
     </string>
@@ -13,8 +14,8 @@
     <string id="ui_mcm_roguelite_debug">
         <text>Debug</text>
     </string>
-
-    <!--Player Stash Settings-->
+    
+<!--Player Stash Settings-->
     <string id="ui_mcm_roguelite_stashes_description">
         <text>Player Stashes Persistence</text>
     </string>
@@ -27,8 +28,8 @@
     <string id="ui_mcm_roguelite_stash_item_condition_loss_percent">
         <text>Item condition degredation % between playthroughs</text>
     </string>
-
-    <!--Trader Reputation Settings-->
+    
+<!--Trader Reputation Settings-->
     <string id="ui_mcm_roguelite_trader_rep_description">
         <text>Trader Reputation Persistence</text>
     </string>
@@ -38,8 +39,8 @@
     <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
         <text>Trader repuation loss % between playthroughs</text>
     </string>
-
-    <!--Charater Reputation Settings-->
+    
+<!--Charater Reputation Settings-->
     <string id="ui_mcm_roguelite_character_rep_description">
         <text>Charater Reputation Persistence</text>
     </string>

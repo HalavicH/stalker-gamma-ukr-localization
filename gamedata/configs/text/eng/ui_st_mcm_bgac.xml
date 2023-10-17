@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--	shad MCM strings -->
 <string_table>
-	<string id="ui_mcm_menu_shad">
-		<text>B.G.A.C  2.0</text>
-	</string>
-	<string id="ui_mm_video_hud_shadslide">
-		<text>            B.G.A.C Options</text>
-	</string>
-	<string id="ui_mcm_shad_shad">
-		<text>Bart's Good Ammo Counters</text>
-	</string>
-	<string id="ui_mcm_shad_shad_desc">
-		<text>Shows the total amount of ammo you have for all types of your actual weapon availables in your inventory. (Traffic Signals Colors : Green --> Good Ammo -- Orange --> Bad Ammo -- Red --> Very Bad Ammo)</text>
-	</string>
-	<string id="ui_mcm_shad_boac">
-		<text>Adds Old Ammo Counters(works only if B.G.A.C is actived)</text>
-	</string>
-	<string id="ui_mcm_shad_boac_desc">
-		<text>Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the ammo type)</text>
-	</string>
-	<string id="ui_mcm_shad_bvoac">
-		<text>Adds Very Old Ammo Counters(works only if B.G.A.C is actived)</text>
-	</string>
-	<string id="ui_mcm_shad_bvoac_desc">
-		<text>Makes the Very Old Ammo appear in RED color (only when you have no good ammo and no bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do not use very old ammo)</text>
-	</string>
-	<string id="ui_mcm_shad_color_mun_shad">
-		<text>Orange default anomaly colors for ammo counters</text>
-	</string>
-	<string id="ui_mcm_shad_color_mun_shad_desc">
-		<text>Deactivate the shad default colors (Traffic Signals Colors : Green --> Good Ammo -- Orange --> Bad Ammo -- Red --> Very Bad Ammo) to activate Default Anomaly Orange colors from darker (Good Ammo) to lighter (Very Bad Ammo)</text>
-	</string>
+    <string id="ui_mcm_menu_shad">
+        <text>B.G.A.C  2.0</text>
+    </string>
+    <string id="ui_mm_video_hud_shadslide">
+        <text>            B.G.A.C Options</text>
+    </string>
+    <string id="ui_mcm_shad_shad">
+        <text>Bart's Good Ammo Counters</text>
+    </string>
+    <string id="ui_mcm_shad_shad_desc">
+        <text>Shows the total amount of ammo you have for all types of your actual weapon availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)</text>
+    </string>
+    <string id="ui_mcm_shad_boac">
+        <text>Adds Old Ammo Counters(works only if B.G.A.C is actived)</text>
+    </string>
+    <string id="ui_mcm_shad_boac_desc">
+        <text>Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the ammo type)</text>
+    </string>
+    <string id="ui_mcm_shad_bvoac">
+        <text>Adds Very Old Ammo Counters(works only if B.G.A.C is actived)</text>
+    </string>
+    <string id="ui_mcm_shad_bvoac_desc">
+        <text>Makes the Very Old Ammo appear in RED color (only when you have no good ammo and no bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do not use very old ammo)</text>
+    </string>
+    <string id="ui_mcm_shad_color_mun_shad">
+        <text>Orange default anomaly colors for ammo counters</text>
+    </string>
+    <string id="ui_mcm_shad_color_mun_shad_desc">
+        <text>Deactivate the shad default colors (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly Orange colors from darker (Good Ammo) to lighter (Very Bad Ammo)</text>
+    </string>
 </string_table>

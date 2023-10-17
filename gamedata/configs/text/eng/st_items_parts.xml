@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--
-	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
--->
 <string_table>
-    <!--
+    
+<!--
   ITEMS
   -->
     <string id="st_prt_i_ammo">
@@ -188,10 +185,12 @@
             будь-якої зброї. \n\n%c[ui_gray_2] ХАРАКТЕРИСТИКИ:\n%c[d_cyan] • %c[ui_gray_2] основний матеріал\n
         </text>
     </string>
-    <!--
+    
+<!--
   WEAPONS (rifles)
   -->
-    <!-- Barrels-->
+    
+<!-- Barrels-->
     <string id="st_barrel_1">
         <text>Дуло [Р] 18.5мм</text>
     </string>
@@ -296,7 +295,8 @@
             гвинтівки калібру 12.7x55мм. \n\n
         </text>
     </string>
-    <!-- Trigger mechanisms -->
+    
+<!-- Trigger mechanisms -->
     <string id="st_trigger_components_1">
         <text>Однорежимний УСМ куркового типу</text>
     </string>
@@ -347,7 +347,8 @@
             бокфлинт або курковка. \n\n
         </text>
     </string>
-    <!-- Breech blocks -->
+    
+<!-- Breech blocks -->
     <string id="st_bolt_carrier_1">
         <text>Поздовжньо-ковзний затвор з замиканням поворотом [Україна]</text>
     </string>
@@ -436,7 +437,8 @@
             від пістолета-кулемета. \n\n
         </text>
     </string>
-    <!-- Breech heads -->
+    
+<!-- Breech heads -->
     <string id="st_bolt_1">
         <text>Клин затвора [Р]</text>
     </string>
@@ -573,7 +575,8 @@
             ПП системи Шпагіна, під поздовжньо-ковзний вільний затвор. \n\n
         </text>
     </string>
-    <!-- Gas tubes, etc -->
+    
+<!-- Gas tubes, etc -->
     <string id="st_gas_tube_1">
         <text>Газова трубка [К]</text>
     </string>
@@ -662,10 +665,12 @@
             MP5 з рукояткою. \n\n
         </text>
     </string>
-    <!--
+    
+<!--
   WEAPONS (pistols)
   -->
-    <!-- barrels -->
+    
+<!-- barrels -->
     <string id="st_prt_w_p_barrel_1">
         <text>Дуло 9x18 мм</text>
     </string>
@@ -708,7 +713,8 @@
     <string id="st_prt_w_p_barrel_7_descr">
         <text>Дуло калібру .357. \n\n</text>
     </string>
-    <!-- trigger mechanism -->
+    
+<!-- trigger mechanism -->
     <string id="st_prt_w_p_trigger_1">
         <text>Однорежимний УСМ</text>
     </string>
@@ -733,7 +739,8 @@
     <string id="st_prt_w_p_trigger_4_descr">
         <text>Дворежимний ударно-спусковий механізм від «MP412». \n\n</text>
     </string>
-    <!-- recoil spring assembly -->
+    
+<!-- recoil spring assembly -->
     <string id="st_prt_w_p_spring_1">
         <text>Поворотна пружина 9 мм [СССР]</text>
     </string>
@@ -770,10 +777,12 @@
     <string id="st_prt_w_p_spring_6_descr">
         <text>Поворотна пружина «R1 DE 6"». \n\n</text>
     </string>
-    <!--
+    
+<!--
   OUTFITS
   -->
-    <!-- Fabrics and hardware -->
+    
+<!-- Fabrics and hardware -->
     <string id="st_prt_o_fabrics_1">
         <text>Листи тканини</text>
     </string>
@@ -810,7 +819,8 @@
             матеріалів для захисту суглобів в наявності. \n\n
         </text>
     </string>
-    <!-- Retardants / Protective textiles -->
+    
+<!-- Retardants / Protective textiles -->
     <string id="st_prt_o_retardant_1">
         <text>Багатошарові вогнестійкі тканини</text>
     </string>
@@ -992,7 +1002,8 @@
             матеріали завоювали велику популярність при модернізації захисних костюмів. \n\n
         </text>
     </string>
-    <!-- Ballistic inserts -->
+    
+<!-- Ballistic inserts -->
     <string id="st_prt_o_ballistic_1">
         <text>Пластини з кевлара «К129» з укріпленими керамічними вставками</text>
     </string>
@@ -1203,7 +1214,8 @@
             \n\n
         </text>
     </string>
-    <!-- Supportive installations -->
+    
+<!-- Supportive installations -->
     <string id="st_prt_o_support_1">
         <text>Каркас Екзоскелета</text>
     </string>

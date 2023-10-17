@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="st_ui_dbg_help">
         <text>%c[ui_gray_2] Швидкий доступ режиму відладки:\n\n%c[d_orange] Для завантаженої гри:\n%c[pda_blue]            • %c[ui_gray_3] F7: %c[ui_gray_2] Запустити відладчик Anomaly\n%c[pda_blue] • %c[ui_gray_3] 1: %c[ui_gray_2]            Налагодження HUD - Перемикання вікна інформації на панелі ліворуч\n%c[pda_blue] • %c[ui_gray_3]            2: %c[ui_gray_2] Налагодження HUD - Перемикання вікна
@@ -7,7 +7,8 @@
             ui_gray_2] Перезапуск system_ini ()
         </text>
     </string>
-    <!-- Debuggers -->
+    
+<!-- Debuggers -->
     <string id="st_ui_dbg_weather_about">
         <text>%c[ui_gray_1] Tronex / Rezy\nДодан: 2019/6/1\nОст. зміна: 2020/2/22\nРедактор погоди Anomaly
             v2.0\n\n%c[pda_green] Інформація %c[ui_gray_2]\nРедактор погоди дозволяє змінювати погодні значення в
@@ -264,7 +265,8 @@
             пострілу з порожнім магазином. \n\n%c[pda_red] Діапазон\n%c[ui_gray_2] $range
         </text>
     </string>
-    <!--string id="st_desc_time_to_aim">
+    
+<!--string id="st_desc_time_to_aim">
           <text>\n \n%c[pda_green]Описание\n%c[ui_gray_2]Скорость прицеливания.\n \n%c[pda_red]Диапазон\n%c[ui_gray_2]$range
           </text>
       </string-->

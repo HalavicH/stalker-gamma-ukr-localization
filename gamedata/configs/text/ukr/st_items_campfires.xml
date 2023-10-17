@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-<string id="st_itms_campfire_name">
-<text>Дрова</text>
-</string>
-<string id="st_itms_campfire_descr">
-<text>Хоча в Зоні і легко знайти деревину, високоякісні дрова, що підходять для багаття - велика рідкість. Незважаючи на свою рідкість, вони дуже дешеві, але так само важкі. Може стати незамінною річчю для походів та рейдів. Допомагає зігрітися вночі та дає можливість приготувати їжу.
+    <string id="st_itms_campfire_name">
+        <text>Дрова</text>
+    </string>
+    <string id="st_itms_campfire_descr">
+        <text>Хоча в Зоні і легко знайти деревину, високоякісні дрова, що підходять для багаття - велика рідкість. Незважаючи на свою рідкість, вони дуже дешеві, але так само важкі. Може стати незамінною річчю для походів та рейдів. Допомагає зігрітися вночі та дає можливість приготувати їжу.
 </text>
-</string>
-
-<string id="st_bad_surface">
-<text>Поверхня не підходить.</text>
-</string>
-
-<string id="st_gather_wood">
-<text>Нарубати дров</text>
-</string>
-
+    </string>
+    <string id="st_bad_surface">
+        <text>Поверхня не підходить.</text>
+    </string>
+    <string id="st_gather_wood">
+        <text>Нарубати дров</text>
+    </string>
 </string_table>
