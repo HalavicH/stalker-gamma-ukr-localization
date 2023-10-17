@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<string_table>
-    <string id="st_addon_saiga12s_drum_kit">
-        <text>Тактичний набір для Сайга-12С (BaS+Van)</text>
-    </string>
-    <string id="st_addon_scope_saiga12s_drum_kit">
-        <text>\n \n%c[ui_gray_2]СУМІСНІСТЬ:\n \n%c[d_cyan] • %c[ui_gray_2] Сайга-12С "Научник" (BaS)\n • %c[ui_gray_2] Сайга-12С. \n \n%c[ui_gray_1]Набір включає: покращення для газової системи та кілька барабанних магазинів. Ця модернізація є незворотною.</text>
-    </string>
-</string_table>
