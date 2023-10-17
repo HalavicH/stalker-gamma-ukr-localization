@@ -636,6 +636,15 @@
 <string id="st_sleep_awake">
 <text>Ви бадьорі</text>
 </string>
+<string id="st_sleep_awake_woke_early">
+<text>Ви прокинулись через %s годин сну</text>
+</string>
+<string id="st_sleep_awake_slept_for">
+<text>Ви проспали %s годин</text>
+</string>
+<string id="st_sleep_awake_slept_well">
+<text>Ви добре поспали %s годин</text>
+</string>
 <string id="st_sleep_awake_wired">
 <text>У вас дуже високий рівень кофеїну</text>
 </string>

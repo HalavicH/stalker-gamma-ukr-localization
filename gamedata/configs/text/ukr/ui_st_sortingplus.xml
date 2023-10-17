@@ -70,22 +70,22 @@
 		<text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk">
-		<text>"Auto" Sell Junk</text>
+		<text>Автопродаж мотлоху</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk_desc">
-		<text>Junk that a trader will buy will be placed in the selling pane. You must still push sell button to finalize.</text>
+		<text>Весь мотлох, який може купити торговець, буде автоматично поміщений у панель продажу. Все, що вам залишається, це натиснути кнопку продажу, щоб завершити угоду</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconfavs">
-		<text>Mark Favorites</text>
+		<text>Відзначати обране іконкою</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconfavs_desc">
-		<text>Mark items flagged as Favorites with an icon.</text>
+		<text>Усі предмети, позначені як обране, будуть позначені спеціальною іконкою</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitefavs">
-		<text>Highlight Favorites</text>
+		<text>Підсвічувати обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
-		<text>Highlight items flagged as Favorites.</text>
+		<text>Усі предмети, позначені як обране, будуть підсвічені</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortfavs">
 		<text>Use Favorites Category</text>
@@ -105,64 +105,61 @@
 	<string id="ui_mcm_SortingPlus_resort_desc">
 		<text>Inventory will resort immediately when marking Favorites/Junk. Otherwise waits until next time inventory opened. Useful feedback if highlighting is disabled.</text>
 	</string>
-
 	<string id="ui_mcm_SortingPlus_001loadout">
-		<text>ARM Loadout</text>
+		<text>Розвантажувальні жилети</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_002mags">
-		<text>ARM Magazines</text>
+		<text>Магазини</text>
 	</string>
-
 	<string id="ui_mcm_SortingPlus_000favorites">
-		<text>Favorites</text>
+		<text>Обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_999junk">
-		<text>Junk</text>
+		<text>Мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_010weapons">
-		<text>Weapons</text>
+		<text>Зброя</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_020outfits">
-		<text>Outfits</text>
+		<text>Спорядження</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_030artifacts">
-		<text>Artifacts</text>
+		<text>Артефакти</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_040devices">
-		<text>Devices</text>
+		<text>Пристрої</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_050tools">
-		<text>Tools</text>
+		<text>Інструменти</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_060medical">
-		<text>Medical</text>
+		<text>Медицина</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_070foods">
-		<text>Foods</text>
+		<text>Іжа</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_080mutantfoods">
-		<text>Mutant Food</text>
+		<text>Їжа з мутантів</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_090quest">
-		<text>Quest Items</text>
+		<text>Квестові предмети</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_100notes">
-		<text>Notes</text>
+		<text>Нотатки</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_110ammo">
-		<text>Ammo</text>
+		<text>Боєприпаси</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_120mutantparts">
-		<text>Mutant Parts</text>
+		<text>Частини мутантів</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_130misc">
-		<text>Misc</text>
+		<text>Різне</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_140upgrades">
-		<text>Upgrades</text>
+		<text>Апгрейди</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_150parts">
-		<text>Parts</text>
+		<text>Запчастини</text>
 	</string>
-
 </string_table>

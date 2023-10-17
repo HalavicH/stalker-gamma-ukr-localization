@@ -69,25 +69,25 @@
 		<text>Всі предмети, відмічені як мотлох, будуть винесені в окрему категорію, за замовчуванням наприкінці інвентарю</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk">
-		<text>Автопродажа хлама</text>
+		<text>Автопродаж мотлоху</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk_desc">
-		<text>Весь хлам, который может купить торговец, будет автоматически помещен в панель продажи. Все что вам остается, это нажать кнопку продажи, чтобы завершить сделку</text>
+		<text>Весь мотлох, який може купити торговець, буде автоматично поміщений у панель продажу. Все, що вам залишається, це натиснути кнопку продажу, щоб завершити угоду</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconfavs">
-		<text>Отмечать избранное иконкой</text>
+		<text>Відзначати обране іконкою</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconfavs_desc">
-		<text>Все предметы, отмеченные как избранное, будут помечены специальной иконкой</text>
+		<text>Усі предмети, позначені як обране, будуть позначені спеціальною іконкою</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitefavs">
-		<text>Подсвечивать избранное</text>
+		<text>Підсвічувати обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
-		<text>Все предметы, отмеченные как избранное, будут подсвечены</text>
+		<text>Усі предмети, позначені як обране, будуть підсвічені</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortfavs">
-		<text>Сортировать избранное</text>
+		<text>Сортувати обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_sortfavs_desc">
 		<text>Все предметы, отмеченные как избранное, будут вынесены в отдельную категорию, по умолчанию в начале инвентаря</text>
@@ -105,60 +105,60 @@
 		<text>Как только предмет будет отмечен как избранное или как хлам, он сразу же будет отсортирован в инвентаре. В противном случае сортировка произойдет только при следующем открытии инвентаря. Может быть полезно, если отключена подсветка отмеченных предметов</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_001loadout">
-		<text>Разгрузки</text>
+		<text>Розвантажувальні жилети</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_002mags">
-		<text>Магазины</text>
+		<text>Магазини</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_000favorites">
-		<text>Избранное</text>
+		<text>Обране</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_999junk">
-		<text>Хлам</text>
+		<text>Мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_010weapons">
-		<text>Оружие</text>
+		<text>Зброя</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_020outfits">
-		<text>Снаряжение</text>
+		<text>Спорядження</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_030artifacts">
-		<text>Артефакты</text>
+		<text>Артефакти</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_040devices">
-		<text>Устройства</text>
+		<text>Пристрої</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_050tools">
-		<text>Инструменты</text>
+		<text>Інструменти</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_060medical">
 		<text>Медицина</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_070foods">
-		<text>Обычная еда</text>
+		<text>Іжа</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_080mutantfoods">
-		<text>Еда из мутантов</text>
+		<text>Їжа з мутантів</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_090quest">
-		<text>Квестовые предметы</text>
+		<text>Квестові предмети</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_100notes">
-		<text>Заметки</text>
+		<text>Нотатки</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_110ammo">
-		<text>Боеприпасы</text>
+		<text>Боєприпаси</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_120mutantparts">
-		<text>Части мутантов</text>
+		<text>Частини мутантів</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_130misc">
-		<text>Разное</text>
+		<text>Різне</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_140upgrades">
-		<text>Улучшения</text>
+		<text>Апгрейди</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_150parts">
-		<text>Запчасти</text>
+		<text>Запчастини</text>
 	</string>
 </string_table>
