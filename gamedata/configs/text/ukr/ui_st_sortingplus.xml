@@ -1,6 +1,4 @@
-<!-- 
-	Anomaly Modconfiguration Menu strings	
--->
+<?xml version='1.0' encoding='windows-1251'?>
 <string_table>
 	<string id="st_rax_fav">
 		<text>Додати в обране</text>
@@ -15,10 +13,10 @@
 		<text>Прибрати з сміття</text>
 	</string>
 	<string id="ui_mcm_title_SortingPlus">
-		<text>Настройки аддона Sorting Plus</text>
+		<text>Налаштування аддону "Сортування Плюс"</text>
 	</string>
 	<string id="ui_mcm_menu_SortingPlus">
-		<text>Sorting Plus</text>
+		<text>Сортування Плюс</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_playerinv">
 		<text>Сортувати інвертар гравця</text>
@@ -36,23 +34,22 @@
 		<text>Сортувати інвентар NPC</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npcinv_desc">
-		<text>Left side inventory on all screens except for trade.</text>
+		<text>Інвентар зліва на всіх екранах, окрім торгівлі.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npctrade">
-		<text>Sort NPC Trade Inventory</text>
+		<text>Сортування торгового інвентарю NPC</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_npctrade_desc">
-		<text>Left Side Inventory when trading.</text>
+		<text>Інвентар зліва під час торгівлі.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_useltx">
-		<text>Use sortingplus.ltx</text>
+		<text>Використовувати sortingplus.ltx</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_useltx_desc">
-		<text>Ignores settings below in favor of those in sortingplus.ltx which offers more granular control.</text>
+		<text>Ігнорує налаштування, наведені нижче, на користь налаштувань у файлі sortingplus.ltx, який пропонує більш детальний контроль.</text>
 	</string>
-
 	<string id="ui_mcm_SortingPlus_iconjunk">
-		<text>Позначати мотлох</text>	  
+		<text>Позначати мотлох</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconjunk_desc">
 		<text>Всі предмети, відмічені як мотлох, будуть позначені спеціальною іконкою</text>
@@ -97,13 +94,13 @@
 		<text>Не переміщати вибране при натисканні "Скласти все"</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_putallfavs_desc">
-		<text>Favorites will not be moved from your inventory when doing transfer all.</text>
+		<text>Вибране не буде переміщено з вашого інвентарю під час перенесення всього.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_resort">
-		<text>Re-sort when marking.</text>
+		<text>Пересортуйте при маркуванні.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_resort_desc">
-		<text>Inventory will resort immediately when marking Favorites/Junk. Otherwise waits until next time inventory opened. Useful feedback if highlighting is disabled.</text>
+		<text>Інвентар буде відкрито негайно при позначці Вибране/Небажане. В іншому випадку чекає до наступного відкриття інвентарю. Корисний зворотній зв'язок, якщо підсвічування вимкнено.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_001loadout">
 		<text>Розвантажувальні жилети</text>
