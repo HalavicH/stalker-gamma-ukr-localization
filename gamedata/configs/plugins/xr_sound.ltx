@@ -1,0 +1,99 @@
+--[[
+==================================== Anomaly Radios Extended by DesmanMetzger =======================================
+
+Changelog: 2018/11/15 - Initial release of beta
+	   2018/11/29 - Changed Rostok megaphones to randomise audio
+	   2018/12/09 - Cleaned up MLR configs
+	   2018/12/12 - Repurposed Anomaly .ltx files and added new .ltx files for new locations
+	   2018/12/13 - Finalised all all.spawn locations within game
+	   2018/12/18 - Added stalker_radio, yantar_bunker_radio, monolith_radio and commented files
+	   2018/12/19 - Rendered files with appropriate sound presents (credit goes to Carl Mylo (Music Producer) - https://carlmylo.com/)
+	   2018/12/20 - Final pass and commenting of files and finalising of xr_sound playlist
+	   2019/08/28 - Added Monolith anntena audio, and fixed all.spawn changes resulting from Beta 3.0
+	   2021/02/06 - Fixed all all.spawn locaations for Anomaly 1.5.1
+	   2021/02/07 - Reverted changes to ph_sound script
+	   2021/02/14 - Finalised file comments, including reworking distance of audio, and fixing abrupt cutout bug
+	   2021/02/15 - Reviewed files and provided track credits (thank you to Metastophalius for the impossible task of matching the songs to their names!)
+
+This mod creates unique radio stations for most factions located within the Zone.
+At the moment the current faction radio stations include:
+
+* Mercenary Base – Dead City
+* Freedom Base – Yanov Station
+* Freedom Base – Army Warehouse
+* Duty Megaphones – Rostok
+* 100 Rads Bar – Rostok
+* Sid’s Bunker - Cordon
+* Bandit Stronghold – Dark Valley
+* Forester’s Lodge – Red Forrest
+* Clear Sky’s Base – Great Swamp
+* Military Base – Agraprom
+* Skadovsk Ship - Zaton
+* Ecologist's Bunker - Yantar
+* Monolith Base - Pripyat
+* Bandit's Hangar - Garbage
+
+If you want to alter or delete the playlist, simply follow the location of the sound files for each faction and rename the .ogg files to replace the ones already there.
+Don’t forget to edit this LTX file to match the same number of files in each edited group (eg: if you create 100 .ogg files for the Clear Sky base, you must name each file like this ---> anomaly_radio_addon\clear_sky_radio\ClearSky_radio_NUMBER OF FILE)
+
+==============================================================================================
+--]]
+
+;[shared_radio_music]
+;trx\radio\_channel_1\track_1
+;trx\radio\_channel_1\track_2
+;trx\radio\_channel_1\track_3
+;trx\radio\_channel_1\track_4
+;trx\radio\_channel_1\track_5
+;trx\radio\_channel_1\track_6
+;trx\radio\_channel_1\track_7
+;trx\radio\_channel_1\track_8
+
+[sidor_radio]
+anomaly_radio_addon\sidorovich_radio\Sidor_radio_1
+
+[forester_radio]
+anomaly_radio_addon\forester_radio\Forester_radio_1
+
+[bar_radio]
+anomaly_radio_addon\barman_radio\Barman_radio_1
+
+[bandit_radio]
+anomaly_radio_addon\bandit_radio\Bandits_radio_1
+
+[clear_sky_radio]
+anomaly_radio_addon\clear_sky_radio\ClearSky_radio_1
+
+[stalker_radio]
+anomaly_radio_addon\stalker_radio\stalker_radio_1
+anomaly_radio_addon\stalker_radio\stalker_radio_2
+anomaly_radio_addon\stalker_radio\stalker_radio_3
+anomaly_radio_addon\stalker_radio\stalker_radio_4
+
+[yantar_radio]
+anomaly_radio_addon\yantar_bunker_radio\yantar_radio_1
+
+[monolith_radio]
+anomaly_radio_addon\monolith_radio\monolith_radio_1
+
+[monolith_antenna]
+anomaly_radio_addon\monolith_antenna\monolith_antenna_1
+
+[hangar_radio]
+anomaly_radio_addon\hangar_radio\Hangar_radio_1
+
+; Radio Stations that can be edited within this file
+[esc_sidorovich_radio]:sidor_radio
+[red_forester_radio]:forester_radio
+[bar_visitors_radio]:bar_radio
+[val_smart_terrain_7_3_radio]:bandit_radio
+[mar_smart_terrain_base_radio]:clear_sky_radio
+[yan_bunker_radio]:yantar_radio
+[pri_monolith_radio]:monolith_radio
+[zat_a2_ph_rupor]:stalker_radio
+[gar_smart_terrain_3_5_radio]:hangar_radio
+[pri_monolith_antenna]:monolith_antenna
+
+
+;;[agr_smart_terrain_1_6_near_2_radio]:shared_radio_music
+;;[agr_smart_terrain_1_6_near_1_radio]:shared_radio_music

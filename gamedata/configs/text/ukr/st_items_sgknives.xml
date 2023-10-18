@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="st_fs_green">
+		<text>Fairbarn-Sykes fighting knife</text>
+	</string>
+	<string id="st_fs_black">
+		<text>Fairbarn-Sykes fighting knife</text>
+	</string>
+	<string id="st_fs_green_descr">
+	<text>\n \n%c[ui_gray_1]The Fairbairn-Sykes Combat Knife is a double-edged combat knife that resembles a dagger or tip with a foil handle. This sample of melee weapons by William Ewart Fairbairn and Eric Anthony Sykes. The F-S Combat Knife was designed exclusively for surprise attack and close range combat. One of the advantages of this knife with such a thin blade is that it can easily pierce the ribcage. The ceramic handle guarantees a comfortable grip, and the sharpened blade design is especially suitable for use in a combat knife. 
+This weapon is one of the most effective melee weapons available, and a well executed heart strike can cause an enemy to bleed out in about 2-5 seconds.\n \n
+		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+	</string>
+	<string id="st_bar">
+		<text>Crowbar</text>
+	</string>
+	<string id="st_bar_descr">
+	<text>\n \n%c[0,170,170,170]A very reliable and indestructible tool. Ideal for disassembling weapons, some helmets and various electronic devices. It can also be useful in gear repairs and weapon maintenance. Due to its versatility, some stalkers prefer to keep it in their backpack despite its heavy weight. Common find in industrial and urban areas of the Zone.\n \n%c[0,140,140,140]CHARACTERISTICS:\n%c[0,93,0,116] • %c[0,140,140,140] сold weapon \n%c[255,238,153,26] • %c[0,140,140,140] 
+	is used for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)\n%c[255,238,153,26] • %c[0,140,140,140] multiple use.</text>
+	</string>
+	<string id="st_shovel">
+		<text>Shovel</text>
+	</string>
+	<string id="st_shovel_descr">
+	<text>\n \n%c[0,170,170,170]Shovels are used as a useful tool in gardening or in trenches, but they can also be very dangerous when the blade is sharpened. The Russian army was famous for using military shovels, sharp as knives, against trench raiders.\n \n%c[0,140,140,140]CHARACTERISTICS:\n%c[0,93,0,116] • %c[0,140,140,140] сold weapon \n%c[255,238,153,26] • %c[0,140,140,140] 
+	is used for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)\n%c[255,238,153,26] • %c[0,140,140,140] multiple use.</text>
+	</string>
+	<string id="st_machete">
+		<text>Machete</text>
+	</string>
+	<string id="st_machete_descr">	
+		<text>\n \n%c[0,170,170,170]Machete from unknown manufacturer. Large and heavy, but very effective for survival and inflicts massive chopping wounds.</text>
+		</string>
+		<string id="st_knife_bayo">
+		<text>OKC-3S Knife-bayonet</text>
+	</string>
+	<string id="st_knife_bayo_descr">
+		<text>\n \n%c[0,170,170,170]OKC-3S - This is a knife developed by the United States Marine Corps. This specimen participated in the Multipurpose Butterfly program, which evaluated 33 different knives. OKC-3S has shown itself to be one of the best among the results in almost all test categories.</text>
+	</string>
+	<string id="st_kabar">
+		<text>Ka-Bar knife</text>
+	</string>
+	<string id="st_kabar_descr">	
+		<text>\n \n%c[0,170,170,170]Ka-Bar is the modern popular name for the combat knife, first adopted by the United States Marine Corps in November 1942. As a melee weapon, it has proven to be very versatile and effective and loved by all users. Although Ka-Bar Knives, Inc currently manufactures a wide variety of knives and cutlery, they are best known for their Ka-Bar combat / utility knife, which traditionally used a 7-inch carbon steel clip blade and a leather washer handle.</text>
+	</string>
+		<string id="st_knife_support">
+		<text>Support knife</text>
+	</string>
+	<string id="st_knife_support_descr">	
+		<text>\n \n%c[0,170,170,170]
+Bol'shoy boyevoy nozh s prochnoy rezinovoy rukoyat'yu. Ostryy i ukhozhennyy. Vozmozhno, on ne ochen' khorosh dlya probivaniya boyevoy broni, no iz-za zubchatogo klinka on ideal'no podkhodit dlya naneseniya massivnykh krovotochashchikh ran na otkrytoye telo. Eto delayet yego ideal'nym vyborom dlya bor'by s zhivotnymi, osobenno dlya dobivaniya uzhe ranenykh osobey
+A large combat knife with a durable rubber handle. Sharp and well-groomed. It may not be very good at penetrating combat armor, but due to its serrated blade, it is ideal for inflicting massive bleeding wounds on an open body. This makes it an ideal choice for fighting animals, especially for finishing off already injured individuals.</text>
+	</string>
+	<string id="st_knife_boot">
+		<text>Boot knife Smith and Wesson HRT</text>
+	</string>
+	<string id="st_knife_boot_descr">
+		<text>\n \n%c[0,170,170,170]With a sleek black frame, this durable Smith and Wesson product is the perfect choice for knife enthusiasts. The stationary blade is made from hardened 440C stainless steel that will withstand daily use. The knife is coated with black powder paint, which gives it a militaristic look. The length of the blade is 10.16 cm, and the length of the handle is 10.16 cm.The total length of the knife is 22.86 cm. Also, the weapon has a weight of only 204 grams, which allows you to quickly remove it from the scabbard and use it as intended.\n \n
+		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+	</string>
+	<string id="st_knife_commando">
+		<text>Knife SOA Commando</text>
+	</string>
+	<string id="st_knife_commando_descr">
+		<text>\n \n%c[0,170,170,170]
+Universal'nyy nozh s klinkom iz nerzhaveyushchey stali. Khorosheye kachestvo izgotovleniya i vysokaya dolgovechnost' delayut eti nozhi otlichnym vyboromUtility knife with stainless steel blade. Good workmanship and high durability make these knives an excellent choice.</text>
+	</string>
+	<string id="st_bat">
+		<text>Baseball Bat</text>
+	</string>
+	<string id="st_bat_descr">
+		<text>\n \n%c[0,170,170,170]The baseball bat is the reincarnation of clubs and clubs known since prehistoric times. The bat is well centered, made of solid, durable wood, very comfortable to hold with one hand.</text>
+	</string>
+		<string id="st_old_hammer">
+		<text>Old hammer</text>
+	</string>
+	<string id="st_old_hammer_descr">
+		<text>Old iron hammer with a wooden handle. Used even before the creation of the USSR. Often found in industrial areas of the Exclusion Zone. Despite its heavy weight, many stalkers often carry it in their backpacks, thanks to its versatility..\n \n%c[0,140,140,140]CHARACTERISTICS:\n%c[0,93,0,116] • %c[0,140,140,140] сold weapon \n%c[255,238,153,26] • %c[0,140,140,140] 
+	is used for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)\n%c[255,238,153,26] • %c[0,140,140,140] multiple use.</text>
+	</string>
+	<string id="st_hammer_new">
+		<text>New hammer</text>
+	</string>
+	<string id="st_hammer_new_descr">
+		<text>New iron hammer with a wooden handle. Sometimes found in industrial areas of the Exclusion Zone. It weighs an order of magnitude less, so some stalkers often prefer to carry this particular option in their backpack, it is also suitable for universal use.\n \n%c[0,140,140,140]CHARACTERISTICS:\n%c[0,93,0,116] • %c[0,140,140,140] сold weapon \n%c[255,238,153,26] • %c[0,140,140,140] 
+	is used for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)\n%c[255,238,153,26] • %c[0,140,140,140] multiple use.</text>
+	</string>
+	<string id="st_knife_survival">
+        <text>Survival knife</text>
+    </string>
+    <string id="st_knife_survival_descr">
+        <text>Short non-folding survival knife. Well suited for concealed carry due to its small size.\n \n
+		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+    </string>
+    <string id="st_knife_spetsnaz">
+        <text>Spetsnaz knife НР-2</text>
+    </string>
+    <string id="st_knife_spetsnaz_descr">
+        <text>A military survival knife made in Soviet times for the army special forces. NR-2 is a modification of the NRS-2 knife, devoid of a single-shot firing mechanism.\n \n
+		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+    </string>
+    <string id="st_knife_tanto">
+        <text>Tanto</text>
+    </string>
+    <string id="st_knife_tanto_descr">
+        <text>Modern combat knife in the "tanto" style, which literally translates as "short sword" and means Japanese edged weapons of the feudal era. It is not possible to establish the origin of this knife, since there are no trade marks on the weapon.\n \n
+		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+    </string>
+    <string id="st_knife_colt">
+        <text>Knife Colt 62316</text>
+    </string>
+    <string id="st_knife_colt_descr">
+        <text>An American army knife bayonet designed to be attached to a rifle or shotgun. It entered service in 1964 and was first used by the US Army during the Vietnam War.</text>
+    </string>
+    <string id="st_knife_extrema">
+        <text>Extrema Ratio MK 2.1</text>
+    </string>
+    <string id="st_knife_extrema_descr">
+        <text>Steel knife developed from the historical USMC Ka-Bar knife and manufactured for use by the Italian army and special forces.</text>
+    </string>
+    <string id="st_knife_hunting_tactical">
+        <text>Tactical hunting knife</text>
+    </string>
+    <string id="st_knife_hunting_tactical_descr">
+        <text>A modern hunting knife with camouflage applied to it. The butt of the blade is covered with large teeth, which makes it extremely difficult to extract it from the flesh.</text>
+    </string>
+	 <string id="st_knife_h_tactical">
+        <text>SOG S37-N SEAL Team tactical knife</text>
+    </string>
+    <string id="st_knife_h_tactical_descr">
+        <text>The SOG Knives S37-N is a partially serrated knife that both looks and performs like a beauty. The partially serrated blade on this knife flows into its black handle seamlessly for that classy and elegant look. The handle is equipped with material that makes it easy to grip so that this knife won't be slipping out of your hand in the middle of a job. Beautiful and practical, the SOG Knives S37-N is the ultimate in fixed blade knives. The knife can be used in combat but it's best used for basic utility and normal daily use, gutting animals, opening food cans, and so on.</text>
+    </string>
+	 <string id="st_knife_nr40_tactical">
+        <text>AK74 Bayonet tactical knife</text>
+    </string>
+    <string id="st_knife_nr40_tactical_descr">
+        <text>A bayonet is a knife, or bladed weapon designed to fit on the end of a rifle's muzzle, allowing it to be used as a secondary weapon or last resort. Modern bayonets are often multi-purpose knives such as the Soviet ak47/AK74/AKM bayonet which was also a ground breaking survival knife that can be used as a wire-cutter when combined with its scabbard. In the zone, stalkers use bayonets as a mean to harvest meat from dead animals and mutants, as well as a last resort defense tool.</text>
+	</string>
+	 <string id="st_knife_spetznaz_tactical">
+        <text>M7 Bayonet tactical knife</text>
+    </string>
+    <string id="st_knife_spetznaz_tactical_descr">
+        <text>The M7 bayonet is a bayonet that was used by the U.S. military for the M16 rifle, it can also be used with the M4 carbine as well as many other assault rifles, carbines and combat shotguns. It can be used as a fighting knife and utility tool. It was introduced in 1964, when the M16 rifle entered service during the Vietnam War. Under the current circumstances, the M7 bayonet can be used as a very effective knife for its pointy end and thin blade. A very good melee weapon against unarmored enemies and soft skinned mutants.</text>
+	</string>
+	<string id="st_knife_combat_tactical">
+        <text>M9 bayonet tactical</text>
+    </string>
+    <string id="st_knife_combat_tactical_descr">
+        <text>A large hunting knife with a rugged rubber handle. Sharp and well maintained. It might not be good at penetrating combat armors but due to the toothed blade it is ideal at causing massive, bleeding wounds to open flesh. That makes it a perfect choice for battling animals, especially finishing off already wounded specimens.</text>
+	</string>
+	</string_table>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_mcm_swm_legs_title">
+		<text>SWM Visible Body ! Ported from Shoker Weapon Mod for CoP / SWM devs: Shoker, РикошеТ and others !</text>
+	</string>	
+	<string id="ui_mcm_menu_swm_legs">
+		<text>SWM Visible Body</text>
+	</string>
+	<string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+		<text>Hide body in low crouch mode</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset">
+		<text>Body position (closer/farther)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset_side">
+		<text>Body position (left/right)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+		<text>Enable steps sounds when turning around</text>
+	</string>	
+	<string id="ui_mcm_swm_legs_turn_step_sound_volume">
+		<text>Steps volume</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_hd_models">
+		<text>Use HD models (REQUIRES HD MODELS PACK ADDON!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled">
+		<text>Disable body displaying (For safe uninstall!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled_desc">
+		<text>This option makes it possible to safely uninstall the addon.\n1) Enable it\n2) Make sure the body model disappeared\n3) Make a save, exit and disable the addon</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--	BartHUD strings -->
+<string_table>
+	<string id="ui_mcm_menu_barthud_light">
+		<text>Barthud Light</text>
+	</string>
+	<string id="ui_mcm_barthud_light_barthud_lightslide">
+		<text>         BartHUD Light Options</text>
+	</string>
+	<string id="ui_mcm_barthud_light_radbar_show">
+		<text>Radiation Exposure Level Bar</text>
+	</string>
+	<string id="ui_mcm_barthud_light_radbar_show_desc">
+		<text>Shows the amount of Radiation you have, above the Stamina Bar, going from left-to-right. </text>
+	</string>
+	<string id="ui_mcm_barthud_light_bleeding_on_stamina_show">
+		<text>Bleeding Level Bar</text>
+	</string>
+	<string id="ui_mcm_barthud_light_bleeding_on_stamina_show_desc">
+		<text>Shows the amount of blood you're losing, on the Stamina Bar, going from left-to-right. </text>
+	</string>
+	<string id="ui_mcm_barthud_light_armorbar">
+		<text>Armor bar</text>
+	</string>
+	<string id="ui_mcm_barthud_light_armorbar_desc">
+		<text>Shows the Armor Condition Bar.</text>
+	</string>	
+	<string id="ui_mcm_barthud_light_armortext">
+		<text>Armor Condition Text</text>
+	</string>
+	<string id="ui_mcm_barthud_light_armortext_desc">
+		<text>Shows the Armor Condition as a percentage in white cream text. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weaponshow">
+		<text>Weapon Condition Bar</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weaponshow_desc">
+		<text>Shows the Weapon Condition Bar.</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weapontext">
+		<text>Weapon Condition Text</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weapontext_desc">
+		<text>Shows the Weapon Condition as a percentage in white cream text. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weaponbarhide">
+		<text>Hide on Unequip</text>
+	</string>
+	<string id="ui_mcm_barthud_light_weaponbarhide_desc">
+		<text>Makes the Weapon Condition Bar disappear when you unequip. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+	</string>
+	<string id="ui_mcm_barthud_light_helmetbar">
+		<text>Helmet bar</text>
+	</string>
+	<string id="ui_mcm_barthud_light_helmetbar_desc">
+		<text>Shows the Helmet Condition Bar.</text>
+	</string>	
+	<string id="ui_mcm_barthud_light_helmettext">
+		<text>Helmet Condition Text</text>
+	</string>
+	<string id="ui_mcm_barthud_light_helmettext_desc">
+		<text>Shows the Helmet Condition as a percentage in white cream text. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+	</string>	
+</string_table>

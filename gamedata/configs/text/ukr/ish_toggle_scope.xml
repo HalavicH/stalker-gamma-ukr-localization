@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>ToggleScope</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>Перемикання/перемикання діапазонів</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]•%c[DEFAULT] Single tap: Приєднати/від'єднати поточний приціл.
+            \n\n%c[d_green]•%c[DEFAULT] Double tap: Перейдіть до наступного сумісного прицілу.
+        </text>
+	</string>
+</string_table>

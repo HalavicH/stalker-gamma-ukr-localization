@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_dead_penalties">
+		<text>Dead Penalties</text>
+	</string>
+
+    <string id="ui_mcm_dead_penalties_max_money_percentage">
+		<text>Max percentage of money that can be lost.</text>
+	</string>
+	<string id="ui_mcm_dead_penalties_max_money_percentage_desc">
+		<text>This dictates the max pecentage of money that will be removed from your balance</text>
+	</string>
+
+    <string id="ui_mcm_dead_penalties_max_money_to_drop_percentage">
+		<text>Max percentage of money that can be dropped.</text>
+	</string>
+    
+	<string id="ui_mcm_dead_penalties_max_money_to_drop_percentage_desc">
+		<text>Max percentage of money that will be added to the drop backpack from the lost money.</text>
+	</string>
+
+	<string id="ui_mcm_dead_penalties_max_condition_lose">
+		<text>Max condition to lose on all equiped items</text>
+	</string>
+
+	<string id="ui_mcm_dead_penalties_max_condition_lose_desc">
+		<text>Max condition to lose on all equiped items upon death. Cannot be equals or lower than Min Condition</text>
+	</string>
+
+	<string id="ui_mcm_dead_penalties_min_condition_lose">
+		<text>Min condition to lose on all equiped items</text>
+	</string>
+
+	<string id="ui_mcm_dead_penalties_min_condition_lose_desc">
+		<text>Min condition to lose on all equiped items upon death. Cannot be equals or greater than Max Condition</text>
+	</string>
+
+	<string id="ui_mcm_dead_penalties_enable_time_forward">
+		<text>Enable the skip of time after death [BETA]</text>
+	</string>
+
+</string_table>

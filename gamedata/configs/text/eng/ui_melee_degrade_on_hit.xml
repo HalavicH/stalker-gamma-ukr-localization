@@ -1,0 +1,29 @@
+<string_table>
+    <string id="ui_mcm_melee_degrade_onhit_title">
+        <text>Melee Degrade Configuration</text>
+    </string>
+    <string id="ui_mcm_menu_melee_degrade_onhit">
+        <text>Melee Degrade On Hit</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_axe_loss_mult">
+        <text>Axe Degrade Multiplier</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_knife_loss_mult">
+        <text>Knife Degrade Multiplier</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_geometry_loss_mult">
+        <text>Hard Surface Degrade Multiplier</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_phys_loss_mult">
+        <text>Object Degrade Multiplier</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_enemy_loss_mult">
+        <text>Enemy Degrade Multiplier</text>
+    </string>
+     <string id="ui_mcm_melee_degrade_onhit_light_loss_mult">
+        <text>Light Attack Degrade Multiplier</text>
+    </string>
+    <string id="ui_mcm_melee_degrade_onhit_heavy_loss_mult">
+        <text>Heavy Attack Degrade Multiplier</text>
+    </string>
+</string_table>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_ac_open">
+		<text>Open</text>
+	</string>
+
+	<string id="st_ac_ammo_crate">
+		<text>Ammunition crate</text>
+	</string>
+
+	<string id="st_ac_ammo_crate_s">
+		<text>Ammo crate</text>
+	</string>
+
+	<string id="st_ac_ammo_crate_descr">
+		<text>
+			An old military ammo crate. It's completely empty. That being said, it would make for the perfect storage for keeping your ammo dry and safe. It also will prevent your backpack from getting to cluttered.\n
+			\n
+			%c[ui_gray_1]PROPERTIES:\n
+			%c[d_blue] • %c[ui_gray_2] everyday item\n
+			%c[d_blue] • %c[ui_gray_2] military item\n
+		</text>
+	</string>
+</string_table>

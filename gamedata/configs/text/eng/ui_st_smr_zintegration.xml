@@ -1,0 +1,32 @@
+<string_table>
+	<string id="ui_mcm_menu_smr_zzintegration">
+		<text>Інтеграція</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_integration_info">
+		<text>Наведені тут опції дозволяють ZCP чудово працювати разом з іншими доповненнями. Це схоже на патчі сумісності, тільки набагато зручніше.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Дозволяє палички-ліхтарики створювати корисні предмети.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_chance">
+		<text>Шанс спавну магазину</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Дозволяє створювати магазини для поточно спорядженої зброї як додатковий предмет у схованках.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes">
+		<text>Anomaly Lootboxes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_chance">
+		<text>Шанс спавну лутбоксу</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Дозволяє відмичкам з'являтися як корисні предмети, а також як лутбокси у власній категорії.</text>
+	</string>
+</string_table>

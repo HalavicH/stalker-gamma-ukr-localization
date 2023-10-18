@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_loot_searching_title">
+		<text>Loot Searching</text>
+	</string>
+	<string id="ui_mcm_menu_loot_searching">
+		<text>Loot Searching</text>
+	</string>
+
+			<!-- TIME -->
+	<string id="ui_mcm_loot_searching_header_time">
+		<text>Час \n 
+				Випадково(time_min, time_max) - weight - (icon_x * icon_y)</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_time_min">
+		<text>Мінімальний час</text>
+	</string>
+	<string id="ui_mcm_loot_searching_time_min_desc">
+		<text>За замовчуванням: 5</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_time_max">
+		<text>Максимальний час</text>
+	</string>
+	<string id="ui_mcm_loot_searching_time_max_desc">
+		<text>За замовчуванням: 15</text>
+	</string>
+
+			<!-- HUD -->
+	<string id="ui_mcm_loot_searching_header_hud">
+		<text>Індикатор пошуку(лутінгу)</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_hud_enable">
+		<text>Включити індикатор пошуку</text>
+	</string>
+	<string id="ui_mcm_loot_searching_hud_enable_desc">
+		<text>Показує, коли ви все ще грабуєте тіло.</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_hud_icon">
+		<text>Тип індикатора (потребує перезавантаження гри)</text>
+	</string>
+	<string id="ui_mcm_loot_searching_hud_icon_desc">
+		<text>Лонгрід дуже допоміг із цим аддоном, тож на знак подяки я залишу текстуру, яку він спочатку надіслав як необов’язкову.</text>
+	</string>
+
+			<!-- SOUND -->
+	<string id="ui_mcm_loot_searching_header_sound">
+		<text>Звук</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_sound_enable">
+		<text>Звук предметів</text>
+	</string>
+	<string id="ui_mcm_loot_searching_sound_enable_desc">
+		<text>Звук предметів при їх появі.</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_sound_enable_vol">
+		<text>Гучність звуку при появі предметів</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_sound_bg_enable">
+		<text>Фоновий звук</text>
+	</string>
+	<string id="ui_mcm_loot_searching_sound_bg_enable_desc">
+		<text>Фоновий звук під час грабування тіла.</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_sound_bg_enable_vol">
+		<text>Гучність фонового звуку</text>
+	</string>
+
+			<!-- DEBUG -->
+	<string id="ui_mcm_loot_searching_header_debug">
+		<text>Debug</text>
+	</string>
+
+	<string id="ui_mcm_loot_searching_debugx">
+		<text>Debug</text>
+	</string>
+	<string id="ui_mcm_loot_searching_debugx_desc">
+		<text>Показує деяку корисну інформацію в консолі.</text>
+	</string>
+
+
+
+			<!-- non-mcm -->
+	<string id="st_xcvb_looting">
+		<text>Пошук</text>
+	</string>
+
+</string_table>

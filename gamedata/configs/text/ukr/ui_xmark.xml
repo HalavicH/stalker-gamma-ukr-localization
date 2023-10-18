@@ -1,0 +1,27 @@
+<string_table>
+        <!-- MCM -->
+<string id="ui_mcm_menu_xmark">
+         <text>Хітмарк Інакріна</text>
+     </string>
+     <string id="ui_mcm_menu_xmark_title">
+         <text>Налаштування позначок попадання (потрібно перезавантажити)</text>
+     </string>
+     <string id="ui_mcm_xmark_enable">
+         <text>Увімкнути позначку попадання</text>
+     </string>
+     <string id="ui_mcm_xmark_a">
+         <text>Альфа-версія Хітмарки</text>
+     </string>
+     <string id="ui_mcm_xmark_r">
+         <text>Хітмарка, червона</text>
+     </string>
+     <string id="ui_mcm_xmark_g">
+         <text>Хітмарка, зелена</text>
+     </string>
+     <string id="ui_mcm_xmark_b">
+         <text>Хітмарка, синя</text>
+     </string>
+     <string id="ui_mcm_xmark_fade">
+         <text>Час зникнення</text>
+     </string>
+</string_table>

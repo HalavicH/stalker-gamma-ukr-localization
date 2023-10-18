@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_ground_coffee">
+		<text>Мелена кава</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>Мелена кава, готова до заварювання. Потрібні набори для приготування та вода для заварювання. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		</text>
+	</string>
+	
+</string_table>

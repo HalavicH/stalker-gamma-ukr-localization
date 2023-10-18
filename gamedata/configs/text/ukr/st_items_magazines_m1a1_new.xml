@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+<!--
+M1A1
+-->
+
+	<string id="st_mag_m1a1_11.43x23_fmj">
+<text>Стандартний патрон .45 ACP M1A1</text>
+</string>
+<string id="st_mag_m1a1_11.43x23_fmj_descr">
+<text>
+             Магазин на 30 патронів для M1A1.\n\n
+%c[d_purple] • %c[ui_gray_2] Також підійде до варіанту 1921 року.
+</text>
+</string>
+
+
+<string id="st_mag_1921_11.43x23_fmj">
+<text>Стандарт .45 ACP 1921 Drum Magazine</text>
+</string>
+<string id="st_mag_1921_11.43x23_fmj_descr">
+<text>
+             Барабанний магазин на 50 патронів використовувався для моделі Томпсона 1921 року. \n\n
+%c[d_purple] • %c[ui_gray_2] Не підійде для варіанту M1A1, оскільки його magwell інший.
+</text>
+</string>
+	
+</string_table>

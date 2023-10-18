@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_sks_7.62x39">
+		<text>Стандартний магазин SKS 7,62x39</text>
+	</string>
+	<string id="st_mag_sks_7.62x39_descr">
+		<text>
+		Стандартний магазин SKS місткістю 20 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_toz106_20x70_fmj">
+		<text>Стандартний магазин 20х70 ТОЗ 106</text>
+	</string>
+	<string id="st_mag_toz106_20x70_descr">
+		<text>
+		Стандартний магазин ТОЗ 106 місткістю 2 снаряди.
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_fmj">
+		<text>Подовжений магазин 20х70 ТОЗ 106</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_descr">
+		<text>
+		Розширений магазин ТОЗ 106 місткістю 4 снаряди.
+		</text>
+	</string>
+	
+	
+	
+	
+	
+	<string id="st_mag_toz106_20x70_zhekan_fmj">
+		<text>Стандартний магазин 20х70 ТОЗ 106</text>
+	</string>
+	<string id="st_mag_toz106_20x70_zhekan_descr">
+		<text>
+		Стандартний магазин TOZ 106 місткістю 2 бойових снаряди.
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_zhekan_fmj">
+		<text>Розширений магазин 20х70 ТОЗ 106</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_zhekan_descr">
+		<text>
+		Розширений магазин ТОЗ 106 місткістю 4 кулі.
+		</text>
+	</string>
+	
+	
+	
+	
+	
+	<string id="st_mag_dvl_7.62x51">
+		<text>Стандартний магазин 7,62x51 DVL10</text>
+	</string>
+	<string id="st_mag_dvl_7.62x51_descr">
+		<text>
+		Стандартний магазин DVL10 місткістю 10 патронів.
+		</text>
+	</string>
+		
+	<string id="st_mag_basremington700_7.62x51_descr">
+		<text>Розширений магазин 7,62x51 Remington 700</text>
+	</string>
+	<string id="st_mag_basremington700_7.62x51">
+		<text>
+		Розширений магазин Remington 700 на 12 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonarchangel_7.62x51">
+		<text>Розширений магазин Remington Archangel Kit 7,62x51</text>
+	</string>
+	<string id="st_mag_remingtonarchangel_7.62x51_descr">
+		<text>
+		Розширений магазин Remington Archangel Kit місткістю 20 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonla_300_descr">
+		<text>Стандартний магазин .300 Remington 700</text>
+	</string>
+	<string id="st_mag_remingtonla_300">
+		<text>
+		Стандартний магазин Remington 700 місткістю 5 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_k98_7.92x33">
+		<text>Стандартний магазин Kar 98 7,92x33</text>
+	</string>
+	<string id="st_mag_k98_7.92x33_descr">
+		<text>
+		Стандартний магазин Kar 98 місткістю 5 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_valbas_9x39_pab9">
+		<text>Розширений магазин 9x39 АС ВАЛ</text>
+	</string>
+	<string id="st_mag_valbas_9x39_pab9_descr">
+		<text>
+		Розширений магазин 9x39 АС ВАЛ місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_basvintorez_9x39_pab9">
+		<text>Розширений магазин VSS 9x39</text>
+	</string>
+	<string id="st_mag_basvintorez_9x39_pab9_descr">
+		<text>
+		Розширений магазин 9x39 VSS місткістю 20 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_basextvintorez_9x39_pab9">
+		<text>Розширений магазин VSS 9x39</text>
+	</string>
+	<string id="st_mag_basextvintorez_9x39_pab9_descr">
+		<text>
+		Розширений магазин 9x39 VSS місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56">
+		<text>Стандартний магазин 5,56x45 СВД</text>
+	</string>
+	<string id="st_mag_svd_5.56_descr">
+		<text>
+		Стандартний магазин 5,56x45 СВД ємністю 10 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56_extended">
+		<text>Розширений магазин 5,56x45 СВД</text>
+	</string>
+	<string id="st_mag_svd_5.56_extended_descr">
+		<text>
+		Розширений магазин 5,56x45 СВД ємністю 20 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_sksext_7.62x39">
+		<text>Розширений магазин SKS 7,62x39</text>
+	</string>
+	<string id="st_mag_sksext_7.62x39_descr">
+		<text>
+		Розширений магазин 7,62x39 SKS місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54ext">
+		<text>Розширений магазин SKS 7,62x54</text>
+	</string>
+	<string id="st_mag_sks_7.62x54ext_descr">
+		<text>
+		Подовжений магазин 7,62x54 SKS місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54">
+		<text>Стандартний магазин SKS 7,62x54</text>
+	</string>
+	<string id="st_mag_sks_7.62x54_descr">
+		<text>
+		Стандартний магазин 7,62x54 SKS місткістю 20 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_dvl_338">
+		<text>Стандартний магазин .338 Federal DVL10</text>
+	</string>
+	<string id="st_mag_dvl_338fed_descr">
+		<text>
+		Стандартний магазин .338 Federal DVL10 місткістю 10 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_7.62x39_bas">
+		<text>Стандартний магазин 7,62x39 АК Альфа</text>
+	</string>
+	<string id="st_mag_akalfa_7.62x39_bas_descr">
+		<text>
+		Стандартний магазин 7,62х39 АК Альфа місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_5.56x45_bas">
+		<text>Стандартний магазин 5,56x45 АК Альфа</text>
+	</string>
+	<string id="st_mag_akalfa_5.56x45_bas_descr">
+		<text>
+		Стандартний магазин 5,56х45 АК Альфа місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x21_veresk">
+		<text>Стандартний магазин 9х21 СР-2М Вереск</text>
+	</string>
+	<string id="st_mag_sr2m_9x21_veresk_descr">
+		<text>
+		Стандартний магазин 9x21 SR-2M Вереск місткістю 30 патронів.
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x18_veresk">
+		<text>Стандартний магазин СР-2М 9х18 Вереск</text>
+	</string>
+	<string id="st_mag_sr2m_9x18_veresk_descr">
+		<text>
+		Стандартний магазин 9x18 SR-2M Вереск місткістю 30 патронів.
+		</text>
+	</string>
+
+</string_table>

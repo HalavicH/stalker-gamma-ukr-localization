@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- ------------------- inventory pda ----------------- -->
+	<!-- --------------- script -------------- -->
+	<!-- -------- gui -------- -->
+	<string id="pda_inter_menu">
+	<text>ПДА меню</text>
+</string>
+
+<string id="pda_raid_choose">
+<text>Виберіть локацію:</text>
+</string>
+
+<string id="pda_cur_active">
+<text>Активно:</text>
+</string>
+
+<string id="pda_cur_active_none">
+<text>нічого</text>
+</string>
+
+<string id="pda_cur_active_raid">
+<text>Шукається група для рейду</text>
+</string>
+
+<string id="pda_cur_active_find">
+<text>Запитую, чи бачив хто </text>
+</string>
+
+<string id="pda_squad_size">
+<text>Розмір загону</text>
+</string>
+
+<string id="pda_squad_hire">
+<text>Найняти:</text>
+</string>
+
+<string id="pda_relation_friend">
+<text>друг</text>
+</string>
+
+<string id="pda_relation_neutral">
+<text>нейтрал</text>
+</string>
+
+<string id="pda_relation_enemy">
+<text>ворог</text>
+</string>
+
+<string id="pda_raid_diff_very_easy">
+<text>Дуже легко</text>
+</string>
+
+<string id="pda_raid_diff_easy">
+<text>Легко</text>
+</string>
+
+<string id="pda_raid_diff_medium">
+<text>Середньо</text>
+</string>
+
+<string id="pda_raid_diff_hard">
+<text>Складно</text>
+</string>
+
+<string id="pda_raid_diff_very_hard">
+<text>Дуже складно</text>
+</string>
+
+<string id="pda_raid_diff_deadly">
+<text>Смертельно</text>
+</string>
+
+<string id="pda_private_msg">
+<text>Особисте повідомлення:</text>
+</string>
+
+<string id="pda_delivery_stash">
+<text>залишив моє замовлення тут.</text>
+</string>
+
+<string id="pda_delivery_ordering">
+<text>Замовляю</text>
+</string>
+
+<string id="pda_delivery_time">
+<text>Термін доставки</text>
+</string>
+
+<string id="pda_delivery_h">
+<text>ч</text>
+</string>
+
+<string id="pda_delivery_km">
+<text>км</text>
+</string>
+
+<string id="pda_order_btn_text">
+<text>Замовлення:</text>
+</string>
+
+
+<!-- -------- raid -------- -->
+<string id="pda_raid_to_join_1">
+<text>Ми можемо допомогти... за хорошу ціну.</text>
+</string>
+
+<string id="pda_raid_to_join_2">
+<text>Готові вступити.</text>
+</string>
+
+<string id="pda_raid_to_join_3">
+<text>Наш загін гарантує вашу безпеку.</text>
+</string>
+
+<string id="pda_raid_to_join_4">
+<text>Можете найняти нас, якщо у вас достатньо грошей.</text>
+</string>
+
+<string id="pda_raid_high_danger">
+<text>Ця локація набагато небезпечніша, ніж та, на яку я підписався. Я не залишусь тут надовго.</text>
+</string>
+
+<string id="pda_raid_timeout">
+<text>Добре, час вийшов. Ми йдемо.</text>
+</string>
+
+
+<!-- -------- find -------- -->
+<string id="pda_find_seen_1">
+<text>Так, я бачив це нещодавно.</text>
+</string>
+
+<string id="pda_find_seen_2">
+<text>Щойно бачив у моїй області.</text>
+</string>
+
+<string id="pda_find_seen_3">
+<text>За невелику суму, я можу сказати, де бачив це.</text>
+</string>
+
+<string id="pda_find_seen_4">
+<text>Можу поділитися інформацією, але не безкоштовно.</text>
+</string>
+
+<string id="pda_find_seen_5">
+<text>Я дивлюся на це зараз! Поспішай!</text>
+</string>
+
+
+<string id="pda_find_info_see_1">
+<text>Дякую. Так, я бачив </text>
+</string>
+
+<string id="pda_find_info_see_2">
+<text>Востаннє бачив </text>
+</string>
+
+<string id="pda_find_info_see_3">
+<text>Можеш знайти </text>
+</string>
+
+
+<string id="pda_find_info_at_1">
+<text> десь біля </text>
+</string>
+
+<string id="pda_find_info_at_2">
+<text> поряд з </text>
+</string>
+
+
+<!-- -------- trade -------- -->
+<string id="pda_trade_offer_1">
+<text>У мене є те, що ти шукаєш.</text>
+</string>
+
+<string id="pda_trade_offer_2">
+<text>Якщо є останній, але готовий продати.</text>
+</string>
+
+<string id="pda_trade_offer_3">
+<text>У мене таких повно і можу доставити куди завгодно.</text>
+</string>
+
+<string id="pda_trade_order_1">
+<text>Надсилаю людину відразу ж. Дам координати, коли буде готово.</text>
+</string>
+
+<string id="pda_trade_order_2">
+<text>Добре, напишу тобі і скину місце коли доставимо, не пропусти!</text>
+</string>
+
+<string id="pda_trade_deliver_1">
+<text>Твоє замовлення чекає на тебе, ось координати.</text>
+</string>
+
+<string id="pda_trade_deliver_2">
+<text>Посилання на місці і його координати. Дякую за покупку.</text>
+</string>
+
+
+<!-- -------- Banter -------- -->
+<string id="pda_banter_sos_1">
+<text>SOS, потрібна допомога! Це</text>
+</string>
+
+<string id="pda_banter_sos_at">
+<text>біля</text>
+</string>
+
+<string id="pda_banter_emission_hours">
+<text>годин.</text>
+</string>
+
+<string id="pda_banter_emission_msg_1_1">
+<text>Наскільки я знаю,</text>
+</string>
+
+<string id="pda_banter_emission_msg_1_2">
+<text>Хтось нещодавно говорив, що</text>
+</string>
+
+<string id="pda_banter_emission_msg_1_3">
+<text>Я майже впевнений,</text>
+</string>
+
+<string id="pda_banter_emission_msg_1_4">
+<text>Здається</text>
+</string>
+
+<string id="pda_banter_emission_msg_2_1">
+<text>почнеться десь через</text>
+	</string>
+
+	<string id="pda_banter_emission_msg_2_2">
+	<text>буде через</text>
+</string>
+
+<string id="pda_banter_emission_msg_2_3">
+<text>приблизно через</text>
+</string>
+
+<string id="pda_banter_status_1">
+<text>Бачив %s на цій локації.</text>
+</string>
+
+<string id="pda_banter_status_2">
+<text>З того, що я чув, тут десь %s.</text>
+</string>
+
+<string id="pda_banter_status_3">
+<text>%s помічено тут нещодавно.</text>
+</string>
+
+
+<!-- -------- Tasks -------- -->
+<!-- ---- Mutant hunt ---- -->
+<string id="pda_task_mutant_hunt_btn">
+<text>Полювання на мутантів</text>
+</string>
+
+<string id="pda_task_desc_1">
+<text>Я хочу, щоб ти позбувся %s близько %s.</text>
+</string>
+
+<string id="pda_task_tracker_1">
+<text>хоче щоб я вбив цих мутантів.</text>
+</string>
+
+<string id="pda_task_accept_1">
+<text>Добре, ось координати. Пам'ятай, деякі мутанти з'являються лише вночі.</text>
+</string>
+
+<!-- ---- Bounty ---- -->
+<string id="pda_task_bounty_btn">
+<text>Нагорода за голову</text>
+</string>
+
+<string id="pda_task_desc_2">
+<text>Я не хочу, щоб %s побачив ще один день, він десь біля %s.</text>
+</string>
+
+<string id="pda_task_tracker_2">
+<text>хоче позбутися цього сталкера.</text>
+</string>
+
+<string id="pda_task_accept_2">
+<text>Добре, ось координати.</text>
+</string>
+
+<!-- ---- Guide ---- -->
+<string id="pda_task_guide_btn">
+<text>Провідник</text>
+</string>
+
+<string id="pda_task_desc_3">
+<text>Мені потрібно дістатися до локації %s за %s годин.</text>
+</string>
+
+<string id="pda_task_tracker_3">
+<text>хоче щоб я допоміг йому дістатися сюди.</text>
+</string>
+
+<string id="pda_task_accept_3">
+<text>Добре, давай висуватися.</text>
+</string>
+
+<!-- ---- Fetch items ---- -->
+<string id="pda_task_fetch_items_btn">
+<text>Знайти предмети</text>
+</string>
+
+<string id="pda_task_desc_4">
+<text>Мені потрібно, щоб ти приніс мені х%s %s.</text>
+</string>
+
+<string id="pda_task_tracker_4">
+<text>хоче, щоб я поклав предмети сюди.</text>
+</string>
+
+<string id="pda_task_accept_4">
+<text>Добре, я чекатиму.</text>
+</string>
+
+<!-- ---- Dangerous squad ---- -->
+<string id="pda_task_dangerous_squad_btn">
+<text>Небезпечний загін</text>
+</string>
+
+<string id="pda_task_desc_5">
+<text>Мені потрібно, щоб ти знищив загін %s біля %s.</text>
+</string>
+
+<string id="pda_task_tracker_5">
+<text>хоче позбутися цього загону.</text>
+</string>
+
+<string id="pda_task_accept_5">
+<text>Добре, ось координати.</text>
+</string>
+
+<!-- ---- Steal item ---- -->
+<string id="pda_task_stealth_btn">
+<text>Вкрасти предмет</text>
+</string>
+
+<string id="pda_task_desc_6">
+<text>Я хочу, щоб ти приніс мені предмет з бази угрупування %s.</text>
+</string>
+
+<string id="pda_task_tracker_6">
+<text>хоче, щоб я поклав предмет сюди.</text>
+</string>
+
+<string id="pda_task_tracker_6_1">
+<text>хоче щоб я здобув цей предмет.</text>
+</string>
+
+<string id="pda_task_stealth_noticed">
+<text>Ворог побачив тебе, нагорода тепер буде набагато меншою.</text>
+</string>
+
+<string id="pda_task_stealth_item_take">
+<text>Так, це воно!</text>
+</string>
+
+<string id="pda_task_accept_6">
+<text>Добре, я чекатиму.</text>
+</string>
+
+<!-- ---- Guard position ---- -->
+<string id="pda_task_guard_btn">
+<text>Охорона позиції</text>
+</string>
+
+<string id="pda_task_desc_7">
+<text>Мені потрібна охорона позиції %s. </text>
+</string>
+
+<string id="pda_task_tracker_7">
+<text>хоче щоб я охороняв цю позицію.</text>
+</string>
+
+<string id="pda_task_accept_7">
+<text>Добре, але поспішай або я знайду когось іншого. До речі, оплата подвоюється вночі від 20 до 5.</text>
+</string>
+
+<string id="pda_task_guard_at_warning">
+<text>Ти на позиції охорони.</text>
+</string>
+
+<string id="pda_task_guard_hide_warning">
+<text>Тобі потрібно бачити область, виходь назовні!</text>
+</string>
+
+<string id="pda_task_guard_outside_warning_6">
+<text>Ти залишаєш позицію, яку маєш охороняти.</text>
+</string>
+
+<string id="pda_task_guard_outside_warning_20">
+<text>Ти все ще поза позицією, яку маєш охороняти.</text>
+</string>
+
+<string id="pda_task_guard_fail">
+<text>Тобі потрібно було бути на позиції набагато раніше, я краще пошукаю когось іншого.</text>
+</string>
+
+<string id="pda_task_guard_finish">
+<text>Вже закінчив? Добре, ось твоя нагорода</text>
+</string>
+
+<!-- ---- Scout ---- -->
+<string id="pda_task_scout_btn">
+<text>Розвідка</text>
+</string>
+
+<string id="pda_task_desc_8">
+<text>Мені потрібна розвідка на локаціях %s.</text>
+</string>
+
+<string id="pda_task_tracker_8">
+<text>хоче щоб я розвідав це місце.</text>
+</string>
+
+<string id="pda_task_accept_8">
+<text>Я відзначив місця, удачі.</text>
+</string>
+
+<string id="pda_task_guard_scouted">
+<text>Місце розвідане.</text>
+</string>
+
+	<string id="pda_task_scout_finish">
+<text>Дякую, ось твоя нагорода</text>
+</string>
+
+
+<!-- ---- Misc ---- -->
+<string id="pda_task_reward">
+<text>Нагорода:</text>
+</string>
+
+<string id="pda_task_reward_hour">
+<text>за годину.</text>
+</string>
+
+<string id="pda_task_accept_btn">
+<text>Прийняти</text>
+</string>
+
+<string id="pda_task_active_msg">
+<text>Шукаю завдання</text>
+</string>
+
+<string id="pda_task_note">
+<text>(Завдання</text>
+</string>
+
+<string id="pda_task_finish">
+<text>Дуже добре, дякую. Ось твоя нагорода</text>
+</string>
+
+<string id="pda_task_finish_part">
+<text>Я знаю, ти не був тим, хто закінчив справу, тільки частина нагороди</text>
+</string>
+
+<string id="pda_task_finish_none">
+<text>Хтось інший закінчив цю роботу.</text>
+</string>
+
+<string id="pda_task_respond_1">
+<text>Так, я маю схожу роботу.</text>
+</string>
+
+<string id="pda_task_respond_2">
+<text>Якраз шукав когось для цього.</text>
+</string>
+
+<string id="pda_task_respond_3">
+<text>Можу запропонувати дещо.</text>
+</string>
+
+<string id="pda_task_guide_timeout">
+<text>Я мав бути там набагато раніше, твоя нагорода тепер буде меншою через це.</text>
+</string>
+
+<string id="pda_task_guide_failed">
+<text>Ваші відносини з групуванням %s та репутація погіршилися.</text>
+</string>
+
+<string id="pda_task_guide_completed">
+<text>Ваші відносини з групуванням %s та репутація покращилися.</text>
+</string>
+
+
+<!-- --------------------------------------------- -->
+<!-- ------------------- xml ----------------- -->
+<string id="pda_main_menu_raid">
+<text>Рейд</text>
+</string>
+
+<string id="pda_main_menu_find">
+<text>Купити інформацію</text>
+</string>
+
+<string id="pda_main_menu_games">
+<text>Ігри</text>
+</string>
+
+<string id="pda_main_menu_trade">
+<text>Купити предмет</text>
+</string>
+
+<string id="pda_find_menu_artefact">
+<text>Артефакт</text>
+</string>
+
+<string id="pda_find_menu_mutant">
+<text>Мутант</text>
+</string>
+
+<string id="pda_find_menu_stalker">
+<text>Сталкер</text>
+</string>
+
+<string id="pda_find_menu_stalker_confirm">
+<text>Підтвердити</text>
+</string>
+
+<string id="pda_games_menu_puzzle">
+<text>П'ятнашки</text>
+</string>
+
+<string id="pda_games_menu_slots">
+<text>Ігровий автомат</text>
+</string>
+
+<string id="pda_games_menu_snake">
+<text>Змійка</text>
+</string>
+
+<string id="pda_games_menu_play">
+<text>Грати</text>
+</string>
+
+<string id="pda_main_menu_send">
+<text>Надіслати</text>
+</string>
+
+<string id="pda_main_menu_cancel">
+<text>Скасувати</text>
+</string>
+
+<string id="pda_main_menu_money">
+<text>Гроші:</text>
+</string>
+
+<string id="pda_trade_menu_search_box">
+<text>Поле пошуку:</text>
+</string>
+
+<string id="pda_trade_menu_search">
+<text>Пошук</text>
+</string>
+
+<string id="pda_trade_menu_item_list">
+<text>Знайдені предмети:</text>
+</string>
+
+<string id="pda_trade_menu_quantity">
+<text>Кількість:</text>
+</string>
+
+<string id="pda_trade_menu_delivery">
+<text>Місце доставки:</text>
+</string>
+
+<string id="pda_trade_menu_confirm_btn">
+<text>Підтвердити</text>
+</string>
+
+<string id="pda_main_menu_notes">
+<text>Нотатки</text>
+</string>
+
+<string id="pda_notes_add_btn">
+<text>Додати</text>
+</string>
+
+<string id="pda_notes_edit_btn">
+<text>Ред.</text>
+</string>
+
+<string id="pda_notes_delete_btn">
+<text>Х</text>
+</string>
+
+<string id="pda_notes_editedit_btn">
+<text>Змінити</text>
+</string>
+
+<string id="pda_notes_picker_hint">
+<text>Номер нотатки:</text>
+</string>
+
+<string id="pda_banter_main_menu">
+<text>Спілкування</text>
+</string>
+
+<string id="pda_banter_sos_header">
+<text>Надіслати сигнал SOS</text>
+</string>
+
+<string id="pda_banter_sos_confirm">
+<text>Підтвердити (-50 репутації)</text>
+</string>
+
+<string id="pda_banter_surge_header">
+<text>Запитати час викиду</text>
+</string>
+
+<string id="pda_banter_surge_confirm">
+<text>Підтвердити</text>
+</string>
+
+<string id="pda_banter_psi_header">
+<text>Запитати час псі-шторму</text>
+</string>
+
+<string id="pda_banter_psi_confirm">
+<text>Підтвердити</text>
+</string>
+
+<string id="pda_banter_status_header">
+<text>Статус локації</text>
+</string>
+
+<string id="pda_banter_status_confirm">
+<text>Підтвердити</text>
+</string>
+
+<string id="pda_task_main_menu">
+<text>Завдання</text>
+</string>
+
+<string id="pda_non_private_msg">
+<text>Усім:</text>
+</string>
+
+<string id="pda_stalker_sos_thanks_1">
+<text>Це було близько, спасибі.</text>
+</string>
+
+<string id="pda_stalker_sos_thanks_2">
+<text>Спасибі сталкер!</text>
+</string>
+
+<string id="pda_stalker_sos_thanks_3">
+<text>Ти врятував моє життя.</text>
+</string>
+<string id="pda_stalker_sos_reward_1">
+<text>Тут %s, це все, що я маю.</text>
+</string>
+
+<string id="pda_stalker_sos_reward_2">
+<text>У мене з собою не дуже багато, але я позначаю одну з моїх схованок.</text>
+</string>
+
+</string_table>

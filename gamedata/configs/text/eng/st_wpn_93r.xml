@@ -1,0 +1,20 @@
+<string_table>
+	<string id="st_wpn_beretta_93">
+		<text>Beretta 93R</text>
+	</string>
+	<string id="st_wpn_beretta_93_descr">
+		<text>The Beretta 93R is an Italian selective-fire machine pistol, designed and manufactured by Beretta in the late 1970s for police and military use, that is derived from their semi-automatic Beretta 92. The &#34;R&#34; stands for Raffica, which is Italian for &#34;volley&#34;, &#34;flurry&#34;, or &#34;burst&#34; (sometimes spoken &#34;R&#34; as &#34;Rapid&#34; in English). The Beretta 93R is mechanically similar to the Beretta 92. It can be selected to fire either a three round burst or single fire. A selector switch enables the operator to alternate between the two firing modes. The pistol is fitted with a collapsible angled foregrip at the front end of the trigger guard to provide better stability when firing. A folding steel buttstock can be attached at the heel of the grip. The Beretta 93R is much more controllable compared to other machine pistols because it was designed with only a three round burst mode as well as a ported barrel.</text>
+	</string>
+	<string id="st_wpn_beretta_92_g1">
+		<text>Beretta 92 "Renetti"</text>
+	</string>
+	<string id="st_wpn_beretta_92_g1_descr">
+		<text>The Beretta 92 Renetti is a special designation of the classic 92s, capable of full automatic fire due to it&#39;s selector switch and high magazine capacity, it&#39;s compensator helps mantaining stability both while wielding it and firing it.</text>
+	</string>
+	<string id="st_wpn_p38">
+		<text>Walther P-38</text>
+	</string>
+	<string id="st_wpn_p38_descr">
+		<text>The Walther P38 (originally written Walther P.38) is a 9 mm semi-automatic pistol that was developed by Carl Walther GmbH as the service pistol of the Wehrmacht at the beginning of World War II. It was intended to replace the costly Luger P08, the production of which was scheduled to end in 1942. The P.38 was a cutting edge semi-automatic pistol design, which introduced technical features still used today in current commercial and military semi-automatic pistols, including the Beretta 92FS and its M9 sub-variant adopted by the United States military in 1985. </text>
+	</string>
+</string_table>

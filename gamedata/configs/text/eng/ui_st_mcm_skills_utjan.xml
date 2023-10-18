@@ -1,0 +1,31 @@
+<string_table>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
+<text>Множник досвіду медицини</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
+        <text>Множник досвіду божевілля</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_tinkering">
+        <text>Множник досвіду ремонту</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
+        <text>Множник досвіду бартеру</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
+        <text>Weapon Handling exp multiplier</text>
+    </string>
+	
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
+        <text>Множник досвіду зарядки магазинів</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
+        <text>Множник досвіду злому замків</text>
+    </string>
+
+    <string id="ui_mcm_ut_skill_system_title">
+        <text>Skills Expansion Налаштування</text>
+    </string>
+     <string id="ui_mcm_menu_ut_skill_system">
+        <text>Skills Expansion</text>
+    </string>
+</string_table>

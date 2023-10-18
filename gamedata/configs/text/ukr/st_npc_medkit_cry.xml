@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_eat_medkit_cry_1">
+        <text>Кх-х... Аптечка-аптечка... Ось, ось так... Фу-ух.</text>
+    </string>
+    <string id="st_eat_medkit_cry_2">
+        <text>От гадость... Потрапив, скотина. Добре, що палять хоч при собі...</text>
+    </string>
+    <string id="st_eat_medkit_cry_3">
+        <text>Що, думав, один такий розумний з аптечками?</text>
+    </string>
+    <string id="st_eat_medkit_cry_4">
+        <text>Угмф... Кровищі-то... Де ж цей бинт....</text>
+    </string>
+    <string id="st_eat_medkit_cry_5">
+        <text>Скільки крові, чорт! У мене... була... адже аптеч-кх-ха.</text>
+    </string>
+    <string id="st_eat_medkit_cry_6">
+        <text>Ну вже немає, я так просто не дамся!</text>
+    </string>
+    <string id="st_eat_medkit_cry_7">
+        <text>Пропала аптечка... Ну все, гад, вішайся!</text>
+    </string>
+    <string id="st_eat_medkit_cry_8">
+        <text>Давай-давай... ну ж, де шприц ?!</text>
+    </string>
+    <string id="st_eat_medkit_cry_9">
+        <text>М-м-пф... Прилетіло добре.</text>
+    </string>
+    <string id="st_eat_medkit_cry_10">
+        <text>Гх-кх-кх. Якщо виживу, проставлені медику.</text>
+    </string>
+    <string id="st_eat_medkit_cry_11">
+        <text>Потрібен бинт! Швидше!</text>
+    </string>
+    <string id="st_eat_medkit_cry_12">
+        <text>Уф-ф... Пощастило все ж з аптечкою з трупа...</text>
+    </string>
+    <string id="st_eat_medkit_cry_13">
+        <text>Ай, гх-х... Ось тобі і страховочку ..!</text>
+    </string>
+    <string id="st_eat_medkit_cry_14">
+        <text>Щ-ще один... укол, ну-у-у -м-о...</text>
+    </string>
+    <string id="st_eat_medkit_cry_15">
+        <text>Гх-х... Пощастило з аптечкою...</text>
+    </string>
+    <string id="st_eat_medkit_cry_16">
+        <text>Пф-ф, аргх-х! Всього лише подряпина!</text>
+    </string>
+    <string id="st_eat_medkit_cry_17">
+        <text>Аптечку! Хто-небудь!</text>
+    </string>
+    <string id="st_eat_medkit_cry_18">
+        <text>Кх-кха-а-а... так-а-а... Морфін...</text>
+    </string>
+    <string id="st_eat_medkit_cry_19">
+        <text>Спробуй ще раз, гад!</text>
+    </string>
+    <string id="st_eat_medkit_cry_20">
+        <text>Чо-oрт тебе... Аг-кха! За-ра-з з-залатаємо...</text>
+    </string>
+    <string id="st_eat_medkit_cry_21">
+        <text>Ти й справді подумав, що зможеш пустити мені кров?</text>
+    </string>
+    <string id="st_eat_medkit_cry_22">
+        <text>Чорт, потрапив... Але начебто тримаюсь ще...</text>
+    </string>
+</string_table>

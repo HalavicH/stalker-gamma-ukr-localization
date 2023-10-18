@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_pda_accept_task">
+		<text>Прийняти завдання</text>
+	</string>
+	<string id="st_pda_refresh_tasks">
+		<text>Оновити завдання</text>
+	</string>
+	<string id="st_pda_next_task">
+		<text>Наступне завдання</text>
+	</string>
+	<string id="pda_btn_taskboard">
+		<text>Завдання</text>
+	</string>
+		<string id="st_pda_caption_setup_bounty_task">
+		<text>Завдання за винагороду</text>
+	</string>
+	<string id="st_pda_caption_setup_assault_task">
+		<text>Завдання на штурм табору</text>
+	</string>
+	<string id="st_pda_caption_setup_spy_task">
+		<text>Завдання на виявлення шпигуна</text>
+	</string>
+	<string id="st_pda_caption_on_init_delivery_task">
+		<text>Завдання доставки</text>
+	</string>
+	<string id="st_pda_caption_setup_measure_task">
+		<text>Завдання вимірювання</text>
+	</string>
+	<string id="st_pda_caption_on_init_fate_task">
+		<text>Доленосні завдання</text>
+	</string>
+	<string id="st_pda_caption_setup_dominance_task">
+		<text>Завдання на домінування</text>
+	</string>
+	<string id="st_pda_caption_setup_fetch_task">
+		<text>Завдання на пошук</text>
+	</string>
+	<string id="st_pda_caption_script">
+		<text>Скриптові завдання</text>
+	</string>
+	<string id="st_pda_caption_rest">
+		<text>Інші завдання</text>
+	</string>
+</string_table>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <!-- PDA -->
+    <string id="pda_btn_encyclopedia">
+        <text>Довідник</text>
+    </string>
+    <string id="pda_btn_encyclopedia_hint">
+        <text>Відкрити довідник</text>
+    </string>
+    <!-- Interface components -->
+    <string id="pda_encyclopedia_title">
+        <text>Довідник Зони</text>
+    </string>
+    <string id="st_pda_encyclopedia_image_checkbox">
+        <text>Зображення зверху</text>
+    </string>
+    <string id="st_pda_encyclopedia_message_checkbox">
+        <text>Показати повідомлення</text>
+    </string>
+    <!-- Messages -->
+    <string id="pda_encyclopedia_notify">
+        <text>Відкрита стаття:%s, %s</text>
+    </string>
+    <string id="pda_encyclopedia_notify_note">
+        <text>Нова нотатка:%s</text>
+    </string>
+    <!-- Misc -->
+    <string id="pda_encyclopedia_info">
+        <text>Інформація</text>
+    </string>
+    <string id="pda_encyclopedia_properties">
+        <text>Властивості</text>
+    </string>
+    <string id="pda_encyclopedia_subject">
+        <text>Предмет</text>
+    </string>
+    <string id="pda_encyclopedia_content">
+        <text>Зміст</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_lifes">
+        <text>Надані життя</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_life">
+        <text>Решта життя</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_deaths">
+        <text>Кількість смертей</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_cycle">
+        <text>Термін надання життів (в годинах)</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_1">
+        <text>Одна помилка і все скінчено...</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_2">
+        <text>Треба бути обережніше!</text>
+    </string>
+    <string id="pda_encyclopedia_ironman_3">
+        <text>Я у безпеці.</text>
+    </string>
+    <!-- Locked articles -->
+    <string id="pda_encyclopedia_locked">
+        <text>??????????</text>
+    </string>
+    <string id="pda_encyclopedia_locked_text">
+        <text>Ви ще не відкрили цю статтю. \n\nСтатті можна відкрити наступними способами:\n\n • Знаходження локацій.\n
+            • Використання карт пам'яті.
+           \n• Оброблення мутантів.\n • Спілкування і взаємодія зі сталкерами.\n • Використання предметів і
+            фракційного спорядження.
+        </text>
+    </string>
+</string_table>

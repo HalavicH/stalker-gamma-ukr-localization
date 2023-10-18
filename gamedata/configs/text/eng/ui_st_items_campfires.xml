@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_campfire_placeable_title">
+<text>Вогнища, що розміщуються</text>
+</string>
+<string id="ui_mcm_menu_campfire_placeable">
+<text>Вогнища, що розміщуються</text>
+</string>
+
+<string id="ui_mcm_campfire_placeable_place_radius">
+<text>Радіус встановлення багаття</text>
+</string>
+<string id="ui_mcm_campfire_placeable_place_radius_desc">
+<text>Радіус поверхні від гравця, який повинен бути більш-менш рівним, щоб була можливість встановити багаття. \n
+\n За замовчуванням: 3.0</text>
+</string>
+
+<string id="ui_mcm_campfire_placeable_dot_dist_diff">
+<text>Контроль поверхні</text>
+</string>
+<string id="ui_mcm_campfire_placeable_dot_dist_diff_desc">
+<text>Межа різниці у відстані між променями, спрямованими на поверхню, використовується для визначення того, чи плоска поверхня. Збільште повзунок, якщо ви хочете мати можливість розміщувати багаття на більш нерівних поверхнях. \n
+\n За замовчуванням: 0.4</text>
+</string>
+
+<string id="ui_mcm_campfire_placeable_transition_delete_items">
+<text>Видалення розміщених багать при зміні рівня</text>
+</string>
+<string id="ui_mcm_campfire_placeable_transition_delete_items_desc">
+<text>Видаляє розміщені багаття при кожному переході рівня. \n
+\n За замовчуванням: Увімк.</text>
+</string>
+
+<string id="ui_mcm_campfire_placeable_delete_items">
+<text>ВИДАЛЕННЯ НОВИХ ОБ'ЄКТІВ (видалення аддону)</text>
+</string>
+<string id="ui_mcm_campfire_placeable_delete_items_desc">
+<text>Щоб запобігти пошкодженню файлу збереження, ця опція видаляє нові предмети, додані цим аддоном при наступному завантаженні. \n
+\n Отже, якщо ви хочете видалити аддон: \n
+1) Увімкніть цю опцію; \n
+2) Збережіться, завантажтеся і збережіться знову; \n
+3) Вийдіть з гри і відключіть аддон.</text>
+</string>
+
+</string_table>

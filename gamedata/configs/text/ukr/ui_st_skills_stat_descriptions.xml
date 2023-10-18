@@ -1,0 +1,80 @@
+<string_table>
+    <string id="st_player_skill_stats">
+        <text>\nСТАТИСТИКА:</text>
+    </string>
+
+    <!-- Scavenging -->
+   <string id="st_player_skills_hint_scavenging">
+<text>Дає збільшений дроп зі сталкерів.\n \nРівні отримуються за грабунок сталкерів, сталкери вищого рангу дають більше досвіду. \n \n</text>
+</string>
+<string id="st_skills_stats_scavenging_skill_positive">
+         <text>\n%c[255,86,102,255]•%c[ui_6] Шанс отримати додатковий лут: %c[d_green]$stat%</text>
+     </string>
+     <string id="st_skills_stats_scavenging_skill_negative">
+         <text>\n%c[255,86,102,255]•%c[ui_6] Шанс втратити лут: %c[d_red]$stat%</text>
+     </string>
+
+
+     <!-- Сила -->
+     <string id="st_player_skills_hint_strength">
+<text>Дає збільшену вагу та шкоду від ближнього бою.\n \nРівні отримуються за пересування з важким вантажем та ведення бою в ближньому бою. \n \n</text>
+</string>
+
+     <string id="st_skills_stats_weight_modifer_positive">
+         <text>\n%c[255,255,201,86]•%c[ui_6] Модифікатор власної ваги: %c[d_green]x$stat</text>
+     </string>
+     <string id="st_skills_stats_weight_modifer_negative">
+         <text>\n%c[255,255,201,86]•%c[ui_6] Модифікатор власної ваги: %c[d_red]x$stat</text>
+     </string>
+
+     <string id="st_skills_stats_melee_damage_positive">
+         <text>\n%c[255,255,201,86]•%c[ui_6] Модифікатор шкоди в ближньому бою: %c[d_green]x$stat</text>
+     </string>
+     <string id="st_skills_stats_melee_damage_negative">
+         <text>\n%c[255,255,201,86]•%c[ui_6] Модифікатор шкоди в ближньому бою: %c[d_red]x$stat</text>
+     </string>
+
+     <string id="st_skills_stats_base_weight">
+         <text>\n%c[255,255,201,86]•%c[ui_6] Бонус до ваги: %c[d_green]+$stat кг</text>
+     </string>
+
+     <!-- Виживання -->
+     <string id="st_player_skills_hint_survival">
+<text>Дає підвищену стійкість до ушкоджень і шанс отримати додаткову частину при знятті шкури.\n \nРівні отримуються при отриманні ушкоджень (ушкодження завдають тільки кулі і мутанти) і знятті шкури з мутантів, більш небезпечні мутанти дають більше експірієнсу. \n \n</text>
+</string>
+     <string id="st_skills_stats_resistance_positive">
+         <text>\n%c[255,135,255,86]•%c[ui_6] Збільшено зменшення шкоди на: %c[d_green]x$stat</text>
+     </string>
+     <string id="st_skills_stats_resistance_negative">
+         <text>\n%c[255,135,255,86]•%c[ui_6] Збільшення шкоди, завданої: %c[d_red]x$stat</text>
+     </string>
+
+     <string id="st_skills_stats_bleed_restore">
+         <text>\n%c[255,135,255,86]•%c[ui_6] Збільшено зменшення кровотечі на: %c[d_green]$stat%</text>
+     </string>
+
+      <string id="st_skills_stats_hunting_skill_positive">
+         <text>\n%c[255,135,255,86]•%c[ui_6] Шанс отримати додаткову частину мутанта: %c[d_green]$stat%</text>
+     </string>
+     <string id="st_skills_stats_hunting_skill_negative">
+         <text>\n%c[255,135,255,86]•%c[ui_6] Шанс втратити частину мутанта: %c[d_red]$stat%</text>
+     </string>
+
+     <!-- Витривалість -->
+     <string id="st_player_skills_hint_endurance">
+<text>Збільшує витривалість і швидкість.\n \nРівні можна отримати, подорожуючи на легкому ходу. \n \n</text>
+</string>
+     <string id="st_skills_stats_power_loss_positive">
+         <text>\n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості: %c[d_green]x$stat</text>
+     </string>
+     <string id="st_skills_stats_power_loss_negative">
+         <text>\n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості: %c[d_red]x$stat</text>
+     </string>
+
+     <string id="st_skills_stats_speed_modifier_positive">
+         <text>\n%c[255,255,86,86]•%c[ui_6] Модифікатор швидкості: %c[d_green]x$stat</text>
+     </string>
+     <string id="st_skills_stats_speed_modifier_negative">
+         <text>\n%c[255,255,86,86]•%c[ui_6] Модифікатор швидкості: %c[d_red]x$stat</text>
+     </string>
+</string_table>

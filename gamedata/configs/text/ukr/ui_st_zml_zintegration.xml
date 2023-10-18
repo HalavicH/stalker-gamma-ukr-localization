@@ -1,0 +1,32 @@
+<string_table>
+	<string id="ui_mcm_menu_zml_zzintegration">
+		<text>Integration</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_integration_info">
+		<text>The options here allow ZLM to work nicely together with other addons. This is similar to compatibility patches, just a lot more convenient.</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_glowsticks_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Enables glowsticks to spawn as useful items.</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_mags_redux">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_mags_redux_chance">
+		<text>Magazine spawn chance</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_mags_redux_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Enables spawns of magazines for currently equipped weapons as extra-item in stash boxes.</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_zzlootbox_npcspawn">
+		<text>Anomaly Lootboxes on NPCs</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_zzlootbox_stashspawn">
+		<text>Anomaly Lootboxes in stashes</text>
+	</string>
+	<string id="ui_mcm_ZML_zml_zzintegration_zzlootbox_info">
+		<text>For https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Enables lootboxes to spawn in their own category, and lockpicks to spawn as tool items.</text>
+	</string>
+</string_table>

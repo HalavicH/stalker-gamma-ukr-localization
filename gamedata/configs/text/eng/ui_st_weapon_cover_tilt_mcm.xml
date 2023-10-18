@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>Нахил зброї</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>Нахил зброї</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>Увімкнути</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>Інерційність анімації</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>Менше значення - швидша анімація</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>Фактор ваги</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>Чим більше число, тим сильніше впливає вага зброї на швидкість анімації</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>Радіус спрацьовування в метрах</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>Модифікатор довжини зброї</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>Це змінить залежність радіусу спуску курка від довжини зброї: чим більше значення, тим більшою буде різниця між короткою та довгою зброєю</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>Розглянемо прикріплені глушники для радіусу спрацьовування</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>Зброя з приєднаними глушниками, коли вони приєднані, матиме збільшений радіус дії на спусковий гачок приблизно на 0,1 метра</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>Брязкіт при нахилі</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>Позиція зброї зміщена на X</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - left. &gt; 0 - right</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>Weapon position offset by Y</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - down. &gt; 0 - up.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>Weapon position offset by Z</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - backward. &gt; 0 - forward</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>Weapon yaw variation.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>When a weapon is raised, it will be randomly yawed by +- a given degree for more animation variation</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>Weapon roll variation</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>When a weapon is raised, it will be randomly rolled by +- a given degree for more animation variation</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>Enable Manual Tilt</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>Manual Tilt Keybind</text>
+	</string>
+	
+</string_table>

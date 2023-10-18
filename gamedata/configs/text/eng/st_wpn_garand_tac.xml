@@ -1,0 +1,8 @@
+<string_table>
+	<string id="st_wpn_garand_tac">
+		<text>M1 Garand Tactical</text>
+	</string>
+	<string id="st_wpn_garand_tac_descr">
+		<text>The M1 Garand or M1 rifle is a semi-automatic rifle that was the service rifle of the U.S. Army during World War II and the Korean War. The rifle is chambered for the .30-06 Springfield cartridge and is named after its Canadian-American designer, John Garand. It was the first standard-issue autoloading rifle for the United States. By most accounts, the M1 rifle performed well. General George S. Patton called it "the greatest battle implement ever devised". The M1 replaced the bolt-action M1903 Springfield as the U.S.' service rifle in 1936, and was itself replaced by the selective-fire M14 rifle on March 26, 1958. The Tactical variant includes polymer furniture instead of wooden, as well as a picatinny rail on top of the handguard to mount optics. \n \n %c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]   %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n \n</text>
+	</string>
+</string_table>

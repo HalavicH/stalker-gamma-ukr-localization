@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_mcm_menu_ptp_camera">
+		<text>PTP Camera</text>
+	</string>	
+	<string id="ui_ptp_camera_title">
+		<text>Playable Third Person Camera [v1.13]</text>
+	</string>	
+	<string id="ui_mcm_ptp_camera_enable_fdda_backpacks_anim">
+		<text>First person backpack animations (Requires FDDA addon)</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_fdda_backpacks_anim_desc">
+		<text>Attention! Mandatory installation of a patch on FDDA is required for the correct operation of the addon!</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_fpd_cam">
+		<text>Third person instant death (Requires AyyKyu FPD addon)</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_fpd_cam_desc">
+		<text>On death, instantly turns off the camera and loads the last save.</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_hide_hud_option">
+		<text>Enable hidden HUD? (Hold TAB)</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_hide_hud_option_desc">
+		<text>Why so serious? :)</text>
+	</string>	
+	<string id="ui_mcm_ptp_camera_enable_fast_mind_option">
+		<text>Enable time slowdown when using inventory?</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_focus_option">
+		<text>Enable dynamic motion camera?</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_focus_option_inverted">
+		<text>Invert dynamic camera?</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_zoom_option">
+		<text>Enable optional zoom? (Hold Walk)</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_third_person_fov">
+		<text>Third Person FOV</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_third_person_fov_desc">
+		<text>Default value: 80</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_warning">
+		<text>INSTRUCTIONS: \nLoad into the game, make a quick save, go to settings and setup camera position. \nOnce you choosed a camera position, be sure to check the "Reload system configs" checkbox. \nAfter that, immediately quick load, without leaving the main menu to avoid crash, and enjoy! \nIf you do not follow these instructions, changes to the camera position will not be applied or will lead to crash!</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_style">
+		<text>Camera position (hover for hint)</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_style_desc">
+		<text>Style1: Close Shoulder Camera \nStyle2: Regular Shoulder Camera \nStyle3: Back Camera \nCustom: Your Customization</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_custom_x">
+		<text>Left or Right</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_custom_y">
+		<text>Lower or Higher</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_cam_custom_z">
+		<text>Further or closer</text>
+	</string>
+	<string id="ui_mcm_ptp_camera_enable_ini_reset">
+		<text>Reload system configs</text>
+	</string>
+	
+</string_table>

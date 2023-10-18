@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="st_cap_af_weather_options">
+        <text>Погода</text>
+    </string>
+    <string id="st_cap_af_event_options">
+        <text>явища Зони</text>
+    </string>
+    <string id="st_cap_af_moon_options">
+        <text>ночі</text>
+    </string>
+    <string id="st_cap_af_default_options">
+        <text>інші Опції</text>
+    </string>
+    <string id="st_cap_af_blowout">
+        <text>викиди</text>
+    </string>
+    <string id="st_cap_af_fallout">
+        <text>опади</text>
+    </string>
+    <string id="st_cap_af_psi_storm">
+        <text>Пси-шторм</text>
+    </string>
+    <string id="st_cap_check_enable_blowout">
+        <text>викид включен</text>
+    </string>
+    <string id="st_cap_check_enable_fallout">
+        <text>опади включені</text>
+    </string>
+    <string id="st_cap_check_enable_psi_storm">
+        <text>Пси-шторм включений</text>
+    </string>
+    <string id="st_cap_fate">
+        <text>Доля НПС:</text>
+    </string>
+    <string id="st_cap_warning">
+        <text>попередження:</text>
+    </string>
+    <string id="st_cap_task">
+        <text>завдання:</text>
+    </string>
+    <string id="st_cap_freq">
+        <text>частота:</text>
+    </string>
+    <string id="st_list_freq_12">
+        <text>кожні 6 - 12 годин</text>
+    </string>
+    <string id="st_list_freq_24">
+        <text>кожні 12 - 24 години</text>
+    </string>
+    <string id="st_list_freq_48">
+        <text>кожні 1 - 2 дні</text>
+    </string>
+    <string id="st_list_freq_96">
+        <text>кожні 2 - 4 дня</text>
+    </string>
+    <string id="st_list_fate_killatend">
+        <text>Смерть в кінці</text>
+    </string>
+    <string id="st_list_fate_killatwave">
+        <text>Смерть після досягнення хвилі</text>
+    </string>
+    <string id="st_list_fate_turntozombie">
+        <text>Перетворювати в зомбі</text>
+    </string>
+    <string id="st_list_fate_explode">
+        <text>Розривати на частини</text>
+    </string>
+    <string id="st_list_fate_poison">
+        <text>Рад./Хім. отруєння</text>
+    </string>
+    <string id="st_list_fate_none">
+        <text>без наслідків</text>
+    </string>
+    <string id="st_list_fate_kill">
+        <text>Смерть на піку</text>
+    </string>
+    <string id="st_list_fate_killorturn">
+        <text>Смерть/Перетворювати в зомбі</text>
+    </string>
+    <string id="st_list_warning_radio_siren">
+        <text>Радіо і сирена</text>
+    </string>
+    <string id="st_list_warning_radio">
+        <text>Радіо</text>
+    </string>
+    <string id="st_list_warning_siren">
+        <text>Сирена</text>
+    </string>
+    <string id="st_list_warning_none">
+        <text>Без попереджень</text>
+    </string>
+    <string id="st_list_task_give">
+        <text>Давати завдання</text>
+    </string>
+    <string id="st_list_task_none">
+        <text>Не давати завдання</text>
+    </string>
+    <string id="st_cap_moon_phases">
+        <text>Фази місяця</text>
+    </string>
+    <string id="st_cap_night_brightness">
+        <text>Яскравість ночей</text>
+    </string>
+    <string id="st_list_night_brightness_dark">
+        <text>Темні ночі</text>
+    </string>
+    <string id="st_list_night_brightness_slight">
+        <text>Трохи світлі ночі</text>
+    </string>
+    <string id="st_list_night_brightness_medium">
+        <text>Світлі ночі</text>
+    </string>
+    <string id="st_list_night_brightness_bright">
+        <text>Дуже світлі ночі</text>
+    </string>
+    <string id="st_cap_weather_presets">
+        <text>Попередні:</text>
+    </string>
+    <string id="st_cap_weather_balance_presets">
+        <text>Баланс</text>
+    </string>
+    <string id="st_cap_weather_length_presets">
+        <text>Тривалість</text>
+    </string>
+    <string id="st_period_length_2h">
+        <text>2г</text>
+    </string>
+    <string id="st_period_length_3h">
+        <text>3г</text>
+    </string>
+    <string id="st_period_length_4h">
+        <text>4г</text>
+    </string>
+    <string id="st_period_length_5h">
+        <text>5г</text>
+    </string>
+    <string id="st_period_length_6h">
+        <text>6г</text>
+    </string>
+    <string id="st_period_length_7h">
+        <text>7г</text>
+    </string>
+    <string id="st_period_length_8h">
+        <text>8г</text>
+    </string>
+    <string id="st_period_length_9h">
+        <text>9г</text>
+    </string>
+    <string id="st_period_length_10h">
+        <text>10г</text>
+    </string>
+    <string id="st_period_length_11h">
+        <text>11г</text>
+    </string>
+    <string id="st_period_length_12h">
+        <text>12г</text>
+    </string>
+    <string id="st_period_length">
+        <text>Довжина періоду:</text>
+    </string>
+    <string id="st_cap_moon_cycle_length">
+        <text>Довжина місячного циклу:</text>
+    </string>
+    <string id="st_cap_moon_cycle_length_8">
+        <text>8 днів</text>
+    </string>
+    <string id="st_cap_moon_cycle_length_28">
+        <text>28 днів</text>
+    </string>
+    <string id="st_cap_moon_static">
+        <text>Встановити постійний фазу:</text>
+    </string>
+    <string id="st_cap_moon_phase_0">
+        <text>Новий Місяць</text>
+    </string>
+    <string id="st_cap_moon_phase_1">
+        <text>Молодий місяць</text>
+    </string>
+    <string id="st_cap_moon_phase_2">
+        <text>Перша чверть</text>
+    </string>
+    <string id="st_cap_moon_phase_3">
+        <text>Прибуваючий місяць</text>
+    </string>
+    <string id="st_cap_moon_phase_4">
+        <text>Повний місяць</text>
+    </string>
+    <string id="st_cap_moon_phase_5">
+        <text>Спадаючий місяць</text>
+    </string>
+    <string id="st_cap_moon_phase_6">
+        <text>Остання чверть</text>
+    </string>
+    <string id="st_cap_moon_phase_7">
+        <text>Старий місяць</text>
+    </string>
+    <string id="st_list_weather_balance_preset_default">
+        <text>баланс погоди</text>
+    </string>
+    <string id="st_list_weather_balance_preset_good">
+        <text>переважно хороша</text>
+    </string>
+    <string id="st_list_weather_balance_preset_bad">
+        <text>переважно погана</text>
+    </string>
+    <string id="st_list_weather_balance_preset_custom">
+        <text>своє</text>
+    </string>
+    <string id="st_list_weather_length_preset_default">
+        <text>довжина періодів</text>
+    </string>
+    <string id="st_list_weather_length_preset_short">
+        <text>короткі</text>
+    </string>
+    <string id="st_list_weather_length_preset_long">
+        <text>довгі</text>
+    </string>
+    <string id="st_list_weather_length_preset_custom">
+        <text>своє</text>
+    </string>
+    <string id="st_list_periods_clear">
+        <text>ясна</text>
+    </string>
+    <string id="st_list_periods_clear_foggy">
+        <text>Ясна / Туманна</text>
+    </string>
+    <string id="st_list_periods_foggy">
+        <text>туманна</text>
+    </string>
+    <string id="st_list_periods_foggy_rainy">
+        <text>Туманна / Дощова</text>
+    </string>
+    <string id="st_list_periods_rainy">
+        <text>дощова</text>
+    </string>
+    <string id="st_list_periods_stormy">
+        <text>штормова</text>
+    </string>
+    <string id="st_btn_load_color_balance">
+        <text>Повернути стандартні налаштування кольору і яскравості</text>
+    </string>
+    <string id="st_btn_load_default_settings">
+        <text>Відновити стандартні налаштування подій, погоди і місяця</text>
+    </string>
+    <string id="st_msg_after_save">
+        <text>Налаштування застосуються відразу після перезавантаження</text>
+    </string>
+    <string id="st_msg_load_user">
+        <text>Ви дійсно хочете повернути стандартні налаштування кольору і яскравості?</text>
+    </string>
+    <string id="st_msg_load_default_settings">
+        <text>Ви дійсно хочете відновити стандартні налаштування подій, погоди і місяця?</text>
+    </string>
+    <string id="st_msg_load_user_done">
+        <text>Стандартні налаштування кольору і яскравості відновлені.</text>
+    </string>
+    <string id="st_msg_load_default_settings_done">
+        <text>Стандартні налаштування подій, погоди і місяця відновлені.</text>
+    </string>
+    <string id="st_cap_weather_occurrence">
+        <text>частота появи</text>
+    </string>
+    <string id="st_cap_weather_period">
+        <text>тривалість</text>
+    </string>
+    <string id="st_occurrence_rare">
+        <text>рідко</text>
+    </string>
+    <string id="st_occurrence_zero">
+        <text>ніколи</text>
+    </string>
+    <string id="st_occurrence_regular">
+        <text>часто</text>
+    </string>
+    <string id="st_wthr_clear">
+        <text>Ясно</text>
+    </string>
+    <string id="st_wthr_partly">
+        <text>Хмарно</text>
+    </string>
+    <string id="st_wthr_cloudy">
+        <text>похмуро</text>
+    </string>
+    <string id="st_wthr_rain">
+        <text>дощ</text>
+    </string>
+    <string id="st_wthr_storm">
+        <text>гроза</text>
+    </string>
+    <string id="st_wthr_foggy">
+        <text>туман</text>
+    </string>
+    <string id="st_cap_af_eff_tiny">
+        <text>Динамічні ефекти пилу</text>
+    </string>
+    <string id="st_cap_af_eff_fog">
+        <text>Динамічні ефекти туману</text>
+    </string>
+    <string id="st_cap_af_eff_wind">
+        <text>Динамічні звуки вітру</text>
+    </string>
+    <string id="st_cap_af_eff_rain">
+        <text>Динамічні звуки дощу</text>
+    </string>
+</string_table>

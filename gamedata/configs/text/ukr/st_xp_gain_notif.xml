@@ -1,0 +1,8 @@
+<string_table>
+	<string id="st_xp_notif_gain">
+        <text>Отримано</text>
+    </string>
+    <string id="st_xp_notif_for">
+        <text>XP: </text>
+    </string>
+</string_table>

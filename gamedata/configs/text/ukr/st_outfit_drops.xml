@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    
+	<string id="ui_mcm_outfitdrop_helmet_light_chance">
+		<text>Шанс падіння легкого шолома</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_light_chance_desc">
+		<text>Відсотковий шанс награбувати балаклави і тканинні маски з убитих сталкерів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance">
+		<text> Шанс випадання шолома</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance_desc">
+		<text> Відсотковий шанс випадання газмасок і бойових шоломів з убитих сталкерів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance">
+		<text> Шанс випадання легкої екіпіровки</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance_desc">
+		<text>Відсотковий шанс отримати легку екіпіровку з мертвих сталкерів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
+		<text> Шанс випадання середньої екіпіровки</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
+		<text>Відсотковий шанс випадання середньої екіпіровки з мертвих сталкерів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
+		<text>Шанс випадання важкої екіпіровки</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance_desc">
+		<text>Відсотковий шанс випадання важкої екіпіровки з мертвих сталкерів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance">
+		<text> Шанс випадання екзоскелета</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance_desc">
+		<text>Відсотковий шанс знайти екзоскелети з мертвих переслідувачів.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance">
+		<text>Шанс випадання частин</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance_desc">
+		<text>Відсотковий шанс знайти деталі, коли вбрання не спауняться.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_debug">
+		<text>Друк налагодження</text>.
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_debug_desc">
+		<text>Ви вже знаєте, що це робить.</text>
+	</string>
+	<string id="ui_mcm_menu_outfitdrop">
+		<text> Випадання вбрання</text>
+	</string>
+</string_table>

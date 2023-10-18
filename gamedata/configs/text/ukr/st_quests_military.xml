@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MILITARY WAREHOUSES MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+<string_table>
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!-
+      <!- STORYLINE TASK TEXT  STRINGS
+      <!-
+      <!-	Modified by DoctorX
+      <!-	for DoctorX Questlines 1.6
+      <!-	October 07, 2016
+      <!-
+      <!- - -->
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Default Storyline Task -->
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
+        <text>Отримати наступне завдання</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_text">
+        <text>Лукаш запропонував пошукати роботу у одного з відомих йому людей.</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_about">
+        <text>Я хочу, щоб ти зустрівся з деким. Він не мій друг, але йому може знадобитися твоя допомога.</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_finish">
+        <text>Удачі, сталкер.</text>
+    </string>
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Assassination Storyline Task- -->
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+        <text>Вбивство для Лукаша</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+        <text>Лукаш дав завдання на замовне вбивство.</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+        <text>Гей, я радий, що ти прийшов. Потрібно дещо зробити для мене. Треба усунути нашого ворога. Він являє для
+            нас величезну небезпеку.
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+        <text>Дякую.</text>
+    </string>
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+        <text>«Воля» проти «Моноліту»</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+        <text>«Моноліту» все-таки вдалося прорватися через оточення «Волі». Лукаш явно не в дусі, раз доручив очолити
+            і провести загін «Волі» для нападу на «Моноліт».
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+        <text>Сили «Моноліту» змогли прорвати нашу оборону. Я хочу остаточно покінчити з ними. \n\nБери штурмовий загін
+            і очоль його в рейді на територію «Моноліту».
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+        <text>Відмінна робота.</text>
+    </string>
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Search Lab X-8 (Outskirts) Storyline Task -->
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+        <text>Дослідження X-8</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+        <text>Обстежити лабораторію X-8 в пошуках слідів членів угруповання «Чисте небо».</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+        <text>Я отримав інформацію, що колишні члени «Чистого неба» кілька років тому, схоже, працювали в лабораторії
+            X-8 в Прип'яті. \n\nНеобхідно дослідити саму лабораторію і принести будь-які документи, які там ще
+            залишилися. \nВони можуть пролити світло на отриману мною інформацію.
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+        <text>Добре. Відмінна робота.</text>
+    </string>
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!-
+      <!- CHANGE FACTIONS TASK TEXT  STRINGS
+      <!-
+      <!-	Modified by DoctorX
+      <!-	for DoctorX Questlines 1.6
+      <!-	December 08, 2016
+      <!-
+      <!- - -->
+    <!-- Пропущенный диалог Лукаша -->
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+        <text>З диким вітром нарівні</text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+        <text>Для вступу в «Волю» Лукаш попрохав 15,000 гривень - на технічне забезпечення угруповання, спорягу і пиво.
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+        <text>Ти прямо за адресою, брате! Ти не пошкодуєш, що прийшов до «Волі»! У нас найшибайголові чуваки,
+            найшибайголові веселощі на базі і найшибайголовіші пригоди на «Бар'єрі», ха-ха! Я лише сподіваюся, що ти дійсно
+            поділяєш наші погляди і будеш готовий прийти на допомогу Волівцю ближньому своєму в скрутну хвилину, або ж
+            не випустиш можливість врізати цій урядовій машині. Разом ми зробимо Зону вільної! \n\nТак що, брате, якщо
+            ти готовий сприяти становленню цієї волі, ціна питання складе всього якісь 15,000 гривень. Сам розумієш,
+            спорягу не з повітря беремо, та й хлопцям треба їсти.
+        </text>
+    </string>
+    <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+        <text>Ласкаво просимо в «Волю»! Нарешті ти вільний, чувак! Але спершу дружнє нагадування: будь з усіма тут в
+            ладах, інакше трапиться так, що ночувати доведеться в Кровососовці. Зрозумів? \nОсь і добре!
+        </text>
+    </string>
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
+    <string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+        <text>З диким вітром нарівні</text>
+    </string>
+    <string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+        <text>Для вступу у «Волю» Лукаш попрохав 15,000 гривень - на Технічне забезпечення угруповання, спорягу і пиво.
+        </text>
+    </string>
+    <string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+        <text>Ти прямо за адресою, брат! Ти не пошкодуєш, що прийшов до «Волі»! У нас самі безбашенні чуваки, саме
+            безбашенні веселощі на базі і самі безбашенні пригоди на «Бар'єрі», ха-ха! Я лише сподіваюся, що ти дійсно
+            поділяєш наші погляди і будеш готовий прийти на допомогу Фрімену ближньому своєму в скрутну хвилину, або ж
+            не випустиш можливість врізати цієї урядової машині. Разом ми зробимо Зону вільної! \n\nТак що, брат, якщо
+            ти готовий сприяти становленню цієї свободи, ціна питання складе всього якісь 15,000 гривень. Сам розумієш,
+            спорягу не з повітря беремо, та й хлопцям треба їсти.
+        </text>
+    </string>
+    <string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+        <text>Ласкаво просимо у «Волю»! Нарешті ти вільний, чувак! Але спершу дружнє нагадування: будь з усіма тут
+            чемний, інакше трапиться так, що ночувати доведеться в Кровососовці. Зрозумів? \nОт і добре!
+        </text>
+    </string>
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!-
+      <!- DYNAMIC TASK TEXT  STRINGS
+      <!-
+      <!-	Modified by DoctorX
+      <!-	for DoctorX Questlines 1.6
+      <!-	October 07, 2016
+      <!-
+      <!- - -->
+    <!-- - -->
+    <!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+        <text>Знищити противника</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+        <text>Лукашу надійшла інформація про підготовку противником нападу. \nНеобхідно знищити загін противника в
+            зазначеній точці і доповісти Лукашу про виконання завдання.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+        <text>Мені тут шепнули, що на табір наш атака готується. Треба б пришити супостатів до того, як вони на нас
+            нападуть. Зробиш?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+        <text>Виконав? Чудово, друже. Дякую.</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+        <text>Відвоювати територію</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+        <text>Нещодавно бійці «Обов'язку» змогли вибити загони «Волі» з одного з польових таборів, а потім і зовсім
+            закріпилися там. \nНеобхідно відвоювати територію угруповання і доповісти про виконання завдання.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+        <text>Є одна місія. «Обов'язці», щоб їм добра не було, все не вгамовуються: патрулі наші обстрілюють, на
+            блокпости нападають. Ось на днях табір наш захопили. Негарно це, розумієш? \n\nТреба би провчити цих
+            засранців, поки вони у відкриту на нас не поперли.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+        <text>Зробив? Найс, мен. Виручив так виручив. Так їм, цим поліцаям нещасним!</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+        <text>Милосердне вбивство</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+        <text>У Зоні є безліч способів піти з життя, кожен з яких може бути гірше попереднього. Але самий жахливим,
+            мабуть, є зомбування, причому не має значення - спалити мізки або отримати їх промитими. Тому
+            Лукаш попрохав надати особисту послугу - допомогти одному з «втрачених» волівців знайти свій заслужений
+            спокій, а не бути маріонеткою Моноліту. Це могли б зробити і друзі волівця, але немає гарантій, що вони
+            змогли б натиснути на гачок.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+        <text>Погані новини, брат. Один з вільних тримав «Бар'єр» до кінця, не даючи Монолитовцям пробитися. І він би й
+            справді відбив атаку, якби не хвиля викиду... Таку людину втратили! \nТа якби ж то помер, але ж
+            ні... навіть викид пережив! Але гарного мало, коли тобі промивають мізки... \nВсе, що я прошу зробити, так це звільнити його від цієї долі. Він би й сам вважав
+            за краще скоріше вмерти, ніж стати тим, проти чого він бився. Я прошу зробити це саме тебе, а інакше це
+            зроблять його друзі... А я не впевнений, що вони зможуть.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+        <text>Все влаштував? Дякую братику. Бачити в зомбованих і Монолитовцях своїх друзів - такого ворогу не
+            побажаєш, у багатьох вистачає духу тиснути на гачок в такій ситуації, і трупів стає вже два. Мда... Гаразд, що
+            це я... Ось тобі за виконане особисте прохання.
+        </text>
+    </string>
+    <!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+        <text>Смерть зрадникам</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+        <text>Один з колишніх волівців переметнувся до «Обов'язку» з досить делікатній інформацією, яка може переважити
+            баланс сил в Прип'яті на бік «Обов'язку». \nЛукаш попрохав знайти і усунути зрадника, поки той не злив всю
+            інформацію.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+        <text>Один сталкер, а за сумісництвом ще й колишній волівець, який знав багато чого про важливих об'єктах в
+            Прип'яті, нещодавно переметнувся на бік «Обов'язку». Потрібно змусити його проковтнути язика, поки він не наговорив
+            зайвого. Зрозумів?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+        <text>Супер! Від душі, друже. Тепер вже обов'язці вдосталь покусають свої лікті. Ось те, що я обіцяв:</text>
+    </string>
+    <!-- FIND WEAPON FOR FREEDOM TASK -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+        <text>Вільний обіг зброї</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
+        <text>«Воля» має клопоти з поставками озброєння через перекриті шляхи з півдня і півночі, а тому Лукаш
+            попрохав знайти «%s» в бездоганному стані. \nНеобхідно знайти цю зброю і доставити Лукашу.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
+        <text>«Обов'язок» на південь від нас, а з півночі шляху перекриває «Моноліт». Ми буквально відрізані від наших
+            постачальників. Зброя зношується, а нам потрібно десь брати нову. Допоможеш з цим?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
+        <text>«Обов'язок» на південь від нас, а з півночі шлях перекриває «Моноліт». Ми буквально відрізані від наших
+            постачальників. Зброя зношується, а нам потрібно десь брати нову. Допоможеш з цим? \n\n "%s» - те, що зараз
+            потрібно. Якщо ти зможеш знайти таку зброю в відмінному стані - я добре заплачу.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+        <text>Дякую за зброю. А ось і гроші, як я і обіцяв.</text>
+    </string>
+    <!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+        <text>Ковбой</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
+        <text>На «Волю» напирають мало не з усіх флангів. Лукаша такий стан справ явно не влаштовує, тому він хоче
+            продемонструвати, з чого зроблені «вільні люди». А «%s» зійде в якості прямого доказу виконаної роботи.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+        <text>Ми зараз немов між молотом і ковадлом: фанатики з півночі, фанатики з півдня, а бонусом ще йдуть і
+            військові. Як щодо того, щоб показати наше ставлення до правил і всієї цієї воєнізованої шушвалі?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_about">
+        <text>Ми зараз немов між молотом і ковадлом: фанатики з півночі, фанатики з півдня, а бонусом ще йдуть і
+            військові. Як щодо того, щоб показати наше ставлення до правил і всієї цієї воєнізованої шушвалі? Дістань
+            мені для такої справи: «%s».
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+        <text>Ось тримай. Дякую чоловіче.</text>
+    </string>
+    <!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
+        <text>Гей, бро! Пам'ятаєш тих поїхавших фанатиків? Настирливі що свідки Єгови, хіба що тільки зі зброєю
+            та маніакальними нахилами? З першого разу до них, схоже, не дійшло... Лукаш сказав, що їх помітили на
+            Затоні, у цехів підстанції. Засунь ти їм свинцеві буклетики туди, куди вітер не дме, добре?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
+        <text>Ха! Я знав, що Рембо наш їх всіх зробить! Ось, чуваче, тримай заслужену нагороду.</text>
+    </string>
+    <!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+        <text>Воля в неволі</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_text">
+        <text>Лукаш попрохав допомоги у порятунку шпигуна, якого їм вдалося заслати в стан ворога. Проте через якийсь
+            час він перестав виходити на зв'язок, а єдиний контакт, який він встановив з Лукашем - зашифрована передача.
+            З неї стало ясно, що агент «Волі» знаходиться в небезпеці, причому швидше за все він так і не був
+            розкритий. А це означає, що в разі нападу він буде відігравати свою роль по-повній. \nНеобхідно знайти його
+            і усунути всіх сталкерів противника в його оточенні, після чого супроводити врятованого волівця назад на
+            базу.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_about">
+        <text>Бачиш, нам вдалося підсадити до наших ворогів вільного брата, якому не склало труднощів зображати з себе
+            ідіота, яких в тому стані більшість. Ми йому ліву інфу, а він нам - перевірену. І все було шито-крито: нам
+            спіймати ніхто не може, зате ми мало не кожну операцію зриваємо. Але останні кілька днів нічого з цього не
+            відбувається. Просто тиша. \nА буквально годину тому мені прийшло зашифроване повідомлення, що означає, що
+            нашому контакту потрібна термінова евакуація. І ти прийшов як не можна до речі, так як з великим загоном
+            велика ймовірністю зачепити свого, а один або два бійця - зовсім інша розмова. \n\nНайголовніше, що тобі
+            треба запам'ятати - це не стріляти в сталкера, який буде з СВД - це і є наш шпигун. Він не вказав, розкрили
+            його - значить, якщо він зберіг легенду, то він буде також чинити опір. Необхідно усунути можливе супровід,
+            а вже після цього подати сигнал, що ти від «Волі». \nНу що, допоможеш нам врятувати вільного брата?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_finish">
+        <text>Ека ти толково все вирішив, дякую. Я поспілкуюся зі врятованим якомога швидше.</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
+        <text>Не стріляй! Припини! Я свій, вільний! \n\nФух, вляглося все. Блін, Лукаш хоч би шифр який скинув,
+            справді... Але так добре, виручив ти мене, мен. Ой як виручив, я вже думав - все, зараз дійдемо куди-небудь,
+            і мене в аномалію визначать. Страшінка в одному місці грала! \n\nГаразд, почухали на базу? А то втомився я
+            під близьких косити... зараз би завалитися та косячок зашмаліть... ех.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
+        <text>Ось ми і на місці. Дякую тобі ще раз, друже! Ти підходь, як в наших краях будеш - косячок заб'ємо або
+            горілочки хряпнем за дружбу.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+        <text>Страйкер</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_text">
+        <text>У Лукаша з'явилася важка головний біль - ЗСУ організували своїм подарунок у вигляді важкої бронетехніки,
+            яка повинна допомогти тим взяти під контроль ситуацію в Зоні. Однак контроль і вільна Зона погано
+            поєднуються один з одним, тому варто допомогти Лукашу позбутися цієї важкої головного болю, а військовим -
+            допомогти зі списанням техніки в утиль.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_about">
+        <text>До мене в руки потрапила інформація, що у армійців свято - їм «броню» в допомогу надсилають. Поки що лише
+            на кордон периметра, але хто знає, коли ці БТР'и почнуть вже перед нашим боком їздити, вірно? Та й не треба
+            говорити, наскільки сильно один навіть факт їх наявності в Зоні може завадити нашому звільненню Зони. Еніва,
+            поки що техніка знаходиться на Кордоні. Якщо пощастить, то екіпажу всередині не виявиться - це значить, що у
+            тебе є відмінний шанс знищити її без становлення швейцарським сиром. Як би там не було, для цієї справи тобі
+            знадобиться хороший запас вибухівки.
+        </text>
+    </string>
+    <!-- - -->
+    <!-- Skinflint (Freedom Mechanic) -->
+    <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+        <text>Полювання на дичину</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+        <text>«Воля» відчуває деякі клопоти з провізією, а адже ситий боєць - це задоволений боєць. \nСкнара
+            попрохав поквапитися і доставити йому м'яса мутантів, щоб «Волі» було чим годувати бійців. \n "%s»
+            згодиться.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+        <text>Так, чоловіче, є для тебе одну справу. Часи нині голодні, сам розумієш. Нормальною їжі не знайдеш, а бійців
+            годувати чимось треба. Буває, звичайно, іноді чуваки приносять пару-трійку плоті або кабанів, але останнім
+            часом щось все менше охочих за м'ясом ходити. \n\nПідсоби, га? Поки ми тут зовсім з голоду не померли.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+        <text>Так, чоловіче, є для тебе одну справу. Часи нині голодні, сам розумієш. Нормальною їжі не знайдеш, а бійців
+            годувати чимось треба. \n\nБуває, звичайно, іноді чуваки приносять пару-трійку плоті або кабанів, але
+            останнім часом щось все менше охочих за м'ясом ходити. \nПринеси «%s» , а Кулінар наш вже що-небудь з цього
+            замутить.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+        <text>От дякую, чувак, ну виручив! Ось тримай. Вже чим багатий.</text>
+    </string>
+    <!-- - -->
+    <!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+        <text>Цілком легальна робота</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_text">
+        <text>Скнара, схоже, займається контрабандою, раз попрохав забрати і доставити йому деяку посилку. \n\nВзагалом,
+            подібні наміри можуть бути зрозумілі, коли на тебе з усіх боків тиснуть угруповання, які бажають відкусити
+            твою філейну частину.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
+        <text>Є легке завдання для тих, хто любить мінімум питань і максимум грошей. Потрібно забрати і доставити мені
+            одну посилку. Ось і вся вступна. \n\nГрошима не ображу. Візьмешся?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+        <text>Дякую, сталкер! Приємно з тобою працювати.</text>
+    </string>
+    <!-- - -->
+    <!-- Skinflint (Freedom Trader)\night Terror Task -->
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+        <text>Вечори на хуторі</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_text">
+        <text>Скнара хоче позбутися небезпечного нічного мутанта, який завівся у селі кровососів і вже вбив декількох
+            членів «Волі».
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
+        <text>Ти ж в курсі про село смоктунів, так? Тепер там оселився чорний кровососи, який вилазить тільки ночами.
+            Тварина вже вбила кілька наших хлопців, а я не хочу втрачати ще більше. \n\nРозберешся з цієї хріню
+            чорної, ладно?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+        <text>Ха! Одним геморой менше. Молодець! А тепер, мабуть, треба хильнути за помста хлопців.</text>
+    </string>
+    <!-- - -->
+    <!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+        <text>Дефіцит припасів</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_text">
+        <text>У «Волі» виразно веселі хлопці, якщо навіть відкусаними частини тіла не зупиняють їх від повторних
+            вилазок в Зону. Скнара попрохав знайти йому дещо: «%s».
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
+        <text>Гей, мен. Деякі з наших, буває, надто незабутні пригоди знаходять на свою дупу, та тільки у нас не
+            вистачає спорядження і медикаментів на заштопиваніе всіх.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_about">
+        <text>Гей, мен. Деякі з наших, буває, надто незабутні пригоди знаходять на свою дупу, та тільки у нас не
+            вистачає спорядження і медикаментів на заштопиваніе всіх. \nМожеш принести мені дещо, наприклад, «%s»?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_finish">
+        <text>Найс! Ось це тобі, друже.</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+        <text>У Рудий ліс по артефакти</text>
+    </string>
+    <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+        <text>Лукаш хоче відправити пару загонів на пошуки артефактів, та тільки ми ледве-ледве стримуємо натиск
+            фанатиків і нечисті, що пре з Радар. А він, розумієте, по гриби хоче в ліс сходити... Все дошкуляє мене
+            проханнями знайти детектори та іншу лабуду... \nЗнаєщ, зазвичай я просто беру і посилаю хлопців в піше до
+            Янтару до вчених, але на даний момент вільних бійців взагалі немає. \n \nІ так, що мені треба: декілька
+            «Ведмедів» та СІМК'ов - не в кишенях ж дари Зони носити. А якщо захочеш ще й від душі допомогти нам, то не
+            завадила б і декілька батарейок. Не турбуйся, за це тобі перепаде бонус. Ну що, в темі?
+        </text>
+    </string>
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
+      <!-
+      <!- MECHANIC TASK TEXT  STRINGS
+      <!-
+      <!-	Modified by DoctorX
+      <!-	for DoctorX Questlines 1.6
+      <!-	October 07, 2016
+      <!-
+      <!- - -->
+    <!-- - -->
+    <!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+        <text>Справа майстра боїться, ч.1</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+        <text>Шурупу потрібні «%s», щоб він міг забезпечити більш серйозну модернізацію зброї і екіпіровки. \nВін б міг
+            попросити кого зі своїх знайомих, та тільки всі вільні «вільні» зовсім не в тій кондиції, щоб тягатися по
+            Зоні заради якихось інструментів .
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+        <text>О, тобі робота потрібна? Принеси мені деякі інструменти, а я тобі віддячу. Зробиш?</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+        <text>Значить, так, інструменти... Мені тут все бандити мамою клялися притягти цілий набір таких з Темної
+            долини, та тільки який там! Мабуть самі тим часом зі сталкерів зістригти намагаються. Ну, а наші Гайса зараз
+            взагалі в дупель повний, щоб ще і за інструментами по всяких цехам і покинутим заводам шоройобитися.
+            \nСумніваюсь, що вони зможуть навіть в поштовх потрапити з третього разу... \n \nВзагалом, мені для початку
+            підуть інструменти для грубої роботи, щоб лід, як то кажуть, скресла. Можна на тебе розраховувати, мен?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+        <text>Дякую, мен! Я знав, що ти впораєшся! Відразу видно - надійна людина.</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+        <text>Справа майстра боїться, ч.2</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+        <text>Майстерня шурупи знову запрацювала на всю котушку. Однак йому як і раніше потрібні інструменти для
+            проведення вузько робіт. \n\nВін попрохав знайти йому «%s». \nВін тоді зможе і з проблемним спорядженням
+            розібратися, і забезпечити більш серйозну модифікацію як зброї, так і іншого спорядження.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+        <text>А то, робота тут завжди знайдеться. Мені б ось ще один набір інструментів, але краще... Не, чувак, ти не
+            подумай! Той набір, що ти привіз, просто отпадний. Ми тобі з хлопцями тут вдячні, але в ньому є не все, що
+            мені потрібно в даний момент.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+        <text>Супер! Знав, що ти не відмовиш, друже. Як вже говорив, то, що ти мені приніс, допомогло льоду рушити, а
+            майстерня моя знову заспівала звуками повноцінної кузні і наповнилася пахощами пороху, розчинників і, може
+            бути, косячка... або двох. \n\nА, так... клопіт в тому, що я тут уперся в стіну, коли почав працювати з
+            більш просунутою спорягою. Ось під це щось справа мені і потрібен набір для тонкої роботи. Я з його
+            допомогою з спорягою за дві секунди впораюсь. Зазирни, як знайдеш його.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+        <text>Чудово, чувак! Тепер всі тут будуть знати: на тебе реально можна покластися! Дякую, мен!</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+        <text>Справа майстра боїться, ч.3</text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+        <text>Шуруп тепер крутиться в своїй майстерні ну точно білка в колесі. Однак йому хотілося б ще й догодити як
+            членам «Волі», так і рядовим сталкерам, які відвідують базу «Волі», шляхом установки найкращих
+            модифікацій в окрузі. \n\nДля того, щоб у нього це вийшло, необхідно знайти і доставити йому «%s».
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+        <text>Так, мабуть... Приятель, ти знаєш, я не дуже люблю щось випрошувати, але мені б дуже хотілося для
+            хлопців, та й взагалі всіх бажаючих, що проходять через базу, зварганити топові апгрейди і модифікації - щоб
+            ні в чому собі не відмовляли. І ти собі теж зможеш - це без розмов. \n\nТа тільки для цієї справи мені
+            потрібні зовсім вже професійні інструменти, яких я вже як кілька місяців не бачив. Чи зможеш збагнути такої
+            наборчик?
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+        <text>От дякую, друже! Загалом, мені лише потрібен набір для калібрування. З ним я зможу зробити все, що
+            завгодно. Дивишся, народу привалить побільше до нас, коли люди дізнаються, що я тут самі отпадние апгрейди
+            можу зробити за копійки. Навіть екзоскелети нарешті наші відкалібрувати зможу! \n\nЯк знайдеш такої, то
+            тягни його відразу до мені - не ображу нагородою.
+        </text>
+    </string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+        <text>Дякую тобі величезне, бро! Ти реально свій мен! Первістка у мене, мабуть, не буде в честь тебе
+            назвати, а ось на першому ж дулі де-небудь топову гравіювання забаццать, що це завдяки тобі він такий
+            крутий - це я зможу, ха-ха. Та й це саме! Якщо не буду сильно завантажений, то можеш користуватися верстатом
+            вільно, але тільки краще спитай спочатку, добре?
+        </text>
+    </string>
+    <!-- - -->
+    <!-- Defend the barrier -->
+    <!-- - -->
+    <string id="barrier_defense_monolith_announce">
+        <text>Увага всім сталкерам! Великий загін монолітовців наближається до «Барьеру», будемо раді будь-якій
+            допомозі. За винагородою не постоїмо.
+        </text>
+    </string>
+    <string id="barrier_defense_monolith_title">
+        <text>Захистити «Бар'єр»</text>
+    </string>
+    <string id="barrier_defense_monolith_descr">
+        <text>«Воля» просить допомоги у відбитті атаки монолітовців на «Бар'єр».</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_1">
+        <text>Е-е, «Моноліт»? Ні дякую...</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_2">
+        <text>О, грошенята! Вже біжу!</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_3">
+        <text>Так я все одно не збирався на Склади...</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_4">
+        <text>Що з винагороди-то? Гроші, арти, зброя? Не збираюся тягнутися на Склади заради одного міхура водяри.
+        </text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_5">
+        <text>Е-е-х, далеко я! Прийду, коли вже все стихне. А так хотів нову гвинтівку в справі перевірити...</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_6">
+        <text>Монохромні? Так я і без грошей згоден їх постріляти!</text>
+    </string>
+    <string id="barrier_defense_monolith_chatter_7">
+        <text>А цей саме... Трофеї можна забирати собі?</text>
+    </string>
+    <string id="barrier_defense_monolith_intro_1">
+        <text>Я отримав Ваше повідомлення. Гайда монолітовців кришити разом!</text>
+    </string>
+    <string id="barrier_defense_monolith_intro_2">
+        <text>Відмінно! Розвідники доповіли про декілька загонах, що йдуть сюди. Займай позицію і чекай їх появи, а там
+            - привітний прийом. Все просто. Якщо ти порахуєш, що їх занадто багато, то тримати не будемо, але і про
+            нагороду тоді й мови не може бути.
+        </text>
+    </string>
+    <string id="barrier_defense_monolith_outro_1">
+        <text>Фух, було жарко. Але «Бар'єр» знову вистояв.</text>
+    </string>
+    <string id="barrier_defense_monolith_outro_2">
+        <text>Відмінно стріляєш, сталкер. Це повинно допомогти покрити витрати на цих утирків. І трохи для розслабитися.
+            Добре, що ти поруч опинився!
+        </text>
+    </string>
+    <string id="barrier_defense_monolith_start_announce">
+        <text>Розвідники повідомляють, що монохромні ось-ось вийдуть. Все на позиції!</text>
+    </string>
+    <string id="barrier_defense_monolith_midchatter">
+        <text>Ох ти ж блін... РПГ-РПГ! ЗНІМІТЬ ЙОГО!</text>
+    </string>
+    <string id="barrier_defense_monolith_run_announce">
+        <text>Це тобі не літній табір, сталкер. Будь вдячний цим хлопцям за те, що у них яйця міцніше твоїх будуть.
+        </text>
+    </string>
+    <string id="barrier_defense_monolith_end_announce">
+        <text>Відмінна робота, хлопці! І дякую також добровольцям, що не дали драла. Підкочує до мене за
+            преміальними.
+        </text>
+    </string>
+    <string id="barrier_defense_zombie_announce">
+        <text>Всім сталкерам, що бачать це повідомлення! Велика група зомбованих рухається до «Барьеру»! Будемо раді
+            будь-якій зайвії збої! По закінченню паті будуть і преміальні.
+        </text>
+    </string>
+    <string id="barrier_defense_zombie_title">
+        <text>Захистити «Бар'єр»</text>
+    </string>
+    <string id="barrier_defense_zombie_descr">
+        <text>«Воля» просить допомоги у відбитті атаки зомбованих на «Бар'єр».</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_1">
+        <text>От же ж неупокоєнний-то...</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_2">
+        <text>Не, без мене. Дякую. Якось це неправильно...</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_3">
+        <text>Ну, принаймні, це не «Моноліт».</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_4">
+        <text>Сподіваюся, цього разу воно того варте! А то в минулий витратився більше, ніж заробив. Тьху.</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_5">
+        <text>Чорт, я занадто далеко... Це ж прекрасна можливість обкатати мою вінтовочку нову. Е-е-ех...</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_6">
+        <text>Зомбі? З Радар? Ось лайно... У мене друг пішов на Радар пару днів назад.</text>
+    </string>
+    <string id="barrier_defense_zombie_chatter_7">
+        <text>Я ж можу забрати трофеї з собою, так?</text>
+    </string>
+    <string id="barrier_defense_zombie_intro_1">
+        <text>Привіт. Я отримав повідомлення про допомогу. Ну що, давай душі неупокоенних звільняти?</text>
+    </string>
+    <string id="barrier_defense_zombie_intro_2">
+        <text>Відмінно. Зазвичай мертвяки не створюють проблем, але тільки нам через монолітовців зброї не вистачає.
+            Просто уяви, що ти в тирі.
+        </text>
+    </string>
+    <string id="barrier_defense_zombie_start_announce">
+        <text>Натовп йде на прорив! Готуйте зброю, хлопці!</text>
+    </string>
+    <string id="barrier_defense_zombie_midchatter">
+        <text>Вони взагалі закінчуються ?!</text>
+    </string>
+    <string id="barrier_defense_zombie_run_announce">
+        <text>Тю... чоловіче? Злякався мертвяков? Я не засуджую, але все ж... ай-яй.</text>
+    </string>
+    <string id="barrier_defense_zombie_end_announce">
+        <text>Відмінно постріляли! Нарешті заспокоїлися, бідолахи. Сталкери-добровольці! Підходьте до мене за вашою
+            винагородою.
+        </text>
+    </string>
+    <string id="barrier_defense_zombie_outro_1">
+        <text>Ну все. Тепер вони точно мертві.</text>
+    </string>
+    <string id="barrier_defense_zombie_outro_2">
+        <text>Дякую! Сподіваюся, ти нікого з них не впізнав. Іноді не «Моноліт» тут найстрашніше. Вип'ємо ж за
+            бідолах.
+        </text>
+    </string>
+    <string id="barrier_defense_reinforcements_1">
+        <text>Тримайтеся, братці! Вже летимо!</text>
+    </string>
+    <string id="barrier_defense_reinforcements_2">
+        <text>Ми тільки що покинули базу. Скоро будемо!</text>
+    </string>
+    <string id="barrier_defense_reinforcements_3">
+        <text>Там настільки все погано? Браття! Я ж думав, вас там досить!</text>
+    </string>
+    <string id="barrier_defense_reinforcements_4">
+        <text>Все почалося! Давайте-давайте, хлопці. Ворушіть поршнями!</text>
+    </string>
+    <!-- Solid (Freedom Medic) -->
+    <string id="mil_freedom_medic_task_1_name">
+        <text>Всі трави одного кольору</text>
+    </string>
+    <string id="mil_freedom_medic_task_1_text">
+        <text>Твердий, медик «Волі» на Складах, запропонував винагороду, якщо я знайду йому «%s» - він допоможе йому
+            не тільки компенсувати витрату медикаментів на фріменів, а й навіть спробувати зварганити щось своє. Однак
+            спершу треба знайти цей медкомплект і доставити його твердому.
+        </text>
+    </string>
+    <string id="mil_freedom_medic_task_1_about">
+        <text>З запасами медикаментів зовсім біда, мен... Допомога не завадила б.</text>
+    </string>
+    <string id="mil_freedom_medic_task_1_fetch_about">
+        <text>Ти прикинь, що тут тільки було щось нещодавно! Ціла історія! \nЗагін наших вже готовий був патруль Долгашов
+            тепленьким брати, як раптом гон... ось натуральний гон звірини! Які, трясця, там вже обов'язці - хлопцям самим
+            би живими піти... Кажуть, вже було за пагорб пішли, видихнули, як раптом потемніло все. А там, виявляється,
+            ще одна була... \nЛукаш швидко спорядив ще один загін - у нас же тут і без того гранатомети сперли прямо
+            з-під носа, а тут розвідзагін пропав при вигляді обов'язківців... \n \nХлопці знайшли, та й обов'язківців теж -
+            тих, походу, теж гоном накрило. Фрімен з другого загону поки своїх приводили до тями, все думали, що з
+            червоними робити... вирішили не кінчати. Старший промимрив у рацію та координати залишив, а потім на базу
+            рушили з пораненими. \n\nТам ще викид потім був, так що не в курсі, що стало з обов'язківцямі - врятували їх чи
+            ні. Але наших я швидко заштопати - там, в основному, контузії, забиті місця, рвані рани та порізи.
+            Клопіт тільки в тому, що мені і без подібних спецоперацій вистачає препарати та медикаменти витрачати для
+            Гайса з «Бар'єру», так що довго я так не протягну. \nАле є такий «%s», який дозволяє синтезувати ліки, Марь
+            Ванну та інші цілющі мікстуркі - прямо на коліні! Ось мені б такий, у-ух! Не хочеш допомогти, друже, га?
+        </text>
+    </string>
+    <string id="mil_freedom_medic_task_1_fetch_finish">
+        <text>Супер! Краса яка! Ну такого мені точно вистачить за милу душу. Можливо, навіть зі своїх рецептів
+            щось спробую... А для тебе у мене теж подарунок - лови!
+        </text>
+    </string>
+</string_table>

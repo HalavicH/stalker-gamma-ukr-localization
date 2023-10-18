@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_addon_companion_quick_menu_tooFar">
+        <text>Мій загін мене не почує. Потрібно підійти ближче або зв'язатися через КПК.</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_followMe">
+        <text>ЗА МНОЮ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_waitHere">
+        <text>ЧЕКАТИ ТУТ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_stopStealth">
+        <text>НЕ ХОВАТИСЯ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_stealth">
+        <text>ХОВАТИСЯ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_stayClose">
+        <text>ТРИМАТИСЯ ПОРУЧ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_stayFar">
+        <text>ТРИМАТИ ДИСТАНЦІЮ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_fireAtWill">
+        <text>ВОГОНЬ ЗА БАЖАННЯМ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+        <text>ТІЛЬКИ ВОГОНЬ ПІДТРИМКИ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_ignoreCombat">
+        <text>НЕ ВІДКРИВАТИ ВОГОНЬ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_doNotLootCorpses">
+        <text>НЕ ОБШУКУВАТИ ТРУПИ</text>
+    </string>
+    <string id="st_addon_companion_quick_menu_lootCorpses">
+        <text>ОБШУКУВАТИ ТРУПИ</text>
+    </string>
+</string_table>

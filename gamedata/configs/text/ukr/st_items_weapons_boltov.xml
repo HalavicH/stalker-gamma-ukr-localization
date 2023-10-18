@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	smileW
+-->
+
+<string_table>
+	
+    <string id="st_wpn_boltov">
+		<text>The Boltov</text>
+	</string>
+	<string id="st_wpn_boltov_descr">
+		<text>Another marvelous feat of a zone engineer. Inspired by one of the zone's most feared weapons, the Boltov uses artifact power to supercharge rusty old bolts. Accelerated to supersonic speed the bolt head separates and is launched at the targets face. The Zone has now its very own gopnik space program.</text>
+	</string>
+	
+	<string id="st_wpn_boltov_kit_lewd_operator">
+		<text>The Boltov "Gopnikool"</text>
+	</string>
+	<string id="st_wpn_boltov_kit_lewd_operator_descr">
+		<text>This semi-auto Boltov has not only been gopnikoolized with a foregrip and an aiming laser, no no no, it also has recoil dampeners and a magazine of 10 bolts!</text>
+	</string>
+	
+	<string id="st_wpn_boltov_kit_lewd_marksman">
+		<text>The Boltov "longer, harder, better"</text>
+	</string>
+	<string id="st_wpn_boltov_kit_lewd_marksman_descr">
+		<text>Now who the hell thought it would be a good idea to strap a long hard pipe and a bottle of beer as a scope on that thing?</text>
+	</string>
+	
+	<string id="st_wpn_boltov_kit_lewd_specialist">
+		<text>The Boltov "Smith & Methson"</text>
+	</string>
+	<string id="st_wpn_boltov_kit_lewd_specialist_descr">
+		<text>[in thick Alabama accent]: and this is the latest model from Smith & Meth-Son! "Silenced" through old cans of beans!</text>
+	</string>
+	
+	<string id="st_wpn_boltov_kit_lewd_warmonger">
+		<text>The Boltov "Sholtgun"</text>
+	</string>
+	<string id="st_wpn_boltov_kit_lewd_warmonger_descr">
+		<text>bolt-gun, shot-gun... sholt-gun? who the fuck cares?! it shoots bolts and is awesome!</text>
+	</string>
+	
+	<string id="st_boltwpn">
+		<text>Weaponized Bolt</text>
+	</string>
+	<string id="st_boltwpn_descr">
+		<text>How did Sakharov manage to weaponize bolts? nobody knows. How to kill monolith fanatics with it? everybody knows.</text>
+	</string>
+	
+	
+	
+</string_table>

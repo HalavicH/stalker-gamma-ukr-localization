@@ -1,0 +1,630 @@
+	<string id="ui_mcm_menu_21_game">
+		<text>21 очко</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_card_game_21_minimum_rate">
+		<text>Встановити мінімальну ставку</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_value_card_21_max_rate">
+		<text>Встановити максимальну ставку</text>
+	</string>
+	
+	
+	<string id="st_unique_treasure_spot_descr">
+		<text>Схованка. Код доступу</text>
+	</string>
+	<string id="st_question_game_reward_advice">
+		<text>Зароблена порада:</text>
+	</string>
+	<string id="st_question_game_reward_money">
+		<text>Отримано додаткові гроші:</text>
+	</string>
+	<string id="st_remote_charge_delay_deactivated">
+		<text>Таймер: відключений</text>
+	</string>
+	<string id="st_remote_charge_delay_timer">
+		<text>Таймер:</text>
+	</string>
+	<string id="st_remote_charge_delay_value">
+		<text>сек.</text>
+	</string>
+	<string id="st_remote_charge_spot">
+		<text>Заряд РС-15</text>
+	</string>
+	<string id="st_21_point_your_card_value">
+		<text>Ви:</text>
+	</string>
+	<string id="st_21_point_enemy_card_value">
+		<text>Ворог:</text>
+	</string>
+	<string id="st_21_point_rate_field">
+		<text>Ваша ставка на виграш:</text>
+	</string>
+	<string id="st_21_point_infoline_1">
+		<text>У вашому рюкзаку грошей:</text>
+	</string>
+	<string id="st_21_point_infoline_2">
+		<text>Мінімальна ставка - 50, максимальна ставка -</text>
+	</string>
+	<string id="st_21_point_money">
+		<text>гривень.</text>
+	</string>
+	<string id="st_21_point_info_about_your">
+		<text>Дегтярьов: ставка</text>
+	</string>
+	<string id="st_21_point_info_about_enemy">
+		<text>: ставка</text>
+	</string>
+	<string id="st_21_point_web_money">
+		<text>електронних гривень.</text>
+	</string>
+	<string id="st_21_point_winner_your_1">
+		<text>Ви виграли. Виграш склав -</text>
+	</string>
+	<string id="st_21_point_winner_your_2">
+		<text>гривень. Сума очок: ви -</text>
+	</string>
+	<string id="st_21_point_winner_your_3">
+		<text>, суперник -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_1">
+		<text>Ви програли. Програш склав -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_2">
+		<text>гривень. Сума очок: ви -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_3">
+		<text>, суперник -</text>
+	</string>
+	<string id="st_21_point_winner_equally_1">
+		<text>Перемогла дружба. Сума очок: ви -</text>
+	</string>
+	<string id="st_21_point_winner_equally_2">
+		<text>, суперник -</text>
+	</string>
+	<string id="st_help_wounded_payment">
+		<text>Отримано гроші за порятунок</text>
+	</string>
+	<string id="st_mechanic_stripping_count">
+		<text>Кількість кор. з деталями</text>
+	</string>
+	<string id="st_rank_event_present">
+		<text>Ранг підвищений</text>
+	</string>
+	<string id="st_bankir_web_money_course_1">
+		<text>Курс обміну:</text>
+	</string>
+	<string id="st_bankir_web_money_course_2">
+		<text>Ваші електронні гроші:</text>
+	</string>
+	<string id="st_bankir_web_money_course_3">
+		<text>1 електронна гривня -</text>
+	</string>
+	<string id="st_bankir_web_money_course_4">
+		<text>копійок готівковими гривнями.</text>
+	</string>
+	<string id="st_bankir_web_money_course_5">
+		<text>гривень.</text>
+	</string>
+	<string id="st_event_headshot">
+		<text>Ви заробили хедшот</text>
+	</string>
+	<string id="st_event_iam_find">
+		<text>Ви знайшли</text>
+	</string>
+	<string id="st_event_find_secret">
+		<text>-ю за рахунком SGM схованку.</text>
+	</string>
+	<string id="st_event_find_deserve">
+		<text>-й персональний тайник.</text>
+	</string>
+	<string id="st_custom_goods_need_rank">
+		<text>Потрібний ранг:</text>
+	</string>
+	<string id="st_booty_count">
+		<text>Кількість трофеїв</text>
+	</string>
+	<string id="st_booty_costs">
+		<text>На суму:</text>
+	</string>
+	<string id="st_add_damage">
+		<text>до шкоди</text>
+	</string>
+	<string id="st_booty_shtuk">
+		<text>шт.</text>
+	</string>
+	<string id="st_need_rank">
+		<text>необхідний ранг >=</text>
+	</string>
+	<string id="st_currert_rank">
+		<text>поточний ранг:</text>
+	</string>
+	<string id="st_af_type_1">
+		<text>Підтримує: 1-й тип аномальності</text>
+	</string>
+	<string id="st_af_type_2">
+		<text>Підтримує: 2-й тип аномальності</text>
+	</string>
+	<string id="st_af_type_3">
+		<text>Підтримує: 3-й тип аномальності</text>
+	</string>
+	<string id="st_af_type_all">
+		<text>Підтримує: 1-й, 2-й, і 3-й типи аномальності</text>
+	</string>
+	<string id="st_bodyguard_price">
+		<text>Вартість послуг:</text>
+	</string>
+	<string id="st_bankir_deposit_title">
+		<text>Сума на депозиті: </text>
+	</string>
+	<string id="st_bankir_percent_title">
+		<text>Дохід від депозиту: </text>
+	</string>
+	<string id="st_bankir_money">
+		<text>У вашому рюкзаку грошей =</text>
+	</string>
+	<string id="st_bankir_counter">
+		<text>Ощадний рахунок :</text>
+	</string>
+	<string id="st_bankir_counter2">
+		<text>Депозитний рахунок :</text>
+	</string>
+	<string id="st_bankir_ru">
+		<text>гривень</text>
+	</string>
+	<string id="st_bankir_last">
+		<text>Останній внесений капітал:</text>
+	</string>
+	<string id="st_bankir_result">
+		<text>Усього =</text>
+	</string>
+	<string id="st_bankir_percent">
+		<text>Загальний відсоток завтра :</text>
+	</string>
+	<string id="st_bankir_percent_today">
+		<text>Загальний відсоток сьогодні :</text>
+	</string>
+	<string id="st_trader_order_count">
+		<text>Товарів у наявності: </text>
+	</string>
+	<string id="st_order_cost">
+		<text>Ціна замовлення:</text>
+	</string>
+	<string id="st_statistic_value_of">
+		<text>з</text>
+	</string>
+	<string id="st_weapon_damage">
+		<text>Нанесена шкода</text>
+	</string>
+	<string id="st_weapon_distance">
+		<text>Дальність </text>
+	</string>
+	<string id="st_detonation_radius">
+		<text>Радіус вибуху </text>
+	</string>
+	<string id="st_detonation_scraps">
+		<text>Розкид осколків </text>
+	</string>
+	<string id="st_def_meters">
+		<text>м</text>
+	</string>
+	<string id="st_detonation_time">
+		<text>Час дії</text>
+	</string>
+	<string id="st_def_second">
+		<text>з</text>
+	</string>
+	<string id="st_actor_box_currert_weight">
+		<text>об'єм речей в особистому ящику становить =</text>
+	</string>
+	<string id="st_actor_box_currert_mass">
+		<text>об'єм =</text>
+	</string>
+	<string id="st_actor_box_transportation_cost">
+		<text>| Вартість =</text>
+	</string>
+	<string id="st_mod_version_title">
+		<text>Версія</text>
+	</string>
+	<string id="st_sigerous_mod_successfully_started">
+		<text>Sigerous Mod успішно завантажено...</text>
+	</string>
+        <string id="st_pri_zone_cleaning_add">
+		<text>Зомбованих залишилося:</text>
+	</string>
+	<string id="st_pri_zone_cleaning_add2">
+		<text>людина</text>
+	</string>
+	<string id="st_task_execution_time_add1">
+		<text>(залишилося</text>
+	</string>
+	<string id="st_task_execution_time_add2">
+		<text>хвилин)</text>
+	</string>
+	<string id="st_task_execution_time_add3">
+		<text>бонусних хвилин)</text>
+	</string>
+	<string id="st_get_employer_kill_stalker">
+		<text>сталкера</text>
+	</string>
+	<string id="st_get_employer_kill_bandit">
+		<text>бандита</text>
+	</string>
+	<string id="st_get_employer_kill_merc">
+		<text>найманця</text>
+	</string>
+	<string id="st_get_employer_kill_army">
+		<text>військового</text>
+	</string>
+	<string id="st_get_employer_kill_monolith">
+		<text>монолітовця</text>
+	</string>
+	<string id="st_get_employer_kill_dolg">
+		<text>обов'язківця</text>
+	</string>
+	<string id="st_get_employer_kill_freedom">
+		<text>свободівця</text>
+	</string>
+	<string id="st_get_employer_kill_renegade">
+		<text>ренегата</text>
+	</string>
+
+<!--------------------------=========-------------------------------------->
+<!----------------------'МІНІ ІГРИ ПЕРЕКЛАД ДІАЛОГІВ'----------------------->
+<!--------------------------=========-------------------------------------->
+<!--------------------------========--------------------->
+<!------------------------'БАР РОСТОК'------------------->
+<!--------------------------========--------------------->
+
+	<string id="st_minigames_21_point_accept_step">
+		<text>Шаг підвищення ставки - 200</text>
+	</string>
+	
+    <string id="st_minigames_21_point_rem">
+		<text>Запам'ятовувати ставку</text>
+	</string>
+    
+	
+	<string id="st_minigames_21_point_accept_bets">
+		<text>Прийняти ставки</text>
+	</string>
+	
+    <string id="st_minigames_21_point_start">
+		<text>Почати гру</text>
+	</string>
+
+    <string id="st_minigames_21_point_exit">
+		<text>Вихід</text>
+	</string>
+	
+    <string id="st_minigames_21_point_more">
+		<text>Взяти ще</text>
+	</string>
+	
+    <string id="st_minigames_21_point_pass">
+		<text>Передати хід</text>
+	</string>
+
+    <string id="st_minigames_21_point_cont">
+		<text>Продовжити</text>
+	</string>
+
+    <string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Я до тебе з дружньою пропозицією.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_2">
+		<text>Що за пропозиція?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_3">
+		<text>Як щодо того, щоб скоротати час за картками? У 21, на гроші.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_4">
+		<text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_5">
+		<text>Згоден. Уже приготував.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_6">
+		<text>От і добре, я теж готовий. Давай зіграємо.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_7">
+		<text>Чого тобі?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_8">
+		<text>Та так, у карти час вбити, у 21, на гроші, звісно.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_9">
+		<text>Зрозумів, я не проти. Давай зіграємо.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_10">
+		<text>Та так, нічого.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_11">
+		<text>Іншим разом краще.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_12">
+		<text>Не згоден, такі правила мене не влаштовують.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_reply_no_1">
+		<text>Іншим разом, я зараз зайнятий.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_reply_no">
+		<text>Давай потім як-небудь.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'АРМЕЙСКИЕ СКЛАДЫ'--------------------->
+<!------------------------========--------------------->
+
+        <string id="skraga_21_point_dialog_1">
+		<text>Хотів ось, запитати в тебе.</text>
+	</string>
+        <string id="skraga_21_point_dialog_2">
+		<text>Що запитати?</text>
+	</string>
+        <string id="skraga_21_point_dialog_3">
+		<text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+	</string>
+        <string id="skraga_21_point_dialog_4">
+		<text>Вот воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="skraga_21_point_dialog_5">
+		<text>Згоден. Уже приготував.</text>
+	</string>
+        <string id="skraga_21_point_dialog_6">
+		<text>От і добре, я теж готовий. Давай зіграємо.</text>
+	</string>
+        <string id="skraga_21_point_dialog_7">
+		<text>Що, знову в очко?</text>
+	</string>
+        <string id="skraga_21_point_dialog_8">
+		<text>Так, Скряга.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'БОЛОТА'--------------------->
+<!------------------------========--------------------->
+       
+       <string id="xolod_21_point_dialog_1">
+		<text>Слухай Холод, хотів ось, запитати в тебе.</text>
+	</string>
+        <string id="xolod_21_point_dialog_2">
+		<text>Що запитати?</text>
+	</string>
+        <string id="xolod_21_point_dialog_3">
+		<text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+	</string>
+        <string id="xolod_21_point_dialog_4">
+		<text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="xolod_21_point_dialog_5">
+		<text>Згоден. Уже приготував.</text>
+	</string>
+        <string id="xolod_21_point_dialog_6">
+		<text>От і добре, я теж готовий. Давай зіграємо.</text>
+	</string>
+        <string id="xolod_21_point_dialog_7">
+		<text>Що, знову в очко?</text>
+	</string>
+        <string id="xolod_21_point_dialog_8">
+		<text>Так, Холод.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'РЫЖИЙ ЛЕС'--------------------->
+<!------------------------========--------------------->
+
+       <string id="lesnik_21_point_dialog_1">
+		<text>Дід, хотів запитати в тебе дещо.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_2">
+		<text>Що молодо-зелено? Чого хочеш?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_3">
+		<text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_4">
+		<text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_5">
+		<text>Згоден. Уже приготував.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_6">
+		<text>От і добре, я теж готовий. Давай зіграємо.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'МЕРТВЫЙ ГОРОД'--------------------->
+<!------------------------========--------------------->
+
+<string id="cit_killers_21_point_dialog_1">
+		<text>Це саме, хотів запитати в тебе дещо.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_2">
+		<text>Ну валяй.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_3">
+		<text>Краєм ока помітив - у тебе за стійкою колода карт лежить. Може зіграємо в очко, на гроші?</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_4">
+		<text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_5">
+		<text>Угу. Поїхали.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_6">
+		<text>От і зашибісь, я теж готовий. Давай зіграємо.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ЯНТАРЬ'--------------------->
+<!------------------------========--------------------->
+
+<string id="saxarov_21_point_dialog_1">
+		<text>Професоре, хотів дещо запитати у вас.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_2">
+		<text>Я уважно вас слухаю.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_3">
+		<text>Бачу у біля столу карткова колода лежить, не бажаєте зіграти в очко? На гроші?</text>
+	</string>
+        <string id="saxarov_21_point_dialog_4">
+		<text>Ааа я зараз зайнятий... А хоча гаразд давайте, трохи розслабитися і перекинутися в партію-іншу не зашкодить, я вже все приготував, ви готові?</text>
+	</string>
+        <string id="saxarov_21_point_dialog_5">
+		<text>Так, усе готово.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_6">
+		<text>Ось і чудово, починаємо.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ЗАТОН'--------------------->
+<!------------------------========--------------------->
+
+<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Я до тебе з дружньою пропозицією.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_2">
+		<text>Що за пропозиція?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_3">
+		<text>Як щодо того, щоб скоротати час за картками? У 21, на гроші</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_4">
+		<text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_5">
+		<text>Згоден. Уже приготував.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_6">
+		<text>От і добре, я теж готовий. Давай зіграємо.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_7">
+		<text>Чого тобі?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_8">
+		<text>Та так, у карти час вбити, у 21, на гроші, звісно.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_9">
+		<text>Зрозумів, я не проти. Давай зіграємо.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_10">
+		<text>Та так, нічого.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_11">
+		<text>Гаразд, іншим разом.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_12">
+		<text>Не згоден, такі правила мене не влаштовують.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Юпитер'--------------------->
+<!------------------------========--------------------->
+
+
+<string id="jup_barmen_minigame_21_point_dialog_1">
+		<text>Хотів ось запитати дещо.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_2">
+		<text>Ага, тоді запитуй.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_3">
+		<text>Знаю точно, що за барною стійкою картки лежать, може зіграємо в очко, на гроші?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_4">
+		<text>А я то як знаю... Чудово, очко так очко!</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_5">
+		<text>Згоден. Я готовий.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_6">
+		<text>Тоді давай зіграємо.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_7">
+		<text>Знову грати, знову в очко?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_8">
+		<text>Так, я вже готовий.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_9">
+		<text>Добре. Давай грати.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_10">
+		<text>Забув. Іншим разом запитаю.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_11">
+		<text>Тільки не очко, іншим разом.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_12">
+		<text>Не згоден, правила не влаштовують.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Юпитер'--------------------->
+<!------------------------========--------------------->
+
+
+        <string id="petrenko_21_point_dialog_1">
+		<text>Може зіграємо у що-небудь? Наприклад, у 21? </text>
+	</string>
+        <string id="petrenko_21_point_dialog_2">
+		<text>Так, чому б і ні? Все одно робити нема чого поки що, я вже готовий, як бачиш.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Кордон'--------------------->
+<!------------------------========--------------------->
+
+
+        <string id="sidor_21_point_dialog_1">
+		<text>Слухай Сидоровичу, азартними іграми не цікавишся? Може зіграємо в 21 очко на гроші?</text>
+	</string>
+        <string id="sidor_21_point_dialog_2">
+		<text>Так, давай звісно, але після того, як я тебе обідру до нитки, не скигли, не скигли, а потім хе-хе, я вже готовий, як бачиш.</text>
+	</string>
+        <string id="shustriy_21_point_dialog_1">
+		<text>Спритник, не хочеш у 21 на гроші пограти?</text>
+	</string>
+        <string id="shustriy_21_point_dialog_2">
+		<text>Так, погнали, все одно зараз замовлень немає, я готовий.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!---------------------'Тёмная Долина'----------------->
+<!------------------------========--------------------->
+
+
+        <string id="maslina_21_point_dialog_1">
+		<text>Здарова кореш, не зайнятий? Може на бабло зіграємо о 21?</text>
+	</string>
+        <string id="maslina_21_point_dialog_2">
+		<text>Так, братане, давай, все одно зараз пацани поки що по товар не йдуть, я готовий.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Агропром'------------------->
+<!------------------------========--------------------->
+
+
+        <string id="military_21_point_dialog_1">
+		<text>Здравія бажаю, че не зайнятий особливо? Як щодо в картишки?</text>
+	</string>
+        <string id="military_21_point_dialog_2">
+		<text>Так, давай, а то нудота мати чесна, та й кишені твоїми грошима поповнити не завадить хех!</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Припять'-------------------->
+<!------------------------========--------------------->
+
+
+        <string id="propovednik_21_point_dialog_1">
+		<text>Проповідник, як щодо того, щоб трохи розслабитися і пограти в 21 очко? </text>
+	</string>
+        <string id="propovednik_21_point_dialog_2">
+		<text>У 21? Ну давай, думаю Моноліт не дуже образиться, якщо його слуги відволічуться на пару хвилин в карти, колода готова, давай грати.</text>
+	</string>

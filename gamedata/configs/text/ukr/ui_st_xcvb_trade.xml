@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- Categories -->
+	<string id="xcvb_trade_mut_1">
+		<text>Частини мутантів (звичайні)</text>
+	</string>
+	<string id="xcvb_trade_mut_2">
+		<text>Частини мутантів (незвичайні)</text>
+	</string>
+	<string id="xcvb_trade_mut_3">
+		<text>Частини мутантів (рідкісні)</text>
+	</string>
+
+	<string id="xcvb_trade_meat_1">
+		<text>М'ясо (звичайне)</text>
+	</string>
+	<string id="xcvb_trade_meat_2">
+		<text>М'ясо (рідкісне)</text>
+	</string>
+
+	<string id="xcvb_trade_hide_1">
+		<text>Шкури (звичайні)</text>
+	</string>
+	<string id="xcvb_trade_hide_2">
+		<text>Шкури (рідкісні)</text>
+	</string>
+
+	<string id="xcvb_trade_arts_1">
+		<text>Артефакти (сміттєві)</text>
+	</string>
+	<string id="xcvb_trade_arts_2">
+		<text>Артефакти (звичайні)</text>
+	</string>
+	<string id="xcvb_trade_arts_3">
+		<text>Артефакти (незвичайні)</text>
+	</string>
+	<string id="xcvb_trade_arts_4">
+		<text>Артефакти (рідкісні)</text>
+	</string>
+
+	<string id="xcvb_trade_xt_weapons">
+		<text>Зброя</text>
+	</string>
+
+	<string id="xcvb_trade_xt_armors">
+		<text>Броня</text>
+	</string>
+
+	<string id="xcvb_trade_xt_repair">
+		<text>Ремонт</text>
+	</string>
+
+	<string id="xcvb_trade_xt_supplies">
+		<text>Припаси</text>
+	</string>
+
+	<string id="xcvb_trade_xt_med">
+		<text>Медицина</text>
+	</string>
+
+
+	<!-- for HUD -->
+	<string id="xcvb_trade_discount">
+		<text>Знижки</text>
+	</string>
+
+	<string id="xcvb_trade_sell_to">
+		<text>Продаж торговцю</text>
+	</string>
+
+	<string id="xcvb_trade_buy_from">
+		<text>Покупка у торговця</text>
+	</string>
+
+	<string id="xcvb_trade_group">
+		<text>група:</text>
+	</string>
+
+	<string id="xcvb_trade_buy_krug">
+		<text>-</text>
+	</string>
+
+
+	<!-- повідомлення -->
+	<string id="xcvb_trade_trade">
+		<text>(Торгівля)</text>
+	</string>
+
+	<string id="xcvb_trade_hi">
+		<text>Сталкери, у мене нові знижки:</text>
+	</string>
+
+	<string id="xcvb_trade_hi">
+		<text>вони залишаться на</text>
+	</string>
+
+	<string id="xcvb_trade_day">
+		<text>день.</text>
+	</string>
+
+	<string id="xcvb_trade_days">
+		<text>днів.</text>
+	</string>
+
+
+</string_table>

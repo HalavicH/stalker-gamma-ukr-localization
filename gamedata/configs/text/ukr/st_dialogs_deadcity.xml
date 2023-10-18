@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <!-- Dusman (Mercenary Leader) -->
+    <string id="find_blackbox_mlr_reward_killer_0">
+        <text>Вітаю, я тут самописець подекуди відкопав. Здається мені, інфа у ньому є цінна, та і сам ящик хороших грошей
+            може коштувати.
+        </text>
+    </string>
+    <string id="find_blackbox_mlr_reward_killer_1">
+        <text>Військовий? Ну ж бо. Хороша річ, візьми за неї грошенята.</text>
+    </string>
+    <!-- (Mercenary Guide) -->
+    <string id="meet_ds_killer_guide_main_base_0">
+        <text>Як звідси вибратися?</text>
+    </string>
+    <string id="meet_ds_killer_guide_main_base_1">
+        <text>Значить, слухай уважно: Мертве місто оточене з усіх боків противниками, але мало хто чув або навіть знає
+            про підземну мережу каналізації, а ось наш провідник знає. Він допоможе тобі вийти з міста без зайвого шуму,
+            а далі, якщо хочеш, він може відвести тебе в табір наших на Затоні.
+        </text>
+    </string>
+    <string id="meet_ds_killer_guide_main_base_list_0">
+        <text>Нагадай-но мені, куди ведуть маршрути?</text>
+    </string>
+    <string id="meet_ds_killer_guide_main_base_list_1">
+        <text>На Затоні є станція переробки відходів - 8,000 гривень.</text>
+    </string>
+    <string id="travel_ds_killer_guide_main_base_0">
+        <text>Я хочу піти з міста.</text>
+    </string>
+    <string id="travel_ds_killer_guide_main_base_1">
+        <text>Упевнений? Чи можемо вивести тільки на Затон за 8,000 гривень.</text>
+    </string>
+    <string id="travel_ds_killer_guide_main_base_2">
+        <text>Я готовий, рушили на Затон. %c[d_orange][8,000 грн]</text>
+    </string>
+    <string id="travel_ds_killer_guide_main_base_3">
+        <text>Я передумав.</text>
+    </string>
+    <!-- Aslan (Mercenary Barman) -->
+    <string id="talk_to_aslan_on_main_base_merk_0">
+        <text>Розкажи про себе.</text>
+    </string>
+    <string id="talk_to_aslan_on_main_base_merk_1">
+        <text>Так що розповідати-то. Корчмар і медик я тутешній, хоча в цьому срачі не особливо і схоже, так? Скільки тут
+            стирчимо, а прибралися лише наспіх. Мда. Брав участь в обороні президентського палацу тоді ще... мігрував до
+            Швейцарії. Потім і Зона утворилася. \n\nЯ з друзями любив в корчму (бар) зайти, випити та згадати про справи минулі,
+            ну і в один з таких походів мені і запропонували перебратися до приватників. Там з Зоною все тільки-тільки
+            встановлюватися почало, так що ми з Душманом вважай першопрохідці в цій справі. Ну а що? Серед придатних.
+            Тут і з Афгану люди були, і з Грузії. Країни Балтії от щось сюди не поспішають, що вже говорити про далекий
+            захід.
+        </text>
+    </string>
+    <string id="talk_to_aslan_about_lottery_0">
+        <text>Я тут чув, що ти нашивками цікавишся.</text>
+    </string>
+    <string id="talk_to_aslan_about_lottery_1">
+        <text>Ну, як сказати, не зовсім. Конкретно я ними «не цікавлюсь», але ідея ця була моя, так, і я ж почав нею
+            займатися. Хороший спосіб підняти хлопцям не тільки дух в цій сраці, але і заробити на стороні. Крім того,
+            ряд наших клієнтів цікавиться ними. \n\nЯк це працює? Приносиш мені нашивки - йдеш або з гостинцем, або ні
+            з чим. \n\nВ Загалом, за 25 нашивок будь-якого угруповання, крім вчених і фанатиків, - про них пізніше - ти
+            отримуєш шанс отримати такий-сякий арт, або не отримати нічого. \nЗа 50 у тебе буде шанс отримати не те що
+            артефакт краще, а ще й деяку спорягу з ужитку досвідчених сталкерів - тут шанс не отримати нічого вже менше.
+            \nА ось за десять нашивок «Моноліту» і «Вчених» ти отримаєш досить- таки непоганий арт з тим же шансом, що і
+            за 50 нашивок інших угруповань. \nЗа 25 нашивок монолітовців та яйцеголових ти отримаєш чудовий артефакт і
+            непогану спорягу досвідчених сталкерів - шанс не отримати взагалі нічого- немає. \n\nЗапитаєш, чому так
+            щедро? Багато хто віддає перевагу залишати нашивки собі в якості бойових трофеїв.
+        </text>
+    </string>
+    <string id="talk_to_aslan_about_lottery_2">
+        <text>І що ти з ними усіма робиш?</text>
+    </string>
+    <string id="talk_to_aslan_about_lottery_3">
+        <text>Колекціоную, звісно. Це вже не твої клопоти. Раз я організував цю «лотерею» - значить, так треба.
+            Все, що від тебе вимагається - притягти нашивки і сподіватися на удачу. Чи тебе не влаштовують призи?
+        </text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_0">
+        <text>У мене є нашивки.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_1">
+        <text>Відмінно, які?</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_2">
+        <text>«Чистого неба», 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_3">
+        <text>Волівські, 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_4">
+        <text>Сталкерські, 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_5">
+        <text>Вчених! 25 штук всього.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_6">
+        <text>Бандитські, 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_7">
+        <text>Обов'язківські, 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_8">
+        <text>Монолітовскі! 25 штук всього.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_9">
+        <text>Військові, 25 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_11">
+        <text>«Чистого неба», 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_12">
+        <text>Волівські, 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_13">
+        <text>Сталкерські, 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_14">
+        <text>Вчених, аж 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_15">
+        <text>Бандитські, 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_16">
+        <text>Обов'язківські, 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_17">
+        <text>Монолітовскі, аж 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_18">
+        <text>Військові, 50 штук.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_10">
+        <text>Я, мабуть, передумав.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_19">
+        <text>Ось, лови свій артефакт.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_20">
+        <text>Тримай.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_21">
+        <text>Візьми.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_22">
+        <text>Лови арт.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_23">
+        <text>Кому сьогодні пощастило.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_24">
+        <text>Непоганий презент отримуєш.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_25">
+        <text>Ось, візьми непоганий артефакт.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_26">
+        <text>А тобі пощастило! Протирадіаційних.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_27">
+        <text>Хороший арт. Тримай:</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_28">
+        <text>А ось і джекпот!</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_29">
+        <text>А ось і джекпот!</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_30">
+        <text>Тобі повезло.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_31">
+        <text>Відмінний комплект для мисливця за артефактами!</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_34">
+        <text>Рідкісний і чудовий артефакт.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_35">
+        <text>О це везіння!</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_36">
+        <text>Джекпот!</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_37">
+        <text>Хах, вибачай, але ти в прольоті.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_38">
+        <text>На жаль і ах. Не ту соломинку ти витягнув. Пощастить іншим разом.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_39">
+        <text>Цього разу нічого.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_40">
+        <text>Відмінне спорядження для відмінного стрільця.</text>
+    </string>
+    <string id="lottery_ds_aslan_mlr_41">
+        <text>Ідеальний вибір для далеких вилазок.</text>
+    </string>
+    <string id="aslan_st_0">
+        <text>Що по ситуації? І як взагалі краще виходити на справу?</text>
+    </string>
+    <string id="aslan_st_1">
+        <text>Значить, дивись сюди, слухай і запам'ятовуй: ми в Зоні маємо тільки одну центральну базу - тут. На південь
+            ходу знову немає - пси-установка на Янтарі знову затріщала з усіма наслідками, що випливають: натовпу
+            зомбарів та мутантів різних. Лиманськ - місце згубне, суцільний лабіринт і «Монохром» як лядський мінотавр. А
+            Рудий ліс ще небезпечніше - якщо на підступах до мосту монолітовці гніздяться, то решта території просто
+            кишить мутантами. На сході будуть Армійські склади - це територія «Волі».
+        </text>
+    </string>
+    <string id="aslan_st_2">
+        <text>[далі...]</text>
+    </string>
+    <string id="aslan_st_3">
+        <text>Щодо небезпек... По обстановці, думаю, сам розберешся, але май на увазі: коли виконуєш замовлення - думай
+            тільки про свою шкуру і контракті, самарітянство та іншу херню з голови одразу викидай, а то інші
+            допоможуть, разом з мізками. \nЩо до стежок: через Лиманськ буде найбезпечніша в плані переміщення. Простір
+            там закритий, укриттів вистачає як від викиду залягти, так і на випадок затяжних перестрілок. Але є і мінуси
+            - Зона і містечко це... ніколи не знаєш, що чекає за рогом. Не забувай в вікна та на балкони поглядати -
+            хіба мало. Так, не казка, але куди краще за інші варіанти.
+        </text>
+    </string>
+    <string id="aslan_st_4">
+        <text>Хм-м, базу говориш. По ідеї, значить, ще й опорні точки є?</text>
+    </string>
+    <string id="aslan_st_5">
+        <text>З усіх мені відомих є дві: перша на Затоні, у краю безкрайніх поганих «північних» боліт, а друга - буде у
+            чорта на задвірках, аж на околицях Прип'яті. Ще є у нас група на Дикої території. Також можна зустріти
+            загони наших по всій Зоні під час виконання своїх контрактів.
+        </text>
+    </string>
+    <string id="aslan_st_6">
+        <text>За Лиманськом, як розумію, території вже під фанатиками?</text>
+    </string>
+    <string id="aslan_st_7">
+        <text>Госпіталь там старий, але сенсу туди лізти немає - єдиний прохід до ЧАЕС в тих місцях, як і на завод
+            Янтарський, відрізаний пси-випромінюванням.
+        </text>
+    </string>
+    <string id="aslan_st_8">
+        <text>От вже, ситуація. Дякую за інфу.</text>
+    </string>
+    <string id="information_about_stash_aslan_0">
+        <text>Здаров, у тебе можна знайти інфу про розташування якого-небудь схованки?</text>
+    </string>
+    <string id="information_about_stash_aslan_1">
+        <text>Можна організувати, так. Наші частенько з трупів наведення знімають. Тек-с... Шість з половиною шматків
+            з тебе і надам координати.
+        </text>
+    </string>
+    <string id="information_about_stash_aslan1_0">
+        <text>Тек-с, ось, тримай%c[d_orange][6,500 грн]. Що там по схронах?</text>
+    </string>
+    <string id="information_about_stash_aslan1_1">
+        <text>Лови координати.</text>
+    </string>
+</string_table>

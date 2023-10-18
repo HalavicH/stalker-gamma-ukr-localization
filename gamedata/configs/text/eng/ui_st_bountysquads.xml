@@ -1,0 +1,47 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_menu_bountysquads">
+		<text>Bounty Squads Expansion</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>Bounty Squads Expansion</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>Delay between potential spawns</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>This is the minimum amount of time (in in-game hours) that must pass before even considering to spawn a bounty squad. Whether a bounty squad spawns depends on each faction's chance to spawn a bounty squad.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>Time between spawn updates</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>This is the amount of time (in real seconds) in-between updates to the actor's faction, reputation, and spawn check. This time is counted after game-load, so the actor must be within linked-level range of a hostile position for this amount of time before a bounty squad has any chance of spawning.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>Time between actor location updates</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>This is the amount of time (in real seconds) in-between updates to the actor's location. Bounty squads will re-target the actor's current position after this much time. They will also back off if the actor is in a 'safe' location with nearby allies.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>Base spawn chance</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>This is the base spawn chance: the chance for a bounty squad to spawn on a given update when the actor has not killed any members of that faction. The total spawn chance for a bounty squad to spawn is calculated as (base_spawn_chance * faction_multiplier), where the faction multiplier depends on how many of the faction's members have died to the actor. Recommended to keep this value low, as the faction multiplier will ensure that bounty squads become very likely to spawn.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>Multiplier increment per death</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>If the actor is especially belligerent to a specific faction, they will have a higher chance to send bounty squads after them. Each time the actor kills a STALKER, the victim's faction will increase their multiplier to spawn a bounty squad, faction_multiplier, by this amount. For example, if this value is set to 0.5, the first time that the actor kills a member of a faction will increase the multiplier to 1.5. The next victim will increase it to 2.0, and so on.</text>
+	</string>
+
+
+</string_table>

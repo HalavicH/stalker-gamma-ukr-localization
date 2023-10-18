@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_efp_ui">
+<text>Simplified Vision</text>
+</string>
+<string id="ui_mcm_menu_faction_settings">
+<text>Кольори угруповань</text>
+</string>
+<string id="ui_mcm_menu_main_settings">
+<text>Основні Налаштування</text>
+</string>
+<string id="ui_mcm_menu_modules_settings">
+<text>Налаштування модулів</text>
+</string>
+<string id="ui_mcm_menu_dolg">
+<text>Обов'язок</text>
+</string>
+<string id="ui_mcm_menu_csky">
+<text>Чисте Небо</text>
+</string>
+<string id="ui_mcm_menu_monolith">
+<text>Моноліт</text>
+</string>
+<string id="ui_mcm_menu_ecolog">
+<text>Вчені</text>
+</string>
+<string id="ui_mcm_menu_bandit">
+<text>Бандити</text>
+</string>
+<string id="ui_mcm_menu_stalker">
+<text>Одинаки</text>
+</string>
+<string id="ui_mcm_menu_killer">
+<text>Найманці</text>
+</string>
+<string id="ui_mcm_menu_greh">
+<text>Гріх</text>
+</string>
+<string id="ui_mcm_menu_isg">
+<text>ІДГ</text>
+</string>
+<string id="ui_mcm_menu_renegade">
+<text>Ренегати</text>
+</string>
+<string id="ui_mcm_menu_army">
+<text>Військові</text>
+</string>
+<string id="ui_mcm_menu_freedom">
+<text>Свобода</text>
+</string>
+<string id="ui_mcm_desc_faction_banner_color">
+<text>Колір свердління угруповання</text>
+</string>
+<string id="ui_mcm_desc_faction_text_color">
+<text>Колір тексту угруповання</text>
+</string>
+<string id="ui_mcm_efp_ui_red">
+<text>Червоний</text>
+</string>
+<string id="ui_mcm_efp_ui_green">
+<text>Зелений</text>
+</string>
+<string id="ui_mcm_efp_ui_blue">
+<text>Синій</text>
+</string>
+<string id="ui_mcm_efp_ui_alpha">
+<text>Альфа</text>
+</string>
+<string id="ui_mcm_menu_base_settings">
+<text>Користувацькі кольори</text>
+</string>
+<string id="ui_mcm_menu_slots">
+<text>Слоти спорядження</text>
+</string>
+<string id="ui_mcm_efp_ui_use_faction">
+<text>Кольори угруповання/Користувацькі кольори</text>
+</string>
+<string id="ui_mcm_desc_cell_knife">
+<text>Слот ножа</text>
+</string>
+<string id="ui_mcm_desc_cell_pistol">
+<text>Слот пістолета</text>
+</string>
+<string id="ui_mcm_desc_cell_rifle">
+<text>Слот основної зброї</text>
+</string>
+<string id="ui_mcm_desc_cell_grenade">
+<text>Слот гранат</text>
+</string>
+<string id="ui_mcm_desc_cell_binoculars">
+<text>Слот бінокля</text>
+</string>
+<string id="ui_mcm_desc_cell_bolt">
+<text>Слот болта</text>
+</string>
+<string id="ui_mcm_desc_cell_outfit">
+<text>Слот броні</text>
+</string>
+<string id="ui_mcm_desc_cell_pda">
+<text>Слот КПК</text>
+</string>
+<string id="ui_mcm_desc_cell_detector">
+<text>Слот детектора</text>
+</string>
+<string id="ui_mcm_desc_cell_torch">
+<text>Слот налобного ліхтарика</text>
+</string>
+<string id="ui_mcm_desc_cell_helmet">
+<text>Слот шолома</text>
+</string>
+<string id="ui_mcm_desc_cell_backpack">
+<text>Слот рюкзака</text>
+</string>
+<string id="ui_mcm_desc_cell_quick">
+<text>Швидкі слоти</text>
+</string>
+<string id="ui_mcm_desc_cell_belt">
+<text>Слоти пояса</text>
+</string>
+<string id="ui_mcm_menu_stats">
+<text>Смужки статів</text>
+</string>
+<string id="ui_mcm_desc_stat_acid">
+<text>Смужка хім. захисту</text>
+</string>
+<string id="ui_mcm_desc_stat_thirst">
+<text>Смуга спраги</text>
+</string>
+<string id="ui_mcm_desc_stat_power">
+<text>Смужка витривалості</text>
+</string>
+<string id="ui_mcm_desc_stat_fire_wound">
+<text>Смужка кулестійкості</text>
+</string>
+<string id="ui_mcm_desc_stat_shock">
+<text>Смужка електрозахисту</text>
+</string>
+<string id="ui_mcm_desc_stat_health">
+<text>Смужка здоров'я</text>
+</string>
+<string id="ui_mcm_desc_stat_psi">
+<text>Смужка пси захисту</text>
+</string>
+<string id="ui_mcm_desc_stat_hunger">
+<text>Смужка голоду</text>
+</string>
+<string id="ui_mcm_desc_stat_fire">
+<text>Смужка захисту від опіку</text>
+</string>
+<string id="ui_mcm_desc_stat_radia">
+<text>Смужка захисту від радіації</text>
+</string>
+<string id="ui_mcm_desc_stat_wound">
+<text>Смужка захисту від розриву</text>
+</string>
+<string id="ui_mcm_desc_stat_sleep">
+<text>Смужка сонливості</text>
+</string>
+<string id="ui_mcm_menu_faction_banner">
+<text>Оверлей угруповання</text>
+</string>
+<string id="ui_mcm_efp_ui_use_alt_ranks">
+<text>Використовувати альтернативні значки рангів</text>
+	</string>
+</string_table>

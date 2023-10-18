@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+
+	<string id="st_xp_apm_news_gain_xp">
+		<text>Отримано</text>
+	</string>
+	<string id="st_xp_apm_news_level_up">
+		<text>Новий рівень! Ви досягли рівня %s</text>
+	</string>
+
+
+</string_table>

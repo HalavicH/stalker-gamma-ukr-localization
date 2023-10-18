@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	
+   <string id="ui_mcm_menu_rax_mmt">
+         <text>Перемикач міні-мапи</text>
+     </string>
+
+<string id="ui_mcm_rax_mmt_keybind">
+<text>Клавіша перемикання міні-мапи.</text>
+</string>
+
+<string id="ui_mcm_rax_mmt_keybind_desc">
+<text>Ця прив'язка клавіш може бути налаштована так, щоб вимагати додаткові ключі-модифікатори для пом'якшення конфліктів.</text>
+</string>
+
+
+<string id="ui_mcm_rax_mmt_update_mcm">
+<text>Оновіть MCM, щоб побачити цю функцію. Клавіша за замовчуванням – коса риса [/]</text>
+</string>
+
+
+</string_table>

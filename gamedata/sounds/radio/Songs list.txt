@@ -1,0 +1,156 @@
+_channel_1
+
+Track#   -   Name of the song  -  Artist
+
+track_1 - У мене немає дому - Один в каное 
+track_2 - Гори (Gory) - KALUSH & alyona alyona
+tarck_3 - Потрібен живим - YARMAK
+track_4 - Родіна - Пирятин
+track_5 - Вечірнє Сонце - Brutto
+track_6 - Руїна - Скрябін
+track_7 - SHUM - GO_A
+track_8 - TDME - Антитіла
+track_9 - Люди - Boombox
+track_10 - Зупинка - drimandr, Тиша - drimandr, Відпусти - Океан Ельзи
+track_11 - KUPALA - alyona alyona, Jerry Heil & ela
+track_12 - Чому? - alyona alyona (feat. Jerry Heil)
+track_13 - Stefania - KALUSH & Kalush Orchestra
+track_14 - До війни - Tery
+track_15 - Гості - Мія Рамарі
+track_16 - Чуєш бум - Богдан Купер
+track_17 - Кохайтеся Чорнобриві - Jerry Heil
+track_18 - Українська лють (Bella Ciao Cover) - Христина Соловій
+track_19 - 51 - Макс Пташник & Morphom
+track_20 - 24 години - Макс Пташник
+track_21 - Viter viie - alyona alyona, Jerry Heil & Gedz
+track_22 - На повторі - BOTASHE
+track_23 - Калуські вечорниці - KAlUSH (feat. Tember Blanche)
+track_24 - Додому - KALUSH (feat. Skofka)
+track_25 - Засинай - Krtchet
+track_26 - Коло - Krechet (feat. Alina Pash)
+track_27 - 99 - KRUTЬ
+track_28 - I am Ukrainian - Morphom, LAUD & OTOY
+track_29 - Moya California - Blooms Corda
+track_30 - ZENIT - ONUKA
+track_31 - Моя любов (Eurovision Song 2022) - Our Atlantic
+track_32 - про Київ - Tember Blanche
+track_33 - Хованки - Tember Blanche
+track_34 - Додому - Tery
+track_35 - Потонув - Tery
+track_36 - Dancer - Vladimir Cauchemar & alyona alyona
+track_37 - Гуси - Wellboy
+track_38 - Не плач - Zelenooka
+track_39 - Уяви - Богдан Купер
+track_40 - Хто ти? - Богдан Купер
+track_41 - ВПАВ - OTOY & The Lazy Jesus
+track_42 - Дійду - Всюдисвоя
+track_43 - Втома - Ядерна Могила & Джоні Дивний
+track_44 - Вулиця - вагоновожатые
+track_45 - ДТП - СТРУКТУРА ЩАСТЯ
+track_46 - МАЮ ПРАЦЮВАТИ - OTOY
+track_47 - Пообіцяй мені - Один в каное
+track_48 - Пригорни - MONATIK
+track_49 - Птаха - Тонка
+track_50 - СИНЯКИ - OTOY
+track_51 - Сидативи - СТРУКТУРА ЩАСТЯ
+track_52 - Тримай - Христина Соловій
+track_53 - Довбаний світ - ЮЮ
+track_54 - якби - renie cares
+track_55 - КОЗАЦЬКОМУ_РОДУ - Jerry Heil
+track_56 - Затишок - Mistmorn
+track_57 - Згаслі вогні - Mistmorn
+track_58 - Додому - Re-read
+track_59 - Київ то є в дома - SAGE, elarm, Marbi
+track_60 - Йшов я небом - Вій
+track_61 - Це дурня, а не любов - Джозерс
+track_62 - Все буде добре - Океан Ельзи
+track_63 - Полями - Саша Чемеров
+track_64 - У полі тиша - Тонка
+
+_channel_2
+
+Track#   -   Name of the song  -  Artist
+
+track_1 - Останній пасажир - The last passanger, Чотири слова - The last passanger
+track_2 - Ти не змогла - The last passanger, Не треба - Скрябін
+track_3 - Кудись йшов - The Pleroma, Tіні - The Pleroma
+track_4 - Гармонія - Воплі Видоплясова, 
+track_5
+track_6 - Світ кружляє - Бесшумная хирургия, Втома - Бесшумная хирургия
+track_7 - додай пісню
+track_8 - дідько, я у розпачі... - Mistmorn, Піду втоплюся - Андрій Миколайчук, Минає день, минає ніч - Микола Мозговий
+track_9 - Твоє ім'я - ХОЛОДНЕ СЕРЦЕ, Безкрилий янгел - ХОЛОДНЕ СЕРЦЕ
+track_10 - Вона - Плач Єремії, Люди як кораблі - Скрябін
+track_11 - Квінти - Скрябін, Падай - Скрябін
+track_12 - Моя планета - Фліт
+track_13 - Ні - Нумер 482, Весь день - Паліндром
+track_14 - Сонце - Паліндром, Море - Паліндром, За небеса - Паліндром, По воді - Паліндром, Сон - Паліндром
+track_15 - Не вистачає кисню - Alice Change
+track_16 - From U to z - MONATIK
+track_17 - Чути гімн - Skofka
+track_18 - Як ти? - The Hardkiss
+track_19 - Боремося - TVORCHI
+track_20 - Арта - Пирятин
+track_21 - Brat za Brata - Kozak System
+track_22 - Мене вже немає - Тартак
+track_23 - Кобзон - Ждан і собаки
+track_24 - Вітролом - Karna
+track_25 - Голос крові - Тартак
+track_26 - Аркана! - Гайдамаки
+track_27 - Тихо прийшов, тихо пішов - Riffmaster
+track_28 - Країна дітей - Океан Ельзи (feat. alyona alyona)
+track_29 - Повстанець - Кому Вниз & Арсеній Білодуб
+track_30 - Троєщина - Ждан і собаки
+track_31 - Коли ховають молодих - alyona alyona
+track_32 - Momento Mori - Cresco & Денні Дельта
+track_33 - Веснянка - GG ГуляйГород (feat. Morphom)
+track_34 - Відпусти - Merva
+track_35 - Сміюся - Krechet
+track_36 - День не день - Merva
+track_37 - Верба - Motanka
+track_38 - Касета - SadSvit
+track_39 - Небо - SadSvit
+track_40 - Боротьба - VIDVERTO
+track_41 - ДИКЕ ПОЛЕ - YARMAK (feat. ALISA)
+track_42 - Одинак - Антитіла
+track_43 - Без бою - Океан Ельзи
+track_44 - Вовк - вагоновожатые
+track_45 - Додому - Джозерс, SadSvit & Sad Novelist
+track_46 - З Честером помрем не в один день - діти інженерів
+track_47 - Зрада - діти інженерів
+track_48 - Козаки - Тінь Сонця
+track_49 - Меч Арея - Тінь Сонця
+track_50 - Молодість - SadSvit
+track_51 - Навушники - діти інженерів
+track_52 - Не моя земля - Друга Ріка
+track_53 - Не Притулятися - вагоновожатые
+track_54 - Ніч - SadSvit
+track_55 - Не твоя війна - Океан Ельзи
+track_56 - Обійми - Океан Ельзи
+track_57 - Остані ночі без тебе - Тінь Сонця & Христина Панасюк
+track_58 - Прогноз - діти інженерів
+track_59 - Рубці - діти інженерів
+track_60 - СЛАВА УКРАЇНІ - КОЛІР НОЧІ
+track_61 - СОНЦЕ СМЕРТІ - OTOY (feat.Відчай)
+track_62 - Тінь Сонця - Тінь Сонця
+track_63 - Божевілля двох - Mistmorn
+track_64 - Панельні будівлі - Mistmorn
+track_65 - Гори палай - Natural Spirit
+track_66 - Персонажі - SadSvit
+track_67 - Спокійна ніч - SadSvit
+track_68 - Була весна - SadSvit&Паліндром
+track_69 - Azovstal - Skladno
+track_70 - Мара - Teren
+track_71 - Маяк - Hardkiss
+track_72 - Йду на ви - Чур
+track_73 - Квітка - Океан Ельзи
+track_74 - В комі - Паліндром
+track_75 - Гарні слова - Паліндром
+track_76 - Не відступати і не здаватись - Скай
+track_77 - Історія - Скрябін
+track_78 - Мій Лицарський Хрест - Тартак
+track_79 - Козача могила - Тінь сонця
+track_80 - Хмара - Karna
+track_81 - І Архімед, і Галілей - Холодное Сонце
+
+

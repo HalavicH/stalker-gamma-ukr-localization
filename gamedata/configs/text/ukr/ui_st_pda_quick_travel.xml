@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- Fast Travel Names -->
+	<string id="st_pda_fast_travel_to">
+	<text>Перейти:</text>
+</string>
+<string id="agr_smart_terrain_1_2">
+<text>Табір на болоті</text>
+</string>
+<string id="agr_smart_terrain_1_6">
+<text>НДІ «Агропром»</text>
+</string>
+<string id="agr_smart_terrain_4_4">
+<text>Завод «Агропром»</text>
+</string>
+<string id="agr_smart_terrain_6_4">
+<text>Тупік тунелю</text>
+</string>
+
+<string id="mil_smart_terrain_2_2">
+<text>Далеке укріплення</text>
+</string>
+<string id="mil_smart_terrain_2_4">
+<text>Далекий хутір</text>
+</string>
+<string id="mil_smart_terrain_2_6">
+<text>Гвинтокрил, що впав</text>
+</string>
+<string id="mil_smart_terrain_2_10">
+<text>Село кровососів</text>
+</string>
+<string id="mil_smart_terrain_3_8">
+<text>Бар'єр</text>
+</string>
+<string id="mil_smart_terrain_7_4">
+<text>Вхід на військові склади</text>
+</string>
+<string id="mil_smart_terrain_7_12">
+<text>Табір між бараками</text>
+</string>
+
+<string id="aes_smart_terrain_monolit_blockpost4">
+<text>Підстанція</text>
+</string>
+<string id="aes2_monolith_snipers_2">
+<text>Внутрішній табір</text>
+</string>
+
+<string id="esc_smart_terrain_2_12">
+<text>Село новачків</text>
+</string>
+<string id="esc_smart_terrain_3_16">
+<text>Південний блокпост</text>
+</string>
+<string id="esc_smart_terrain_5_2">
+<text>Далекий блокпост</text>
+</string>
+<string id="esc_smart_terrain_5_7">
+<text>Стара ферма</text>
+</string>
+<string id="esc_smart_terrain_5_9">
+<text>Елеватор</text>
+</string>
+<string id="esc_smart_terrain_6_6">
+<text>Розвалини хутора</text>
+</string>
+<string id="esc_smart_terrain_6_8">
+<text>Блокпост під мостом</text>
+</string>
+<string id="esc_smart_terrain_7_11">
+<text>АТП</text>
+</string>
+
+<string id="ds2_lager_st">
+<text>Табір на схилі</text>
+</string>
+<string id="ds_kem2">
+<text>Заправка</text>
+</string>
+<string id="ds_ptr">
+<text>Залізничний міст</text>
+</string>
+<string id="ds2_domik_st">
+<text>Лісопилка</text>
+</string>
+
+<string id="val_smart_terrain_1_2">
+<text>Завод над Х-18</text>
+</string>
+<string id="val_smart_terrain_4_0">
+<text>Стоянка на фермі</text>
+</string>
+<string id="val_smart_terrain_7_4">
+<text>Північна фабрика</text>
+</string>
+<string id="val_smart_terrain_7_8">
+<text>Табір на болоті</text>
+</string>
+<string id="val_smart_terrain_8_9">
+<text>Острів</text>
+</string>
+
+<string id="cit_killers">
+<text>Магазин «Коопторг»</text>
+</string>
+<string id="cit_bandits">
+<text>Зруйнована школа</text>
+</string>
+<string id="cit_bandits_2">
+<text>Покинутий двір</text>
+</string>
+
+<string id="katacomb_smart_terrain">
+<text>Занедбаний Госпіталь</text>
+</string>
+
+<string id="gar_smart_terrain_3_5">
+<text>Депо</text>
+</string>
+<string id="gar_smart_terrain_3_7">
+<text>Цвинтар (Звалище) Техніки</text>
+</string>
+<string id="gar_smart_terrain_6_3">
+<text>Барахолка</text>
+</string>
+
+<string id="gen_smart_terrain_cemetery">
+<text>Цвинтар</text>
+</string>
+<string id="gen_smart_terrain_lab_entrance">
+<text>Вхід до лабораторії</text>
+</string>
+<string id="gen_smart_terrain_lab_entrance_2">
+<text>Занедбана підстанція</text>
+</string>
+
+<string id="mar_smart_terrain_base">
+<text>База «Чистого Неба»</text>
+</string>
+<string id="mar_smart_terrain_doc">
+<text>Землянка</text>
+</string>
+<string id="mar_smart_terrain_doc_2">
+<text>Аванпост</text>
+</string>
+<string id="mar_smart_terrain_3_3">
+<text>Човникова станція</text>
+</string>
+<string id="mar_smart_terrain_4_5">
+<text>Руїни села</text>
+</string>
+<string id="mar_smart_terrain_5_8">
+<text>Насосна станція</text>
+</string>
+<string id="mar_smart_terrain_5_12">
+<text>Рибальський хутір</text>
+</string>
+<string id="mar_smart_terrain_8_8">
+<text>Згорілий хутір</text>
+</string>
+<string id="mar_smart_terrain_8_11">
+<text>Стара церква</text>
+</string>
+<string id="mar_smart_terrain_10_5">
+<text>Механізаторський двір</text>
+</string>
+<string id="mar_smart_terrain_11_11">
+<text>Південний хутір</text>
+</string>
+<string id="mar_smart_terrain_12_2">
+<text>Північний хутір</text>
+</string>
+
+<string id="jup_a12">
+<text>Склад контейнерів</text>
+</string>
+<string id="jup_b204">
+<text>Бандитська застава</text>
+</string>
+<string id="jup_a6">
+<text>Станція Янів</text>
+</string>
+<string id="jup_b200">
+<text>Цементний завод</text>
+</string>
+<string id="jup_b19">
+<text>Копачі</text>
+</string>
+<string id="jup_b41">
+<text>Бункер вчених</text>
+</string>
+
+<string id="lim_smart_terrain_1">
+<text>Двір</text>
+</string>
+<string id="lim_smart_terrain_3">
+<text>Двір з терасою</text>
+</string>
+<string id="lim_smart_terrain_6">
+<text>Будинок на пагорбі</text>
+</string>
+<string id="lim_smart_terrain_9">
+<text>Табір на будівництві</text>
+</string>
+	<string id="lim_smart_terrain_10">
+<text>Дорога до «пожежі»</text>
+</string>
+
+<string id="pri_a16">
+<text>Пральня</text>
+</string>
+<string id="pri_a21_smart_terrain">
+<text>Гастроном</text>
+</string>
+<string id="pri_a28_school">
+<text>Шкільний двір</text>
+</string>
+<string id="pri_b36_smart_terrain">
+<text>Річковий порт</text>
+</string>
+
+<string id="pri_smart_monolith_stalker6">
+<text>Вхід на стадіон</text>
+</string>
+<string id="pri_smart_pseudodog_lair1">
+<text>Похмурий табір</text>
+</string>
+<string id="pri_smart_tushkano_lair1">
+<text>Готель «Полісся»</text>
+</string>
+<string id="pri_monolith">
+<text>ДК «Енергетик»</text>
+</string>
+<string id="pri_smart_neutral_stalker1">
+<text>Згорілий табір</text>
+</string>
+
+<string id="rad_antenna_patrol">
+<text>Прохід до «Випалювача»</text>
+</string>
+<string id="rad2_loner_0001">
+<text>Блокпост</text>
+</string>
+<string id="rad2_prip_teleport">
+<text>Секретний об'єкт</text>
+</string>
+<string id="rad_entrance">
+<text>Зруйнований КПП</text>
+</string>
+
+<string id="red_smart_terrain_3_2">
+<text>Казарми у шахті</text>
+</string>
+<string id="red_smart_terrain_4_2">
+<text>Табір у копра</text>
+</string>
+<string id="red_smart_terrain_6_3">
+<text>Аномалія «Надпровідник»</text>
+</string>
+<string id="red_smart_terrain_bridge">
+<text>Міст до Лиманська</text>
+</string>
+
+<string id="bar_visitors">
+<text>Бар «100 Рентген»</text>
+</string>
+<string id="bar_dolg_general">
+<text>База «Долг»</text>
+</string>
+
+<string id="ros_smart_poltergeist2">
+<text>Залізнична станція</text>
+</string>
+<string id="ros_smart_stalker_killers1">
+<text>Будмайданчик</text>
+</string>
+<string id="ros_smart_killers1">
+<text>Прохід на Дику територію</text>
+</string>
+
+<string id="trc_sim_1">
+<text>Наглядовий пункт</text>
+</string>
+<string id="trc_sim_3">
+<text>Розвилка</text>
+</string>
+<string id="trc_sim_4">
+<text>Згорілий будинок</text>
+</string>
+<string id="trc_sim_7">
+<text>Ліс</text>
+</string>
+<string id="trc_sim_10">
+<text>Привал у лісі</text>
+</string>
+<string id="trc_sim_17">
+<text>Радіоактивні пагорби</text>
+</string>
+<string id="trc_sim_20">
+<text>Східний блокпост</text>
+</string>
+
+<string id="yan_smart_terrain_3_6">
+<text>Низина артефактів</text>
+</string>
+<string id="yan_smart_terrain_6_4">
+<text>Табір вчених</text>
+</string>
+
+<string id="zat_stalker_base_smart">
+<text>«Скадовськ»</text>
+</string>
+<string id="zat_b5_smart_terrain">
+<text>Лісництво</text>
+</string>
+<string id="zat_b40_smart_terrain">
+<text>Станція переробки відходів</text>
+</string>
+<string id="zat_b100">
+<text>«Залізний ліс»</text>
+</string>
+<string id="zat_b101">
+<text>Смертельний лагерь</text>
+	</string>
+</string_table>
