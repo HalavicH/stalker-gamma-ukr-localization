@@ -37,78 +37,80 @@
     </string>
     <string id="ui_mcm_yacs_title">
         <text>
-            Yet Another Campfire Saving
+            (YACS) Ще Oдин сейв на вогнищі
         </text>
     </string>
     <string id="ui_mcm_yasc_enableCampfireSaving">
         <text>
-            Enable Campfire Saving
+            Увімкнути збереження біля багаття
         </text>
     </string>
     <string id="ui_mcm_yasc_enableCampfireSaving_desc">
         <text>
-            You will only be able to save near lit campfires and within friendly bases.
+            Ви зможете зберігатись лише біля запалених багать та на дружніх базах.
         </text>
     </string>
     <string id="ui_mcm_yasc_allowNeutralBases">
         <text>
-            Enable Neutral Bases
+            Увімкнути нейтральні бази
         </text>
     </string>
     <string id="ui_mcm_yasc_allowNeutralBases_desc">
         <text>
-            Other factions will allow you to save in their bases depending on your goodwill.
+            Інші фракції дозволять вам зберігатись на своїх базах в залежності від вашої доброї
+            волі.
         </text>
     </string>
     <string id="ui_mcm_yasc_allowSanctuaries">
         <text>
-            Enable Sanctuaries
+            Увімкнути Сховища
         </text>
     </string>
     <string id="ui_mcm_yasc_allowSanctuaries_desc">
         <text>
-            Certain influential individuals will allow you to save within their abodes if you are
-            on good terms.
+            Деякі впливові особи дозволять вам зберігатись в їхніх оселях, якщо ви в хороших
+            відносинах
         </text>
     </string>
     <string id="ui_mcm_yasc_enableNotifications">
         <text>
-            Enable Token Notifications
+            Увімкнути сповіщення про токени
         </text>
     </string>
     <string id="ui_mcm_yasc_enableNotifications_desc">
         <text>
-            You will be notified of remaining time before you are granted a free save token.
+            Ви отримаєте повідомлення про час, що залишився до отримання безкоштовного токена
+            збереження.
         </text>
     </string>
     <string id="ui_mcm_yasc_isNotMommy">
         <text>
-            Not A Mommy
+            Не мамця.
         </text>
     </string>
     <string id="ui_mcm_yasc_isNotMommy_desc">
         <text>
-            You identify as Daddy.
+            Ідентифікований як батя.
         </text>
     </string>
     <string id="mommy_true">
         <text>
-            Mommy
+            Мамця
         </text>
     </string>
     <string id="mommy_false">
         <text>
-            Daddy
+            Татко
         </text>
     </string>
     <string id="token_pending">
         <text>
-            You will be granted a %s Token in %i seconds.
+            Ви отримаєте %s токен через %i секунд.
         </text>
     </string>
     <string id="token_granted">
         <text>
-            You have a %s Token. Press SHIFT-F5 to redeem.
+            У вас є %s токен. Натисніть SHIFT-F5, щоб зберегти гру.
         </text>
     </string>
 </string_table>
