@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_cortex_scope">
-        <text>Cortex 1-8x</text>
+        <text>
+            Cortex 1-8x
+        </text>
     </string>
     <string id="st_cortex_scope_desc">
-        <text>Потужний 1-8-кратний приціл, створений виключно для потужних гвинтівок калібру 12,7 мм.</text>
+        <text>
+            Потужний 1-8-кратний приціл, створений виключно для потужних гвинтівок калібру 12,7
+            мм.
+        </text>
     </string>
 </string_table>

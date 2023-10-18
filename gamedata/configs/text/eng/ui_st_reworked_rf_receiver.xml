@@ -1,30 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_reworked_rf_receiver_title">
-        <text>Перероблений радіоприймач</text>
+        <text>
+            Перероблений радіоприймач
+        </text>
     </string>
     <string id="ui_mcm_menu_reworked_rf_receiver">
-        <text>Перероблений радіоприймач</text>
+        <text>
+            Перероблений радіоприймач
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_custom_beep_volume">
-        <text>Налаштована гучність звукового сигналу</text>
+        <text>
+            Налаштована гучність звукового сигналу
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
-        <text>Виберіть цю опцію, якщо хочете мати можливість змінювати гучність звукового сигналу.</text>
+        <text>
+            Виберіть цю опцію, якщо хочете мати можливість змінювати гучність звукового сигналу.
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_beep_volume">
-        <text>Гучність звукового сигналу</text>
+        <text>
+            Гучність звукового сигналу
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change">
-        <text>Оновлювати радіочастотні джерела при кожній зміні частоти (HEAVY)</text>
+        <text>
+            Оновлювати радіочастотні джерела при кожній зміні частоти (HEAVY)
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change_desc">
-        <text>Спричиняє мікрозаїкання</text>
+        <text>
+            Спричиняє мікрозаїкання
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_only_equip_rf">
-        <text>Не потрібно витягувати радіоприймач</text>
+        <text>
+            Не потрібно витягувати радіоприймач
+        </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
-        <text>Для роботи не потрібно тримати випромінювач у руці, достатньо лише мати його на собі.</text>
+        <text>
+            Для роботи не потрібно тримати випромінювач у руці, достатньо лише мати його на собі.
+        </text>
     </string>
 </string_table>

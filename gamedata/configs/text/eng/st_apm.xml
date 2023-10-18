@@ -1,86 +1,140 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- MCM -->
     <string id="ui_mcm_menu_ui_popup_messages">
-        <text>Спливаючі повідомлення</text>
+        <text>
+            Спливаючі повідомлення
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_title">
-        <text>Спливаючі повідомлення</text>
+        <text>
+            Спливаючі повідомлення
+        </text>
     </string>
     <string id="ui_mcm_menu_apm_main">
-        <text>Головна</text>
+        <text>
+            Головна
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_scaling">
-        <text>Масштабування</text>
+        <text>
+            Масштабування
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_window_amount">
-        <text>Кількість повідомлень</text>
+        <text>
+            Кількість повідомлень
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_display_time">
-        <text>Час відображення</text>
+        <text>
+            Час відображення
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_animation_time">
-        <text>Час анімації</text>
+        <text>
+            Час анімації
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_item_shadow">
-        <text>Вмикнути тінь значка елемента</text>
+        <text>
+            Вмикнути тінь значка елемента
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_shadow_alpha">
-        <text>Непрозорість тіні</text>
+        <text>
+            Непрозорість тіні
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_text_background">
-        <text>Стиль фону текста</text>
+        <text>
+            Стиль фону текста
+        </text>
     </string>
     <string id="ui_mcm_lst_apm_background">
-        <text>За замовчуванням</text>
+        <text>
+            За замовчуванням
+        </text>
     </string>
     <string id="ui_mcm_lst_apm_background2">
-        <text>Бічний</text>
+        <text>
+            Бічний
+        </text>
     </string>
     <string id="ui_mcm_lst_apm_background3">
-        <text>apm_background3</text>
+        <text>
+            apm_background3
+        </text>
     </string>
     <string id="ui_mcm_lst_apm_background4">
-        <text>Черезрядкова стилізація</text>
+        <text>
+            Черезрядкова стилізація
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_animate_style">
-        <text>Показати/приховати стиль анімації повідомлення</text>
+        <text>
+            Показати/приховати стиль анімації повідомлення
+        </text>
     </string>
     <string id="ui_mcm_lst_CircularEaseOut">
-        <text>CircularEaseOut (без відскоку)</text>
+        <text>
+            CircularEaseOut (без відскоку)
+        </text>
     </string>
     <string id="ui_mcm_lst_BackEaseOut">
-        <text>BackEaseOut (Великий відскок)</text>
+        <text>
+            BackEaseOut (Великий відскок)
+        </text>
     </string>
     <string id="ui_mcm_lst_BackEaseOutQuadratic">
-        <text>BackEaseOutQuadratic (Малий відскок)</text>
+        <text>
+            BackEaseOutQuadratic (Малий відскок)
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_r">
-        <text>Червоний колір тексту</text>
+        <text>
+            Червоний колір тексту
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_g">
-        <text>Зелений колір тексту</text>
+        <text>
+            Зелений колір тексту
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_b">
-        <text>Синій колір тексту</text>
+        <text>
+            Синій колір тексту
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_r_bg">
-        <text>Червоний колір BG</text>
+        <text>
+            Червоний колір BG
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_g_bg">
-        <text>BG Зелений колір</text>
+        <text>
+            BG Зелений колір
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_color_b_bg">
-        <text>Синій колір BG</text>
+        <text>
+            Синій колір BG
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_position">
-        <text>Налаштувати положення</text>
+        <text>
+            Налаштувати положення
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_pos_x">
-        <text>X Зміщення</text>
+        <text>
+            X Зміщення
+        </text>
     </string>
     <string id="ui_mcm_ui_popup_messages_apm_main_pos_y">
-        <text>Y Зміщення</text>
+        <text>
+            Y Зміщення
+        </text>
     </string>
 </string_table>

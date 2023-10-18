@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_free_zoom">
-        <text>Вільне наближення</text>
+        <text>
+            Вільне наближення
+        </text>
     </string>
     <string id="ui_mcm_free_zoom_key_bind_toggle">
-        <text>Клавіша вільного масштабування</text>
+        <text>
+            Клавіша вільного масштабування
+        </text>
     </string>
     <string id="ui_mcm_free_zoom_key_bind_toggle_desc">
-        <text>Сфокусуйте зір, збільшуючи масштаб, ціною швидкості руху.
+        <text>
+            Сфокусуйте зір, збільшуючи масштаб, ціною швидкості руху.
         </text>
     </string>
 </string_table>

@@ -1,60 +1,98 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="kovalev_name">
-        <text>Асистент Ковальов</text>
+        <text>
+            Асистент Ковальов
+        </text>
     </string>
     <string id="markov_name">
-        <text>Доцент Марков</text>
+        <text>
+            Доцент Марков
+        </text>
     </string>
     <string id="pirogov_name">
-        <text>Кандидат Пирогов</text>
+        <text>
+            Кандидат Пирогов
+        </text>
     </string>
     <string id="chernov_name">
-        <text> Старший науковий співробітник Чернов</text>
+        <text>
+            Старший науковий співробітник Чернов
+        </text>
     </string>
     <string id="juk_name">
-        <text> Професор Владислав Жук</text>
+        <text>
+            Професор Владислав Жук
+        </text>
     </string>
     <string id="vorobushkin_name">
-        <text>Доцент Воробушкін</text>
+        <text>
+            Доцент Воробушкін
+        </text>
     </string>
     <string id="skabinsky_name">
-        <text> Академік Скабінський</text>
+        <text>
+            Академік Скабінський
+        </text>
     </string>
     <string id="sarik_name">
-        <text>Сарік Присмерк</text>
+        <text>
+            Сарік Присмерк
+        </text>
     </string>
     <string id="st_kvartet_bio">
-        <text>Досвідчений сталкер. Детальна інформація відсутня.</text>
+        <text>
+            Досвідчений сталкер. Детальна інформація відсутня.
+        </text>
     </string>
     <string id="cs_informer_name">
-        <text>Милиця.</text>
+        <text>
+            Милиця.
+        </text>
     </string>
     <string id="st_informer_bio">
-        <text>Розвідник "Чистих".</text>
+        <text>
+            Розвідник "Чистих".
+        </text>
     </string>
     <string id="dragun_name">
-        <text>Шрам</text>
+        <text>
+            Шрам
+        </text>
     </string>
     <string id="st_dragun_bio">
-        <text>Досвідчений.</text>
+        <text>
+            Досвідчений.
+        </text>
     </string>
     <string id="brodyaga_name">
-        <text>Страйдер.</text>
+        <text>
+            Страйдер.
+        </text>
     </string>
     <string id="st_brodyaga_bio">
-        <text>Лідер групи "Вигнанців Моноліту".</text>
+        <text>
+            Лідер групи "Вигнанців Моноліту".
+        </text>
     </string>
     <string id="gamajun_name">
-        <text>Гамаюн.</text>
+        <text>
+            Гамаюн.
+        </text>
     </string>
     <string id="st_gamajun_bio">
-        <text>Учасник групи "Вигнанці Моноліту".</text>
+        <text>
+            Учасник групи "Вигнанці Моноліту".
+        </text>
     </string>
     <string id="monolith_pri_b36_smart_terrain_defense_name">
-        <text>Чебуратор</text>
+        <text>
+            Чебуратор
+        </text>
     </string>
     <string id="st_monolith_pri_b36_smart_terrain_defense_bio">
-        <text>Польовий командир "Фанатиків".</text>
+        <text>
+            Польовий командир "Фанатиків".
+        </text>
     </string>
 </string_table>

@@ -1,87 +1,139 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- Categories -->
     <string id="xcvb_trade_mut_1">
-        <text>Частини мутантів (звичайні)</text>
+        <text>
+            Частини мутантів (звичайні)
+        </text>
     </string>
     <string id="xcvb_trade_mut_2">
-        <text>Частини мутантів (незвичайні)</text>
+        <text>
+            Частини мутантів (незвичайні)
+        </text>
     </string>
     <string id="xcvb_trade_mut_3">
-        <text>Частини мутантів (рідкісні)</text>
+        <text>
+            Частини мутантів (рідкісні)
+        </text>
     </string>
     <string id="xcvb_trade_meat_1">
-        <text>М'ясо (звичайне)</text>
+        <text>
+            М'ясо (звичайне)
+        </text>
     </string>
     <string id="xcvb_trade_meat_2">
-        <text>М'ясо (рідкісне)</text>
+        <text>
+            М'ясо (рідкісне)
+        </text>
     </string>
     <string id="xcvb_trade_hide_1">
-        <text>Шкури (звичайні)</text>
+        <text>
+            Шкури (звичайні)
+        </text>
     </string>
     <string id="xcvb_trade_hide_2">
-        <text>Шкури (рідкісні)</text>
+        <text>
+            Шкури (рідкісні)
+        </text>
     </string>
     <string id="xcvb_trade_arts_1">
-        <text>Артефакти (сміттєві)</text>
+        <text>
+            Артефакти (сміттєві)
+        </text>
     </string>
     <string id="xcvb_trade_arts_2">
-        <text>Артефакти (звичайні)</text>
+        <text>
+            Артефакти (звичайні)
+        </text>
     </string>
     <string id="xcvb_trade_arts_3">
-        <text>Артефакти (незвичайні)</text>
+        <text>
+            Артефакти (незвичайні)
+        </text>
     </string>
     <string id="xcvb_trade_arts_4">
-        <text>Артефакти (рідкісні)</text>
+        <text>
+            Артефакти (рідкісні)
+        </text>
     </string>
     <string id="xcvb_trade_xt_weapons">
-        <text>Зброя</text>
+        <text>
+            Зброя
+        </text>
     </string>
     <string id="xcvb_trade_xt_armors">
-        <text>Броня</text>
+        <text>
+            Броня
+        </text>
     </string>
     <string id="xcvb_trade_xt_repair">
-        <text>Ремонт</text>
+        <text>
+            Ремонт
+        </text>
     </string>
     <string id="xcvb_trade_xt_supplies">
-        <text>Припаси</text>
+        <text>
+            Припаси
+        </text>
     </string>
     <string id="xcvb_trade_xt_med">
-        <text>Медицина</text>
+        <text>
+            Медицина
+        </text>
     </string>
     
 <!-- for HUD -->
     <string id="xcvb_trade_discount">
-        <text>Знижки</text>
+        <text>
+            Знижки
+        </text>
     </string>
     <string id="xcvb_trade_sell_to">
-        <text>Продаж торговцю</text>
+        <text>
+            Продаж торговцю
+        </text>
     </string>
     <string id="xcvb_trade_buy_from">
-        <text>Покупка у торговця</text>
+        <text>
+            Покупка у торговця
+        </text>
     </string>
     <string id="xcvb_trade_group">
-        <text>група:</text>
+        <text>
+            група:
+        </text>
     </string>
     <string id="xcvb_trade_buy_krug">
-        <text>-</text>
+        <text>
+            -
+        </text>
     </string>
     
 <!-- повідомлення -->
     <string id="xcvb_trade_trade">
-        <text>(Торгівля)</text>
+        <text>
+            (Торгівля)
+        </text>
     </string>
     <string id="xcvb_trade_hi">
-        <text>Сталкери, у мене нові знижки:</text>
+        <text>
+            Сталкери, у мене нові знижки:
+        </text>
     </string>
     <string id="xcvb_trade_hi">
-        <text>вони залишаться на</text>
+        <text>
+            вони залишаться на
+        </text>
     </string>
     <string id="xcvb_trade_day">
-        <text>день.</text>
+        <text>
+            день.
+        </text>
     </string>
     <string id="xcvb_trade_days">
-        <text>днів.</text>
+        <text>
+            днів.
+        </text>
     </string>
 </string_table>

@@ -1,30 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
-        <text>Множник досвіду медицини</text>
+        <text>
+            Множник досвіду медицини
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
-        <text>Множник досвіду божевілля</text>
+        <text>
+            Множник досвіду божевілля
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_tinkering">
-        <text>Множник досвіду ремонту</text>
+        <text>
+            Множник досвіду ремонту
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
-        <text>Множник досвіду бартеру</text>
+        <text>
+            Множник досвіду бартеру
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
-        <text>Множник досвіду поводження зі зброєю</text>
+        <text>
+            Множник досвіду поводження зі зброєю
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
-        <text>Множник досвіду заряджання магазину</text>
+        <text>
+            Множник досвіду заряджання магазину
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
-        <text>Множник досвіду злому замків</text>
+        <text>
+            Множник досвіду злому замків
+        </text>
     </string>
     <string id="ui_mcm_ut_skill_system_title">
-        <text>Налаштування розширенних навичок</text>
+        <text>
+            Налаштування розширенних навичок
+        </text>
     </string>
     <string id="ui_mcm_menu_ut_skill_system">
-        <text>Розширені навички</text>
+        <text>
+            Розширені навички
+        </text>
     </string>
 </string_table>

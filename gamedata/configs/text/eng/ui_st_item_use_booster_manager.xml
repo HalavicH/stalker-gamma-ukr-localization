@@ -1,68 +1,110 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_st_booster_manager_boosters_header">
-        <text>ADDITIONAL EFFECTS:</text>
+        <text>
+            ADDITIONAL EFFECTS:
+        </text>
     </string>
     <string id="ui_st_booster_manager_dot">
-        <text>•</text>
+        <text>
+            •
+        </text>
     </string>
     <string id="ui_st_booster_manager_boost_max_speed_name">
-        <text>Movement speed</text>
+        <text>
+            Movement speed
+        </text>
     </string>
     <string id="ui_st_booster_manager_boost_psy_restore_name">
-        <text>Psychic restoration</text>
+        <text>
+            Psychic restoration
+        </text>
     </string>
     <string id="ui_st_booster_manager_boost_psy_restore_unit">
-        <text>%/Sec</text>
+        <text>
+            %/Sec
+        </text>
     </string>
     
 <!-- MCM -->
     <string id="ui_mcm_menu_item_use_booster_manager">
-        <text>Booster Manager</text>
+        <text>
+            Booster Manager
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_main">
-        <text>Main</text>
+        <text>
+            Main
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_drink">
-        <text>Drinks</text>
+        <text>
+            Drinks
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_food">
-        <text>Foods</text>
+        <text>
+            Foods
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_medical">
-        <text>Medicines</text>
+        <text>
+            Medicines
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_mutant_food">
-        <text>Cooked meat</text>
+        <text>
+            Cooked meat
+        </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_mutant_raw_food">
-        <text>Raw meat</text>
+        <text>
+            Raw meat
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_main_title">
-        <text>Main Settings</text>
+        <text>
+            Main Settings
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_drink_title">
-        <text>Drinks and Cigarettes</text>
+        <text>
+            Drinks and Cigarettes
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_food_title">
-        <text>Imported Food</text>
+        <text>
+            Imported Food
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_medical_title">
-        <text>Medicines</text>
+        <text>
+            Medicines
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_mutant_food_title">
-        <text>Cooked Mutants Meat</text>
+        <text>
+            Cooked Mutants Meat
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_mutant_raw_food_title">
-        <text>Raw Mutants Meat</text>
+        <text>
+            Raw Mutants Meat
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_booster_manager_main_show_indicators">
-        <text>Enable indicators</text>
+        <text>
+            Enable indicators
+        </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_booster_manager_main_show_indicators_desc">
-        <text>(Save reload required!) Display indicators for additional effects in HUD</text>
+        <text>
+            (Save reload required!) Display indicators for additional effects in HUD
+        </text>
     </string>
     <string id="ui_mcm_booster_manager_boost_time_item_opt">
-        <text>Duration of additional effects (sec.)</text>
+        <text>
+            Duration of additional effects (sec.)
+        </text>
     </string>
 </string_table>

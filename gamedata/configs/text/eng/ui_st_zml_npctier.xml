@@ -1,390 +1,619 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_zml_npctier">
-        <text>NPC Tier</text>
+        <text>
+            NPC Tier
+        </text>
     </string>
     
 <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_npctier_general_info">
-        <text>The options below allow to edit each threshold for each tier of loot found on dead NPCs. Tier 1 being the most common and Tier 4 being the rarest. The higher the gap between two thresholds, the higher is the chance that the former gets picked. A tier threshold should not be set higher than its superior.</text>
+        <text>
+            The options below allow to edit each threshold for each tier of loot found on dead
+            NPCs. Tier 1 being the most common and Tier 4 being the rarest. The higher the gap
+            between two thresholds, the higher is the chance that the former gets picked. A tier
+            threshold should not be set higher than its superior.
+        </text>
     </string>
     
 <!-- REPAIR -->
     <string id="ui_mcm_ZML_zml_npctier_repair_info">
-        <text>Repair kits</text>
+        <text>
+            Repair kits
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_npctier_meds_info">
-        <text>Medical items</text>
+        <text>
+            Medical items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_npctier_drug_info">
-        <text>Drug items</text>
+        <text>
+            Drug items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_npctier_food_info">
-        <text>Food items</text>
+        <text>
+            Food items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_npctier_drink_info">
-        <text>Drink items</text>
+        <text>
+            Drink items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- TOOL -->
     <string id="ui_mcm_ZML_zml_npctier_tool_info">
-        <text>Tool items</text>
+        <text>
+            Tool items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- DEVICE -->
     <string id="ui_mcm_ZML_zml_npctier_device_info">
-        <text>Device items</text>
+        <text>
+            Device items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_npctier_container_info">
-        <text>Container items</text>
+        <text>
+            Container items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- LOOTBOX -->
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_info">
-        <text>Lootboxes</text>
+        <text>
+            Lootboxes
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- FACTION#SPECIFIC TIER -->
     <string id="ui_mcm_menu_zml_npcfaction_tier">
-        <text>NPC Faction tier</text>
+        <text>
+            NPC Faction tier
+        </text>
     </string>
     
 <!-- MILITARY -->
     <string id="ui_mcm_ZML_zml_npctier_army_info">
-        <text>Military</text>
+        <text>
+            Military
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- BANDIT -->
     <string id="ui_mcm_ZML_zml_npctier_bandit_info">
-        <text>Bandit</text>
+        <text>
+            Bandit
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- CLEAR SKY -->
     <string id="ui_mcm_ZML_zml_npctier_csky_info">
-        <text>Clear Sky</text>
+        <text>
+            Clear Sky
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- DUTY -->
     <string id="ui_mcm_ZML_zml_npctier_dolg_info">
-        <text>Duty</text>
+        <text>
+            Duty
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- ECOLOGIST -->
     <string id="ui_mcm_ZML_zml_npctier_ecolog_info">
-        <text>Ecologist</text>
+        <text>
+            Ecologist
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- FREEDOM -->
     <string id="ui_mcm_ZML_zml_npctier_freedom_info">
-        <text>Freedom</text>
+        <text>
+            Freedom
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- SIN -->
     <string id="ui_mcm_ZML_zml_npctier_greh_info">
-        <text>Sin</text>
+        <text>
+            Sin
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- MERCENARY -->
     <string id="ui_mcm_ZML_zml_npctier_killer_info">
-        <text>Mercenary</text>
+        <text>
+            Mercenary
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- UNISG -->
     <string id="ui_mcm_ZML_zml_npctier_isg_info">
-        <text>UNISG</text>
+        <text>
+            UNISG
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- MONOLITH -->
     <string id="ui_mcm_ZML_zml_npctier_monolith_info">
-        <text>Monolith</text>
+        <text>
+            Monolith
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- LONER -->
     <string id="ui_mcm_ZML_zml_npctier_stalker_info">
-        <text>Loner</text>
+        <text>
+            Loner
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- RENEGADE -->
     <string id="ui_mcm_ZML_zml_npctier_renegade_info">
-        <text>Renegade</text>
+        <text>
+            Renegade
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
     
 <!-- MAGUS -->
     <string id="ui_mcm_ZML_zml_npctier_magus_info">
-        <text>Magus</text>
+        <text>
+            Magus
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier1">
-        <text>Tier1 threshold</text>
+        <text>
+            Tier1 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier2">
-        <text>Tier2 threshold</text>
+        <text>
+            Tier2 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier3">
-        <text>Tier3 threshold</text>
+        <text>
+            Tier3 threshold
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier4">
-        <text>Tier4 threshold</text>
+        <text>
+            Tier4 threshold
+        </text>
     </string>
 </string_table>

@@ -1,123 +1,209 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_targetID">
-        <text>Розпізнавання угруповань</text>
+        <text>
+            Розпізнавання угруповань
+        </text>
     </string>
     <string id="ui_mcm_menu_targetID_title">
-        <text>Основні</text>
+        <text>
+            Основні
+        </text>
     </string>
     <string id="ui_mcm_menu_targetID_position_title">
-        <text>Позиція</text>
+        <text>
+            Позиція
+        </text>
     </string>
     <string id="ui_mcm_menu_targetID_text_title">
-        <text>Текст</text>
+        <text>
+            Текст
+        </text>
     </string>
     <string id="ui_mcm_targetID_deadID">
-        <text>Розпізнавати трупи</text>
+        <text>
+            Розпізнавати трупи
+        </text>
     </string>
     <string id="ui_mcm_targetID_deadID_desc">
-        <text>При ввімкненні цієї настройки розпізнаватиметься мертві сталкери.</text>
+        <text>
+            При ввімкненні цієї настройки розпізнаватиметься мертві сталкери.
+        </text>
     </string>
     <string id="ui_mcm_targetID_nameID">
-        <text>Показувати імена</text>
+        <text>
+            Показувати імена
+        </text>
     </string>
     <string id="ui_mcm_targetID_timeID">
-        <text>Затримка розпізнавання</text>
+        <text>
+            Затримка розпізнавання
+        </text>
     </string>
     <string id="ui_mcm_targetID_timeID_desc">
-        <text>Якщо опція включена, то розпізнавання відбуватиметься із затримкою, величина якої залежить від відстані до персонажа, що розпізнається, тобто. чим більша дистанція, тим повільніший процес.</text>
+        <text>
+            Якщо опція включена, то розпізнавання відбуватиметься із затримкою, величина якої
+            залежить від відстані до персонажа, що розпізнається, тобто. чим більша дистанція,
+            тим повільніший процес.
+        </text>
     </string>
     <string id="ui_mcm_targetID_rankID">
-        <text>Показувати ранг</text>
+        <text>
+            Показувати ранг
+        </text>
     </string>
     <string id="ui_mcm_targetID_talkName">
-        <text>Необхідність у знайомстві</text>
+        <text>
+            Необхідність у знайомстві
+        </text>
     </string>
     <string id="ui_mcm_targetID_talkName_desc">
-        <text>При увімкненні цієї опції, у сталкерів буде відображатися лише угруповання. Додаткові дані Ім'я/Ранг з'являться лише після знайомства з ним.</text>
+        <text>
+            При увімкненні цієї опції, у сталкерів буде відображатися лише угруповання. Додаткові
+            дані Ім'я/Ранг з'являться лише після знайомства з ним.
+        </text>
     </string>
     <string id="ui_mcm_targetID_speedID">
-        <text>Швидкість розпізнавання</text>
+        <text>
+            Швидкість розпізнавання
+        </text>
     </string>
     <string id="ui_mcm_targetID_speedID_desc">
-        <text>Збільшує/зменшує швидкість розпізнавання. Чим вище значення, тим швидше процес.</text>
+        <text>
+            Збільшує/зменшує швидкість розпізнавання. Чим вище значення, тим швидше процес.
+        </text>
     </string>
     <string id="ui_mcm_targetID_targL">
-        <text>Похибка наведення прицілу</text>
+        <text>
+            Похибка наведення прицілу
+        </text>
     </string>
     <string id="ui_mcm_targetID_targL_desc">
-        <text>Ця опція визначає, наскільки далеко розпізнається персонаж може бути від центру екрана. Чим вище значення, тим точніше доведеться наводити приціл на персонажа. При значенні 1.0 розпізнавання відбувається лише за точному наведенні на персонажа.</text>
+        <text>
+            Ця опція визначає, наскільки далеко розпізнається персонаж може бути від центру
+            екрана. Чим вище значення, тим точніше доведеться наводити приціл на персонажа. При
+            значенні 1.0 розпізнавання відбувається лише за точному наведенні на персонажа.
+        </text>
     </string>
     <string id="ui_mcm_targetID_xo">
-        <text>Координати вікна по осі X</text>
+        <text>
+            Координати вікна по осі X
+        </text>
     </string>
     <string id="ui_mcm_targetID_yo">
-        <text>Координати вікна по осі Y</text>
+        <text>
+            Координати вікна по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_xp">
-        <text>Зрушити весь текст по осі X</text>
+        <text>
+            Зрушити весь текст по осі X
+        </text>
     </string>
     <string id="ui_mcm_targetID_xp_desc">
-        <text>Щодо координат X положення вікна</text>
+        <text>
+            Щодо координат X положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_yp">
-        <text>Зрушити весь текст по осі Y</text>
+        <text>
+            Зрушити весь текст по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_yp_desc">
-        <text>Щодо координати Y положення вікна</text>
+        <text>
+            Щодо координати Y положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_xn">
-        <text>Зсув імені по осі Y</text>
+        <text>
+            Зсув імені по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_xn_desc">
-        <text>Щодо координат X положення вікна</text>
+        <text>
+            Щодо координат X положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_yn">
-        <text>Зсув імені по осі Y</text>
+        <text>
+            Зсув імені по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_yn_desc">
-        <text>Щодо координати Y положення вікна</text>
+        <text>
+            Щодо координати Y положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_xr">
-        <text>Зсув рангу по осі Y</text>
+        <text>
+            Зсув рангу по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_xr_desc">
-        <text>Щодо координат X положення вікна</text>
+        <text>
+            Щодо координат X положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_yr">
-        <text>Зсув рангу по осі Y</text>
+        <text>
+            Зсув рангу по осі Y
+        </text>
     </string>
     <string id="ui_mcm_targetID_yr_desc">
-        <text>Щодо координати Y положення вікна</text>
+        <text>
+            Щодо координати Y положення вікна
+        </text>
     </string>
     <string id="ui_mcm_targetID_flipAlign">
-        <text>Вирівняти текст з правого краю</text>
+        <text>
+            Вирівняти текст з правого краю
+        </text>
     </string>
     <string id="ui_mcm_targetID_flipAlign_desc">
-        <text>Якщо опція увімкнена - відображення імені та рангу буде вирівнюватися по правому краю екрана.</text>
+        <text>
+            Якщо опція увімкнена - відображення імені та рангу буде вирівнюватися по правому краю
+            екрана.
+        </text>
     </string>
     <string id="ui_mcm_targetID_colorR">
-        <text>Колір тексту імені: канал R</text>
+        <text>
+            Колір тексту імені: канал R
+        </text>
     </string>
     <string id="ui_mcm_targetID_colorG">
-        <text>Колір тексту імені: канал G</text>
+        <text>
+            Колір тексту імені: канал G
+        </text>
     </string>
     <string id="ui_mcm_targetID_colorB">
-        <text>Колір тексту імені: канал B</text>
+        <text>
+            Колір тексту імені: канал B
+        </text>
     </string>
     <string id="ui_mcm_targetID_RcolorR">
-        <text>Колір тексту рангу: канал R</text>
+        <text>
+            Колір тексту рангу: канал R
+        </text>
     </string>
     <string id="ui_mcm_targetID_RcolorG">
-        <text>Колір тексту рангу: канал G</text>
+        <text>
+            Колір тексту рангу: канал G
+        </text>
     </string>
     <string id="ui_mcm_targetID_RcolorB">
-        <text>Колір тексту рангу: канал B</text>
+        <text>
+            Колір тексту рангу: канал B
+        </text>
     </string>
     <string id="ui_mcm_targetID_unknown">
-        <text>Невідомий</text>
+        <text>
+            Невідомий
+        </text>
     </string>
     <string id="ui_mcm_targetID_scan">
-        <text>Сканування...</text>
+        <text>
+            Сканування...
+        </text>
     </string>
 </string_table>

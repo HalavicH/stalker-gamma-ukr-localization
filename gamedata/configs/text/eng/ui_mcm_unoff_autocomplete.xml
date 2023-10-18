@@ -1,21 +1,33 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_unoff_autocomplete">
-        <text>Unofficial Autocomplete</text>
+        <text>
+            Unofficial Autocomplete
+        </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_title">
-        <text>Unofficial Autocomplete</text>
+        <text>
+            Unofficial Autocomplete
+        </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_enable_autocomplete">
-        <text>Увімкнути автоматичне завершення</text>
+        <text>
+            Увімкнути автоматичне завершення
+        </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_enable_autocomplete_desc">
-        <text>Увімкнути логіку автоматичне завершення</text>
+        <text>
+            Увімкнути логіку автоматичне завершення
+        </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_enable_debug">
-        <text>Увімкнути налагоджувальний журнал</text>
+        <text>
+            Увімкнути налагоджувальний журнал
+        </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_enable_debug_desc">
-        <text>Корисно тільки для модерів</text>
+        <text>
+            Корисно тільки для модерів
+        </text>
     </string>
 </string_table>

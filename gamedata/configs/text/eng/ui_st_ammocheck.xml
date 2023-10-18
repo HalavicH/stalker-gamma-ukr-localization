@@ -1,83 +1,137 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- Ammo_Check Messages -->
     <string id="st_ac_overfull">
-        <text>Переповнений</text>
+        <text>
+            Переповнений
+        </text>
     </string>
     <string id="st_ac_plus1">
-        <text>Повний + 1</text>
+        <text>
+            Повний + 1
+        </text>
     </string>
     <string id="st_ac_oitc">
-        <text>1 в патроннику</text>
+        <text>
+            1 в патроннику
+        </text>
     </string>
     <string id="st_ac_just_one">
-        <text>Тільки один</text>
+        <text>
+            Тільки один
+        </text>
     </string>
     <string id="st_ac_full">
-        <text>Повний</text>
+        <text>
+            Повний
+        </text>
     </string>
     <string id="st_ac_nearly_full">
-        <text>Майже повний</text>
+        <text>
+            Майже повний
+        </text>
     </string>
     <string id="st_ac_more_half">
-        <text>Більше половини</text>
+        <text>
+            Більше половини
+        </text>
     </string>
     <string id="st_ac_about_half">
-        <text>Приблизно половина</text>
+        <text>
+            Приблизно половина
+        </text>
     </string>
     <string id="st_ac_less_half">
-        <text>Менше половини</text>
+        <text>
+            Менше половини
+        </text>
     </string>
     <string id="st_ac_near_empty">
-        <text>Майже порожній</text>
+        <text>
+            Майже порожній
+        </text>
     </string>
     <string id="st_ac_empty">
-        <text>Порожній</text>
+        <text>
+            Порожній
+        </text>
     </string>
     <string id="st_ac_jammed">
-        <text>Зброя заклинила</text>
+        <text>
+            Зброя заклинила
+        </text>
     </string>
     <string id="st_ac_noMag">
-        <text>Магазин не встановлено</text>
+        <text>
+            Магазин не встановлено
+        </text>
     </string>
     <string id="st_ac_grenade">
-        <text>Граната заряджена</text>
+        <text>
+            Граната заряджена
+        </text>
     </string>
     <string id="st_ac_noAmmo">
-        <text>Для цього не потрібні патрони!</text>
+        <text>
+            Для цього не потрібні патрони!
+        </text>
     </string>
     <string id="st_ac_ammoLeft">
-        <text>залишилося</text>
+        <text>
+            залишилося
+        </text>
     </string>
     <string id="ui_mcm_menu_rax_ammo_check">
-        <text>Перевірка боєприпасів</text>
+        <text>
+            Перевірка боєприпасів
+        </text>
     </string>
     <string id="ui_mm_title_rax_ammo_check">
-        <text>Перевірка боєприпасів</text>
+        <text>
+            Перевірка боєприпасів
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_usecolor">
-        <text>Кольорові повідомлення.</text>
+        <text>
+            Кольорові повідомлення.
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_hidecounter">
-        <text>Приховати лічильник боєприпасів.</text>
+        <text>
+            Приховати лічильник боєприпасів.
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_hideicon">
-        <text>Приховати значок патронів.</text>
+        <text>
+            Приховати значок патронів.
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_busy_hands_fix">
-        <text>Виправлення зайнятих рук.</text>
+        <text>
+            Виправлення зайнятих рук.
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
-        <text>Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно, якщо встановлено FDDA</text>
+        <text>
+            Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно, якщо
+            встановлено FDDA
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_keybind">
-        <text>Клавіша перевірки набоїв</text>
+        <text>
+            Клавіша перевірки набоїв
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_keybind_desc">
-        <text>Цю прив’язку клавіш можна налаштувати так, щоб вимагалися додаткові клавіші-модифікатори для пом’якшення конфліктів.</text>
+        <text>
+            Цю прив’язку клавіш можна налаштувати так, щоб вимагалися додаткові клавіші-
+            модифікатори для пом’якшення конфліктів.
+        </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_update_mcm">
-        <text>Оновіть MCM, щоб змінити прив’язку клавіши тут. Клавіша за замовчуванням T.</text>
+        <text>
+            Оновіть MCM, щоб змінити прив’язку клавіши тут. Клавіша за замовчуванням T.
+        </text>
     </string>
 </string_table>

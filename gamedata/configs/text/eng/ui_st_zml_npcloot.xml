@@ -1,180 +1,287 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_zml_npcloot">
-        <text>NPC Loot</text>
+        <text>
+            NPC Loot
+        </text>
     </string>
     
 <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_npcloot_general_info">
-        <text>The options below add a chance to find extra items on dead NPCs. Hovering your cursor on settings gives additionnal informations for the settings.</text>
+        <text>
+            The options below add a chance to find extra items on dead NPCs. Hovering your cursor
+            on settings gives additionnal informations for the settings.
+        </text>
     </string>
     
 <!-- NPC LOOT -->
     <string id="ui_mcm_ZML_zml_npcloot_npc_spawn">
-        <text>Find extra items on NPCs (main)</text>
+        <text>
+            Find extra items on NPCs (main)
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_npc_chance">
-        <text>NPC item spawn chance</text>
+        <text>
+            NPC item spawn chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_npc_chance_desc">
-        <text>Chance to find extra items on NPCs.</text>
+        <text>
+            Chance to find extra items on NPCs.
+        </text>
     </string>
     
 <!-- ITEMS -->
     
 <!-- REPAIR KIT -->
     <string id="ui_mcm_ZML_zml_npcloot_repair_spawn">
-        <text>Spawn repair kits</text>
+        <text>
+            Spawn repair kits
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_spawn_desc">
-        <text>Adds a chance to find repair kits. Any items to clean or repair parts, major repair kits in rarer tier.</text>
+        <text>
+            Adds a chance to find repair kits. Any items to clean or repair parts, major repair
+            kits in rarer tier.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_chance">
-        <text>Repair kits chance</text>
+        <text>
+            Repair kits chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_chance_desc">
-        <text>Chance to find repair kits.</text>
+        <text>
+            Chance to find repair kits.
+        </text>
     </string>
     
 <!-- AMMO -->
     <string id="ui_mcm_ZML_zml_npcloot_ammo_spawn">
-        <text>Spawn extra ammo</text>
+        <text>
+            Spawn extra ammo
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_spawn_desc">
-        <text>Adds a chance to find ammo.</text>
+        <text>
+            Adds a chance to find ammo.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_chance">
-        <text>Ammo chance</text>
+        <text>
+            Ammo chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_chance_desc">
-        <text>Chance to find ammo.</text>
+        <text>
+            Chance to find ammo.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_spawn">
-        <text>Spawn old ammo</text>
+        <text>
+            Spawn old ammo
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_chance">
-        <text>Old ammo chance</text>
+        <text>
+            Old ammo chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_chance_desc">
-        <text>Chance that the found ammo is old.</text>
+        <text>
+            Chance that the found ammo is old.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_amount">
-        <text>Ammo amount</text>
+        <text>
+            Ammo amount
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_amount_desc">
-        <text>Amount multiplier of ammo found.</text>
+        <text>
+            Amount multiplier of ammo found.
+        </text>
     </string>
     
 <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_npcloot_meds_spawn">
-        <text>Spawn medical items</text>
+        <text>
+            Spawn medical items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_spawn_desc">
-        <text>Adds a chance to find medical items. To keep you alive. Not covered by your insurance.</text>
+        <text>
+            Adds a chance to find medical items. To keep you alive. Not covered by your
+            insurance.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_chance">
-        <text>Medical items chance</text>
+        <text>
+            Medical items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_chance_desc">
-        <text>Chance to find medical items.</text>
+        <text>
+            Chance to find medical items.
+        </text>
     </string>
     
 <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_npcloot_drug_spawn">
-        <text>Spawn drug items.</text>
+        <text>
+            Spawn drug items.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_spawn_desc">
-        <text>Adds a chance to find drug items. Items to help mainly with stamina and carry weight. Obviously includes *real* drugs. Drugs are bad, m'kay.</text>
+        <text>
+            Adds a chance to find drug items. Items to help mainly with stamina and carry weight.
+            Obviously includes *real* drugs. Drugs are bad, m'kay.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_chance">
-        <text>Drug items chance</text>
+        <text>
+            Drug items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_chance_desc">
-        <text>Chance to find drug items.</text>
+        <text>
+            Chance to find drug items.
+        </text>
     </string>
     
 <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_npcloot_food_spawn">
-        <text>Spawn food items</text>
+        <text>
+            Spawn food items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_spawn_desc">
-        <text>Adds a chance to find food items. Food is food. No delivery fees.</text>
+        <text>
+            Adds a chance to find food items. Food is food. No delivery fees.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_chance">
-        <text>Food items chance</text>
+        <text>
+            Food items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_chance_desc">
-        <text>Chance to find food items.</text>
+        <text>
+            Chance to find food items.
+        </text>
     </string>
     
 <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_npcloot_drink_spawn">
-        <text>Spawn drink items</text>
+        <text>
+            Spawn drink items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_spawn_desc">
-        <text>Adds a chance to find drink items. Liquid food, thirst sustenance, energy drinks.</text>
+        <text>
+            Adds a chance to find drink items. Liquid food, thirst sustenance, energy drinks.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_chance">
-        <text>Drink items chance</text>
+        <text>
+            Drink items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_chance_desc">
-        <text>Chance to find drink items.</text>
+        <text>
+            Chance to find drink items.
+        </text>
     </string>
     
 <!-- DEVICE  -->
     <string id="ui_mcm_ZML_zml_npcloot_device_spawn">
-        <text>Spawn device items</text>
+        <text>
+            Spawn device items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_spawn_desc">
-        <text>Adds a chance to find device items. Any handheld devices that makes beeps and boops, headgear such as nightvision goggles and flashlights.</text>
+        <text>
+            Adds a chance to find device items. Any handheld devices that makes beeps and boops,
+            headgear such as nightvision goggles and flashlights.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_chance">
-        <text>Device items chance</text>
+        <text>
+            Device items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_chance_desc">
-        <text>Chance to find device items.</text>
+        <text>
+            Chance to find device items.
+        </text>
     </string>
     
 <!-- TOOL  -->
     <string id="ui_mcm_ZML_zml_npcloot_tool_spawn">
-        <text>Spawn tool items</text>
+        <text>
+            Spawn tool items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_spawn_desc">
-        <text>Adds a chance to find tool items. Various useful items, such as batteries, dissassembling tools and camping gear.</text>
+        <text>
+            Adds a chance to find tool items. Various useful items, such as batteries,
+            dissassembling tools and camping gear.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_chance">
-        <text>Tool items chance</text>
+        <text>
+            Tool items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_chance_desc">
-        <text>Chance to find tool items.</text>
+        <text>
+            Chance to find tool items.
+        </text>
     </string>
     
 <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_npcloot_container_spawn">
-        <text>Spawn container items</text>
+        <text>
+            Spawn container items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_spawn_desc">
-        <text>Adds a chance to find container items. Items to put items into, like backpacks and artefact containers. Itemception.</text>
+        <text>
+            Adds a chance to find container items. Items to put items into, like backpacks and
+            artefact containers. Itemception.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_chance">
-        <text>Container items chance</text>
+        <text>
+            Container items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_chance_desc">
-        <text>Chance to find container items.</text>
+        <text>
+            Chance to find container items.
+        </text>
     </string>
     
 <!-- LOOTBOXES -->
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_spawn">
-        <text>Anomaly Lootboxes (toggle spawn in integration)</text>
+        <text>
+            Anomaly Lootboxes (toggle spawn in integration)
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_spawn_desc">
-        <text>Adds a chance to find lootboxes.</text>
+        <text>
+            Adds a chance to find lootboxes.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_chance">
-        <text>Lootbox items chance</text>
+        <text>
+            Lootbox items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_chance_desc">
-        <text>Chance to find lootboxes.</text>
+        <text>
+            Chance to find lootboxes.
+        </text>
     </string>
     
 <!-- POTIONS TEST -->
@@ -202,15 +309,24 @@
     
 <!-- FACTION -->
     <string id="ui_mcm_ZML_zml_npcloot_faction_spawn">
-        <text>Spawn faction-specific items</text>
+        <text>
+            Spawn faction-specific items
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_spawn_desc">
-        <text>Adds a chance to find faction-specific items. Only spawns factions patches for now cause I'm lazy (untrue, I just have no idea for factions droptables yet).</text>
+        <text>
+            Adds a chance to find faction-specific items. Only spawns factions patches for now
+            cause I'm lazy (untrue, I just have no idea for factions droptables yet).
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_chance">
-        <text>Faction items chance</text>
+        <text>
+            Faction items chance
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_chance_desc">
-        <text>Chance to find faction-specific items.</text>
+        <text>
+            Chance to find faction-specific items.
+        </text>
     </string>
 </string_table>

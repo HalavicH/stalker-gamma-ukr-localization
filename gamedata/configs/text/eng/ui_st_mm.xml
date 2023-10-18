@@ -1,238 +1,394 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="Clear">
-        <text>Ясна</text>
+        <text>
+            Ясна
+        </text>
     </string>
     <string id="Cloudy">
-        <text>Хмарна</text>
+        <text>
+            Хмарна
+        </text>
     </string>
     <string id="Night">
-        <text>Ніч</text>
+        <text>
+            Ніч
+        </text>
     </string>
     <string id="Rain">
-        <text>Дощ</text>
+        <text>
+            Дощ
+        </text>
     </string>
     <string id="game type">
-        <text>ТИП ГРИ</text>
+        <text>
+            ТИП ГРИ
+        </text>
     </string>
     <string id="gd_master">
-        <text>Майстер</text>
+        <text>
+            Майстер
+        </text>
     </string>
     <string id="gd_novice">
-        <text>Новачок</text>
+        <text>
+            Новачок
+        </text>
     </string>
     <string id="gd_veteran">
-        <text>Ветеран</text>
+        <text>
+            Ветеран
+        </text>
     </string>
     <string id="icon">
-        <text>ЗНАЧЕННЯ</text>
+        <text>
+            ЗНАЧЕННЯ
+        </text>
     </string>
     <string id="map">
-        <text>МАПА</text>
+        <text>
+            МАПА
+        </text>
     </string>
     <string id="st_opt_high">
-        <text>Високо</text>
+        <text>
+            Високо
+        </text>
     </string>
     <string id="st_opt_low">
-        <text>Низько</text>
+        <text>
+            Низько
+        </text>
     </string>
     <string id="st_opt_medium">
-        <text>Середньо</text>
+        <text>
+            Середньо
+        </text>
     </string>
     <string id="st_opt_off">
-        <text>Вимкнено</text>
+        <text>
+            Вимкнено
+        </text>
     </string>
     <string id="ui_mm_action">
-        <text>Дія</text>
+        <text>
+            Дія
+        </text>
     </string>
     <string id="ui_mm_advanced">
-        <text>Розширені</text>
+        <text>
+            Розширені
+        </text>
     </string>
     <string id="ui_mm_alternative">
-        <text>Альтернатив.</text>
+        <text>
+            Альтернатив.
+        </text>
     </string>
     <string id="ui_mm_back">
-        <text>Назад</text>
+        <text>
+            Назад
+        </text>
     </string>
     <string id="ui_mm_blood">
-        <text>Кров</text>
+        <text>
+            Кров
+        </text>
     </string>
     <string id="ui_mm_ok">
-        <text>OK</text>
+        <text>
+            OK
+        </text>
     </string>
     <string id="ui_mm_next">
-        <text>Наступ.</text>
+        <text>
+            Наступ.
+        </text>
     </string>
     <string id="ui_mm_previous">
-        <text>Попередній.</text>
+        <text>
+            Попередній.
+        </text>
     </string>
     <string id="ui_mm_craft">
-        <text>Створити</text>
+        <text>
+            Створити
+        </text>
     </string>
     <string id="ui_mm_upgrade">
-        <text>Модифікувати</text>
+        <text>
+            Модифікувати
+        </text>
     </string>
     <string id="ui_mm_repair">
-        <text>Відремонтувати</text>
+        <text>
+            Відремонтувати
+        </text>
     </string>
     <string id="ui_mm_cook">
-        <text>Готувати</text>
+        <text>
+            Готувати
+        </text>
     </string>
     <string id="ui_mm_loot_selected">
-        <text>Взяти вибране</text>
+        <text>
+            Взяти вибране
+        </text>
     </string>
     <string id="ui_mm_loot_all">
-        <text>Взяти все (Enter)</text>
+        <text>
+            Взяти все (Enter)
+        </text>
     </string>
     <string id="ui_mm_check_updates">
-        <text>Оновлення</text>
+        <text>
+            Оновлення
+        </text>
     </string>
     <string id="ui_mm_controls">
-        <text>Керування</text>
+        <text>
+            Керування
+        </text>
     </string>
     <string id="ui_mm_credits">
-        <text>Титри</text>
+        <text>
+            Титри
+        </text>
     </string>
     <string id="ui_mm_delete">
-        <text>Видалити</text>
+        <text>
+            Видалити
+        </text>
     </string>
     <string id="ui_mm_delete_existing_file_q">
-        <text>Ви дійсно хочете видалити цей файл?</text>
+        <text>
+            Ви дійсно хочете видалити цей файл?
+        </text>
     </string>
     <string id="ui_mm_difficulty">
-        <text>Складність</text>
+        <text>
+            Складність
+        </text>
     </string>
     <string id="ui_mm_disconnect">
-        <text>Від'єднатися</text>
+        <text>
+            Від'єднатися
+        </text>
     </string>
     <string id="ui_mm_disconnect_message">
-        <text>Ви дійсно бажаєте від'єднатися?</text>
+        <text>
+            Ви дійсно бажаєте від'єднатися?
+        </text>
     </string>
     <string id="ui_mm_key">
-        <text>Кнопка</text>
+        <text>
+            Кнопка
+        </text>
     </string>
     <string id="ui_mm_keyboard_setup">
-        <text>Налаштування клавіатури</text>
+        <text>
+            Налаштування клавіатури
+        </text>
     </string>
     <string id="ui_mm_last_save">
-        <text>Ост. збереження</text>
+        <text>
+            Ост. збереження
+        </text>
     </string>
     <string id="ui_mm_load">
-        <text>Завантажити</text>
+        <text>
+            Завантажити
+        </text>
     </string>
     <string id="ui_mm_load_game">
-        <text>Завантажити гру</text>
+        <text>
+            Завантажити гру
+        </text>
     </string>
     <string id="ui_mm_logout">
-        <text>Вийти з профілю</text>
+        <text>
+            Вийти з профілю
+        </text>
     </string>
     <string id="ui_mm_master">
-        <text>Майстер</text>
+        <text>
+            Майстер
+        </text>
     </string>
     <string id="ui_mm_need_restart">
-        <text>Зміни вступлять в силу лише після перезавантаження гри</text>
+        <text>
+            Зміни вступлять в силу лише після перезавантаження гри
+        </text>
     </string>
     <string id="ui_mm_network_game">
-        <text>Гра по мережі</text>
+        <text>
+            Гра по мережі
+        </text>
     </string>
     <string id="ui_mm_newgame">
-        <text>Нова гра</text>
+        <text>
+            Нова гра
+        </text>
     </string>
     <string id="ui_mm_novice">
-        <text>Новачок</text>
+        <text>
+            Новачок
+        </text>
     </string>
     <string id="ui_mm_options">
-        <text>ОПЦІЇ</text>
+        <text>
+            ОПЦІЇ
+        </text>
     </string>
     <string id="ui_mm_particles_distance">
-        <text>Дальність частинок</text>
+        <text>
+            Дальність частинок
+        </text>
     </string>
     <string id="ui_mm_quality_presets">
-        <text>Установки якості</text>
+        <text>
+            Установки якості
+        </text>
     </string>
     <string id="ui_mm_quit2windows">
-        <text>Вийти у Windows</text>
+        <text>
+            Вийти у Windows
+        </text>
     </string>
     <string id="ui_mm_quit_game">
-        <text>Завершити гру</text>
+        <text>
+            Завершити гру
+        </text>
     </string>
     <string id="ui_mm_quit_game_message">
-        <text>Ви дійсно бажаєте залишити гру?</text>
+        <text>
+            Ви дійсно бажаєте залишити гру?
+        </text>
     </string>
     <string id="ui_mm_quit_windows_message">
-        <text>Ви дійсно хочете вийти у Вікно?)</text>
+        <text>
+            Ви дійсно хочете вийти у Вікно?)
+        </text>
     </string>
     <string id="ui_mm_return_game">
-        <text>Повернення до гри</text>
+        <text>
+            Повернення до гри
+        </text>
     </string>
     <string id="ui_mm_save">
-        <text>Зберегти</text>
+        <text>
+            Зберегти
+        </text>
     </string>
     <string id="ui_mm_save_game">
-        <text>Зберегти гру</text>
+        <text>
+            Зберегти гру
+        </text>
     </string>
     <string id="ui_mm_stalker">
-        <text>Сталкер</text>
+        <text>
+            Сталкер
+        </text>
     </string>
     <string id="ui_mm_veteran">
-        <text>Ветеран</text>
+        <text>
+            Ветеран
+        </text>
     </string>
     <string id="ui_st_reset">
-        <text>Скинути</text>
+        <text>
+            Скинути
+        </text>
     </string>
     <string id="ui_st_sell_all">
-        <text>Продати все</text>
+        <text>
+            Продати все
+        </text>
     </string>
     <string id="version">
-        <text>Версія</text>
+        <text>
+            Версія
+        </text>
     </string>
     <string id="gd_stalker">
-        <text>Сталкер</text>
+        <text>
+            Сталкер
+        </text>
     </string>
     <string id="st_opt_extreme">
-        <text>Макс. високо</text>
+        <text>
+            Макс. високо
+        </text>
     </string>
     <string id="st_opt_ultra">
-        <text>Дуже високо</text>
+        <text>
+            Дуже високо
+        </text>
     </string>
     <string id="ui_mm_confirm_changes">
-        <text>Застосувати зміни? Усі зміни будуть скасовані через</text>
+        <text>
+            Застосувати зміни? Усі зміни будуть скасовані через
+        </text>
     </string>
     <string id="st_cap_check_story">
-        <text>Сюжетний режим</text>
+        <text>
+            Сюжетний режим
+        </text>
     </string>
     <string id="st_cap_check_survival">
-        <text>Режим виживання (Beta)</text>
+        <text>
+            Режим виживання (Beta)
+        </text>
     </string>
     <string id="st_cap_check_hardcore">
-        <text>«Одне життя»</text>
+        <text>
+            «Одне життя»
+        </text>
     </string>
     <string id="ui_mm_hardcore">
-        <text>«Одне життя»</text>
+        <text>
+            «Одне життя»
+        </text>
     </string>
     <string id="ui_mm_only_campfire">
-        <text>Збереження: багаття</text>
+        <text>
+            Збереження: багаття
+        </text>
         
-<!-- edited -->
+<!--
+            edited
+        -->
     </string>
     <string id="ui_mm_environment_effect">
-        <text>Додат. погодні ефекти</text>
+        <text>
+            Додат. погодні ефекти
+        </text>
     </string>
     <string id="ui_mm_faction_sel">
-        <text>Спеціалізація</text>
+        <text>
+            Спеціалізація
+        </text>
     </string>
     <string id="ui_mm_disanim">
-        <text>Увімк./вимк. анімації вик. предметів</text>
+        <text>
+            Увімк./вимк. анімації вик. предметів
+        </text>
     </string>
     <string id="st_cap_check_azazel_mode">
-        <text>«Життя після життя»</text>
+        <text>
+            «Життя після життя»
+        </text>
     </string>
     
 <!-- New -->
     <string id="ui_mm_character_name">
-        <text>Ім'я персонажа</text>
+        <text>
+            Ім'я персонажа
+        </text>
     </string>
     <string id="ui_mm_transitions_closed_disable">
-        <text>Відкрити переходи</text>
+        <text>
+            Відкрити переходи
+        </text>
     </string>
 </string_table>

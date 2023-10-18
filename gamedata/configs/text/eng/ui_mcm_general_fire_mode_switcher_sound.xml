@@ -1,33 +1,53 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_fmode_sound_title">
-        <text>Загальний звук перемикання режимів вогню</text>
+        <text>
+            Загальний звук перемикання режимів вогню
+        </text>
     </string>
     <string id="ui_mcm_menu_fmode_sound">
-        <text>Звук перемикання режиму вогню</text>
+        <text>
+            Звук перемикання режиму вогню
+        </text>
     </string>
     <string id="ui_mcm_fmode_sound_sound">
-        <text>Звук</text>
+        <text>
+            Звук
+        </text>
     </string>
     <string id="ui_mcm_fmode_sound_volume">
-        <text>Гучність</text>
+        <text>
+            Гучність
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss0">
-        <text>Звук 1</text>
+        <text>
+            Звук 1
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss1">
-        <text>Звук 2</text>
+        <text>
+            Звук 2
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss2">
-        <text>Звук 3</text>
+        <text>
+            Звук 3
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss3">
-        <text>Звук 4</text>
+        <text>
+            Звук 4
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss4">
-        <text>Звук 5</text>
+        <text>
+            Звук 5
+        </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_gfmss5">
-        <text>Звук 6</text>
+        <text>
+            Звук 6
+        </text>
     </string>
 </string_table>

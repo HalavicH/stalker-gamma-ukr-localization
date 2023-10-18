@@ -1,45 +1,75 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_demonized_dialog_fov_title">
-        <text>Динамічний інтерфейс діалогів</text>
+        <text>
+            Динамічний інтерфейс діалогів
+        </text>
     </string>
     <string id="ui_mcm_menu_demonized_dialog_fov">
-        <text>Інтерфейс діалогів</text>
+        <text>
+            Інтерфейс діалогів
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_enabled">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_zoom_fov_enabled">
-        <text>Увімкнути приближення</text>
+        <text>
+            Увімкнути приближення
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_zoom_fov_modifier">
-        <text>Модифікатор наближення</text>
+        <text>
+            Модифікатор наближення
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_min_zoom_fov">
-        <text>Мінімальне наближення</text>
+        <text>
+            Мінімальне наближення
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_min_zoom_fov_desc">
-        <text>Якщо зум увімкнено, кут огляду зміниться щонайменше на це значення</text>
+        <text>
+            Якщо зум увімкнено, кут огляду зміниться щонайменше на це значення
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_distance_fov">
-        <text>Distance based zoom</text>
+        <text>
+            Distance based zoom
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_distance_fov_desc">
-        <text>Це змінює FOV таким чином, щоб персонаж був однакового розміру, незалежно від того, як далеко він знаходиться від гравця</text>
+        <text>
+            Це змінює FOV таким чином, щоб персонаж був однакового розміру, незалежно від того,
+            як далеко він знаходиться від гравця
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_fov_smoothing">
-        <text>Плавність масштабування</text>
+        <text>
+            Плавність масштабування
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_track_npc">
-        <text>Фокусування камери на NPC</text>
+        <text>
+            Фокусування камери на NPC
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_turn_modifier">
-        <text>Коефіцієнт повороту камери</text>
+        <text>
+            Коефіцієнт повороту камери
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_turn_modifier_desc">
-        <text>Коефіцієнт повороту камери для регулювання положення символу, 0 означає відсутність повороту, від'ємні значення обертають камеру в інший бік</text>
+        <text>
+            Коефіцієнт повороту камери для регулювання положення символу, 0 означає відсутність
+            повороту, від'ємні значення обертають камеру в інший бік
+        </text>
     </string>
     <string id="ui_mcm_demonized_dialog_fov_smoothing">
-        <text>Плавність фокусування камери</text>
+        <text>
+            Плавність фокусування камери
+        </text>
     </string>
 </string_table>

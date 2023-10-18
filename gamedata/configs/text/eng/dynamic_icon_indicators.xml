@@ -1,99 +1,168 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_dii_scale">
-        <text>Розмір</text>
+        <text>
+            Розмір
+        </text>
     </string>
     <string id="ui_mcm_dii_scale_desc">
-        <text>Розмір усіх індикаторів.</text>
+        <text>
+            Розмір усіх індикаторів.
+        </text>
     </string>
     <string id="ui_mcm_dii_show">
-        <text>Відображати</text>
+        <text>
+            Відображати
+        </text>
     </string>
     <string id="ui_mcm_dii_show_desc">
-        <text>Увімкнути або вимкнути відображення індикатора.</text>
+        <text>
+            Увімкнути або вимкнути відображення індикатора.
+        </text>
     </string>
     <string id="ui_mcm_dii_anchor_x">
-        <text>Горизонтальна орієнтація</text>
+        <text>
+            Горизонтальна орієнтація
+        </text>
     </string>
     <string id="ui_mcm_dii_anchor_x_desc">
-        <text>Спосіб розташування елемента по горизонталі. (зліва\справа)</text>
+        <text>
+            Спосіб розташування елемента по горизонталі. (зліва\справа)
+        </text>
     </string>
     <string id="ui_mcm_dii_anchor_y">
-        <text>Вертикальна орієнтація</text>
+        <text>
+            Вертикальна орієнтація
+        </text>
     </string>
     <string id="ui_mcm_dii_anchor_y_desc">
-        <text>Спосіб розташування елемента по вертикалі. (зверху\знизу)</text>
+        <text>
+            Спосіб розташування елемента по вертикалі. (зверху\знизу)
+        </text>
     </string>
     <string id="ui_mcm_dii_offset_x">
-        <text>Горизонтальне зміщення</text>
+        <text>
+            Горизонтальне зміщення
+        </text>
     </string>
     <string id="ui_mcm_dii_offset_x_desc">
-        <text>Зсув від краю значка в пікселях. Корисно, якщо будь-який інший аддон додає інформацію на іконку.</text>.
+        <text>
+            Зсув від краю значка в пікселях. Корисно, якщо будь-який інший аддон додає інформацію
+            на іконку.
+        </text>.
 	</string>
     <string id="ui_mcm_dii_offset_y">
-        <text>Зсув по вертикалі</text>
+        <text>
+            Зсув по вертикалі
+        </text>
     </string>
     <string id="ui_mcm_dii_offset_y_desc">
-        <text>Зміщення від краю значка в пікселях. Корисно для елементів, у яких є смуги стану\використання.</text>
+        <text>
+            Зміщення від краю значка в пікселях. Корисно для елементів, у яких є смуги
+            стану\використання.
+        </text>
     </string>
     <string id="ui_mcm_dii_spacing_x">
-        <text>Горизонтальний інтервал</text>
+        <text>
+            Горизонтальний інтервал
+        </text>
     </string>
     <string id="ui_mcm_dii_spacing_x_desc">
-        <text>Кількість пікселів між стовпцями індикаторів.</text>
+        <text>
+            Кількість пікселів між стовпцями індикаторів.
+        </text>
     </string>
     <string id="ui_mcm_dii_spacing_y">
-        <text>Вертикальний інтервал</text>.
+        <text>
+            Вертикальний інтервал
+        </text>.
 	</string>
     <string id="ui_mcm_dii_spacing_y_desc">
-        <text>Кількість пікселів між рядами індикаторів.</text>
+        <text>
+            Кількість пікселів між рядами індикаторів.
+        </text>
     </string>
     <string id="ui_mcm_dii_limit">
-        <text>Обмежити відображувані значки</text>
+        <text>
+            Обмежити відображувані значки
+        </text>
     </string>
     <string id="ui_mcm_dii_limit_desc">
-        <text>Вмикає обмеження відображуваних індикаторів на основі опції Максимальна кількість відображуваних</text>
+        <text>
+            Вмикає обмеження відображуваних індикаторів на основі опції Максимальна кількість
+            відображуваних
+        </text>
     </string>
     <string id="ui_mcm_dii_amount">
-        <text>Максимальна кількість відображуваних індикаторів</text>
+        <text>
+            Максимальна кількість відображуваних індикаторів
+        </text>
     </string>
     <string id="ui_mcm_dii_amount_desc">
-        <text>Максимальна кількість індикаторів, що відображаються для цієї категорії, якщо в елемента їх більше, вони не відображатимуться. Дозволяє зменшити візуальний безлад на предметах, які мають багато характеристик.</text>
+        <text>
+            Максимальна кількість індикаторів, що відображаються для цієї категорії, якщо в
+            елемента їх більше, вони не відображатимуться. Дозволяє зменшити візуальний безлад на
+            предметах, які мають багато характеристик.
+        </text>
     </string>
     <string id="ui_mcm_lst_dii_right">
-        <text>Справа</text>
+        <text>
+            Справа
+        </text>
     </string>
     <string id="ui_mcm_lst_dii_left">
-        <text>Зліва</text>
+        <text>
+            Зліва
+        </text>
     </string>
     <string id="ui_mcm_lst_dii_top">
-        <text>Верх</text>
+        <text>
+            Верх
+        </text>
     </string>
     <string id="ui_mcm_lst_dii_bottom">
-        <text>Ніз</text>
+        <text>
+            Ніз
+        </text>
     </string>
     <string id="ui_mcm_desc_dii_prop_artefact">
-        <text>Артефакти</text>
+        <text>
+            Артефакти
+        </text>
     </string>
     <string id="ui_mcm_desc_dii_prop_consumable">
-        <text>Витратники</text>
+        <text>
+            Витратники
+        </text>
     </string>
     <string id="ui_mcm_desc_dii_prop_upgrade_kit">
-        <text>Набори поліпшення</text>
+        <text>
+            Набори поліпшення
+        </text>
     </string>
     <string id="ui_mcm_menu_dii">
-        <text>DII</text>
+        <text>
+            DII
+        </text>
     </string>
     <string id="ui_mcm_menu_dii_main_settings">
-        <text>Основні налаштування</text>
+        <text>
+            Основні налаштування
+        </text>
     </string>
     <string id="ui_mcm_menu_dii_properties">
-        <text>Властивості</text>
+        <text>
+            Властивості
+        </text>
     </string>
     <string id="ui_mcm_menu_dii_custom_layers">
-        <text>Користувацькі</text>
+        <text>
+            Користувацькі
+        </text>
     </string>
     <string id="ui_mcm_menu_dii_custom_layers_main">
-        <text>Основні</text>
+        <text>
+            Основні
+        </text>
     </string>
 </string_table>

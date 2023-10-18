@@ -1,54 +1,88 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_npc_loot_claim_warn_1">
-        <text>Це мій хабар! Відвали!</text>
+        <text>
+            Це мій хабар! Відвали!
+        </text>
     </string>
     <string id="st_npc_loot_claim_warn_2">
-        <text>Гей, це моя здобич! Відійди від нього!!</text>
+        <text>
+            Гей, це моя здобич! Відійди від нього!!
+        </text>
     </string>
     <string id="st_npc_loot_claim_warn_3">
-        <text>Відійди від нього, це моя здобич!</text>
+        <text>
+            Відійди від нього, це моя здобич!
+        </text>
     </string>
     <string id="st_npc_loot_claim_warn_4">
-        <text>Навіть не думай про це, речі того хлопця - мої.</text>
+        <text>
+            Навіть не думай про це, речі того хлопця - мої.
+        </text>
     </string>
     <string id="st_npc_loot_claim_warn_5">
-        <text>Руки геть, це моя здобич.</text>
+        <text>
+            Руки геть, це моя здобич.
+        </text>
     </string>
     <string id="st_npc_loot_claim_warn_6">
-        <text>Речі цього хлопця належать нам! Не чіпай його.</text>
+        <text>
+            Речі цього хлопця належать нам! Не чіпай його.
+        </text>
     </string>
     <string id="st_npc_loot_claim_last_1">
-        <text>Я не тебе вас більше попереджати, тримайтеся подалі від цієї здобичі!</text>
+        <text>
+            Я не тебе вас більше попереджати, тримайтеся подалі від цієї здобичі!
+        </text>
     </string>
     <string id="st_npc_loot_claim_last_2">
-        <text>Востаннє кажу тобі триматися подалі від цього тіла! Облиш його.</text>
+        <text>
+            Востаннє кажу тобі триматися подалі від цього тіла! Облиш його.
+        </text>
     </string>
     <string id="st_npc_loot_claim_last_3">
-        <text>Попереджую, якщо ти спробуєте вкрасти здобич, ми відкриємо вогонь.</text>
+        <text>
+            Попереджую, якщо ти спробуєте вкрасти здобич, ми відкриємо вогонь.
+        </text>
     </string>
     <string id="st_npc_loot_claim_last_4">
-        <text>Останній шанс - залиш награбоване в спокої.</text>
+        <text>
+            Останній шанс - залиш награбоване в спокої.
+        </text>
     </string>
     <string id="st_npc_loot_claim_last_5">
-        <text>Останнє попередження! Не чіпайте це тіло, або ми стрілятимемо!</text>
+        <text>
+            Останнє попередження! Не чіпайте це тіло, або ми стрілятимемо!
+        </text>
     </string>
     <string id="st_npc_loot_claim_attack_1">
-        <text>Ми тебе курва попереджали! Тепер знатимеш як красти у нас!</text>
+        <text>
+            Ми тебе курва попереджали! Тепер знатимеш як красти у нас!
+        </text>
     </string>
     <string id="st_npc_loot_claim_attack_2">
-        <text>Він намагається вкрасти нашу здобич! Відкрити вогонь!</text>
+        <text>
+            Він намагається вкрасти нашу здобич! Відкрити вогонь!
+        </text>
     </string>
     <string id="st_npc_loot_claim_attack_3">
-        <text>Гей, він намагається забрати наші речі! Тримайте його!</text>
+        <text>
+            Гей, він намагається забрати наші речі! Тримайте його!
+        </text>
     </string>
     <string id="st_npc_loot_claim_attack_4">
-        <text>Застрельте цього мародера!</text>
+        <text>
+            Застрельте цього мародера!
+        </text>
     </string>
     <string id="st_npc_loot_claim_attack_5">
-        <text>Це твої останні секунди життя суко</text>
+        <text>
+            Це твої останні секунди життя суко
+        </text>
     </string>
     <string id="st_npc_loot_claim_far">
-        <text>На цьому тілі ти не знайдеш нічого корисного тож йди подалі.</text>
+        <text>
+            На цьому тілі ти не знайдеш нічого корисного тож йди подалі.
+        </text>
     </string>
 </string_table>

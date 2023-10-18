@@ -1,24 +1,38 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_patches_by_hotkey_title">
-        <text>Нашивки за допомогою гарячої клавіші</text>
+        <text>
+            Нашивки за допомогою гарячої клавіші
+        </text>
     </string>
     <string id="ui_mcm_menu_patches_by_hotkey">
-        <text>Нашивки за допомогою гарячої клавіші</text>
+        <text>
+            Нашивки за допомогою гарячої клавіші
+        </text>
     </string>
     <string id="ui_mcm_patches_by_hotkey_enabled">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_patches_by_hotkey_key">
-        <text>Гаряча клавіша</text>
+        <text>
+            Гаряча клавіша
+        </text>
     </string>
     <string id="st_patches_by_hotkey_apply_patch">
-        <text>Пришивання нашивки...</text>
+        <text>
+            Пришивання нашивки...
+        </text>
     </string>
     <string id="st_patches_by_hotkey_no_patch">
-        <text>Немає нашивки щоб пришити</text>
+        <text>
+            Немає нашивки щоб пришити
+        </text>
     </string>
     <string id="st_patches_by_hotkey_remove_patch">
-        <text>Здирання нашивки</text>
+        <text>
+            Здирання нашивки
+        </text>
     </string>
 </string_table>

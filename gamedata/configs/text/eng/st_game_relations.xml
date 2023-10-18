@@ -1,226 +1,364 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- Communities -->
     <string id="ui_st_community">
-        <text>Група</text>
+        <text>
+            Група
+        </text>
     </string>
     
 <!-- Actor Factions -->
     <string id="actor">
-        <text>Одинак</text>
+        <text>
+            Одинак
+        </text>
     </string>
     <string id="actor_army">
-        <text>Військовий</text>
+        <text>
+            Військовий
+        </text>
     </string>
     <string id="actor_bandit">
-        <text>Бандит</text>
+        <text>
+            Бандит
+        </text>
     </string>
     <string id="actor_csky">
-        <text>"Чисте небо"</text>
+        <text>
+            "Чисте небо"
+        </text>
     </string>
     <string id="actor_dolg">
-        <text>«Обов'язок»</text>
+        <text>
+            «Обов'язок»
+        </text>
     </string>
     <string id="actor_ecolog">
-        <text>Вчений</text>
+        <text>
+            Вчений
+        </text>
     </string>
     <string id="actor_freedom">
-        <text>«Воля»</text>
+        <text>
+            «Воля»
+        </text>
     </string>
     <string id="actor_killer">
-        <text>Найманець</text>
+        <text>
+            Найманець
+        </text>
     </string>
     <string id="actor_monolith">
-        <text>«Моноліт»</text>
+        <text>
+            «Моноліт»
+        </text>
     </string>
     <string id="actor_monster">
-        <text>Мутант</text>
+        <text>
+            Мутант
+        </text>
     </string>
     <string id="actor_stalker">
-        <text>Одинак</text>
+        <text>
+            Одинак
+        </text>
     </string>
     <string id="actor_renegade">
-        <text>Ренегат</text>
+        <text>
+            Ренегат
+        </text>
     </string>
     <string id="actor_greh">
-        <text>«Гріх»</text>
+        <text>
+            «Гріх»
+        </text>
     </string>
     <string id="actor_isg">
-        <text>ІДГ</text>
+        <text>
+            ІДГ
+        </text>
     </string>
     <string id="actor_zombied">
-        <text>Зомбований</text>
+        <text>
+            Зомбований
+        </text>
     </string>
     <string id="army">
-        <text>Військові</text>
+        <text>
+            Військові
+        </text>
     </string>
     <string id="bandit">
-        <text>Бандити</text>
+        <text>
+            Бандити
+        </text>
     </string>
     <string id="csky">
-        <text>"Чисте небо"</text>
+        <text>
+            "Чисте небо"
+        </text>
     </string>
     <string id="dolg">
-        <text>«Обов'язок»</text>
+        <text>
+            «Обов'язок»
+        </text>
     </string>
     <string id="ecolog">
-        <text>Вчені</text>
+        <text>
+            Вчені
+        </text>
     </string>
     <string id="freedom">
-        <text>«Воля»</text>
+        <text>
+            «Воля»
+        </text>
     </string>
     <string id="killer">
-        <text>Найманці</text>
+        <text>
+            Найманці
+        </text>
     </string>
     <string id="monolith">
-        <text>«Моноліт»</text>
+        <text>
+            «Моноліт»
+        </text>
     </string>
     <string id="monster">
-        <text>Мутант</text>
+        <text>
+            Мутант
+        </text>
     </string>
     <string id="zombied">
-        <text>Зомбовані</text>
+        <text>
+            Зомбовані
+        </text>
     </string>
     <string id="greh">
-        <text>«Гріх»</text>
+        <text>
+            «Гріх»
+        </text>
     </string>
     <string id="isg">
-        <text>ІДГ</text>
+        <text>
+            ІДГ
+        </text>
     </string>
     <string id="renegade">
-        <text>Ренегати</text>
+        <text>
+            Ренегати
+        </text>
     </string>
     <string id="greh_npc">
-        <text>«Гріх»</text>
+        <text>
+            «Гріх»
+        </text>
     </string>
     <string id="army_npc">
-        <text>СБУ</text>
+        <text>
+            СБУ
+        </text>
     </string>
     
 <!-- Goodwill -->
     <string id="ui_st_relation">
-        <text>Ставлення</text>
+        <text>
+            Ставлення
+        </text>
     </string>
     <string id="st_goodwill_enemy">
-        <text>ворог</text>
+        <text>
+            ворог
+        </text>
     </string>
     <string id="st_goodwill_indifferent">
-        <text>нейтрал</text>
+        <text>
+            нейтрал
+        </text>
     </string>
     <string id="st_goodwill_friendly">
-        <text>друг</text>
+        <text>
+            друг
+        </text>
     </string>
     
 <!-- Ranks -->
     <string id="ui_st_rank">
-        <text>Ранг</text>
+        <text>
+            Ранг
+        </text>
     </string>
     <string id="st_rank_novice">
-        <text>новачок</text>
+        <text>
+            новачок
+        </text>
     </string>
     <string id="st_rank_trainee">
-        <text>початківець</text>
+        <text>
+            початківець
+        </text>
     </string>
     <string id="st_rank_experienced">
-        <text>досвідчений</text>
+        <text>
+            досвідчений
+        </text>
     </string>
     <string id="st_rank_professional">
-        <text>профі</text>
+        <text>
+            профі
+        </text>
     </string>
     <string id="st_rank_veteran">
-        <text>ветеран</text>
+        <text>
+            ветеран
+        </text>
     </string>
     <string id="st_rank_expert">
-        <text>експерт</text>
+        <text>
+            експерт
+        </text>
     </string>
     <string id="st_rank_master">
-        <text>майстер</text>
+        <text>
+            майстер
+        </text>
     </string>
     <string id="st_rank_legend">
-        <text>легенда</text>
+        <text>
+            легенда
+        </text>
     </string>
     
 <!-- Reputations -->
     <string id="ui_st_reputation">
-        <text>Репутація</text>
+        <text>
+            Репутація
+        </text>
     </string>
     <string id="st_reputation_terrible">
-        <text>мерзенна</text>
+        <text>
+            мерзенна
+        </text>
     </string>
     <string id="st_reputation_really_bad">
-        <text>жахлива</text>
+        <text>
+            жахлива
+        </text>
     </string>
     <string id="st_reputation_very_bad">
-        <text>дуже погана</text>
+        <text>
+            дуже погана
+        </text>
     </string>
     <string id="st_reputation_bad">
-        <text>погана</text>
+        <text>
+            погана
+        </text>
     </string>
     <string id="st_reputation_neutral">
-        <text>нейтральна</text>
+        <text>
+            нейтральна
+        </text>
     </string>
     <string id="st_reputation_good">
-        <text>хороша</text>
+        <text>
+            хороша
+        </text>
     </string>
     <string id="st_reputation_very_good">
-        <text>дуже хороша</text>
+        <text>
+            дуже хороша
+        </text>
     </string>
     <string id="st_reputation_really_good">
-        <text>відмінна</text>
+        <text>
+            відмінна
+        </text>
     </string>
     <string id="st_reputation_excellent">
-        <text>чудова</text>
+        <text>
+            чудова
+        </text>
     </string>
     
 <!--\notifications -->
     <string id="st_rank_increased">
-        <text>Ранг підвищений.</text>
+        <text>
+            Ранг підвищений.
+        </text>
     </string>
     <string id="st_rank_decreased">
-        <text>Ранг знижений.</text>
+        <text>
+            Ранг знижений.
+        </text>
     </string>
     <string id="st_reputation_increased">
-        <text>Репутація покращилася.</text>
+        <text>
+            Репутація покращилася.
+        </text>
     </string>
     <string id="st_reputation_decreased">
-        <text>Репутація погіршилася.</text>
+        <text>
+            Репутація погіршилася.
+        </text>
     </string>
     
 <!-- Dynamic Relations #\news building -->
     <string id="st_relations_and">
-        <text>і</text>
+        <text>
+            і
+        </text>
     </string>
     <string id="st_relations_declared_war">
-        <text>оголосили один одному війну.</text>
+        <text>
+            оголосили один одному війну.
+        </text>
     </string>
     <string id="st_relations_alliance">
-        <text>сформували альянс.</text>
+        <text>
+            сформували альянс.
+        </text>
     </string>
     <string id="st_relations_deteriorating">
-        <text>відзначають подальше погіршення своїх відносин.</text>
+        <text>
+            відзначають подальше погіршення своїх відносин.
+        </text>
     </string>
     <string id="st_relations_cease_fire">
-        <text>оголосили про припинення вогню.</text>
+        <text>
+            оголосили про припинення вогню.
+        </text>
     </string>
     
 <!-- Dynamic Relations # Goodwill-->
     <string id="st_ui_goodwill_name">
-        <text>Ставлення</text>
+        <text>
+            Ставлення
+        </text>
     </string>
     <string id="st_ui_goodwill_5">
-        <text>Друг</text>
+        <text>
+            Друг
+        </text>
     </string>
     <string id="st_ui_goodwill_4">
-        <text>Хороше</text>
+        <text>
+            Хороше
+        </text>
     </string>
     <string id="st_ui_goodwill_3">
-        <text>Норм.</text>
+        <text>
+            Норм.
+        </text>
     </string>
     <string id="st_ui_goodwill_2">
-        <text>Звич.</text>
+        <text>
+            Звич.
+        </text>
     </string>
     <string id="st_ui_goodwill_1">
-        <text>Мінім.</text>
+        <text>
+            Мінім.
+        </text>
     </string>
 </string_table>

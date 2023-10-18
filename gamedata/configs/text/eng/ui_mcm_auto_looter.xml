@@ -1,135 +1,246 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_auto_looter">
-        <text>Auto Looter</text>
+        <text>
+            Auto Looter
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_base_description">
-        <text>Автолутер виконує дії в певному порядку: Розбирання -&gt; Зняття компонентів/навісного обладнання -&gt; Лут -&gt; видалення, тобто якщо ви ввімкнете розбирання броні, то компоненти, отримані з неї, надалі піддаватимуться додатковій перевірці стану перед лутом, якщо її теж ввімкнено.</text>
+        <text>
+            Автолутер виконує дії в певному порядку: Розбирання -&gt; Зняття компонентів/навісного
+            обладнання -&gt; Лут -&gt; видалення, тобто якщо ви ввімкнете розбирання броні, то
+            компоненти, отримані з неї, надалі піддаватимуться додатковій перевірці стану перед
+            лутом, якщо її теж ввімкнено.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_looter_key_title">
-        <text>Клавіша активації</text>
+        <text>
+            Клавіша активації
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_looter_key_description">
-        <text>Деякі моди блокують певні ключові події в користувацькому інтерфейсі інвентарю. Рекомендується не змінювати наведену нижче прив'язку, оскільки лівий Alt НІКОЛИ не повинен блокуватися.</text>
+        <text>
+            Деякі моди блокують певні ключові події в користувацькому інтерфейсі інвентарю.
+            Рекомендується не змінювати наведену нижче прив'язку, оскільки лівий Alt НІКОЛИ не
+            повинен блокуватися.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_looter_key">
-        <text>Клавіша активації</text>
+        <text>
+            Клавіша активації
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_remote_looting_title">
-        <text>Дистанційний лутинг</text>
+        <text>
+            Дистанційний лутинг
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_remote_looting_description">
-        <text>Встановіть максимальну відстань, на якій можливий дистанційний лутинг. Встановлення значення на "0" вимкне дистанційний лутинг.</text>
+        <text>
+            Встановіть максимальну відстань, на якій можливий дистанційний лутинг. Встановлення
+            значення на "0" вимкне дистанційний лутинг.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_remote_looting_distance">
-        <text>Максимальна дистанція</text>
+        <text>
+            Максимальна дистанція
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_proximity_looting_title">
-        <text>ЕКСПЕРИМЕНТАЛЬНО: Лутинг на відстані</text>
+        <text>
+            ЕКСПЕРИМЕНТАЛЬНО: Лутинг на відстані
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_proximity_looting_description">
-        <text>Лутінг на відстані працює так само, як дистанційний лутінг, але різниця в тому, що вона перезапускається автоматично з налаштовуваними інвервалами та перебирає всі тіла, які можна пролутатися (за винятком контейнерів, щоб не брати предмети з ваших власних схованок) у заданому діапазоні. Встановлення діапазону на 0 вимкне лутинг на відстані. ПОПЕРЕДЖЕННЯ: не слід вмикати, якщо ви використовуєте моди, що запускають додаткові скрипти при відкритті інвентарю мертвих сталкерів. ДЛЯ ГРАВЦІВ "GAMMA" ЦЕЙ ПАРАМЕТР ПОВИНЕН БУТИ ВИМКНУТИ.</text>
+        <text>
+            Лутінг на відстані працює так само, як дистанційний лутінг, але різниця в тому, що
+            вона перезапускається автоматично з налаштовуваними інвервалами та перебирає всі
+            тіла, які можна пролутатися (за винятком контейнерів, щоб не брати предмети з ваших
+            власних схованок) у заданому діапазоні. Встановлення діапазону на 0 вимкне лутинг на
+            відстані. ПОПЕРЕДЖЕННЯ: не слід вмикати, якщо ви використовуєте моди, що запускають
+            додаткові скрипти при відкритті інвентарю мертвих сталкерів. ДЛЯ ГРАВЦІВ "GAMMA" ЦЕЙ
+            ПАРАМЕТР ПОВИНЕН БУТИ ВИМКНУТИ.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_proximity_looting_distance">
-        <text>Дистанція</text>
+        <text>
+            Дистанція
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_proximity_looting_refire_time">
-        <text>Інтервал</text>
+        <text>
+            Інтервал
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_title">
-        <text>Налаштування авторозбирання</text>
+        <text>
+            Налаштування авторозбирання
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_ammo">
-        <text>Розбір патронів</text>
+        <text>
+            Розбір патронів
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_armor">
-        <text>Розбір костюмів і шоломів</text>
+        <text>
+            Розбір костюмів і шоломів
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_armor_desc">
-        <text>Використовувані компоненти броні - компоненти, стан яких вищий за 50%, або ті, які можна використовувати в рецептах.</text>
+        <text>
+            Використовувані компоненти броні - компоненти, стан яких вищий за 50%, або ті, які
+            можна використовувати в рецептах.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_weapon">
-        <text>Розбір зброї</text>
+        <text>
+            Розбір зброї
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_title">
-        <text>Розбір мотлоху</text>
+        <text>
+            Розбір мотлоху
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_description">
-        <text>З огляду на те, що деякі компоненти мотлоху майже не приносять користі, а завдання на пошук цілого предмета можуть дати вам вищу винагороду (наприклад, порножурнали), ви можете визначити нижче, які види мотлоху варто та не варто розбирати. КПК, згадані наприкінці списку, стосуються тільки КПК, які можна знайти у сталкерів. Вони можуть дати вам випадкові схованки.</text>
+        <text>
+            З огляду на те, що деякі компоненти мотлоху майже не приносять користі, а завдання на
+            пошук цілого предмета можуть дати вам вищу винагороду (наприклад, порножурнали), ви
+            можете визначити нижче, які види мотлоху варто та не варто розбирати. КПК, згадані
+            наприкінці списку, стосуються тільки КПК, які можна знайти у сталкерів. Вони можуть
+            дати вам випадкові схованки.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_strip_title">
-        <text>Налаштування зняття навісного обладнання та компонентів зброї</text>
+        <text>
+            Налаштування зняття навісного обладнання та компонентів зброї
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_strip_attachments">
-        <text>Знімати навісне обладнання</text>
+        <text>
+            Знімати навісне обладнання
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_strip_weapon">
-        <text>Витягувати компоненти зброї</text>
+        <text>
+            Витягувати компоненти зброї
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_title">
-        <text>Налаштування автолутера</text>
+        <text>
+            Налаштування автолутера
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_description">
-        <text>Визначте, які типи предметів ви хочете автоматично брати. Броня та зброя будуть автоматично виключені. Інші типи предметів, НЕ описані нижче (наприклад, набори поліпшень, навісне обладнання для зброї, предмети для ремонту, нерозібрані предмети тощо), будуть автоматично взяті.</text>
+        <text>
+            Визначте, які типи предметів ви хочете автоматично брати. Броня та зброя будуть
+            автоматично виключені. Інші типи предметів, НЕ описані нижче (наприклад, набори
+            поліпшень, навісне обладнання для зброї, предмети для ремонту, нерозібрані предмети
+            тощо), будуть автоматично взяті.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_ammo">
-        <text>Брати патрони</text>
+        <text>
+            Брати патрони
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_ammo_parts">
-        <text>Брати компоненти патронів</text>
+        <text>
+            Брати компоненти патронів
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_armor_parts">
-        <text>Брати компоненти броні</text>
+        <text>
+            Брати компоненти броні
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_armor_parts_desc">
-        <text>Використовувані компоненти броні - компоненти, стан яких вище 50%, або ті, які можна використовувати в рецептах.</text>
+        <text>
+            Використовувані компоненти броні - компоненти, стан яких вище 50%, або ті, які можна
+            використовувати в рецептах.
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_loot_weapon_parts">
-        <text>Бирати компоненти зброї</text>
+        <text>
+            Бирати компоненти зброї
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_title">
-        <text>Налаштування видалення</text>
+        <text>
+            Налаштування видалення
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_description">
-        <text>Велика кількість трупів - це круто! Але доти, доки вони не впливають на продуктивність. Налаштування нижче дозволяють автоматично видаляти тіла, які ви вже облутали, а також предмети, які ви не підібрали з тіл або контейнерів, але які однаково впливають на продуктивність. Опція "Видаляти залишки" зазвичай відноситься до компонентів зброї та броні, які не були підібрані автолутером</text>
+        <text>
+            Велика кількість трупів - це круто! Але доти, доки вони не впливають на
+            продуктивність. Налаштування нижче дозволяють автоматично видаляти тіла, які ви вже
+            облутали, а також предмети, які ви не підібрали з тіл або контейнерів, але які
+            однаково впливають на продуктивність. Опція "Видаляти залишки" зазвичай відноситься
+            до компонентів зброї та броні, які не були підібрані автолутером
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_body">
-        <text>Видаляти тіла</text>
+        <text>
+            Видаляти тіла
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_armor">
-        <text>Видаляти броню та шоломи</text>
+        <text>
+            Видаляти броню та шоломи
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_weapon">
-        <text>Видаляти зброю</text>
+        <text>
+            Видаляти зброю
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_delete_misc">
-        <text>Видаляти залишки</text>
+        <text>
+            Видаляти залишки
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_misc_options_title">
-        <text>Інші налаштування</text>
+        <text>
+            Інші налаштування
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_no_valid_tool_messaging">
-        <text>Показувати повідомлення, коли немає відповідного інструменту для розбирання</text>
+        <text>
+            Показувати повідомлення, коли немає відповідного інструменту для розбирання
+        </text>
     </string>
     
 <!-- Dropdown options -->
     <string id="ui_mcm_lst_auto_looter_all_label">
-        <text>Все</text>
+        <text>
+            Все
+        </text>
     </string>
     <string id="ui_mcm_lst_auto_looter_none_label">
-        <text>Ні</text>
+        <text>
+            Ні
+        </text>
     </string>
     <string id="ui_mcm_lst_auto_looter_non_favourite_label">
-        <text>Не обране</text>
+        <text>
+            Не обране
+        </text>
     </string>
     <string id="ui_mcm_lst_auto_looter_with_usable_parts_label">
-        <text>З придатними для використання компонентами</text>
+        <text>
+            З придатними для використання компонентами
+        </text>
     </string>
     <string id="ui_mcm_lst_auto_looter_with_usable_barrel_label">
-        <text>З придатним для використання стволом</text>
+        <text>
+            З придатним для використання стволом
+        </text>
     </string>
     <string id="ui_mcm_lst_auto_looter_usable_label">
-        <text>Придатні</text>
+        <text>
+            Придатні
+        </text>
     </string>
     
 <!-- Потрібно зробити: видалити цей розділ, як тільки RavenAscendant додасть підтримку реквізиту "text" для більшої кількості полів -->
@@ -140,84 +251,138 @@
     
 <!-- КПК (у наявних XML не вказано, чи є вони поширеними, рідкісними чи нечастими) -->
     <string id="ui_mcm_auto_looter_disassemble_misc_porn">
-        <text>Журнал "PLAYBOY"</text>
+        <text>
+            Журнал "PLAYBOY"
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_porn2">
-        <text>Український журнал "MAXIM"</text>
+        <text>
+            Український журнал "MAXIM"
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_beadspread">
-        <text>Покривало</text>
+        <text>
+            Покривало
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_synthrope">
-        <text>Два синтетичних канати</text>
+        <text>
+            Два синтетичних канати
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_tarpaulin">
-        <text>Камуфляжний брезент</text>
+        <text>
+            Камуфляжний брезент
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_underwear">
-        <text>Нижня білизна</text>
+        <text>
+            Нижня білизна
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_shovel_old">
-        <text>Металічна лопата</text>
+        <text>
+            Металічна лопата
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_shovel_mili">
-        <text>Саперна лопатка</text>
+        <text>
+            Саперна лопатка
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_ball_hammer">
-        <text>Шариковий молоток</text>
+        <text>
+            Шариковий молоток
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_boots">
-        <text>Шкіряні черевики</text>
+        <text>
+            Шкіряні черевики
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_broken_detector">
-        <text>Зламаний детектор</text>
+        <text>
+            Зламаний детектор
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_cutlery">
-        <text>Польові столові прибори</text>
+        <text>
+            Польові столові прибори
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_explo_metalcan_powder">
-        <text>Балончик з порошком</text>
+        <text>
+            Балончик з порошком
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_flashlight_broken">
-        <text>Розбитий ліхтар</text>
+        <text>
+            Розбитий ліхтар
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_gloves">
-        <text>Шкіряні рукавички</text>
+        <text>
+            Шкіряні рукавички
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_hand_watch">
-        <text>Наручний годинник</text>
+        <text>
+            Наручний годинник
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_headlamp">
-        <text>Стара лампа ліхтарика</text>
+        <text>
+            Стара лампа ліхтарика
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_mirror">
-        <text>Телескопічне дзеркало</text>
+        <text>
+            Телескопічне дзеркало
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_radio">
-        <text>Зламане радіо</text>
+        <text>
+            Зламане радіо
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_radio2">
-        <text>Переносне радіо</text>
+        <text>
+            Переносне радіо
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_walkie">
-        <text>Рація "Walkie"</text>
+        <text>
+            Рація "Walkie"
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_guitar_a">
-        <text>Гітара</text>
+        <text>
+            Гітара
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_compression_bag">
-        <text>Компресійний мішок</text>
+        <text>
+            Компресійний мішок
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_itm_sleepbag">
-        <text>Спальний мішок</text>
+        <text>
+            Спальний мішок
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_itm_pda_common">
-        <text>КПК - Звичайний</text>
+        <text>
+            КПК - Звичайний
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_itm_pda_uncommon">
-        <text>КПК - Незвичний</text>
+        <text>
+            КПК - Незвичний
+        </text>
     </string>
     <string id="ui_mcm_auto_looter_disassemble_misc_itm_pda_rare">
-        <text>КПК - Рідкісний</text>
+        <text>
+            КПК - Рідкісний
+        </text>
     </string>
 </string_table>

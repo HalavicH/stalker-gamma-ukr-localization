@@ -1,24 +1,38 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_inv_wrange">
-        <text>Максимальна дальність</text>
+        <text>
+            Максимальна дальність
+        </text>
     </string>
     <string id="ui_inv_bspeed">
-        <text>Швидкість польоту кулі</text>
+        <text>
+            Швидкість польоту кулі
+        </text>
     </string>
     <string id="ui_inv_drag">
-        <text>Опір повітря</text>
+        <text>
+            Опір повітря
+        </text>
     </string>
     <string id="ui_inv_reli">
-        <text>Надійність</text>
+        <text>
+            Надійність
+        </text>
     </string>
     <string id="ui_inv_recoil">
-        <text>Контроль віддачі</text>
+        <text>
+            Контроль віддачі
+        </text>
     </string>
     <string id="st_stat_meters">
-        <text>метри</text>
+        <text>
+            метри
+        </text>
     </string>
     <string id="st_stat_speed">
-        <text>м/с</text>
+        <text>
+            м/с
+        </text>
     </string>
 </string_table>

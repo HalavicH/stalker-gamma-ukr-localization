@@ -1,141 +1,243 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_drx_da_title">
-        <text>Динамічні аномалії (DAO)</text>
+        <text>
+            Динамічні аномалії (DAO)
+        </text>
     </string>
     <string id="ui_mcm_menu_drx_da">
-        <text>DAO</text>
+        <text>
+            DAO
+        </text>
     </string>
     <string id="ui_mcm_drx_da_presets">
-        <text>Предустановки</text>
+        <text>
+            Предустановки
+        </text>
     </string>
     <string id="ui_mcm_drx_da_presets_desc">
-        <text>Виберіть зумовлені налаштування зі списку</text>
+        <text>
+            Виберіть зумовлені налаштування зі списку
+        </text>
     </string>
     <string id="ui_mcm_lst_drx_da_preset_easy">
-        <text>Легко</text>
+        <text>
+            Легко
+        </text>
     </string>
     <string id="ui_mcm_lst_drx_da_preset_normal">
-        <text>Нормально</text>
+        <text>
+            Нормально
+        </text>
     </string>
     <string id="ui_mcm_lst_drx_da_preset_hard">
-        <text>Тяжко</text>
+        <text>
+            Тяжко
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
-        <text>Шанс появи аномальної зони</text>
+        <text>
+            Шанс появи аномальної зони
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
-        <text>Шанс появи аномальної зони на зумовленій місцевості</text>
+        <text>
+            Шанс появи аномальної зони на зумовленій місцевості
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
-        <text>Радіус аномальної зони</text>
+        <text>
+            Радіус аномальної зони
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
-        <text>Максимальна відстань від центру смарт террейна, допустима для зони аномалій</text>
+        <text>
+            Максимальна відстань від центру смарт террейна, допустима для зони аномалій
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
-        <text>Мінімальна відстань між аномаліями</text>
+        <text>
+            Мінімальна відстань між аномаліями
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
-        <text>Визначає мінімальну відстань між аномаліями в зоні. Негативні значення дозволяють аномаліям перекривати одна одну.</text>
+        <text>
+            Визначає мінімальну відстань між аномаліями в зоні. Негативні значення дозволяють
+            аномаліям перекривати одна одну.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_anomaly_amount_modifier">
-        <text>Модифікатор кількості аномалій</text>.
+        <text>
+            Модифікатор кількості аномалій
+        </text>.
 	</string>
     <string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
-        <text>Змінює кількість аномалій, яку може мати кожна аномальна зона.</text>
+        <text>
+            Змінює кількість аномалій, яку може мати кожна аномальна зона.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_max_artefacts_per_zone">
-        <text>Максимальна кількість артефактів на зону</text>
+        <text>
+            Максимальна кількість артефактів на зону
+        </text>
     </string>
     <string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
-        <text>Визначає максимальну кількість артефактів, які можуть спаунитися в аномальній зоні</text>
+        <text>
+            Визначає максимальну кількість артефактів, які можуть спаунитися в аномальній зоні
+        </text>
     </string>
     <string id="ui_mcm_drx_da_artefacts_spawn_chance">
-        <text>Шанс появи артефактів</text>
+        <text>
+            Шанс появи артефактів
+        </text>
     </string>
     <string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
-        <text>Кожен з певної максимальної кількості артефактів матиме такий шанс на появу</text>
+        <text>
+            Кожен з певної максимальної кількості артефактів матиме такий шанс на появу
+        </text>
     </string>
     <string id="ui_mcm_drx_da_random_artefact_spawn_chance">
-        <text>Шанс випадкового артефакту</text>
+        <text>
+            Шанс випадкового артефакту
+        </text>
     </string>
     <string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
-        <text>Які артефакти можна спаунити, визначається рівнем. Південні локації можуть спаунити тільки слабкі артефакти, тоді як підземні та північні локації можуть спаунити сильні артефакти. Однак існує шанс, який визначається цим значенням, що зона аномалій може спаунити будь-який артефакт, включаючи унікальні.</text>
+        <text>
+            Які артефакти можна спаунити, визначається рівнем. Південні локації можуть спаунити
+            тільки слабкі артефакти, тоді як підземні та північні локації можуть спаунити сильні
+            артефакти. Однак існує шанс, який визначається цим значенням, що зона аномалій може
+            спаунити будь-який артефакт, включаючи унікальні.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_gravitational_shake_modifier">
-        <text>Модифікатор гравітаційного тремтіння</text>
+        <text>
+            Модифікатор гравітаційного тремтіння
+        </text>
     </string>
     <string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
-        <text>Модифікатор тремтіння екрану поблизу гравітаційних аномалій</text>
+        <text>
+            Модифікатор тремтіння екрану поблизу гравітаційних аномалій
+        </text>
     </string>
     <string id="ui_mcm_drx_da_electric_field_modifier">
-        <text>Модифікатор електричного поля</text>
+        <text>
+            Модифікатор електричного поля
+        </text>
     </string>
     <string id="ui_mcm_drx_da_electric_field_modifier_desc">
-        <text>Модифікатор пошкоджень від електричних полів. Не впливає на глюки електронних пристроїв</text>
+        <text>
+            Модифікатор пошкоджень від електричних полів. Не впливає на глюки електронних
+            пристроїв
+        </text>
     </string>
     <string id="ui_mcm_drx_da_enable_anomalies_behaviour">
-        <text>Увімкнути динамічну поведінку аномалій</text>
+        <text>
+            Увімкнути динамічну поведінку аномалій
+        </text>
     </string>
     <string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
-        <text>Визначає, чи мають динамічні аномалії особливу поведінку, а саме чи можуть вони з'являтися і зникати в аномальній зоні.</text>
+        <text>
+            Визначає, чи мають динамічні аномалії особливу поведінку, а саме чи можуть вони
+            з'являтися і зникати в аномальній зоні.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_save_after_cleanup">
-        <text>Зберегти гру після видалення аномалій</text>
+        <text>
+            Зберегти гру після видалення аномалій
+        </text>
     </string>
     <string id="ui_mcm_drx_da_save_after_cleanup_desc">
-        <text>Зберігає гру після викиду або пси-шторму після видалення аномалій</text>
+        <text>
+            Зберігає гру після викиду або пси-шторму після видалення аномалій
+        </text>
     </string>
     <string id="ui_mcm_drx_da_disable_new_anomalies">
-        <text>Відключити нові аномалії</text>
+        <text>
+            Відключити нові аномалії
+        </text>
     </string>
     <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
-        <text>Забороняє появу нових видів аномалій. Опція набуде чинності після наступного викиду або пси-шторму або в новій грі.</text>
+        <text>
+            Забороняє появу нових видів аномалій. Опція набуде чинності після наступного викиду
+            або пси-шторму або в новій грі.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_choose_help">
-        <text>Нижче ви можете вибірково увімкнути \n нові види аномалій, які можуть спаунитися</text>
+        <text>
+            Нижче ви можете вибірково увімкнути
+          \n нові види аномалій, які можуть спаунитися
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_radar_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_darkness_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_flash_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_gold_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_green_dragon_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_net_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_point_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="ui_mcm_drx_da_delete_dynamic_anomalies">
-        <text>Видалити динамічні аномалії</text>
+        <text>
+            Видалити динамічні аномалії
+        </text>
     </string>
     <string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
-        <text>Видаляє всі згенеровані аномальні зони з гри. Ця опція призначена для безпечного видалення мода. Увімкніть опцію, потім поверніться в гру, збережіть гру, вийдіть із гри та видаліть мод.</text>
+        <text>
+            Видаляє всі згенеровані аномальні зони з гри. Ця опція призначена для безпечного
+            видалення мода. Увімкніть опцію, потім поверніться в гру, збережіть гру, вийдіть із
+            гри та видаліть мод.
+        </text>
     </string>
     <string id="ui_mcm_drx_da_debug_mode">
-        <text>Режим налагодження</text>
+        <text>
+            Режим налагодження
+        </text>
     </string>
     <string id="ui_mcm_drx_da_debug_mode_desc">
-        <text>Вмикає спам повідомлень у консолі</text>
+        <text>
+            Вмикає спам повідомлень у консолі
+        </text>
     </string>
 </string_table>

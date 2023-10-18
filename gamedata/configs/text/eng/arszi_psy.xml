@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_anabiotic_combat">
-        <text>Ковтати анабіотик, коли поряд вороги - самогубство!</text>
+        <text>
+            Ковтати анабіотик, коли поряд вороги - самогубство!
+        </text>
     </string>
     <string id="st_psy_death_scene">
-        <text>Ви уникнули долі значно гіршої за смерть...</text>
+        <text>
+            Ви уникнули долі значно гіршої за смерть...
+        </text>
     </string>
     <string id="st_psy_zombification_scene">
-        <text>Зона подарувала Вам другий шанс</text>
+        <text>
+            Зона подарувала Вам другий шанс
+        </text>
     </string>
 </string_table>

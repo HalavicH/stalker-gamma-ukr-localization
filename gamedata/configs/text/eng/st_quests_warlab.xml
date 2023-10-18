@@ -1,30 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="sar_perception">
-        <text>На північ!</text>
+        <text>
+            На північ!
+        </text>
     </string>
     <string id="sar_perception_1">
-        <text>З'ясувати, хто або що стоїть за Монолітом.</text>
+        <text>
+            З'ясувати, хто або що стоїть за Монолітом.
+        </text>
     </string>
     <string id="sar_perception_2">
-        <text>Знайти лабораторію, згадану в рукописи, і дізнатися, що там ховається.</text>
+        <text>
+            Знайти лабораторію, згадану в рукописи, і дізнатися, що там ховається.
+        </text>
     </string>
     <string id="sar_perception_3">
-        <text>Потрібно використовувати декодер, щоб відкрити двері.</text>
+        <text>
+            Потрібно використовувати декодер, щоб відкрити двері.
+        </text>
     </string>
     <string id="sar_perception_4">
-        <text>Нейтралізувати охорону, щоб потрапити в кімнату.</text>
+        <text>
+            Нейтралізувати охорону, щоб потрапити в кімнату.
+        </text>
     </string>
     <string id="sar_perception_5">
-        <text>Дізнатися код доступу з документів.</text>
+        <text>
+            Дізнатися код доступу з документів.
+        </text>
     </string>
     <string id="warlab_kill_crazy_entity_title">
-        <text>Угода з невідомої Сутністю</text>
+        <text>
+            Угода з невідомої Сутністю
+        </text>
     </string>
     <string id="warlab_kill_crazy_entity_1">
-        <text>Поговорити з Сутністю.</text>
+        <text>
+            Поговорити з Сутністю.
+        </text>
     </string>
     <string id="warlab_kill_crazy_entity_2">
-        <text>Необхідно вбити три фізичні форми Сутності, щоб відкрити двері.</text>
+        <text>
+            Необхідно вбити три фізичні форми Сутності, щоб відкрити двері.
+        </text>
     </string>
 </string_table>

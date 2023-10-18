@@ -1,78 +1,128 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_interact">
-        <text>Взаємодіяти ($$ACTION_USE$$)</text>
+        <text>
+            Взаємодіяти ($$ACTION_USE$$)
+        </text>
     </string>
     <string id="st_place_popup">
-        <text>Поставити предмет ($$ACTION_USE$$)</text>
+        <text>
+            Поставити предмет ($$ACTION_USE$$)
+        </text>
     </string>
     <string id="st_far_popup">
-        <text>Задалеко від мене щоб поставити.</text>
+        <text>
+            Задалеко від мене щоб поставити.
+        </text>
     </string>
     <string id="st_collision_warning">
-        <text>Неможливо поставити предмет - він стикається з чимось</text>
+        <text>
+            Неможливо поставити предмет - він стикається з чимось
+        </text>
     </string>
     <string id="st_rotation_label">
-        <text>Зміщення обертання</text>
+        <text>
+            Зміщення обертання
+        </text>
     </string>
     <string id="st_vertical_label">
-        <text>Зміщення по вертикалі</text>
+        <text>
+            Зміщення по вертикалі
+        </text>
     </string>
     <string id="st_enable_collision">
-        <text>Колізія увімкнена</text>
+        <text>
+            Колізія увімкнена
+        </text>
     </string>
     <string id="st_disable_collision">
-        <text>Колізія вимкнена</text>
+        <text>
+            Колізія вимкнена
+        </text>
     </string>
     <string id="st_pickup">
-        <text>Підібрати</text>
+        <text>
+            Підібрати
+        </text>
     </string>
     <string id="st_close">
-        <text>Закрити</text>
+        <text>
+            Закрити
+        </text>
     </string>
     <string id="st_turn_on">
-        <text>Увімкнути</text>
+        <text>
+            Увімкнути
+        </text>
     </string>
     <string id="st_turn_off">
-        <text>Вимкнути</text>
+        <text>
+            Вимкнути
+        </text>
     </string>
     <string id="st_take_fuel">
-        <text>Злити паливо</text>
+        <text>
+            Злити паливо
+        </text>
     </string>
     <string id="st_add_fuel">
-        <text>Додати паливо</text>
+        <text>
+            Додати паливо
+        </text>
     </string>
     <string id="st_access_stash">
-        <text>Відкрити схованку</text>
+        <text>
+            Відкрити схованку
+        </text>
     </string>
     <string id="st_use_workshop">
-        <text>Використати верстат</text>
+        <text>
+            Використати верстат
+        </text>
     </string>
     <string id="st_fuel">
-        <text>Паливо</text>
+        <text>
+            Паливо
+        </text>
     </string>
     <string id="st_duration">
-        <text>Тривалість</text>
+        <text>
+            Тривалість
+        </text>
     </string>
     <string id="st_autoplay">
-        <text>Автовідтворення</text>
+        <text>
+            Автовідтворення
+        </text>
     </string>
     <string id="st_configure">
-        <text>Налаштувати</text>
+        <text>
+            Налаштувати
+        </text>
     </string>
     <string id="st_tempo">
-        <text>Темп</text>
+        <text>
+            Темп
+        </text>
     </string>
     <string id="st_transpose">
-        <text>Транспонувати</text>
+        <text>
+            Транспонувати
+        </text>
     </string>
     <string id="st_volume">
-        <text>Гучність</text>
+        <text>
+            Гучність
+        </text>
     </string>
     <string id="st_instrument">
-        <text>Інструмент</text>
+        <text>
+            Інструмент
+        </text>
     </string>
     <string id="st_filter_by_tag">
-        <text>Фільтрувати за тегом</text>
+        <text>
+            Фільтрувати за тегом
+        </text>
     </string>
 </string_table>

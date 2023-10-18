@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_molotov">
-        <text>Коктейль Молотова</text>
+        <text>
+            Коктейль Молотова
+        </text>
     </string>
     <string id="st_molotov_descr">
-        <text>Гаряча суміш алкоголю в пляшці та палаючого шматка тканини</text>
+        <text>
+            Гаряча суміш алкоголю в пляшці та палаючого шматка тканини
+        </text>
     </string>
 </string_table>

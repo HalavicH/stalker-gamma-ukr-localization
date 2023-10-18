@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="igi_task_text_bs_assault_monster_online_title">
-        <text>Полювання на мутантів</text>
+        <text>
+            Полювання на мутантів
+        </text>
     </string>
     <string id="igi_task_text_bs_assault_stalker_online_title">
-        <text>Напад</text>
+        <text>
+            Напад
+        </text>
     </string>
     <string id="igi_task_text_bs_fetch_drugkit_title">
-        <text>Знайти меднабір</text>
+        <text>
+            Знайти меднабір
+        </text>
     </string>
     <string id="igi_task_text_bs_fetch_patches_title">
-        <text>Зібрать нашивки</text>
+        <text>
+            Зібрать нашивки
+        </text>
     </string>
     <string id="igi_task_text_bs_kill_stalker_nearby_title">
-        <text>Вбити сталкера</text>
+        <text>
+            Вбити сталкера
+        </text>
     </string>
 </string_table>

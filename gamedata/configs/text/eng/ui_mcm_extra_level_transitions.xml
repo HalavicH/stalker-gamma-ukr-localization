@@ -1,21 +1,34 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_extra_level_transitions_title">
-        <text>Додаткові переходи рівнів</text>
+        <text>
+            Додаткові переходи рівнів
+        </text>
     </string>
     <string id="ui_mcm_menu_extra_level_transitions">
-        <text>Переходи рівнів</text>
+        <text>
+            Переходи рівнів
+        </text>
     </string>
     <string id="ui_mcm_extra_level_transitions_enable_time_advance">
-        <text>Увімкнути витрату часу</text>
+        <text>
+            Увімкнути витрату часу
+        </text>
     </string>
     <string id="ui_mcm_extra_level_transitions_enable_time_advance_desc">
-        <text>При використанні нових переходів буде витрачатися час на переміщення</text>
+        <text>
+            При використанні нових переходів буде витрачатися час на переміщення
+        </text>
     </string>
     <string id="ui_mcm_extra_level_transitions_delete_level_transitions">
-        <text>Видалити переходи рівнів</text>
+        <text>
+            Видалити переходи рівнів
+        </text>
     </string>
     <string id="ui_mcm_extra_level_transitions_delete_level_transitions_desc">
-        <text>Додаткові переходи рівнів будуть видалені з гри. Опція призначена для безпечного видалення мода</text>.
+        <text>
+            Додаткові переходи рівнів будуть видалені з гри. Опція призначена для безпечного
+            видалення мода
+        </text>.
 	</string>
 </string_table>

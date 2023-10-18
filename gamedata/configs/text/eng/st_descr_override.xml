@@ -1,33 +1,53 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="desc_over_prop">
-        <text>ВЛАСТИВОСТІ:</text>
+        <text>
+            ВЛАСТИВОСТІ:
+        </text>
     </string>
     <string id="desc_over_timed">
-        <text>ТИМЧАСОВЕ:</text>
+        <text>
+            ТИМЧАСОВЕ:
+        </text>
     </string>
     <string id="desc_over_bhs">
-        <text>КІНЦІВКИ:</text>
+        <text>
+            КІНЦІВКИ:
+        </text>
     </string>
     <string id="desc_over_hp">
-        <text>здоров'я:</text>
+        <text>
+            здоров'я:
+        </text>
     </string>
     <string id="desc_over_rad">
-        <text>радіація:</text>
+        <text>
+            радіація:
+        </text>
     </string>
     <string id="desc_over_bleed">
-        <text>кровотеча:</text>
+        <text>
+            кровотеча:
+        </text>
     </string>
     <string id="desc_over_over">
-        <text>за</text>
+        <text>
+            за
+        </text>
     </string>
     <string id="desc_over_sec">
-        <text>сек</text>
+        <text>
+            сек
+        </text>
     </string>
     <string id="desc_over_sleep">
-        <text>сон:</text>
+        <text>
+            сон:
+        </text>
     </string>
     <string id="desc_over_thirst">
-        <text>спрага:</text>
+        <text>
+            спрага:
+        </text>
     </string>
 </string_table>

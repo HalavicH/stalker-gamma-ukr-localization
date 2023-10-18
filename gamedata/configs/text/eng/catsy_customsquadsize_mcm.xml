@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_customsquadsize">
-        <text>Власний розмір супутнього загону</text>
+        <text>
+            Власний розмір супутнього загону
+        </text>
     </string>
     <string id="ui_mcm_customsquadsize_maxsquadsize">
-        <text>Звичайна максимальна кількість супутників</text>
+        <text>
+            Звичайна максимальна кількість супутників
+        </text>
     </string>
     <string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
-        <text>Максимум напарників із досягненням «Народний герой»</text>
+        <text>
+            Максимум напарників із досягненням «Народний герой»
+        </text>
     </string>
 </string_table>

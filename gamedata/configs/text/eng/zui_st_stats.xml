@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_stat_dmg">
-        <text>Шкода</text>
+        <text>
+            Шкода
+        </text>
     </string>
     <string id="st_stat_rpm">
-        <text>ВВМ</text>
+        <text>
+            ВВМ
+        </text>
     </string>
 </string_table>

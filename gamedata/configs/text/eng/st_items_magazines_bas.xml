@@ -1,109 +1,141 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!--
 Pistols and MP's
 -->
     <string id="st_mag_sr1m_9x21">
-        <text>Стандартний магазин 9x21 SR1M</text>
+        <text>
+            Стандартний магазин 9x21 SR1M
+        </text>
     </string>
     <string id="st_mag_sr1m_9x21_descr">
         <text>
-		Стандартний магазин 9x21 SR1M місткістю 18 патронів. SR1M — це остання розробка російської пістолетної техніки, яка стріляє запатентованим патроном 9x21, який також використовується в SR-2 Veresk PDW.		</text>
+            Стандартний магазин 9x21 SR1M місткістю 18 патронів. SR1M — це остання розробка
+            російської пістолетної техніки, яка стріляє запатентованим патроном 9x21, який також
+            використовується в SR-2 Veresk PDW.
+        </text>
     </string>
     <string id="st_mag_sr1m_9x21ext">
-        <text>Розширений магазин 9x21 SR1M</text>
+        <text>
+            Розширений магазин 9x21 SR1M
+        </text>
     </string>
     <string id="st_mag_sr1m_9x21ext_descr">
         <text>
-		Розширений магазин 9x21 SR1M місткістю 26 патронів. SR1M — це остання розробка російської пістолетної техніки, яка стріляє запатентованим патроном 9x21, який також використовується в SR-2 Veresk PDW.		</text>
+            Розширений магазин 9x21 SR1M місткістю 26 патронів. SR1M — це остання розробка
+            російської пістолетної техніки, яка стріляє запатентованим патроном 9x21, який також
+            використовується в SR-2 Veresk PDW.
+        </text>
     </string>
     <string id="st_mag_pl15_9x19_fmj">
-        <text>Стандартний магазин 9x19 PL15</text>
+        <text>
+            Стандартний магазин 9x19 PL15
+        </text>
     </string>
     <string id="st_mag_pl15_9x19_fmj_descr">
         <text>
-		Стандартний магазин 9x19 PL15 місткістю 16 патронів.
-		</text>
+            Стандартний магазин 9x19 PL15 місткістю 16 патронів.
+        </text>
     </string>
     <string id="st_mag_pl15_9x19_fmjext">
-        <text>Розширений магазин 9x19 PL15</text>
+        <text>
+            Розширений магазин 9x19 PL15
+        </text>
     </string>
     <string id="st_mag_pl15_9x19_fmjext_descr">
         <text>
-		Розширений 9x19 PL15 місткістю 24 патрони.
-		</text>
+            Розширений 9x19 PL15 місткістю 24 патрони.
+        </text>
     </string>
     <string id="st_mag_sigp220_11.43x23_fmj">
-        <text>Стандартний магазин .45 SigP220</text>
+        <text>
+            Стандартний магазин .45 SigP220
+        </text>
     </string>
     <string id="st_mag_sigp220_11.43x23_fmj_descr">
         <text>
-		Стандартний магазин .45 SigP220 на 12 патронів.
-		</text>
+            Стандартний магазин .45 SigP220 на 12 патронів.
+        </text>
     </string>
     <string id="st_mag_sigp220_11.43x23_fmjext">
-        <text>Розширений магазин .45 SigP220</text>
+        <text>
+            Розширений магазин .45 SigP220
+        </text>
     </string>
     <string id="st_mag_sigp220_11.43x23_fmjext_descr">
         <text>
-		Розширений магазин .45 SigP220 на 20 патронів.
-		</text>
+            Розширений магазин .45 SigP220 на 20 патронів.
+        </text>
     </string>
     <string id="st_mag_sig226_9x19_fmj">
-        <text>Стандартний магазин 9x19 SigP226</text>
+        <text>
+            Стандартний магазин 9x19 SigP226
+        </text>
     </string>
     <string id="st_mag_sig226_9x19_fmj_descr">
         <text>
-		Стандартний магазин 9x19 SigP226 місткістю 15 патронів.
-		</text>
+            Стандартний магазин 9x19 SigP226 місткістю 15 патронів.
+        </text>
     </string>
     <string id="st_mag_sig226_9x19_fmjext">
-        <text>Extended 9x19 SigP226 Magazine</text>
+        <text>
+            Extended 9x19 SigP226 Magazine
+        </text>
     </string>
     <string id="st_mag_sig226_9x19_fmjext_descr">
         <text>
-		Розширений магазин 9x19 SigP226 місткістю 20 патронів.
-		</text>
+            Розширений магазин 9x19 SigP226 місткістю 20 патронів.
+        </text>
     </string>
     <string id="st_mag_usptac_9x19_fmj">
-        <text>Стандартний 9x19 USP</text>
+        <text>
+            Стандартний 9x19 USP
+        </text>
     </string>
     <string id="st_mag_usptac_9x19_fmj_descr">
         <text>
-		Стандартний магазин 9x19 USP місткістю 22 патрони.
-		</text>
+            Стандартний магазин 9x19 USP місткістю 22 патрони.
+        </text>
     </string>
     <string id="st_mag_usptac_9x19_fmjext">
-        <text>Розширений магазин 9x19 USP</text>
+        <text>
+            Розширений магазин 9x19 USP
+        </text>
     </string>
     <string id="st_mag_usptac_9x19_fmjext_descr">
         <text>
-		Розширений магазин 9x19 USP місткістю 30 патронів.
-		</text>
+            Розширений магазин 9x19 USP місткістю 30 патронів.
+        </text>
     </string>
     <string id="st_mag_wp99_9x19_fmj">
-        <text>Стандартний магазин 9x19 Walther P99</text>
+        <text>
+            Стандартний магазин 9x19 Walther P99
+        </text>
     </string>
     <string id="st_mag_wp99_9x19_fmj_descr">
         <text>
-		Стандартний магазин 9x19 Walther P99 на 16 патронів.
-		</text>
+            Стандартний магазин 9x19 Walther P99 на 16 патронів.
+        </text>
     </string>
     <string id="st_mag_wp99_9x19_fmjext">
-        <text>Розширений магазин 9x19 Walther P99</text>
+        <text>
+            Розширений магазин 9x19 Walther P99
+        </text>
     </string>
     <string id="st_mag_wp99_9x19_fmjext_descr">
         <text>
-		Розширений магазин 9x19 Walther P99 на 16 патронів.
-		</text>
+            Розширений магазин 9x19 Walther P99 на 16 патронів.
+        </text>
     </string>
     <string id="st_mag_p220_9x19_u2p2bas">
-        <text>Стандартний магазин 9x19 P220 Custom Nine</text>
+        <text>
+            Стандартний магазин 9x19 P220 Custom Nine
+        </text>
     </string>
     <string id="st_mag_p220_9x19_u2p2bas_descr">
         <text>
-		Стандартний магазин 9x19 P220 Custom Nine ємністю 19 патронів.
-		</text>
+            Стандартний магазин 9x19 P220 Custom Nine ємністю 19 патронів.
+        </text>
     </string>
 </string_table>

@@ -1,38 +1,59 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="exchanging_items_phr_0">
-        <text>Слухай, братан, може, махнемось, у кого ніж мішок багатий?</text>
+        <text>
+            Слухай, братан, може, махнемось, у кого ніж мішок багатий?
+        </text>
     </string>
     <string id="exchanging_items_phr_1">
-        <text>А що ж не помінятися? Давай поміняємося. Дивись, що можу тобі запропонувати, вибирай:</text>
+        <text>
+            А що ж не помінятися? Давай поміняємося. Дивись, що можу тобі запропонувати, вибирай:
+        </text>
     </string>
     <string id="exchanging_items_phr_2">
-        <text>Я б артефакт взяв...</text>
+        <text>
+            Я б артефакт взяв...
+        </text>
     </string>
     <string id="exchanging_items_phr_3">
-        <text>Я б костюм взяв...</text>
+        <text>
+            Я б костюм взяв...
+        </text>
     </string>
     <string id="exchanging_items_phr_4">
-        <text>Я б предмет взяв...</text>
+        <text>
+            Я б предмет взяв...
+        </text>
     </string>
     <string id="exchanging_items_phr_5">
-        <text>Я б зброю взяв...</text>
+        <text>
+            Я б зброю взяв...
+        </text>
     </string>
     <string id="exchanging_items_phr_6">
-        <text>Добре. А взамін я у тебе візьму ось це:</text>
+        <text>
+            Добре. А взамін я у тебе візьму ось це:
+        </text>
     </string>
     <string id="exchanging_items_phr_7">
-        <text>Думаю, ніякого обміну у нас з тобою не буде і бути не може. Дивлюся, у тебе нічого путнього взяти.
-            Підвалюють, коли розбагатієш.
+        <text>
+            Думаю, ніякого обміну у нас з тобою не буде і бути не може. Дивлюся, у тебе нічого
+            путнього взяти. Підвалюють, коли розбагатієш.
         </text>
     </string>
     <string id="exchanging_items_phr_8">
-        <text>Добре, я згоден, змінюємося.</text>
+        <text>
+            Добре, я згоден, змінюємося.
+        </text>
     </string>
     <string id="exchanging_items_phr_9">
-        <text>Я передумав змінюватися.</text>
+        <text>
+            Я передумав змінюватися.
+        </text>
     </string>
     <string id="exchanging_items_phr_10">
-        <text>Справа твоя.</text>
+        <text>
+            Справа твоя.
+        </text>
     </string>
 </string_table>

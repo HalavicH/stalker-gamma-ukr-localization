@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_enjoy_cigs">
-        <text>насолодитися цигаркою</text>
+        <text>
+            насолодитися цигаркою
+        </text>
     </string>
     <string id="st_itm_alt">
-        <text>Фальшивий пердмет</text>
+        <text>
+            Фальшивий пердмет
+        </text>
     </string>
     <string id="st_itm_alt_descr">
-        <text>Тут немає на що дивитися. Йдіть далі.\n \n</text>
+        <text>
+            Тут немає на що дивитися. Йдіть далі.
+          \n
+          \n
+        </text>
     </string>
 </string_table>

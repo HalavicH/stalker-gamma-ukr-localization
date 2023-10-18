@@ -1,49 +1,93 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_ZML">
-        <text>ZLM 2.0</text>
+        <text>
+            ZLM 2.0
+        </text>
     </string>
     <string id="ui_mcm_menu_zml_amain">
-        <text>Main</text>
+        <text>
+            Main
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_mod_info">
-        <text>Welcome to ZLM - ZCP Loot Module revised 2.0 settings page. This mod allows the game to spawn *additionnal* items (additionnaly to the item spawning by the base game or other mods) on NPCs or stashes, even the unmarked ones. Depending on the settings, the mod can either helps the player getting some more loot, or just destroy the game's economy if tweaked generously. Be advised : the more item that spawns, the more the game may lag, stutter or crash. Your greed is the only limit, wink.</text>
+        <text>
+            Welcome to ZLM - ZCP Loot Module revised 2.0 settings page. This mod allows the game
+            to spawn *additionnal* items (additionnaly to the item spawning by the base game or
+            other mods) on NPCs or stashes, even the unmarked ones. Depending on the settings,
+            the mod can either helps the player getting some more loot, or just destroy the
+            game's economy if tweaked generously. Be advised : the more item that spawns, the
+            more the game may lag, stutter or crash. Your greed is the only limit, wink.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_persist_info_mm">
-        <text>You're not in-game. Any changes made now will apply when starting a new game, but will be overwritten if a savefile you load has a saved configuration.</text>
+        <text>
+            You're not in-game. Any changes made now will apply when starting a new game, but
+            will be overwritten if a savefile you load has a saved configuration.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_persist_info_level">
-        <text>You're in-game. Any changes made now will be saved and loaded together with your savefile.</text>
+        <text>
+            You're in-game. Any changes made now will be saved and loaded together with your
+            savefile.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_tooltip_info">
-        <text>Disclaimer : This mod was created by extracting and using the loot module from ZCP - Zone Customisation Project as a base and expanding its feature. All credits of the original functionnalities go to its original creator, Diphenhydramine-HCI. You can find the full original mod here :</text>
+        <text>
+            Disclaimer : This mod was created by extracting and using the loot module from ZCP -
+            Zone Customisation Project as a base and expanding its feature. All credits of the
+            original functionnalities go to its original creator, Diphenhydramine-HCI. You can
+            find the full original mod here :
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_modlink_info">
-        <text>https://www.moddb.com/mods/stalker-anomaly/addons/survival-mode-remade-151</text>
+        <text>
+            https://www.moddb.com/mods/stalker-anomaly/addons/survival-mode-remade-151
+        </text>
     </string>
     
 <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_amain_zml_enabled">
-        <text>Enable ZLM - ZCP Loot Module revised 2.0 (main)</text>
+        <text>
+            Enable ZLM - ZCP Loot Module revised 2.0 (main)
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_zml_debug_enabled">
-        <text>Enable debug logging</text>
+        <text>
+            Enable debug logging
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_zml_persist_override">
-        <text>Don't load configuration from savefile</text>
+        <text>
+            Don't load configuration from savefile
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_zml_persist_override_desc">
-        <text>Overrides loading configuration from savefile. Useful if you suspect the stored data is corrupted or otherwise invalid.</text>
+        <text>
+            Overrides loading configuration from savefile. Useful if you suspect the stored data
+            is corrupted or otherwise invalid.
+        </text>
     </string>
     
 <!-- INFOS -->
     <string id="ui_mcm_ZML_zml_amain_toggle_info_work">
-        <text>While in-game, changing settings in here may or may not have immediate effects. Below you can find which settings will have its effects immediately changing or not. Saving then re-loading a save will be necessery for the settings written in red to apply :</text>
+        <text>
+            While in-game, changing settings in here may or may not have immediate effects. Below
+            you can find which settings will have its effects immediately changing or not. Saving
+            then re-loading a save will be necessery for the settings written in red to apply :
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_toggle_in_game_work">
-        <text>Enabling or editing functionnalities : ZLM (main), NPC spawn (main), Stash spawn(main), per category spawn, per category spawn chances, tier thresholds and debug logging.</text>
+        <text>
+            Enabling or editing functionnalities : ZLM (main), NPC spawn (main), Stash
+            spawn(main), per category spawn, per category spawn chances, tier thresholds and
+            debug logging.
+        </text>
     </string>
     <string id="ui_mcm_ZML_zml_amain_toggle_in_game_nowork">
-        <text>Disabling any major spawn functionnality : ZLM (main), NPC spawn (main), Stash spawn (main).</text>
+        <text>
+            Disabling any major spawn functionnality : ZLM (main), NPC spawn (main), Stash spawn
+            (main).
+        </text>
     </string>
 </string_table>

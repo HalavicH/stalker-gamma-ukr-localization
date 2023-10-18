@@ -1,57 +1,98 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_companion_anti_awol_title">
-        <text>Компаньйон проти дезертирства</text>
+        <text>
+            Компаньйон проти дезертирства
+        </text>
     </string>
     <string id="ui_mcm_menu_companion_anti_awol">
-        <text>Компаньйон проти дезертирства</text>
+        <text>
+            Компаньйон проти дезертирства
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol">
-        <text>Увімкнути ігнорування бою компаньйона на основі відстані до гравця</text>
+        <text>
+            Увімкнути ігнорування бою компаньйона на основі відстані до гравця
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_desc">
-        <text>Увімкнення/вимкнення ігнорування компаньйоном бою на основі відстані до гравця</text>
+        <text>
+            Увімкнення/вимкнення ігнорування компаньйоном бою на основі відстані до гравця
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance">
-        <text>Ігнорувати бойову дистанцію (слідувати)</text>
+        <text>
+            Ігнорувати бойову дистанцію (слідувати)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance_desc">
-        <text>Компаньйон буде ігнорувати бій, коли досягне вказаної відстані від гравця (в метрах)</text>
+        <text>
+            Компаньйон буде ігнорувати бій, коли досягне вказаної відстані від гравця (в метрах)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance">
-        <text>Дозволити бойову дистанцію (слідувати)</text>
+        <text>
+            Дозволити бойову дистанцію (слідувати)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance_desc">
-        <text>Компаньйон знову вступить у бій, коли досягне вказаної відстані від гравця (у метрах)</text>
+        <text>
+            Компаньйон знову вступить у бій, коли досягне вказаної відстані від гравця (у метрах)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance">
-        <text>Ігнорувати бойову дистанцію (перейти до маркера)</text>
+        <text>
+            Ігнорувати бойову дистанцію (перейти до маркера)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance_desc">
-        <text>Компаньйон ігноруватиме бій, коли досягне вказаної відстані від маркера "Go to" (у метрах)</text>
+        <text>
+            Компаньйон ігноруватиме бій, коли досягне вказаної відстані від маркера "Go to" (у
+            метрах)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance">
-        <text>Дозволити бойову дистанцію (перейти до маркера)</text>
+        <text>
+            Дозволити бойову дистанцію (перейти до маркера)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance_desc">
-        <text>Компаньйон відновить бій, коли досягне вказаної відстані від маркера "Go to" (у метрах)</text>
+        <text>
+            Компаньйон відновить бій, коли досягне вказаної відстані від маркера "Go to" (у
+            метрах)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy">
-        <text>Увімкнути ігнорування компаньйоном бою на основі відстані до супротивника</text>
+        <text>
+            Увімкнути ігнорування компаньйоном бою на основі відстані до супротивника
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy_desc">
-        <text>Увімкнення/вимкнення ігнорування компаньйоном бою на основі відстані між гравцем і ворогом</text>
+        <text>
+            Увімкнення/вимкнення ігнорування компаньйоном бою на основі відстані між гравцем і
+            ворогом
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance">
-        <text>Ігнорувати бойову дистанцію (слідувати)</text>
+        <text>
+            Ігнорувати бойову дистанцію (слідувати)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance_desc">
-        <text>Компаньйон ігноруватиме бій, якщо ворог знаходиться за межами вказаної відстані від гравця (у метрах)</text>
+        <text>
+            Компаньйон ігноруватиме бій, якщо ворог знаходиться за межами вказаної відстані від
+            гравця (у метрах)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance">
-        <text>Ігнорувати бойову дистанцію (перейти до маркера)</text>
+        <text>
+            Ігнорувати бойову дистанцію (перейти до маркера)
+        </text>
     </string>
     <string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance_desc">
-        <text>Компаньйон ігноруватиме бій, якщо ворог знаходиться за межами вказаної відстані від маркера переходу (у метрах)</text>
+        <text>
+            Компаньйон ігноруватиме бій, якщо ворог знаходиться за межами вказаної відстані від
+            маркера переходу (у метрах)
+        </text>
     </string>
 </string_table>

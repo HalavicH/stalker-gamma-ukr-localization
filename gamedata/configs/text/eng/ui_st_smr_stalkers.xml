@@ -1,137 +1,228 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- STALKERS -->
     <string id="ui_mcm_menu_smr_stalkers">
-        <text>Сталкери</text>
+        <text>
+            Сталкери
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_squad_size">
-        <text>Розмір загону сталкерів</text>
+        <text>
+            Розмір загону сталкерів
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_squad_size_variance">
-        <text>Варіації розміру загону</text>
+        <text>
+            Варіації розміру загону
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_squad_size_variance_desc">
-        <text>Чим вище цей показник, тим більш випадковим буде розмір загонів сталкерів.</text>
+        <text>
+            Чим вище цей показник, тим більш випадковим буде розмір загонів сталкерів.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war">
-        <text>Громадянська війна</text>
+        <text>
+            Громадянська війна
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_civilwar_disabled">
-        <text>Вимкнено</text>
+        <text>
+            Вимкнено
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_civilwar_stalkers">
-        <text>Сталкери</text>
+        <text>
+            Сталкери
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_civilwar_squads">
-        <text>Загони</text>
+        <text>
+            Загони
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war_desc">
-        <text>Якщо увімкнено, всі сталкери або загони сталкерів ворожі один до одного.</text>
+        <text>
+            Якщо увімкнено, всі сталкери або загони сталкерів ворожі один до одного.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population">
-        <text>Громадянська війна впливає на базову популяцію</text>
+        <text>
+            Громадянська війна впливає на базову популяцію
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population_desc">
-        <text>Якщо увімкнено, на сталкерів, які належать до базового населення, впливають умови громадянської війни.</text>
+        <text>
+            Якщо увімкнено, на сталкерів, які належать до базового населення, впливають умови
+            громадянської війни.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied">
-        <text>Моноліт Союзний(Громадянська війна)</text>
+        <text>
+            Моноліт Союзний(Громадянська війна)
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied_desc">
-        <text>Утримує сталкерів Моноліту в союзі один з одним, незалежно від встановленого режиму Громадянської війни.</text>
+        <text>
+            Утримує сталкерів Моноліту в союзі один з одним, незалежно від встановленого режиму
+            Громадянської війни.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population">
-        <text>Населення сталкерських баз</text>
+        <text>
+            Населення сталкерських баз
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population_desc">
-        <text>Популяція сталкерів на базах.</text>
+        <text>
+            Популяція сталкерів на базах.
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_base_population_default">
-        <text>Стандартне</text>
+        <text>
+            Стандартне
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_base_population_survival">
-        <text>Виживанння</text>
+        <text>
+            Виживанння
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_base_population_minimal">
-        <text>Мінімальне</text>
+        <text>
+            Мінімальне
+        </text>
     </string>
     <string id="ui_mcm_lst_smr_stalkers_base_population_none">
-        <text>Немає</text>
+        <text>
+            Немає
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population_default">
-        <text>Пресети за замовчуванням Anomaly.</text>
+        <text>
+            Пресети за замовчуванням Anomaly.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population_survival">
-        <text>Пресет Виживання за замовчуванням Anomaly.</text>
+        <text>
+            Пресет Виживання за замовчуванням Anomaly.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population_minimal">
-        <text>Прибирає майже всі бази. З тих, що залишилися, Росток - єдина безпечна, з охоронцями. Не впливає на нерест поза базами.
-		Якщо ви починаєте не як Одинак, вам може знадобитися система маскування.
-		</text>
+        <text>
+            Прибирає майже всі бази. З тих, що залишилися, Росток - єдина безпечна, з охоронцями.
+            Не впливає на нерест поза базами. Якщо ви починаєте не як Одинак, вам може
+            знадобитися система маскування.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_base_population_none">
-        <text>Видаляє всіх сталкерів на базах, натхненний режимом "Останній виживший" з Дохлого Повітря (російський мод не грайте в нього).
-		Це означає, що там не буде торговців, механіків та охоронців. На спавн поза базами це не вплине.</text>
+        <text>
+            Видаляє всіх сталкерів на базах, натхненний режимом "Останній виживший" з Дохлого
+            Повітря (російський мод не грайте в нього). Це означає, що там не буде торговців,
+            механіків та охоронців. На спавн поза базами це не вплине.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_random_stalkers">
-        <text>Створювати випадкові загони сталкерів</text>
+        <text>
+            Створювати випадкові загони сталкерів
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_random_stalkers_desc">
-        <text>Замінює загони сталкерів на загони з випадкової фракції. Це означає, що ви можете знайти фракції там, де раніше їх не очікували.</text>
+        <text>
+            Замінює загони сталкерів на загони з випадкової фракції. Це означає, що ви можете
+            знайти фракції там, де раніше їх не очікували.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_random_stalkers_chance">
-        <text>Випадкові шанси загонів сталкерів</text>
+        <text>
+            Випадкові шанси загонів сталкерів
+        </text>
     </string>
     <string id="ui_mcm_smr_stalkers_factions_title">
-        <text>Фракції</text>
+        <text>
+            Фракції
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_factions_info">
-        <text>Нижче ви можете ввімкнути або вимкнути фракції. Вимкнені фракції не з'являться в Зоні.</text>
+        <text>
+            Нижче ви можете ввімкнути або вимкнути фракції. Вимкнені фракції не з'являться в
+            Зоні.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads">
-        <text>Замінити видалені загони</text>
+        <text>
+            Замінити видалені загони
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads_desc">
-        <text>Замінює загони з вимкнених фракцій на загони з увімкнених фракцій.</text>
+        <text>
+            Замінює загони з вимкнених фракцій на загони з увімкнених фракцій.
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_stalker">
-        <text>Одинаки</text>
+        <text>
+            Одинаки
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_bandit">
-        <text>Бандити</text>
+        <text>
+            Бандити
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_csky">
-        <text>Чисте Небо</text>
+        <text>
+            Чисте Небо
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_duty">
-        <text>Обов'язок</text>
+        <text>
+            Обов'язок
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_freedom">
-        <text>Воля</text>
+        <text>
+            Воля
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_merc">
-        <text>Найманці</text>
+        <text>
+            Найманці
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_army">
-        <text>Військові</text>
+        <text>
+            Військові
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_ecolog">
-        <text>Екологи</text>
+        <text>
+            Екологи
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_monolith">
-        <text>Моноліт</text>
+        <text>
+            Моноліт
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_renegade">
-        <text>Ренегати</text>
+        <text>
+            Ренегати
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_greh">
-        <text>Гріх</text>
+        <text>
+            Гріх
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_isg">
-        <text>МДГ</text>
+        <text>
+            МДГ
+        </text>
     </string>
     <string id="ui_mcm_SMR_smr_stalkers_zombied">
-        <text>Зомбовані</text>
+        <text>
+            Зомбовані
+        </text>
     </string>
 </string_table>

@@ -1,271 +1,449 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_21_game">
-        <text>21 очко</text>
+        <text>
+            21 очко
+        </text>
     </string>
     <string id="ui_mcm_21_game_card_game_21_minimum_rate">
-        <text>Встановити мінімальну ставку</text>
+        <text>
+            Встановити мінімальну ставку
+        </text>
     </string>
     <string id="ui_mcm_21_game_value_card_21_max_rate">
-        <text>Встановити максимальну ставку</text>
+        <text>
+            Встановити максимальну ставку
+        </text>
     </string>
     <string id="st_unique_treasure_spot_descr">
-        <text>Схованка. Код доступу</text>
+        <text>
+            Схованка. Код доступу
+        </text>
     </string>
     <string id="st_question_game_reward_advice">
-        <text>Зароблена порада:</text>
+        <text>
+            Зароблена порада:
+        </text>
     </string>
     <string id="st_question_game_reward_money">
-        <text>Отримано додаткові гроші:</text>
+        <text>
+            Отримано додаткові гроші:
+        </text>
     </string>
     <string id="st_remote_charge_delay_deactivated">
-        <text>Таймер: відключений</text>
+        <text>
+            Таймер: відключений
+        </text>
     </string>
     <string id="st_remote_charge_delay_timer">
-        <text>Таймер:</text>
+        <text>
+            Таймер:
+        </text>
     </string>
     <string id="st_remote_charge_delay_value">
-        <text>сек.</text>
+        <text>
+            сек.
+        </text>
     </string>
     <string id="st_remote_charge_spot">
-        <text>Заряд РС-15</text>
+        <text>
+            Заряд РС-15
+        </text>
     </string>
     <string id="st_21_point_your_card_value">
-        <text>Ви:</text>
+        <text>
+            Ви:
+        </text>
     </string>
     <string id="st_21_point_enemy_card_value">
-        <text>Ворог:</text>
+        <text>
+            Ворог:
+        </text>
     </string>
     <string id="st_21_point_rate_field">
-        <text>Ваша ставка на виграш:</text>
+        <text>
+            Ваша ставка на виграш:
+        </text>
     </string>
     <string id="st_21_point_infoline_1">
-        <text>У вашому рюкзаку грошей:</text>
+        <text>
+            У вашому рюкзаку грошей:
+        </text>
     </string>
     <string id="st_21_point_infoline_2">
-        <text>Мінімальна ставка - 50, максимальна ставка -</text>
+        <text>
+            Мінімальна ставка - 50, максимальна ставка -
+        </text>
     </string>
     <string id="st_21_point_money">
-        <text>гривень.</text>
+        <text>
+            гривень.
+        </text>
     </string>
     <string id="st_21_point_info_about_your">
-        <text>Дегтярьов: ставка</text>
+        <text>
+            Дегтярьов: ставка
+        </text>
     </string>
     <string id="st_21_point_info_about_enemy">
-        <text>: ставка</text>
+        <text>
+            : ставка
+        </text>
     </string>
     <string id="st_21_point_web_money">
-        <text>електронних гривень.</text>
+        <text>
+            електронних гривень.
+        </text>
     </string>
     <string id="st_21_point_winner_your_1">
-        <text>Ви виграли. Виграш склав -</text>
+        <text>
+            Ви виграли. Виграш склав -
+        </text>
     </string>
     <string id="st_21_point_winner_your_2">
-        <text>гривень. Сума очок: ви -</text>
+        <text>
+            гривень. Сума очок: ви -
+        </text>
     </string>
     <string id="st_21_point_winner_your_3">
-        <text>, суперник -</text>
+        <text>
+            , суперник -
+        </text>
     </string>
     <string id="st_21_point_winner_enemy_1">
-        <text>Ви програли. Програш склав -</text>
+        <text>
+            Ви програли. Програш склав -
+        </text>
     </string>
     <string id="st_21_point_winner_enemy_2">
-        <text>гривень. Сума очок: ви -</text>
+        <text>
+            гривень. Сума очок: ви -
+        </text>
     </string>
     <string id="st_21_point_winner_enemy_3">
-        <text>, суперник -</text>
+        <text>
+            , суперник -
+        </text>
     </string>
     <string id="st_21_point_winner_equally_1">
-        <text>Перемогла дружба. Сума очок: ви -</text>
+        <text>
+            Перемогла дружба. Сума очок: ви -
+        </text>
     </string>
     <string id="st_21_point_winner_equally_2">
-        <text>, суперник -</text>
+        <text>
+            , суперник -
+        </text>
     </string>
     <string id="st_help_wounded_payment">
-        <text>Отримано гроші за порятунок</text>
+        <text>
+            Отримано гроші за порятунок
+        </text>
     </string>
     <string id="st_mechanic_stripping_count">
-        <text>Кількість кор. з деталями</text>
+        <text>
+            Кількість кор. з деталями
+        </text>
     </string>
     <string id="st_rank_event_present">
-        <text>Ранг підвищений</text>
+        <text>
+            Ранг підвищений
+        </text>
     </string>
     <string id="st_bankir_web_money_course_1">
-        <text>Курс обміну:</text>
+        <text>
+            Курс обміну:
+        </text>
     </string>
     <string id="st_bankir_web_money_course_2">
-        <text>Ваші електронні гроші:</text>
+        <text>
+            Ваші електронні гроші:
+        </text>
     </string>
     <string id="st_bankir_web_money_course_3">
-        <text>1 електронна гривня -</text>
+        <text>
+            1 електронна гривня -
+        </text>
     </string>
     <string id="st_bankir_web_money_course_4">
-        <text>копійок готівковими гривнями.</text>
+        <text>
+            копійок готівковими гривнями.
+        </text>
     </string>
     <string id="st_bankir_web_money_course_5">
-        <text>гривень.</text>
+        <text>
+            гривень.
+        </text>
     </string>
     <string id="st_event_headshot">
-        <text>Ви заробили хедшот</text>
+        <text>
+            Ви заробили хедшот
+        </text>
     </string>
     <string id="st_event_iam_find">
-        <text>Ви знайшли</text>
+        <text>
+            Ви знайшли
+        </text>
     </string>
     <string id="st_event_find_secret">
-        <text>-ю за рахунком SGM схованку.</text>
+        <text>
+            -ю за рахунком SGM схованку.
+        </text>
     </string>
     <string id="st_event_find_deserve">
-        <text>-й персональний тайник.</text>
+        <text>
+            -й персональний тайник.
+        </text>
     </string>
     <string id="st_custom_goods_need_rank">
-        <text>Потрібний ранг:</text>
+        <text>
+            Потрібний ранг:
+        </text>
     </string>
     <string id="st_booty_count">
-        <text>Кількість трофеїв</text>
+        <text>
+            Кількість трофеїв
+        </text>
     </string>
     <string id="st_booty_costs">
-        <text>На суму:</text>
+        <text>
+            На суму:
+        </text>
     </string>
     <string id="st_add_damage">
-        <text>до шкоди</text>
+        <text>
+            до шкоди
+        </text>
     </string>
     <string id="st_booty_shtuk">
-        <text>шт.</text>
+        <text>
+            шт.
+        </text>
     </string>
     <string id="st_need_rank">
-        <text>необхідний ранг &gt;=</text>
+        <text>
+            необхідний ранг &gt;=
+        </text>
     </string>
     <string id="st_currert_rank">
-        <text>поточний ранг:</text>
+        <text>
+            поточний ранг:
+        </text>
     </string>
     <string id="st_af_type_1">
-        <text>Підтримує: 1-й тип аномальності</text>
+        <text>
+            Підтримує: 1-й тип аномальності
+        </text>
     </string>
     <string id="st_af_type_2">
-        <text>Підтримує: 2-й тип аномальності</text>
+        <text>
+            Підтримує: 2-й тип аномальності
+        </text>
     </string>
     <string id="st_af_type_3">
-        <text>Підтримує: 3-й тип аномальності</text>
+        <text>
+            Підтримує: 3-й тип аномальності
+        </text>
     </string>
     <string id="st_af_type_all">
-        <text>Підтримує: 1-й, 2-й, і 3-й типи аномальності</text>
+        <text>
+            Підтримує: 1-й, 2-й, і 3-й типи аномальності
+        </text>
     </string>
     <string id="st_bodyguard_price">
-        <text>Вартість послуг:</text>
+        <text>
+            Вартість послуг:
+        </text>
     </string>
     <string id="st_bankir_deposit_title">
-        <text>Сума на депозиті: </text>
+        <text>
+            Сума на депозиті:
+        </text>
     </string>
     <string id="st_bankir_percent_title">
-        <text>Дохід від депозиту: </text>
+        <text>
+            Дохід від депозиту:
+        </text>
     </string>
     <string id="st_bankir_money">
-        <text>У вашому рюкзаку грошей =</text>
+        <text>
+            У вашому рюкзаку грошей =
+        </text>
     </string>
     <string id="st_bankir_counter">
-        <text>Ощадний рахунок :</text>
+        <text>
+            Ощадний рахунок :
+        </text>
     </string>
     <string id="st_bankir_counter2">
-        <text>Депозитний рахунок :</text>
+        <text>
+            Депозитний рахунок :
+        </text>
     </string>
     <string id="st_bankir_ru">
-        <text>гривень</text>
+        <text>
+            гривень
+        </text>
     </string>
     <string id="st_bankir_last">
-        <text>Останній внесений капітал:</text>
+        <text>
+            Останній внесений капітал:
+        </text>
     </string>
     <string id="st_bankir_result">
-        <text>Усього =</text>
+        <text>
+            Усього =
+        </text>
     </string>
     <string id="st_bankir_percent">
-        <text>Загальний відсоток завтра :</text>
+        <text>
+            Загальний відсоток завтра :
+        </text>
     </string>
     <string id="st_bankir_percent_today">
-        <text>Загальний відсоток сьогодні :</text>
+        <text>
+            Загальний відсоток сьогодні :
+        </text>
     </string>
     <string id="st_trader_order_count">
-        <text>Товарів у наявності: </text>
+        <text>
+            Товарів у наявності:
+        </text>
     </string>
     <string id="st_order_cost">
-        <text>Ціна замовлення:</text>
+        <text>
+            Ціна замовлення:
+        </text>
     </string>
     <string id="st_statistic_value_of">
-        <text>з</text>
+        <text>
+            з
+        </text>
     </string>
     <string id="st_weapon_damage">
-        <text>Нанесена шкода</text>
+        <text>
+            Нанесена шкода
+        </text>
     </string>
     <string id="st_weapon_distance">
-        <text>Дальність </text>
+        <text>
+            Дальність
+        </text>
     </string>
     <string id="st_detonation_radius">
-        <text>Радіус вибуху </text>
+        <text>
+            Радіус вибуху
+        </text>
     </string>
     <string id="st_detonation_scraps">
-        <text>Розкид осколків </text>
+        <text>
+            Розкид осколків
+        </text>
     </string>
     <string id="st_def_meters">
-        <text>м</text>
+        <text>
+            м
+        </text>
     </string>
     <string id="st_detonation_time">
-        <text>Час дії</text>
+        <text>
+            Час дії
+        </text>
     </string>
     <string id="st_def_second">
-        <text>з</text>
+        <text>
+            з
+        </text>
     </string>
     <string id="st_actor_box_currert_weight">
-        <text>об'єм речей в особистому ящику становить =</text>
+        <text>
+            об'єм речей в особистому ящику становить =
+        </text>
     </string>
     <string id="st_actor_box_currert_mass">
-        <text>об'єм =</text>
+        <text>
+            об'єм =
+        </text>
     </string>
     <string id="st_actor_box_transportation_cost">
-        <text>| Вартість =</text>
+        <text>
+            | Вартість =
+        </text>
     </string>
     <string id="st_mod_version_title">
-        <text>Версія</text>
+        <text>
+            Версія
+        </text>
     </string>
     <string id="st_sigerous_mod_successfully_started">
-        <text>Sigerous Mod успішно завантажено...</text>
+        <text>
+            Sigerous Mod успішно завантажено...
+        </text>
     </string>
     <string id="st_pri_zone_cleaning_add">
-        <text>Зомбованих залишилося:</text>
+        <text>
+            Зомбованих залишилося:
+        </text>
     </string>
     <string id="st_pri_zone_cleaning_add2">
-        <text>людина</text>
+        <text>
+            людина
+        </text>
     </string>
     <string id="st_task_execution_time_add1">
-        <text>(залишилося</text>
+        <text>
+            (залишилося
+        </text>
     </string>
     <string id="st_task_execution_time_add2">
-        <text>хвилин)</text>
+        <text>
+            хвилин)
+        </text>
     </string>
     <string id="st_task_execution_time_add3">
-        <text>бонусних хвилин)</text>
+        <text>
+            бонусних хвилин)
+        </text>
     </string>
     <string id="st_get_employer_kill_stalker">
-        <text>сталкера</text>
+        <text>
+            сталкера
+        </text>
     </string>
     <string id="st_get_employer_kill_bandit">
-        <text>бандита</text>
+        <text>
+            бандита
+        </text>
     </string>
     <string id="st_get_employer_kill_merc">
-        <text>найманця</text>
+        <text>
+            найманця
+        </text>
     </string>
     <string id="st_get_employer_kill_army">
-        <text>військового</text>
+        <text>
+            військового
+        </text>
     </string>
     <string id="st_get_employer_kill_monolith">
-        <text>монолітовця</text>
+        <text>
+            монолітовця
+        </text>
     </string>
     <string id="st_get_employer_kill_dolg">
-        <text>обов'язківця</text>
+        <text>
+            обов'язківця
+        </text>
     </string>
     <string id="st_get_employer_kill_freedom">
-        <text>свободівця</text>
+        <text>
+            свободівця
+        </text>
     </string>
     <string id="st_get_employer_kill_renegade">
-        <text>ренегата</text>
+        <text>
+            ренегата
+        </text>
     </string>
     
 <!--########################=========####################################-->
@@ -280,70 +458,114 @@
     
 <!--########################========###################-->
     <string id="st_minigames_21_point_accept_step">
-        <text>Шаг підвищення ставки - 200</text>
+        <text>
+            Шаг підвищення ставки - 200
+        </text>
     </string>
     <string id="st_minigames_21_point_rem">
-        <text>Запам'ятовувати ставку</text>
+        <text>
+            Запам'ятовувати ставку
+        </text>
     </string>
     <string id="st_minigames_21_point_accept_bets">
-        <text>Прийняти ставки</text>
+        <text>
+            Прийняти ставки
+        </text>
     </string>
     <string id="st_minigames_21_point_start">
-        <text>Почати гру</text>
+        <text>
+            Почати гру
+        </text>
     </string>
     <string id="st_minigames_21_point_exit">
-        <text>Вихід</text>
+        <text>
+            Вихід
+        </text>
     </string>
     <string id="st_minigames_21_point_more">
-        <text>Взяти ще</text>
+        <text>
+            Взяти ще
+        </text>
     </string>
     <string id="st_minigames_21_point_pass">
-        <text>Передати хід</text>
+        <text>
+            Передати хід
+        </text>
     </string>
     <string id="st_minigames_21_point_cont">
-        <text>Продовжити</text>
+        <text>
+            Продовжити
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_1">
-        <text>Я до тебе з дружньою пропозицією.</text>
+        <text>
+            Я до тебе з дружньою пропозицією.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_2">
-        <text>Що за пропозиція?</text>
+        <text>
+            Що за пропозиція?
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_3">
-        <text>Як щодо того, щоб скоротати час за картками? У 21, на гроші.</text>
+        <text>
+            Як щодо того, щоб скоротати час за картками? У 21, на гроші.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_4">
-        <text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_5">
-        <text>Згоден. Уже приготував.</text>
+        <text>
+            Згоден. Уже приготував.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_6">
-        <text>От і добре, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і добре, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_7">
-        <text>Чого тобі?</text>
+        <text>
+            Чого тобі?
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_8">
-        <text>Та так, у карти час вбити, у 21, на гроші, звісно.</text>
+        <text>
+            Та так, у карти час вбити, у 21, на гроші, звісно.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_9">
-        <text>Зрозумів, я не проти. Давай зіграємо.</text>
+        <text>
+            Зрозумів, я не проти. Давай зіграємо.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_10">
-        <text>Та так, нічого.</text>
+        <text>
+            Та так, нічого.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_11">
-        <text>Іншим разом краще.</text>
+        <text>
+            Іншим разом краще.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_12">
-        <text>Не згоден, такі правила мене не влаштовують.</text>
+        <text>
+            Не згоден, такі правила мене не влаштовують.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_reply_no_1">
-        <text>Іншим разом, я зараз зайнятий.</text>
+        <text>
+            Іншим разом, я зараз зайнятий.
+        </text>
     </string>
     <string id="zat_sich_minigame_21_point_dialog_reply_no">
-        <text>Давай потім як-небудь.</text>
+        <text>
+            Давай потім як-небудь.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -352,28 +574,45 @@
     
 <!--######################========###################-->
     <string id="skraga_21_point_dialog_1">
-        <text>Хотів ось, запитати в тебе.</text>
+        <text>
+            Хотів ось, запитати в тебе.
+        </text>
     </string>
     <string id="skraga_21_point_dialog_2">
-        <text>Що запитати?</text>
+        <text>
+            Що запитати?
+        </text>
     </string>
     <string id="skraga_21_point_dialog_3">
-        <text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+        <text>
+            Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на
+            гроші?
+        </text>
     </string>
     <string id="skraga_21_point_dialog_4">
-        <text>Вот воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            Вот воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="skraga_21_point_dialog_5">
-        <text>Згоден. Уже приготував.</text>
+        <text>
+            Згоден. Уже приготував.
+        </text>
     </string>
     <string id="skraga_21_point_dialog_6">
-        <text>От і добре, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і добре, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     <string id="skraga_21_point_dialog_7">
-        <text>Що, знову в очко?</text>
+        <text>
+            Що, знову в очко?
+        </text>
     </string>
     <string id="skraga_21_point_dialog_8">
-        <text>Так, Скряга.</text>
+        <text>
+            Так, Скряга.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -382,28 +621,45 @@
     
 <!--######################========###################-->
     <string id="xolod_21_point_dialog_1">
-        <text>Слухай Холод, хотів ось, запитати в тебе.</text>
+        <text>
+            Слухай Холод, хотів ось, запитати в тебе.
+        </text>
     </string>
     <string id="xolod_21_point_dialog_2">
-        <text>Що запитати?</text>
+        <text>
+            Що запитати?
+        </text>
     </string>
     <string id="xolod_21_point_dialog_3">
-        <text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+        <text>
+            Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на
+            гроші?
+        </text>
     </string>
     <string id="xolod_21_point_dialog_4">
-        <text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="xolod_21_point_dialog_5">
-        <text>Згоден. Уже приготував.</text>
+        <text>
+            Згоден. Уже приготував.
+        </text>
     </string>
     <string id="xolod_21_point_dialog_6">
-        <text>От і добре, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і добре, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     <string id="xolod_21_point_dialog_7">
-        <text>Що, знову в очко?</text>
+        <text>
+            Що, знову в очко?
+        </text>
     </string>
     <string id="xolod_21_point_dialog_8">
-        <text>Так, Холод.</text>
+        <text>
+            Так, Холод.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -412,22 +668,35 @@
     
 <!--######################========###################-->
     <string id="lesnik_21_point_dialog_1">
-        <text>Дід, хотів запитати в тебе дещо.</text>
+        <text>
+            Дід, хотів запитати в тебе дещо.
+        </text>
     </string>
     <string id="lesnik_21_point_dialog_2">
-        <text>Що молодо-зелено? Чого хочеш?</text>
+        <text>
+            Що молодо-зелено? Чого хочеш?
+        </text>
     </string>
     <string id="lesnik_21_point_dialog_3">
-        <text>Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на гроші?</text>
+        <text>
+            Краєм ока помітив - у тебе на столі колода карт лежить. Може зіграємо в очко, на
+            гроші?
+        </text>
     </string>
     <string id="lesnik_21_point_dialog_4">
-        <text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="lesnik_21_point_dialog_5">
-        <text>Згоден. Уже приготував.</text>
+        <text>
+            Згоден. Уже приготував.
+        </text>
     </string>
     <string id="lesnik_21_point_dialog_6">
-        <text>От і добре, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і добре, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -436,22 +705,35 @@
     
 <!--######################========###################-->
     <string id="cit_killers_21_point_dialog_1">
-        <text>Це саме, хотів запитати в тебе дещо.</text>
+        <text>
+            Це саме, хотів запитати в тебе дещо.
+        </text>
     </string>
     <string id="cit_killers_21_point_dialog_2">
-        <text>Ну валяй.</text>
+        <text>
+            Ну валяй.
+        </text>
     </string>
     <string id="cit_killers_21_point_dialog_3">
-        <text>Краєм ока помітив - у тебе за стійкою колода карт лежить. Може зіграємо в очко, на гроші?</text>
+        <text>
+            Краєм ока помітив - у тебе за стійкою колода карт лежить. Може зіграємо в очко, на
+            гроші?
+        </text>
     </string>
     <string id="cit_killers_21_point_dialog_4">
-        <text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="cit_killers_21_point_dialog_5">
-        <text>Угу. Поїхали.</text>
+        <text>
+            Угу. Поїхали.
+        </text>
     </string>
     <string id="cit_killers_21_point_dialog_6">
-        <text>От і зашибісь, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і зашибісь, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -460,22 +742,35 @@
     
 <!--######################========###################-->
     <string id="saxarov_21_point_dialog_1">
-        <text>Професоре, хотів дещо запитати у вас.</text>
+        <text>
+            Професоре, хотів дещо запитати у вас.
+        </text>
     </string>
     <string id="saxarov_21_point_dialog_2">
-        <text>Я уважно вас слухаю.</text>
+        <text>
+            Я уважно вас слухаю.
+        </text>
     </string>
     <string id="saxarov_21_point_dialog_3">
-        <text>Бачу у біля столу карткова колода лежить, не бажаєте зіграти в очко? На гроші?</text>
+        <text>
+            Бачу у біля столу карткова колода лежить, не бажаєте зіграти в очко? На гроші?
+        </text>
     </string>
     <string id="saxarov_21_point_dialog_4">
-        <text>Ааа я зараз зайнятий... А хоча гаразд давайте, трохи розслабитися і перекинутися в партію-іншу не зашкодить, я вже все приготував, ви готові?</text>
+        <text>
+            Ааа я зараз зайнятий... А хоча гаразд давайте, трохи розслабитися і перекинутися в
+            партію-іншу не зашкодить, я вже все приготував, ви готові?
+        </text>
     </string>
     <string id="saxarov_21_point_dialog_5">
-        <text>Так, усе готово.</text>
+        <text>
+            Так, усе готово.
+        </text>
     </string>
     <string id="saxarov_21_point_dialog_6">
-        <text>Ось і чудово, починаємо.</text>
+        <text>
+            Ось і чудово, починаємо.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -484,40 +779,64 @@
     
 <!--######################========###################-->
     <string id="zat_sich_minigame_21_point_dialog_1">
-        <text>Я до тебе з дружньою пропозицією.</text>
+        <text>
+            Я до тебе з дружньою пропозицією.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_2">
-        <text>Що за пропозиція?</text>
+        <text>
+            Що за пропозиція?
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_3">
-        <text>Як щодо того, щоб скоротати час за картками? У 21, на гроші</text>
+        <text>
+            Як щодо того, щоб скоротати час за картками? У 21, на гроші
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_4">
-        <text>От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.</text>
+        <text>
+            От воно що. Добре. Будемо грати! Готуй гроші, а я зараз карти перемішаю.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_5">
-        <text>Згоден. Уже приготував.</text>
+        <text>
+            Згоден. Уже приготував.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_6">
-        <text>От і добре, я теж готовий. Давай зіграємо.</text>
+        <text>
+            От і добре, я теж готовий. Давай зіграємо.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_7">
-        <text>Чого тобі?</text>
+        <text>
+            Чого тобі?
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_8">
-        <text>Та так, у карти час вбити, у 21, на гроші, звісно.</text>
+        <text>
+            Та так, у карти час вбити, у 21, на гроші, звісно.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_9">
-        <text>Зрозумів, я не проти. Давай зіграємо.</text>
+        <text>
+            Зрозумів, я не проти. Давай зіграємо.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_10">
-        <text>Та так, нічого.</text>
+        <text>
+            Та так, нічого.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_11">
-        <text>Гаразд, іншим разом.</text>
+        <text>
+            Гаразд, іншим разом.
+        </text>
     </string>
     <string id="sich_minigame_21_point_dialog_12">
-        <text>Не згоден, такі правила мене не влаштовують.</text>
+        <text>
+            Не згоден, такі правила мене не влаштовують.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -526,40 +845,64 @@
     
 <!--######################========###################-->
     <string id="jup_barmen_minigame_21_point_dialog_1">
-        <text>Хотів ось запитати дещо.</text>
+        <text>
+            Хотів ось запитати дещо.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_2">
-        <text>Ага, тоді запитуй.</text>
+        <text>
+            Ага, тоді запитуй.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_3">
-        <text>Знаю точно, що за барною стійкою картки лежать, може зіграємо в очко, на гроші?</text>
+        <text>
+            Знаю точно, що за барною стійкою картки лежать, може зіграємо в очко, на гроші?
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_4">
-        <text>А я то як знаю... Чудово, очко так очко!</text>
+        <text>
+            А я то як знаю... Чудово, очко так очко!
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_5">
-        <text>Згоден. Я готовий.</text>
+        <text>
+            Згоден. Я готовий.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_6">
-        <text>Тоді давай зіграємо.</text>
+        <text>
+            Тоді давай зіграємо.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_7">
-        <text>Знову грати, знову в очко?</text>
+        <text>
+            Знову грати, знову в очко?
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_8">
-        <text>Так, я вже готовий.</text>
+        <text>
+            Так, я вже готовий.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_9">
-        <text>Добре. Давай грати.</text>
+        <text>
+            Добре. Давай грати.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_10">
-        <text>Забув. Іншим разом запитаю.</text>
+        <text>
+            Забув. Іншим разом запитаю.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_11">
-        <text>Тільки не очко, іншим разом.</text>
+        <text>
+            Тільки не очко, іншим разом.
+        </text>
     </string>
     <string id="jup_barmen_minigame_21_point_dialog_12">
-        <text>Не згоден, правила не влаштовують.</text>
+        <text>
+            Не згоден, правила не влаштовують.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -568,10 +911,14 @@
     
 <!--######################========###################-->
     <string id="petrenko_21_point_dialog_1">
-        <text>Може зіграємо у що-небудь? Наприклад, у 21? </text>
+        <text>
+            Може зіграємо у що-небудь? Наприклад, у 21?
+        </text>
     </string>
     <string id="petrenko_21_point_dialog_2">
-        <text>Так, чому б і ні? Все одно робити нема чого поки що, я вже готовий, як бачиш.</text>
+        <text>
+            Так, чому б і ні? Все одно робити нема чого поки що, я вже готовий, як бачиш.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -580,16 +927,25 @@
     
 <!--######################========###################-->
     <string id="sidor_21_point_dialog_1">
-        <text>Слухай Сидоровичу, азартними іграми не цікавишся? Може зіграємо в 21 очко на гроші?</text>
+        <text>
+            Слухай Сидоровичу, азартними іграми не цікавишся? Може зіграємо в 21 очко на гроші?
+        </text>
     </string>
     <string id="sidor_21_point_dialog_2">
-        <text>Так, давай звісно, але після того, як я тебе обідру до нитки, не скигли, не скигли, а потім хе-хе, я вже готовий, як бачиш.</text>
+        <text>
+            Так, давай звісно, але після того, як я тебе обідру до нитки, не скигли, не скигли, а
+            потім хе-хе, я вже готовий, як бачиш.
+        </text>
     </string>
     <string id="shustriy_21_point_dialog_1">
-        <text>Спритник, не хочеш у 21 на гроші пограти?</text>
+        <text>
+            Спритник, не хочеш у 21 на гроші пограти?
+        </text>
     </string>
     <string id="shustriy_21_point_dialog_2">
-        <text>Так, погнали, все одно зараз замовлень немає, я готовий.</text>
+        <text>
+            Так, погнали, все одно зараз замовлень немає, я готовий.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -598,10 +954,14 @@
     
 <!--######################========###################-->
     <string id="maslina_21_point_dialog_1">
-        <text>Здарова кореш, не зайнятий? Може на бабло зіграємо о 21?</text>
+        <text>
+            Здарова кореш, не зайнятий? Може на бабло зіграємо о 21?
+        </text>
     </string>
     <string id="maslina_21_point_dialog_2">
-        <text>Так, братане, давай, все одно зараз пацани поки що по товар не йдуть, я готовий.</text>
+        <text>
+            Так, братане, давай, все одно зараз пацани поки що по товар не йдуть, я готовий.
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -610,10 +970,15 @@
     
 <!--######################========###################-->
     <string id="military_21_point_dialog_1">
-        <text>Здравія бажаю, че не зайнятий особливо? Як щодо в картишки?</text>
+        <text>
+            Здравія бажаю, че не зайнятий особливо? Як щодо в картишки?
+        </text>
     </string>
     <string id="military_21_point_dialog_2">
-        <text>Так, давай, а то нудота мати чесна, та й кишені твоїми грошима поповнити не завадить хех!</text>
+        <text>
+            Так, давай, а то нудота мати чесна, та й кишені твоїми грошима поповнити не завадить
+            хех!
+        </text>
     </string>
     
 <!--######################========###################-->
@@ -622,9 +987,14 @@
     
 <!--######################========###################-->
     <string id="propovednik_21_point_dialog_1">
-        <text>Проповідник, як щодо того, щоб трохи розслабитися і пограти в 21 очко? </text>
+        <text>
+            Проповідник, як щодо того, щоб трохи розслабитися і пограти в 21 очко?
+        </text>
     </string>
     <string id="propovednik_21_point_dialog_2">
-        <text>У 21? Ну давай, думаю Моноліт не дуже образиться, якщо його слуги відволічуться на пару хвилин в карти, колода готова, давай грати.</text>
+        <text>
+            У 21? Ну давай, думаю Моноліт не дуже образиться, якщо його слуги відволічуться на
+            пару хвилин в карти, колода готова, давай грати.
+        </text>
     </string>
 </string_table>

@@ -1,131 +1,211 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     
 <!-- PDA MESSAGES -->
     <string id="tb_anon_sender">
-        <text>"Анонімно"</text>
+        <text>
+            "Анонімно"
+        </text>
     </string>
     
 <!-- PDA MESSAGES -->
     <string id="tb_sooner_rf">
-        <text>Чим швидше ви отримаєте RF-ресивер, тим швидше ми допоможемо... якщо зможемо.</text>
+        <text>
+            Чим швидше ви отримаєте RF-ресивер, тим швидше ми допоможемо... якщо зможемо.
+        </text>
     </string>
     <string id="tb_package_can_be_found">
-        <text>Посилку можна знайти</text>
+        <text>
+            Посилку можна знайти
+        </text>
     </string>
     <string id="tb_use_rf_on_freq">
-        <text>, використовуй RF-ресивер на частоті </text>
+        <text>
+            , використовуй RF-ресивер на частоті
+        </text>
     </string>
     <string id="tb_mhz_to_search">
-        <text> МГц щоб знайти її.</text>
+        <text>
+            МГц щоб знайти її.
+        </text>
     </string>
     <string id="tb_dont_forget">
-        <text>Не забудь про посилку </text>
+        <text>
+            Не забудь про посилку
+        </text>
     </string>
     <string id="tb_freq_was_on">
-        <text>, частота </text>
+        <text>
+            , частота
+        </text>
     </string>
     <string id="tb_the_mhz">
-        <text> МГц.</text>
+        <text>
+            МГц.
+        </text>
     </string>
     
 <!-- ROUGH LOCATION TEXTS -->
     <string id="tb_loc_n_r">
-        <text>у північному регіоні </text>
+        <text>
+            у північному регіоні
+        </text>
     </string>
     <string id="tb_loc_ne_r">
-        <text>у північно-східному регіоні </text>
+        <text>
+            у північно-східному регіоні
+        </text>
     </string>
     <string id="tb_loc_e_r">
-        <text>у східному регіоні </text>
+        <text>
+            у східному регіоні
+        </text>
     </string>
     <string id="tb_loc_se_r">
-        <text>у південно-східному регіоні </text>
+        <text>
+            у південно-східному регіоні
+        </text>
     </string>
     <string id="tb_loc_s_r">
-        <text>у південному регіоні </text>
+        <text>
+            у південному регіоні
+        </text>
     </string>
     <string id="tb_loc_sw_r">
-        <text>у південно-західному регіоні </text>
+        <text>
+            у південно-західному регіоні
+        </text>
     </string>
     <string id="tb_loc_w_r">
-        <text>у західному регіоні </text>
+        <text>
+            у західному регіоні
+        </text>
     </string>
     <string id="tb_loc_nw_r">
-        <text>у північно-західному регіоні </text>
+        <text>
+            у північно-західному регіоні
+        </text>
     </string>
     
 <!-- НАЗВИ РІВНІВ -->
     <string id="tb_loc_mar">
-        <text>Болот</text>
+        <text>
+            Болот
+        </text>
     </string>
     <string id="tb_loc_dsc">
-        <text>Темної лощини</text>
+        <text>
+            Темної лощини
+        </text>
     </string>
     <string id="tb_loc_esc">
-        <text>Кордона</text>
+        <text>
+            Кордона
+        </text>
     </string>
     <string id="tb_loc_gar">
-        <text>Звалища</text>
+        <text>
+            Звалища
+        </text>
     </string>
     <string id="tb_loc_agr">
-        <text>Агропрому</text>
+        <text>
+            Агропрому
+        </text>
     </string>
     <string id="tb_loc_val">
-        <text>Темної долини</text>
+        <text>
+            Темної долини
+        </text>
     </string>
     <string id="tb_loc_bar">
-        <text>Ростка</text>
+        <text>
+            Ростка
+        </text>
     </string>
     <string id="tb_loc_ros">
-        <text>Дикої території</text>
+        <text>
+            Дикої території
+        </text>
     </string>
     <string id="tb_loc_mil">
-        <text>Армійських складів</text>
+        <text>
+            Армійських складів
+        </text>
     </string>
     <string id="tb_loc_yan">
-        <text>Янтаря</text>
+        <text>
+            Янтаря
+        </text>
     </string>
     <string id="tb_loc_cit">
-        <text>Мертвого міста</text>
+        <text>
+            Мертвого міста
+        </text>
     </string>
     <string id="tb_loc_lim">
-        <text>Лиманська</text>
+        <text>
+            Лиманська
+        </text>
     </string>
     <string id="tb_loc_rad">
-        <text>Радара</text>
+        <text>
+            Радара
+        </text>
     </string>
     <string id="tb_loc_red">
-        <text>Рудого Лісу</text>
+        <text>
+            Рудого Лісу
+        </text>
     </string>
     <string id="tb_loc_pri">
-        <text>Прип'яті</text>
+        <text>
+            Прип'яті
+        </text>
     </string>
     <string id="tb_loc_aes1">
-        <text>Півдня ЧАЕС</text>
+        <text>
+            Півдня ЧАЕС
+        </text>
     </string>
     <string id="tb_loc_aes2">
-        <text>Півночі ЧАЕС</text>
+        <text>
+            Півночі ЧАЕС
+        </text>
     </string>
     <string id="tb_loc_gen">
-        <text>Генераторів</text>
+        <text>
+            Генераторів
+        </text>
     </string>
     <string id="tb_loc_zat">
-        <text>Затону</text>
+        <text>
+            Затону
+        </text>
     </string>
     <string id="tb_loc_jup">
-        <text>Юпітера</text>
+        <text>
+            Юпітера
+        </text>
     </string>
     <string id="tb_loc_out">
-        <text>Окраїн Прип'яті</text>
+        <text>
+            Окраїн Прип'яті
+        </text>
     </string>
     <string id="tb_loc_trc">
-        <text>Кладовища техніки</text>
+        <text>
+            Кладовища техніки
+        </text>
     </string>
     <string id="tb_loc_pol">
-        <text>Поляни</text>
+        <text>
+            Поляни
+        </text>
     </string>
     <string id="tb_loc_dbg">
-        <text>Дебаг рівня</text>
+        <text>
+            Дебаг рівня
+        </text>
     </string>
 </string_table>

@@ -1,228 +1,378 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="lname_woman_0">
-        <text>Шевченко</text>
+        <text>
+            Шевченко
+        </text>
     </string>
     <string id="lname_woman_1">
-        <text>Петрівна</text>
+        <text>
+            Петрівна
+        </text>
     </string>
     <string id="lname_woman_2">
-        <text>Русофобівна</text>
+        <text>
+            Русофобівна
+        </text>
     </string>
     <string id="lname_woman_3">
-        <text>Бандера</text>
+        <text>
+            Бандера
+        </text>
     </string>
     <string id="lname_woman_4">
-        <text>Гадюка</text>
+        <text>
+            Гадюка
+        </text>
     </string>
     <string id="lname_woman_5">
-        <text>Стріла</text>
+        <text>
+            Стріла
+        </text>
     </string>
     <string id="lname_woman_6">
-        <text>Блискавка</text>
+        <text>
+            Блискавка
+        </text>
     </string>
     <string id="lname_woman_7">
-        <text>Грушева</text>
+        <text>
+            Грушева
+        </text>
     </string>
     <string id="lname_woman_8">
-        <text>Мельник</text>
+        <text>
+            Мельник
+        </text>
     </string>
     <string id="lname_woman_9">
-        <text>Потапова</text>
+        <text>
+            Потапова
+        </text>
     </string>
     <string id="lname_woman_10">
-        <text>Коваленко</text>
+        <text>
+            Коваленко
+        </text>
     </string>
     <string id="lname_woman_11">
-        <text>Дивна</text>
+        <text>
+            Дивна
+        </text>
     </string>
     <string id="lname_woman_12">
-        <text>Бондаренко</text>
+        <text>
+            Бондаренко
+        </text>
     </string>
     <string id="lname_woman_13">
-        <text>Чумакова</text>
+        <text>
+            Чумакова
+        </text>
     </string>
     <string id="lname_woman_14">
-        <text>Шевчук</text>
+        <text>
+            Шевчук
+        </text>
     </string>
     <string id="lname_woman_15">
-        <text>Чума</text>
+        <text>
+            Чума
+        </text>
     </string>
     <string id="lname_woman_16">
-        <text>Жнець</text>
+        <text>
+            Жнець
+        </text>
     </string>
     <string id="lname_woman_17">
-        <text>Ткачук</text>
+        <text>
+            Ткачук
+        </text>
     </string>
     <string id="lname_woman_18">
-        <text>Дивовижна</text>
+        <text>
+            Дивовижна
+        </text>
     </string>
     <string id="lname_woman_19">
-        <text>Досвідчиена</text>
+        <text>
+            Досвідчиена
+        </text>
     </string>
     <string id="lname_woman_20">
-        <text>Кузьменко</text>
+        <text>
+            Кузьменко
+        </text>
     </string>
     <string id="lname_woman_21">
-        <text>Баранова</text>
+        <text>
+            Баранова
+        </text>
     </string>
     <string id="lname_woman_22">
-        <text>Сидоренко</text>
+        <text>
+            Сидоренко
+        </text>
     </string>
     <string id="lname_woman_23">
-        <text>Вміла</text>
+        <text>
+            Вміла
+        </text>
     </string>
     <string id="lname_woman_24">
-        <text>Карпенко</text>
+        <text>
+            Карпенко
+        </text>
     </string>
     <string id="lname_woman_25">
-        <text>Павлюк</text>
+        <text>
+            Павлюк
+        </text>
     </string>
     <string id="lname_woman_26">
-        <text>Сільська</text>
+        <text>
+            Сільська
+        </text>
     </string>
     <string id="lname_woman_27">
-        <text>Зорина</text>
+        <text>
+            Зорина
+        </text>
     </string>
     <string id="lname_woman_28">
-        <text>Мартинюк</text>
+        <text>
+            Мартинюк
+        </text>
     </string>
     <string id="lname_woman_29">
-        <text>Приходько</text>
+        <text>
+            Приходько
+        </text>
     </string>
     <string id="lname_woman_30">
-        <text>Семенюк</text>
+        <text>
+            Семенюк
+        </text>
     </string>
     <string id="lname_woman_31">
-        <text>Прицільна</text>
+        <text>
+            Прицільна
+        </text>
     </string>
     <string id="lname_woman_32">
-        <text>Корнева</text>
+        <text>
+            Корнева
+        </text>
     </string>
     <string id="lname_woman_33">
-        <text>Вдала</text>
+        <text>
+            Вдала
+        </text>
     </string>
     <string id="lname_woman_34">
-        <text>Макаренко</text>
+        <text>
+            Макаренко
+        </text>
     </string>
     <string id="lname_woman_35">
-        <text>Вовчиця</text>
+        <text>
+            Вовчиця
+        </text>
     </string>
     <string id="lname_woman_36">
-        <text>Сержант</text>
+        <text>
+            Сержант
+        </text>
     </string>
     <string id="lname_woman_37">
-        <text>Яценко</text>
+        <text>
+            Яценко
+        </text>
     </string>
     <string id="lname_woman_38">
-        <text>Лисиця</text>
+        <text>
+            Лисиця
+        </text>
     </string>
     <string id="lname_woman_39">
-        <text>Москаленко</text>
+        <text>
+            Москаленко
+        </text>
     </string>
     <string id="lname_woman_40">
-        <text>Амазонка</text>
+        <text>
+            Амазонка
+        </text>
     </string>
     <string id="lname_woman_41">
-        <text>Варвар</text>
+        <text>
+            Варвар
+        </text>
     </string>
     <string id="lname_woman_42">
-        <text>Русалка</text>
+        <text>
+            Русалка
+        </text>
     </string>
     <string id="lname_woman_43">
-        <text>Демидова</text>
+        <text>
+            Демидова
+        </text>
     </string>
     <string id="lname_woman_44">
-        <text>Кобра</text>
+        <text>
+            Кобра
+        </text>
     </string>
     <string id="lname_woman_45">
-        <text>Симонова</text>
+        <text>
+            Симонова
+        </text>
     </string>
     <string id="lname_woman_46">
-        <text>Сталкерша</text>
+        <text>
+            Сталкерша
+        </text>
     </string>
     <string id="lname_woman_47">
-        <text>Незвична</text>
+        <text>
+            Незвична
+        </text>
     </string>
     <string id="lname_woman_48">
-        <text>Вівця</text>
+        <text>
+            Вівця
+        </text>
     </string>
     <string id="lname_woman_49">
-        <text>Баринова</text>
+        <text>
+            Баринова
+        </text>
     </string>
     <string id="lname_woman_50">
-        <text>Білкова</text>
+        <text>
+            Білкова
+        </text>
     </string>
     <string id="lname_woman_51">
-        <text>Булкина</text>
+        <text>
+            Булкина
+        </text>
     </string>
     <string id="lname_woman_52">
-        <text>Агресивна</text>
+        <text>
+            Агресивна
+        </text>
     </string>
     <string id="lname_woman_53">
-        <text>Добра</text>
+        <text>
+            Добра
+        </text>
     </string>
     <string id="lname_woman_54">
-        <text>Сахарова</text>
+        <text>
+            Сахарова
+        </text>
     </string>
     <string id="lname_woman_55">
-        <text>Єпифанова</text>
+        <text>
+            Єпифанова
+        </text>
     </string>
     <string id="lname_woman_56">
-        <text>Потапова</text>
+        <text>
+            Потапова
+        </text>
     </string>
     <string id="lname_woman_57">
-        <text>Вовчиця</text>
+        <text>
+            Вовчиця
+        </text>
     </string>
     <string id="lname_woman_58">
-        <text>Гірнична</text>
+        <text>
+            Гірнична
+        </text>
     </string>
     <string id="lname_woman_59">
-        <text>Змія</text>
+        <text>
+            Змія
+        </text>
     </string>
     <string id="lname_woman_60">
-        <text>Березова</text>
+        <text>
+            Березова
+        </text>
     </string>
     <string id="lname_woman_61">
-        <text>Плотна</text>
+        <text>
+            Плотна
+        </text>
     </string>
     <string id="lname_woman_62">
-        <text>Проста</text>
+        <text>
+            Проста
+        </text>
     </string>
     <string id="lname_woman_63">
-        <text>Хитра</text>
+        <text>
+            Хитра
+        </text>
     </string>
     <string id="lname_woman_64">
-        <text>Атлет</text>
+        <text>
+            Атлет
+        </text>
     </string>
     <string id="lname_woman_65">
-        <text>Гімнастична</text>
+        <text>
+            Гімнастична
+        </text>
     </string>
     <string id="lname_woman_66">
-        <text>Пономаренко</text>
+        <text>
+            Пономаренко
+        </text>
     </string>
     <string id="lname_woman_67">
-        <text>Парасюк</text>
+        <text>
+            Парасюк
+        </text>
     </string>
     <string id="lname_woman_68">
-        <text>Віст</text>
+        <text>
+            Віст
+        </text>
     </string>
     <string id="lname_woman_69">
-        <text>Лань</text>
+        <text>
+            Лань
+        </text>
     </string>
     <string id="lname_woman_70">
-        <text>Мельничук</text>
+        <text>
+            Мельничук
+        </text>
     </string>
     <string id="lname_woman_71">
-        <text>Шухевич</text>
+        <text>
+            Шухевич
+        </text>
     </string>
     <string id="lname_woman_72">
-        <text>Кулик</text>
+        <text>
+            Кулик
+        </text>
     </string>
     <string id="lname_woman_73">
-        <text>Малинова</text>
+        <text>
+            Малинова
+        </text>
     </string>
     <string id="lname_woman_74">
-        <text>Чемпіонка</text>
+        <text>
+            Чемпіонка
+        </text>
     </string>
 </string_table>

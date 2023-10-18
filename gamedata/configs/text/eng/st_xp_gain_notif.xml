@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_xp_notif_gain">
-        <text>Отримано</text>
+        <text>
+            Отримано
+        </text>
     </string>
     <string id="st_xp_notif_for">
-        <text>XP: </text>
+        <text>
+            XP:
+        </text>
     </string>
 </string_table>

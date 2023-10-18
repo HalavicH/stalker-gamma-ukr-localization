@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_bbw_upgrade">
-        <text>Змінити калібр на 7.62x25</text>
+        <text>
+            Змінити калібр на 7.62x25
+        </text>
     </string>
 </string_table>

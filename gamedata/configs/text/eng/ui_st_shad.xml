@@ -1,30 +1,55 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mm_video_hud_bgacslide">
-        <text>           B.G.A.C Options</text>
+        <text>
+            B.G.A.C Options
+        </text>
     </string>
     <string id="ui_mm_video_hud_bgac">
-        <text>Bart's Good Ammo Counters</text>
+        <text>
+            Bart's Good Ammo Counters
+        </text>
     </string>
     <string id="ui_mm_video_hud_bgac_desc">
-        <text>Shows the total amount of ammo you have for all types of your actual weapon availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)</text>
+        <text>
+            Shows the total amount of ammo you have for all types of your actual weapon
+            availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange
+            --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)
+        </text>
     </string>
     <string id="ui_mm_video_hud_boac">
-        <text>Adds Old Ammo Counters(works only if B.G.A.C is actived)</text>
+        <text>
+            Adds Old Ammo Counters(works only if B.G.A.C is actived)
+        </text>
     </string>
     <string id="ui_mm_video_hud_boac_desc">
-        <text>Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the ammo type)</text>
+        <text>
+            Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the ammo
+            type)
+        </text>
     </string>
     <string id="ui_mm_video_hud_bvoac">
-        <text>Adds Very Old Ammo Counters(works only if B.G.A.C is actived)</text>
+        <text>
+            Adds Very Old Ammo Counters(works only if B.G.A.C is actived)
+        </text>
     </string>
     <string id="ui_mm_video_hud_bvoac_desc">
-        <text>Makes the Very Old Ammo appear in RED color (only when you have no good ammo and no bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do not use very old ammo)</text>
+        <text>
+            Makes the Very Old Ammo appear in RED color (only when you have no good ammo and no
+            bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do not use
+            very old ammo)
+        </text>
     </string>
     <string id="ui_mm_video_hud_color_mun_bgac">
-        <text>Orange default anomaly colors for ammo counters</text>
+        <text>
+            Orange default anomaly colors for ammo counters
+        </text>
     </string>
     <string id="ui_mm_video_hud_color_mun_bgac_desc">
-        <text>Deactivate the BGAC default colors (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly Orange colors from darker (Good Ammo) to lighter (Very Bad Ammo)</text>
+        <text>
+            Deactivate the BGAC default colors (Traffic Signals Colors : Green --&gt; Good Ammo --
+            Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly Orange
+            colors from darker (Good Ammo) to lighter (Very Bad Ammo)
+        </text>
     </string>
 </string_table>
