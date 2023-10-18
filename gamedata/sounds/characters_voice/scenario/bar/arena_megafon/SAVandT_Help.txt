@@ -1,0 +1,255 @@
+================================================================
+   S.T.A.L.K.E.R. Sound Attribute Viewer and Tweaker -- Help
+================================================================
+
+SAVandT is meant to make the STALKER sound modder's world a bit 
+easier. 
+
+There are two common ways to adapt a sound file for use
+in STALKER.  Either one must have the existing .wav version 
+of the file for use in the STALKER SDK (software development 
+kit) in order to edit the parameters and create an updated, 
+compatible .ogg file with valid checksum, or one must use a 
+hex-editor on an existing .ogg file, overwriting or inserting 
+a few bytes, then run an external program to fix up the 
+checksum for the changed file.
+
+SAVandT provides a third way:  Load the .ogg file into SAVandT,
+view/change the attributes, and save your changes.  That's it. 
+
+================================================================
+                      * LIMITATIONS *
+================================================================
+This is not a sound editor.  It cannot change the number of 
+channels used (should be one for STALKER-SoC), the sampling 
+rate, the decoding bitrate, or any part of the sound itself. 
+You should use an external program like Audacity to do that, 
+and perhaps create the initial .ogg version with the SDK.
+(See note on Audacity below.)
+
+This is also not a database extractor.  That functionality is 
+available separately.  Sounds must be stand-alone .ogg files 
+before SAVandT can view/change them.
+
+While this program will correct existing CRC errors in the 
+sound comment header block "page", it will ONLY correct those. 
+If CRC errors exist on other pages, something may be wrong 
+with the sound.  You might be able to use an external program 
+to correct those, but you should probably re-create the sound 
+with the appropriate tools like those mentioned above.
+
+You must ensure that the program has write permission for the 
+directories containing the sound files you wish to update. 
+It is possible that Virtual Store issues in Vista and Windows 7 
+(and XP if not running as admin) can result in changed files 
+that you can see in Windows Explorer, but are not visible to 
+the STALKER program.  A possible workaround is to leave the 
+"Rename Originals as .bak" checkbox checked.
+
+In this version, you cannot update files greater than 10 MB
+in size.
+================================================================
+
+                    Using the Program
+
+You can execute the program in Windows by clicking on it. 
+This help file is accessible by clicking the Help button on 
+the program's main window just to the left of the About 
+button.  ("About" displays info on the folks behind SAVandT.)
+
+================================================================
+The "Select Sound Directory" Button, the Sound File Listbox
+
+In the upper left of the program window exists the "Select 
+Drive/Directory" button.  Click it to navigate via the Open 
+dialog to a drive and directory containing the sound files 
+(in Ogg Vorbis format) that you wish to view/change.
+
+Once a suitable directory is selected, the directory name is 
+displayed on a panel below the button and a list of files 
+ending in ".ogg" are displayed in the list on the left side 
+of the window along with any subdirectories present.
+
+Select a sound file for viewing/editing by single-clicking it 
+or by using the arrow keys. 
+
+Highlight a directory by single-clicking it or by using the 
+arrow keys to move through the choices.  Double-click the 
+directory entry or press the Enter key while it is highlighted 
+to change to that directory.  The parent directory is indicated 
+by "<dir>  .." (a pair of periods).
+
+Selecting a file loads it into the program and displays info 
+on the right side of the window.  If a problem occurs while 
+attempting to read a file, it will be displayed in a special 
+status bar at the lower right of the window.
+
+Tip:  If you add to or change the contents of the selected 
+directory outside of the program, you can quickly refresh the 
+directory listing by ctrl-clicking the directory path display 
+panel.
+
+You can combine steps by selecting a .ogg sound file in the 
+dialog directly.
+
+When a file is selected, it is read and scrutinized (AKA 
+"parsed").  If it is a valid STALKER sound file, the fields 
+will be populated with the attribute data.
+
+If it is a valid Ogg Vorbis file, it will automatically be 
+adapted to be a STALKER sound file with default data.  While 
+this can be saved immediately, you should examine/change the 
+info first to suit your purposes before saving.
+
+If the file loaded has a bad CRC-32 checksum but the STALKER 
+comment section is okay, you will have a chance to save the 
+file with a corrected checksum.
+
+Tip: New with 1.1: You can click on the file name label above 
+the edit boxes to play the valid Ogg sound with Ogg-player 
+that you have installed on your PC.  Note that the sound 
+attributes are only used by the STALKER games and not your 
+player.
+
+================================================================
+The Attribute Fields and Comboboxes
+
+SAVandT presents the info in fields and comboboxes with more 
+"meaning" than hex data.  Hover over these objects to see 
+the pop-up hints.
+
+Selecting the Sound File Info combobox will display some 
+details about the sound itself.  These characteristics are 
+shown to inform you; they cannot be changed by SAVandT.
+
+The Game Sound Type drop-down combobox shows the current 
+game type assigned to the sound.  These types determine how 
+the sound will be perceived by NPCs and mutants in the game. 
+This can be changed to make NPCs aware of crate breakage, for 
+example.  Normally the selected sound type should correspond 
+to the actual sound (e.g., ak74_shot_1.ogg should be set to 
+weapon_shooting, not item_taking), but some choices could 
+improve gameplay.
+
+A sound type of "undefined" is not considered to be an error. 
+Change it if that is not what you want.  Test your changes; 
+while NPCs don't react to some types, they do to others.
+
+The Base Sound Volume field contains the default volume of 
+the sound in game at the position of the sound source.  It is 
+typically set to 1.0.  The range is from 0.0 to 2.0.  Values 
+higher than 1.0 are not recommended; the game might try to 
+play a sound at a volume higher than this setting.
+
+The Minimum Distance field holds the distance in meters from 
+the sound source at which you can still hear it at 100% volume. 
+The volume will drop off from there to zero at the Maximum 
+Distance.
+
+The Maximum Distance is the distance from the sound source in 
+meters at which you will no longer be able to hear the sound.
+
+The Maximum AI Distance is the distance from the sound source 
+(in meters) at which NPCs will no longer be able to hear the 
+sound.  This is the value that can be tweaked on many sounds 
+to reduce (or even increase) the perception of the NPCs to the 
+sounds to promote gameplay.
+
+Note that the type of sound also determines whether the NPC 
+will react to the sound at all.
+
+================================================================
+The Apply Button
+
+After editing a sound's attributes, clicking the Apply button 
+will automatically recalculate the CRC-32 checksum for the 
+comment/setup header page in the sound file and then update 
+the file on disk.
+
+The resulting file should be usable in STALKER immediately.
+
+If the "Rename Originals to .bak" checkbox is checked, the 
+original sound file is first renamed by appending ".bak", 
+unless a backup file by that name already exists.
+
+Shift-click the Apply button to bring up the File Save dialog 
+in order to save the file under a different name.  If you 
+save to a different directory, the original working directory 
+is kept.
+
+Some files cannot be updated until you change the situation. 
+Examples include: read-only, locked, no write permission.
+
+================================================================
+The Revert Button
+
+Use this button to undo all of your attribute changes made to 
+the current sound file image, even if you have saved changes. 
+This does not update the file on disk, just the image of the 
+sound in memory.
+
+It does not affect programmatic "fix-ups" like comment 
+structure insertion.
+
+================================================================
+The Copy Button
+
+When a valid sound file image is loaded into memory, you can 
+copy its attributes for pasting into another sound file image. 
+The copy is made from the data currently displayed, which of 
+course includes any changes.
+
+The copy buffer will remain valid until you exit the program.
+
+================================================================
+The Paste Button
+
+This will restore the contents of the attributes paste buffer 
+into the current sound image.  You can use this with the Copy 
+button to copy/paste attributes for similar sounds (e.g., 
+weapon draw).
+
+================================================================
+Note:
+
+You can use Audacity with SAVandT to completely bypass the SDK. 
+I was able to "do it all" in creating and editing sounds for 
+STALKER With just Audacity version 1.3.13 beta and SAVandT.
+
+Load or record a sound file in Audacity.  Be sure the settings 
+are STALKER-compatible for the game you are playing, typically
+monaural 16-bit data sampled at 44100 Hz.  Audacity can convert 
+sampling rates for you.
+
+Audacity can also read Ogg Vorbis files directly.  Tip:  If 
+importing .ogg files, you might benefit by exporting twice: 
+Once in the same quality as the source file, and one at the 
+quality you want for the game.  Future edits should use the 
+higher quality file as a starting point.  Repeated imports of 
+Ogg Vorbis files followed by exports that overwrite the original 
+files can reduce the sound quality.
+
+To save the sound file, "Export..." it to Ogg Vorbis, using the 
+Options button on the Export File dialog to set the Quality 
+(0 = 48 kbps, the STALKER default quality).  If the preference 
+is set, you can enter custom comments during save; otherwise 
+use the File > Metadata Editor to add them.
+
+You will need to add (or re-add, if editing a STALKER .ogg 
+sound file) the STALKER sound attributes with SAVandT.  Tip: 
+Use SAVandT's Copy/Paste functionality to transfer the settings 
+from the original .ogg file to the edited version.
+
+================================================================
+You can post comments about this program in the associated 
+thread in the Mod Discussion section of the GSC forum for 
+English users:
+
+http://www.gsc-game.com/main.php?t=community&s=forums&s_game_type=xr&sec_id=16
+
+Look for "STALKER Sound Attribute Viewer and Tweaker (SAVandT)":
+http://www.gsc-game.com/main.php?t=community&s=forums&s_game_type=xr&thm_id=20966&sec_id=16
+
+Enjoy, or constructively let me know why you didn't.
+
+--NatVac
