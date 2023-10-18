@@ -237,7 +237,7 @@
 <!-- Messages -->
     <string id="ui_mm_warning_pending">
         <text>
-            У Вас (% s) змін, які очікують підтвердження.
+            У Вас (%s) змін, які очікують підтвердження.
         </text>
     </string>
     <string id="ui_mm_warning_economy_diff_not_level_present">
