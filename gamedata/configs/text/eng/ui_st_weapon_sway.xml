@@ -2,344 +2,332 @@
 <string_table>
     <string id="ui_mcm_weapon_sway_title">
         <text>
-            Weapon Sway
+            Похитування зброї
         </text>
     </string>
     <string id="ui_mcm_menu_weapon_sway">
         <text>
-            Weapon Sway
+            Похитування зброї
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_sway_feature">
         <text>
-            Enable Weapon Sway
+            Увімкнути похитування зброї
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_sway_feature_desc">
         <text>
-            Enabling/Disabling the weapon sway feature.
+            Увімкнення/вимкнення функції розгойдування зброї.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_bhs_patch">
         <text>
-            Body Health System patch (Need reloading)
+            Виправлення системи здоров'я тіла (потребує перезавантаження)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_bhs_patch_desc">
         <text>
-            Enable if you have Body Health System addon installed and want to have sway penalties
-            from BHS. This will use Weapon Sway addon when arms are above BHS arm penalties.
+            Увімкніть, якщо у вас встановлений аддон Body Health System і ви хочете мати штрафи
+            за хитання від BHS. У цьому випадку буде використовуватися аддон Weapon Sway, коли
+            руки пошкоджені вище штрафів від BHS.
           \n
-          \n You can disable patch even when BHS installed, this will overwrite BHS and use
-            only Weapon Sway addon all the time.
+          \n Ви можете вимкнути патч, навіть якщо встановлено BHS, тоді він замінить BHS і
+            використовуватиме лише Weapon Sway.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_sway_keybind">
         <text>
-            Hold Breath Keybind
+            Кнопка затримки дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_sway_keybind_desc">
         <text>
-            Changes keybind for the hold breath feature.
+            Змінює сполучення клавіш для функції затримки дихання.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_animation_type">
         <text>
-            Animation Type
+            Тип анімації
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_animation_type_desc">
         <text>
-            Animation type of weapon sway. Currently only have first two, all "custom_" are empty
-            and are there for people to add their own.
+            Тип анімації позитування зброї. Наразі є лише перші два, всі "custom_" порожні і
+            існують для того, щоб люди могли додати свої власні.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_animation_type_scope">
         <text>
-            Scope Animation Type
+            Тип анімації прицілу
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_animation_type_scope_desc">
         <text>
-            Animation type of weapon sway with scope. List same as above.
+            Анімація типу похитування зброї з прицілом. Список такий самий, як і вище.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_effect_power">
         <text>
-            Max Effect Power
+            Максимальна амплітуда ефекту
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_effect_power_desc">
         <text>
-            Maximum power that camera effect can reach, combined from all other factors.
+            Максимальна амплітуда, якої може досягти ефект камери, об'єднана з усіма іншими
+            факторами.
           \n
-          \n Default: 3
+          \n За замовчуванням: 3
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weight_factor">
         <text>
-            Weight Factor
+            Коефіцієнт ваги
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weight_factor_desc">
         <text>
-            Multiplier for weight of the gun (gun_weight * Weight_Factor).
+            Множник для ваги зброї (вага_зброї * коефіцієнт ваги).
           \n
-          \n Default: 1.0
+          \nЗа замовчуванням: 1.0
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_power_weight">
         <text>
-            Max Weight Power
+            Максимальний вплив ваги
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_power_weight_desc">
         <text>
-            Maximum power that weight multiplier can reach, the heavier gun the more multiplier
-            for camera effect is.
+            Максимальна сила, яку може досягти ваговий мультиплікатор, чим важчий пістолет, ти
+            більший мультиплікатор для ефекту камери.
           \n
-          \n Default: 7
+          \n За замовчуванням: 7
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_stand">
         <text>
-            Stand Power
+            Сила похитування стоячи
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_stand_desc">
         <text>
-            Effect multiplier for stand/walk body states.
+            Множник ефекту для тіла стоячи/при ходьбі.
           \n
-          \n Default: 1.2
+          \nЗа замовчуванням: 1.2
           \n
-          \n (Stand_Power * gun_weight * Weight_Factor * 0.1)
+          \n(Сила_похитування_стоячи * Вага_зброї * Ваговий_фактор * 0.1)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_crouch">
         <text>
-            Crouch Power
+            Сила похитування в напівприсяді
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_crouch_desc">
         <text>
-            Effect multiplier for crouch body state.
+            Множник ефекту при напівприсяді.
           \n
-          \n Default: 0.8
+          \nЗа замовчуванням: 0.8
           \n
-          \n (Crouch_Power * gun_weight * Weight_Factor * 0.1)
+          \n(Сила похитування в напівприсяді * вага зброї * Ваговий коефіцієнт * 0.1)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_low_crouch">
         <text>
-            Low Crouch Power
+            Сила похитування лежачи
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_low_crouch_desc">
         <text>
-            Effect multiplier for low crouch body state.
+            Мультиплікатор ефекту лежачого стану.
           \n
-          \n Default: 0.4
+          \nЗа замовчуванням: 0.4
           \n
-          \n (Low_Crouch_Power * gun_weight * Weight_Factor * 0.1)
+          \n(Сила ефекту * вага_зброї * Ваговий_фактор * 0.1)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_stand_scoped">
         <text>
-            Scope Stand Power
+            Потужність ефекту стоячи і прицілюючись
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_stand_scoped_desc">
         <text>
-            Effect multiplier for stand/walk body states if weapon has scope.
+            Множник ефекту для станів тіла "стояти" і "ходити", якщо зброя має приціл.
           \n
-          \n Default: 1.2
+          \nЗа замовчуванням: 1.2
           \n
-          \n (Scope_Stand_Power * gun_weight * Weight_Factor * 0.02)
+          \n(Сила ефекту * Вага_зброї * Ваговий_фактор * 0.02)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_crouch_scoped">
         <text>
-            Scope Crouch Power
+            Сила ефекту в присяді з прицілом
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_crouch_scoped_desc">
         <text>
-            Effect multiplier for crouch body state if weapon has scope.
+            Множник ефекту для стану в присяді, якщо зброя має приціл.
           \n
-          \n Default: 0.8
+          \n За замовчуванням: 0.8
           \n
-          \n (Scope_Crouch_Power * gun_weight * Weight_Factor * 0.02)
+          \n(Сила ефекту * вага_зброї * Ваговий_фактор * 0.02)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_low_crouch_scoped">
         <text>
-            Scope Low Crouch Power
+            Сила ефекту лежачи з прицілом
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_power_low_crouch_scoped_desc">
         <text>
-            Effect multiplier for low crouch body state if weapon has scope.
+            Множник ефекту лежачи, якщо зброя має приціл.
           \n
-          \n Default: 0.4
+          \n За замовчуванням: 0.4
           \n
-          \n (Scope_Low_Crouch_Power * gun_weight * Weight_Factor * 0.02)
-        </text>
-    </string>
-    <string id="ui_mcm_weapon_sway_power_low_crouch_scoped">
-        <text>
-            Scope Low Crouch Power
-        </text>
-    </string>
-    <string id="ui_mcm_weapon_sway_power_low_crouch_scoped_desc">
-        <text>
-            Effect multiplier for low crouch body state if weapon has scope.
-          \n
-          \n Default: 0.4
-          \n
-          \n (Scope_Low_Crouch_Power * gun_weight * Weight_Factor * 0.02)
+          \n (Сила ефекту * Вага_зброї * Ваговий_фактор * 0.02)
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_mount_feature">
         <text>
-            Mounted weapon feature
+            Опція зброї в упорі
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_mount_feature_desc">
         <text>
-            A feature that allows you to put a gun on an obstacle infront of you to reduce weapon
-            sway.
+            Функція, яка дозволяє покласти зброю на перешкоду перед собою, щоб зменшити
+            розгойдування.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_mounted_power">
         <text>
-            Mounted weapon reduce power
+            Зброя в упорі зменшує силу розгойдування
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_weapon_mounted_power_desc">
         <text>
-            Reduction multiplier of weapon sway when it's mounted.
+            Зменшення множника розгойдування зброї, коли вона обперта.
           \n
-          \n Default: 0.1
+          \n За замовчуванням: 0.1
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_y_axis_mounted_distance">
         <text>
-            Max height of mounted weapon
+            Максимальна висота "обпертої" зброї
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_y_axis_mounted_distance_desc">
         <text>
-            This one is a bit complicated, just reduce even more if you want a weapon to still
-            considered "mounted" when you raise it higher.
+            З цим трохи складніше, просто зменшіть ще більше, якщо ви хочете, щоб зброя все ще
+            вважалася "встановленою", коли ви піднімаєте її вище.
           \n
-          \n Default: -0.35
+          \n За замовчуванням: -0.35
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_hold_breath_feature">
         <text>
-            Hold breath feature
+            Функція затримки дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_hold_breath_feature_desc">
         <text>
-            Allows you to hold breath by holding "Use" key while aiming and decrease weapon sway
-            for limited amount of time.
+            Дозволяє затримати дихання, утримуючи клавішу "Use" під час прицілювання, і зменшити
+            розгойдування зброї на обмежений проміжок часу.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_hold_breath_mult">
         <text>
-            Hold breath power
+            Сила розгойдування при затримці дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_hold_breath_mult_desc">
         <text>
-            (constant) Multiplier for weapon sway reduction while holding your breath.
+            (константа) Множник для зменшення розгойдування зброї під час затримки дихання.
           \n
-          \n Default: 0.1
+          \n За замовчуванням: 0.1
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_release_breath_mult">
         <text>
-            Release breath power
+            Сила розгойдування при припиненні затримки дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_release_breath_mult_desc">
         <text>
-            (1 + this_value * seconds_hold) Penalty multiplier that you get after releasing "Use"
-            key or if hit max timer.
+            (1 + це_значення * seconds_hold) Штрафний множник, який ви отримуєте після
+            відпускання клавіші "Use" або при досягненні максимального часу затримки дихання.
           \n
-          \n Default: 0.04
+          \n За замовчуванням: 0.04
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_hold_breath_time">
         <text>
-            Maximum time to hold breath
+            Максимальний час затримки дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_max_hold_breath_time_desc">
         <text>
-            Maximum amount of time that you can hold your breath for (in seconds).
+            Максимальний час, на який ви можете затримати дихання (в секундах).
           \n
-          \n Default: 11
+          \n За замовчуванням: 11
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_breath_restore_mult">
         <text>
-            Breath restore power
+            Відновлення сили дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_breath_restore_mult_desc">
         <text>
-            Multiplier for breath restore, a value of "1" means that breath will restore at the
-            same speed as decreasing.
+            Множник для відновлення дихання, значення "1" означає, що дихання буде відновлюватися
+            з з тією ж швидкістю, що зменшується.
           \n
-          \n Default: 0.5
+          \n За замовчуванням: 0.5
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_enable_breath_sound">
         <text>
-            Enable hold breath sound
+            Увімкнути звук затримки дихання
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_enable_breath_sound_desc">
         <text>
-            Enables breath in/out sounds.
+            Вмикає звуки вдиху/видиху.
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_handling_mult">
         <text>
-            "Handling" weapon stat factor
+            Фактор параметру "поводження" зі зброєю
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_handling_mult_desc">
         <text>
-            Range of handling weapon stat multiplier:
+            Діапазон фактору параметру "поводження" зі зброєю:
           \n
-          \n Increasing this value will result in: bad handlings = bigger penalties; good
-            handlings = bigger bonuses.
+          \nЗбільшення цього значення призведе до закономірності: погане поводження зі зброєю =
+            більші штрафи; хороше поводження зі зброєю = більші бонуси.
           \n
-          \n Decreasing is: bad handlings = less penalties, good handlings = less bonuses, "0"
-            = handlings do not affect sway.
+          \nЗменшення значення: погане поводження зі зброєю = менші штрафи, хороше поводження
+            зі зброєю = менші бонуси, "0" = параметр не впливає на розгойдування.
           \n
-          \n Default: 1
+          \n За замовчуванням: 1
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_debugx">
         <text>
-            Debug
+            Дебаг
         </text>
     </string>
     <string id="ui_mcm_weapon_sway_debugx_desc">
         <text>
-            Debug allows you to see:
+            Дебаг дозволяє побачити:
           \n
-          \n 1. Direction and changed y-axis direction (in console)
+          \n 1. Напрямок і змінений напрямок осі y (у консолі)
           \n
-          \n 2. Difference in distance between cursor and raycast with edited "y" (in dynamic
-            news)
+          \n 2. Різниця у відстані між курсором і променем зі зміненою віссю "y" (у динамічних
+            новинах)
           \n
-          \n 3. Power of animation camera effect (actor messages at the bottom)
+          \n 3. Потужність ефекту анімаційної камери (повідомлення внизу екрану)
         </text>
     </string>
 </string_table>
