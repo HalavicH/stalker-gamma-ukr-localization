@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_mcm_scop_title">
         <text>
-            Scope HUD Settings
+            Налаштування HUD діапазону
         </text>
     </string>
     <string id="ui_mcm_menu_scop">
@@ -12,13 +12,13 @@
     </string>
     <string id="ui_mcm_scop_iron_fov">
         <text>
-            Ironsights and Integrated 3D sights
+            Залізні приціли та інтегровані 3D-приціли
         </text>
     </string>
     <string id="ui_mcm_scop_iron_fov_desc">
         <text>
-            lower values brings the scope closer when you're using ironsights and integrated 3D
-            sights
+            менші значення наближають приціл, коли ви використовуєте коліматорні приціли та
+            інтегровані 3D-приціли приціли
         </text>
     </string>
     <string id="ui_mcm_scop_scope_fov">
@@ -28,18 +28,19 @@
     </string>
     <string id="ui_mcm_scop_scope_fov_desc">
         <text>
-            lower values brings the scope closer when you're using 3D scopes
+            менші значення наближають приціл, коли ви використовуєте 3D-приціли
         </text>
     </string>
     <string id="ui_mcm_scop_bad_scope_fov">
         <text>
-            Bad 3D optical scopes
+            Погані оптичні 3D-приціли
         </text>
     </string>
     <string id="ui_mcm_scop_bad_scope_fov_desc">
         <text>
-            Due to technical limitations, certain scopes like the ACOG, Susat has to be put
-            further away by default in order to look normal. This setting is for those
+            Через технічні обмеження, певні масштаби, такі як ACOG, Susat, за замовчуванням мають
+            бути за замовчуванням, щоб мати нормальний вигляд. Це налаштування призначене для
+            тих, хто
         </text>
     </string>
     <string id="ui_mcm_scop_pistol_fov">
@@ -49,7 +50,7 @@
     </string>
     <string id="ui_mcm_scop_pistol_fov_desc">
         <text>
-            slider for how close pistols are
+            повзунок для визначення відстані між пістолетами
         </text>
     </string>
     <string id="ui_mcm_scop_grenade_fov">
@@ -59,7 +60,7 @@
     </string>
     <string id="ui_mcm_scop_grenade_fov_desc">
         <text>
-            lower values brings the scope closer when you're using attached grenade launchers
+            менші значення наближають приціл при використанні приєднаних гранатометів
         </text>
     </string>
     <string id="ui_mcm_scop_alt_fov">
@@ -69,43 +70,45 @@
     </string>
     <string id="ui_mcm_scop_alt_fov_desc">
         <text>
-            lower values brings the scope closer when you're using alternate aim sights
+            менші значення наближають приціл під час використання альтернативних прицільних
+            пристосувань
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_add">
         <text>
-            Bring weapon further away
+            Відведіть зброю подалі
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_add_desc">
         <text>
-            Brings the weapon you're holding further away by incrementing zoom hud fov
+            Віддаляє зброю, яку ви тримаєте в руках, збільшуючи масштаб hud fov
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_subtract">
         <text>
-            Bring weapon closer
+            Піднести зброю ближче
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_subtract_desc">
         <text>
-            Brings the weapon you're holding closer by decrementing zoom hud fov
+            Наближає зброю, яку ви тримаєте в руках, зменшуючи зум hud fov
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_reset">
         <text>
-            Reset current weapon
+            Скинути поточну зброю
         </text>
     </string>
     <string id="ui_mcm_scop_keybind_reset_desc">
         <text>
-            Sets your zoom hud fov on the weapon you're holding to back to normal
+            Повертає до нормального значення гуд-функцію масштабування зброї, яку ви тримаєте в
+            руках
         </text>
     </string>
     <string id="ui_mcm_scop_snk_update_mcm">
         <text>
-            Update MCM to see this feature. Key defaults to Numpad + and - and Backspace for
-            resetting current gun
+            Оновіть MCM, щоб побачити цю можливість. За замовчуванням клавіші Numpad + і - та
+            Backspace для скидання поточного пістолета
         </text>
     </string>
 </string_table>
