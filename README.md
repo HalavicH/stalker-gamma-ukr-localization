@@ -1,11 +1,11 @@
-![alt text](gamma-logo.png)
+![alt text](info/gamma-logo.png)
 ## Українізація для S.T.A.L.K.E.R. G.A.M.M.A. 0.9.1
 Ласкаво просимо до репозиторію на GitHub, де ви знайдете мод-українізатор для S.T.A.L.K.E.R. G.A.M.M.A. 0.9.0, який в процесі еволюції до версії 0.9.1.
 
 Цей проєкт базується на [перекладі з ModDB](https://www.moddb.com/mods/stalker-anomaly/addons/ukrainian-localization-gamma) версії 0.9.0 (автор Хмиз)
 і є її покращенням.
 
-**Повний перелік змін знаходиться в [чейнджлозі](changelog.md).**
+**Повний перелік змін знаходиться в [чейнджлозі](info/changelog.md).**
 
 ## Увага!
 Тут лише переклад моду, сам модпак треба качати і встановлювати за інструкцією на сервері [S.T.A.L.K.E.R. G.A.M.M.A](https://discord.com/invite/stalker-gamma)
