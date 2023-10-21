@@ -14033,7 +14033,7 @@
     <string id="st_dyn_news_enemy_activity_mutant_1_1">
         <text>
             Гей, що це було...
-          \nУвідел $who!
+          \nБачу $who!
         </text>
     </string>
     <string id="st_dyn_news_enemy_activity_mutant_1_2">
@@ -14055,7 +14055,7 @@
     </string>
     <string id="st_dyn_news_enemy_activity_mutant_1_5">
         <text>
-            Бачу $who, прямо зовсім поруч. Хто тварюка бити піде?
+            Бачу $who, прямо зовсім поруч. Хто тварюку бити піде?
         </text>
     </string>
     <string id="st_dyn_news_enemy_activity_mutant_1_6">
@@ -14065,7 +14065,7 @@
     </string>
     <string id="st_dyn_news_res_enemy_activity_mutant_1_1">
         <text>
-            Ох, у мене по патронам повний фініш.
+            Ох, у мене по патронах повний фініш.
         </text>
     </string>
     <string id="st_dyn_news_res_enemy_activity_mutant_1_2">
