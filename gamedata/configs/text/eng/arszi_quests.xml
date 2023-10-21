@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Butcher -->
-    
-<!-- hunter_gar_trader_common_trophy -->
+
+    <!-- Butcher -->
+    <!-- hunter_gar_trader_common_trophy -->
     <string id="igi_task_text_arszi_fetch_trophy_title">
         <text>
             Знайти звичайні частини мутантів
@@ -29,8 +28,8 @@
             Ти приніс чудові матеріали. Молодець, мисливець.
         </text>
     </string>
-    
-<!-- hunter_gar_trader_common_hide -->
+
+    <!-- hunter_gar_trader_common_hide -->
     <string id="igi_task_text_arszi_fetch_hide_title">
         <text>
             Найті звичайні шкури мутантів
@@ -55,8 +54,8 @@
             Бачиш, знімати шкуру з мутантів не так вже й складно, так, мисливець?
         </text>
     </string>
-    
-<!-- hunter_gar_trader_psy_dog_fur -->
+
+    <!-- hunter_gar_trader_psy_dog_fur -->
     <string id="igi_task_text_arszi_fetch_psy_dog_fur_title">
         <text>
             Краща шкура - знайти шкуру пси-собаки
@@ -83,8 +82,8 @@
             знадобилося.
         </text>
     </string>
-    
-<!-- hunter_gar_trader_arszi_fetch_beak -->
+
+    <!-- hunter_gar_trader_arszi_fetch_beak -->
     <string id="igi_task_text_arszi_fetch_beak_title">
         <text>
             Легенди Зони - Знайти мутований дзьоб ворони для М'ясника
@@ -110,8 +109,8 @@
             мисливцю.
         </text>
     </string>
-    
-<!-- hunter_gar_trader_bloodsucker -->
+
+    <!-- hunter_gar_trader_bloodsucker -->
     <string id="igi_task_text_arszi_fetch_bloodsucker_title">
         <text>
             Вишукані прикраси
@@ -138,8 +137,8 @@
             мисливець.
         </text>
     </string>
-    
-<!-- hunter_gar_trader_chimera -->
+
+    <!-- hunter_gar_trader_chimera -->
     <string id="igi_task_text_arszi_fetch_chimera_title">
         <text>
             Кращий мисливець
@@ -166,10 +165,9 @@
             дещо з моїх старих запасів, що мені не дуже згодилося. Ти це заслужив!
         </text>
     </string>
-    
-<!-- Fanatic -->
-    
-<!-- esc_2_12_stalker_fanat_meat -->
+
+    <!-- Fanatic -->
+    <!-- esc_2_12_stalker_fanat_meat -->
     <string id="igi_task_text_arszi_fetch_meat_title">
         <text>
             Їжа для новачків
@@ -192,10 +190,9 @@
             Дяка тобі, ось твоя плата за допомогу!
         </text>
     </string>
-    
-<!-- Вовк -->
-    
-<!-- esc_2_12_stalker_wolf_night -->
+
+    <!-- Вовк -->
+    <!-- esc_2_12_stalker_wolf_night -->
     <string id="igi_task_text_night_title">
         <text>
             Нічний терор на Кордоні - Знищити мутантів.
@@ -219,10 +216,9 @@
             Спасибі за твою важку роботу, Село Новачків поки що в безпеці ... Ось твоя нагорода.
         </text>
     </string>
-    
-<!-- Сахаров -->
-    
-<!-- yan_stalker_sakharov_mutant_parts_specimen_monster_common -->
+
+    <!-- Сахаров -->
+    <!-- yan_stalker_sakharov_mutant_parts_specimen_monster_common -->
     <string id="igi_task_text_arszi_fetch_monster_common_title">
         <text>
             Збір зразків мутантів
@@ -249,8 +245,8 @@
             Спасибі, молодий чоловіче! Ось ваша нагорода.
         </text>
     </string>
-    
-<!-- yan_stalker_sakharov_mutant_parts_specimen_zombie -->
+
+    <!-- yan_stalker_sakharov_mutant_parts_specimen_zombie -->
     <string id="igi_task_text_arszi_fetch_zombie_title">
         <text>
             Збір зразків зомбованих гуманоїдів
@@ -278,8 +274,8 @@
             Це дійсно сумно, закінчити так... О так, ось ваша нагорода.
         </text>
     </string>
-    
-<!-- yan_stalker_sakharov_mutant_parts_specimen_humanoid -->
+
+    <!-- yan_stalker_sakharov_mutant_parts_specimen_humanoid -->
     <string id="igi_task_text_arszi_fetch_humanoid_title">
         <text>
             Збір гуманоїдних зразків
@@ -308,8 +304,8 @@
             і було обіцяно!
         </text>
     </string>
-    
-<!-- yan_stalker_sakharov_mutant_parts_specimen_mutant_rare -->
+
+    <!-- yan_stalker_sakharov_mutant_parts_specimen_mutant_rare -->
     <string id="igi_task_text_arszi_fetch_monster_rare_title">
         <text>
             Збір рідкісних зразків мутантів

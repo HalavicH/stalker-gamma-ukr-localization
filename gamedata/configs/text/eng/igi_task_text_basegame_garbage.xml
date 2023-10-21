@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Butcher -->
+
+    <!-- Butcher -->
     <string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_title">
         <text>
             Cull Hunting
@@ -56,8 +56,8 @@
             prepared. They'll be delicious!
         </text>
     </string>
-    
-<!-- Flea Market -->
+
+    <!-- Flea Market -->
     <string id="igi_task_text_baraholka_trader_night_1_title">
         <text>
             Find the artefact

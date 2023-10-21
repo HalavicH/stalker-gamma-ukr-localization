@@ -620,8 +620,8 @@
             Важливі НПС не торгують
         </text>
     </string>
-    
-<!-- PDA Relations Action list -->
+
+    <!-- PDA Relations Action list -->
     <string id="st_mm_pda_statistics">
         <text>
             Статистика
@@ -847,8 +847,8 @@
             Схованка сталкера
         </text>
     </string>
-    
-<!-- Radio -->
+
+    <!-- Radio -->
     <string id="pda_btn_radio">
         <text>
             Радіо
@@ -904,8 +904,8 @@
             Перемішати (вимк)
         </text>
     </string>
-    
-<!-- Warfare -->
+
+    <!-- Warfare -->
     <string id="pda_all_levels">
         <text>
             Всі локації

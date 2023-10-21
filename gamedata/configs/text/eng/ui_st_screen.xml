@@ -770,8 +770,8 @@
             Гвинтокрил
         </text>
     </string>
-    
-<!-- AWR -->
+
+    <!-- AWR -->
     <string id="st_tiski_no_info">
         <text>
             Для використання необхідно отримати дозвіл
@@ -787,22 +787,22 @@
             Відремонтувати ($$ACTION_USE$$)
         </text>
     </string>
-    
-<!-- Lost to the Zone -->
+
+    <!-- Lost to the Zone -->
     <string id="st_impending_doom">
         <text>
             Неминучий викид
         </text>
     </string>
-    
-<!-- Ironman -->
+
+    <!-- Ironman -->
     <string id="st_ironman_new_life">
         <text>
             Отримане НОВЕ ЖИТТЯ! Кількість смертей: %s. Життя залишилося: %s.
         </text>
     </string>
-    
-<!-- Toggle Animations -->
+
+    <!-- Toggle Animations -->
     <string id="st_toggle_animation_on">
         <text>
             Анімації предметів включені
@@ -813,8 +813,8 @@
             Анімації предметів вимкнено
         </text>
     </string>
-    
-<!-- Disguise -->
+
+    <!-- Disguise -->
     <string id="ui_st_disguse_disabled">
         <text>
             Маскування вимкнено.
@@ -932,8 +932,8 @@
             .
         </text>
     </string>
-    
-<!-- Bribe -->
+
+    <!-- Bribe -->
     <string id="st_bribe_expired">
         <text>
             Договір про припинення вогню з фракцією %s минув.
@@ -944,8 +944,8 @@
             Порушивши умови договору, Ви спричинили розрив його з фракцією %s!
         </text>
     </string>
-    
-<!-- Goodwill -->
+
+    <!-- Goodwill -->
     <string id="st_news_goodwill_update_title">
         <text>
             Останні чутки в Зоні:
@@ -977,8 +977,8 @@
             Вашими діями.
         </text>
     </string>
-    
-<!-- Bad turn -->
+
+    <!-- Bad turn -->
     <string id="st_bad_turn_into_bandit">
         <text>
             Ви були вигнані!
@@ -1009,8 +1009,8 @@
             %c[0,255,64,0]Процес лікування від зомбування успішно завершено!
         </text>
     </string>
-    
-<!-- Travel -->
+
+    <!-- Travel -->
     <string id="st_travel_event">
         <text>
             Занадто небезпечно - поруч вороги
@@ -1036,8 +1036,8 @@
             Відкрити рюкзак
         </text>
     </string>
-    
-<!-- Stash placement -->
+
+    <!-- Stash placement -->
     <string id="st_stash_created">
         <text>
             Схованка успішно закладена
@@ -1063,8 +1063,8 @@
             Схованка сталкера %s
         </text>
     </string>
-    
-<!-- Sleep -->
+
+    <!-- Sleep -->
     <string id="st_sleep_awake">
         <text>
             Ви бадьорі
@@ -1135,8 +1135,8 @@
             Щоб поспати, потрібно забратися до намету
         </text>
     </string>
-    
-<!-- Skinning -->
+
+    <!-- Skinning -->
     <string id="st_body_decayed">
         <text>
             Небезпечно обробляти - туша сильно розклалася
@@ -1162,8 +1162,8 @@
             Такий ніж не підходить для обробки цього мутанта
         </text>
     </string>
-    
-<!-- Campfire -->
+
+    <!-- Campfire -->
     <string id="st_only_campfire_save">
         <text>
             Ручне збереження вимкнено (збереження тільки біля вогнищ)
@@ -1209,8 +1209,8 @@
             Щоб розпалити багаття, потрібен або набір для розпалу, або сірники.
         </text>
     </string>
-    
-<!-- Items -->
+
+    <!-- Items -->
     <string id="st_imm_smoke_fail">
         <text>
             Необхідні сірники
@@ -1251,8 +1251,8 @@
             Необхідно мати %s!
         </text>
     </string>
-    
-<!-- Notes -->
+
+    <!-- Notes -->
     <string id="st_recipe_is_known">
         <text>
             Все це вже відомо
@@ -1263,8 +1263,8 @@
             Все це вже відомо
         </text>
     </string>
-    
-<!-- Hardcore Saving -->
+
+    <!-- Hardcore Saving -->
     <string id="st_ui_no_save_timer">
         <text>
             Таймер все ще активний - %s поки не можна.
@@ -1327,8 +1327,8 @@
             зрозумів? Якщо тобі потрібна робота, то в мене знайдеться щось для тебе.
         </text>
     </string>
-    
-<!-- Lost to the Zone -->
+
+    <!-- Lost to the Zone -->
     <string id="st_lttz_eidolon_strelok_message">
         <text>
             Так, розвідзагін «Моноліта» здувся. Настав час рухати в центр Прип'яті і влаштувати

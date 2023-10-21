@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Butcher (Hunter#merchant in the Garbage) -->
+
+    <!-- Butcher (Hunter#merchant in the Garbage) -->
     <string id="hunter_trader_meet_0">
         <text>
             Доброго дня. Непогане тут містечко, як я подивлюся.
@@ -488,8 +488,8 @@
             прогуляйся та звірина постріляти - дивись, і своїх історій назбираєш.
         </text>
     </string>
-    
-<!-- Daytime trader at the flea market -->
+
+    <!-- Daytime trader at the flea market -->
     <string id="baraholka_trader_talking_0">
         <text>
             Що це за місце?

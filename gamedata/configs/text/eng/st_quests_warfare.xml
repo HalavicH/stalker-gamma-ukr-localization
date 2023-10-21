@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--/////////////////////////////////// ARMY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSAULT AREA FOR MILITARY TASK -->
+
+    <!--/////////////////////////////////// ARMY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSAULT AREA FOR MILITARY TASK -->
     <string id="sim_default_army_trader_task_1_name">
         <text>
             Прибирання території
@@ -36,8 +35,8 @@
             Молодцем. Продовжиш в такому дусі - тебе чекатиме подяку в наказі.
         </text>
     </string>
-    
-<!-- CAPTURE TERRITORY FOR MILITARY TASK -->
+
+    <!-- CAPTURE TERRITORY FOR MILITARY TASK -->
     <string id="sim_default_army_trader_task_2_name">
         <text>
             Стратегічне мислення
@@ -67,8 +66,8 @@
             Таки готове? Хороша робота. Я проінформую командира якомога швидше.
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR MILITARY TASK -->
+
+    <!-- ASSASSINATION FOR MILITARY TASK -->
     <string id="sim_default_army_trader_task_3_name">
         <text>
             Наказано взяти живим або мертвим
@@ -95,8 +94,8 @@
             Добре відпрацював! Полковник буде задоволений.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR MILITARY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR MILITARY MECHANICS TASK -->
     <string id="sim_default_army_mechanic_task_1_name">
         <text>
             Де прапорщики безсилі: знайти «%s»
@@ -127,8 +126,8 @@
             Зашибісь! Якраз те, що нам і було потрібно. Молоток, чоловіче!
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR MILITARY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR MILITARY MECHANICS TASK -->
     <string id="sim_default_army_mechanic_task_2_name">
         <text>
             Де прапорщики безсилі: знайти «%s»
@@ -159,8 +158,8 @@
             поліпшити треба - за мною не заіржавіє.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR MILITARY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR MILITARY MECHANICS TASK -->
     <string id="sim_default_army_mechanic_task_3_name">
         <text>
             Де прапорщики безсилі: знайти «%s»
@@ -196,10 +195,9 @@
             Дружнє дякую і знижка тобі належать ого-го які!
         </text>
     </string>
-    
-<!--/////////////////////////////////// DUTY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- DEFEND TERRITORY FOR DUTY TASK -->
+
+    <!--/////////////////////////////////// DUTY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- DEFEND TERRITORY FOR DUTY TASK -->
     <string id="sim_default_dolg_trader_task_1_name">
         <text>
             Зі щитом чи на щиті
@@ -222,8 +220,8 @@
             Відмінно спрацьовано, боєць.
         </text>
     </string>
-    
-<!-- CAPTURE TERRITORY FOR DUTY TASK -->
+
+    <!-- CAPTURE TERRITORY FOR DUTY TASK -->
     <string id="sim_default_dolg_trader_task_2_name">
         <text>
             Клин клином вибивають
@@ -248,8 +246,8 @@
             Завдання виконано? Відмінна робота!
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR DUTY TASK -->
+
+    <!-- ASSASSINATION FOR DUTY TASK -->
     <string id="sim_default_dolg_trader_task_3_name">
         <text>
             Наказано знищити
@@ -275,8 +273,8 @@
             Відмінно! Ось твоя обіцяна нагорода.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR DUTY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR DUTY MECHANICS TASK -->
     <string id="sim_default_dolg_mechanic_task_1_name">
         <text>
             Важке підкріплення: знайти «%s» для техніків «Обов'язку»
@@ -310,8 +308,8 @@
             пару дерев'яних з цінника.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR DUTY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR DUTY MECHANICS TASK -->
     <string id="sim_default_dolg_mechanic_task_2_name">
         <text>
             Важке підкріплення: знайти «%s» для техніків «Обов'язку»
@@ -340,8 +338,8 @@
             Ось це ти удружив, мужкі! Відмінно. Дай-но я тобі організую знижку пожирнее.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR DUTY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR DUTY MECHANICS TASK -->
     <string id="sim_default_dolg_mechanic_task_3_name">
         <text>
             Важке підкріплення: знайти «%s» для техніків «Обов'язку»
@@ -375,10 +373,9 @@
             Так, значить, дозволь виписати тобі подяку у вигляді величезної знижки. Молодець!
         </text>
     </string>
-    
-<!--/////////////////////////////////// BANDIT WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSASSIATION FOR BANDITS TASK -->
+
+    <!--/////////////////////////////////// BANDIT WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSASSIATION FOR BANDITS TASK -->
     <string id="sim_default_bandit_trader_task_1_name">
         <text>
             Маслиновий пиріг з щурів
@@ -407,8 +404,8 @@
             тямущі і так в темі, що не треба зв'язуватися з братвою.
         </text>
     </string>
-    
-<!-- ELIMINATE MUTANTS FOR BANDITS TASK -->
+
+    <!-- ELIMINATE MUTANTS FOR BANDITS TASK -->
     <string id="sim_default_bandit_trader_task_2_name">
         <text>
             Чікі-брікі, чик-чирик
@@ -444,8 +441,8 @@
             Малаца, йопт! Тримай грошва. Я паханові за тебе слово в натурі замовлю.
         </text>
     </string>
-    
-<!-- DEFEND TERRITORY FOR BANDITS TASK -->
+
+    <!-- DEFEND TERRITORY FOR BANDITS TASK -->
     <string id="sim_default_bandit_trader_task_3_name">
         <text>
             Бардак і беззаконня
@@ -478,8 +475,8 @@
             буду.
         </text>
     </string>
-    
-<!-- ESCORT RAIDERS FOR BANDITS TASK -->
+
+    <!-- ESCORT RAIDERS FOR BANDITS TASK -->
     <string id="sim_default_bandit_trader_task_4_name">
         <text>
             Чікі-брікі - і в дамкє!
@@ -509,8 +506,8 @@
             Уважуха, брателло. Твоя частка, лови.
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR BANDITS TASK -->
+
+    <!-- ASSASSINATION FOR BANDITS TASK -->
     <string id="sim_default_bandit_trader_task_5_name">
         <text>
             Мокруха
@@ -540,8 +537,8 @@
             Ай маладца, браток. Так цю суку!
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MECHANICS -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MECHANICS -->
     <string id="sim_default_bandit_mechanic_task_1_name">
         <text>
             Шпалерних справ майстер: знайти «%s» для техніків «Бандитів»
@@ -570,8 +567,8 @@
             Кошерно! Згодиться, ля. Я перетру з технарями, шоб менше з тебе стригли.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MECHANICS -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MECHANICS -->
     <string id="sim_default_bandit_mechanic_task_2_name">
         <text>
             Шпалерних справ майстер: знайти «%s» для техніків «Бандитів»
@@ -607,8 +604,8 @@
             Трясця, ну ні фіга собі! Братан, та ти реально все шо завгодно підігнати можеш!
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT MECHANICS -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR BANDIT MECHANICS -->
     <string id="sim_default_bandit_mechanic_task_3_name">
         <text>
             Шпалерних справ майстер: знайти «%s» для техніків «Бандитів»
@@ -644,10 +641,9 @@
             Зоносранські з такими підгонами. Тримай, брателло, грошва чисті - для кореша спецом.
         </text>
     </string>
-    
-<!--/////////////////////////////////// KILLER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSASSINATION FOR MERCS TASK -->
+
+    <!--/////////////////////////////////// KILLER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSASSINATION FOR MERCS TASK -->
     <string id="sim_default_killer_trader_task_1_name">
         <text>
             Кілер
@@ -684,8 +680,8 @@
             розповімо.
         </text>
     </string>
-    
-<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+
+    <!-- ASSAULT TERRITORY FOR MERCS TASK -->
     <string id="sim_default_killer_trader_task_2_name">
         <text>
             Зачистка
@@ -709,8 +705,8 @@
             Молоток. Лови гешефт.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLS FOR MERC MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLS FOR MERC MECHANICS TASK -->
     <string id="sim_default_killer_mechanic_task_1_name">
         <text>
             Інструменти війни: «%s» для техніків «найманців»
@@ -741,8 +737,8 @@
             Ось Дякую. Порадував. Якраз такі і потрібні мені були.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR MERC MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR MERC MECHANICS TASK -->
     <string id="sim_default_killer_mechanic_task_2_name">
         <text>
             Інструменти війни: «%s» для техніків «найманців»
@@ -771,8 +767,8 @@
             Молоток, брат! Відразу в справу пущу, щоб просто так не сидіти.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR MERC MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR MERC MECHANICS TASK -->
     <string id="sim_default_killer_mechanic_task_3_name">
         <text>
             Інструменти війни: «%s» для техніків «найманців»
@@ -804,10 +800,9 @@
             нашим про тебе розповім, щоб цінами тебе не кривдили.
         </text>
     </string>
-    
-<!--/////////////////////////////////// LONER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ELIMINATE MUTANTS 1 FOR LONERS TASK -->
+
+    <!--/////////////////////////////////// LONER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ELIMINATE MUTANTS 1 FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_1_name">
         <text>
             Сафарі
@@ -834,8 +829,8 @@
             Хорошому мисливцеві - хороша нагорода. Дякую брат.
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR LONERS TASK -->
+
+    <!-- FIND ARTEFACT FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_2_name">
         <text>
             Ділова пропозиція: знайти артефакт %s для торговця «Одинаків"
@@ -863,8 +858,8 @@
             Той самий арт! Молодцем, дякую!
         </text>
     </string>
-    
-<!-- ASSASSINATION 1 FOR LONERS TASK -->
+
+    <!-- ASSASSINATION 1 FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_3_name">
         <text>
             Якщо друг опинився вдруг...
@@ -911,8 +906,8 @@
             там не було, ось тобі за правосуддя.
         </text>
     </string>
-    
-<!-- ELIMINATE MUTANTS 2 FOR LONERS TASK -->
+
+    <!-- ELIMINATE MUTANTS 2 FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_4_name">
         <text>
             Сезон полювання
@@ -944,8 +939,8 @@
             друже! Тепер тут спокійніше буде.
         </text>
     </string>
-    
-<!-- ASSASSINATION 2 FOR LONERS TASK -->
+
+    <!-- ASSASSINATION 2 FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_5_name">
         <text>
             Усунення небезпеки
@@ -966,8 +961,8 @@
             Відмінна робота, сталкер. Це тобі за труди.
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR LONERS TASK -->
+
+    <!-- FIND WEAPON FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_6_name">
         <text>
             Рушниця для мисливця - що сокира для теслі: знайти %s для торговця «Одинаків"
@@ -1003,8 +998,8 @@
             Бездоганно. Красота какая. Ось гроші, які я обіцяв.
         </text>
     </string>
-    
-<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+
+    <!-- FIND MUTANT PARTS FOR LONERS TASK -->
     <string id="sim_default_stalker_trader_task_7_name">
         <text>
             Особливості національного полювання: знайти «%s».
@@ -1031,8 +1026,8 @@
             Ага, ще одна загроза усунута, і плюс нове прикраса для табору. Молодець!
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR LONER MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR LONER MECHANICS TASK -->
     <string id="sim_default_stalker_mechanic_task_1_name">
         <text>
             СТО: знайти «%s» для техніків «Одинаків"
@@ -1063,8 +1058,8 @@
             Відмінно! Те що потрібно! Потрібно буде поліпшити спорягу - заходь!
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR LONER MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR LONER MECHANICS TASK -->
     <string id="sim_default_stalker_mechanic_task_2_name">
         <text>
             СТО: знайти «%s» для техніків «Одинаків"
@@ -1093,8 +1088,8 @@
             в мережі розповім, як ти нас виручив.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR LONER MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR LONER MECHANICS TASK -->
     <string id="sim_default_stalker_mechanic_task_3_name">
         <text>
             СТО: знайти «%s» для техніків «Одинаків"
@@ -1125,10 +1120,9 @@
             так. Тепер не повинно так по кишені бити. Я сподіваюся.
         </text>
     </string>
-    
-<!--/////////////////////////////////// CLEAR SKY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- DELIVER PDA FOR CSKY TASK -->
+
+    <!--/////////////////////////////////// CLEAR SKY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- DELIVER PDA FOR CSKY TASK -->
     <string id="sim_default_csky_trader_task_1_name">
         <text>
             Доставити Спритнику КПК
@@ -1149,8 +1143,8 @@
             подібного створити, ладно?
         </text>
     </string>
-    
-<!-- DESTROY HELICOPTER FOR CSKY TASK -->
+
+    <!-- DESTROY HELICOPTER FOR CSKY TASK -->
     <string id="sim_default_csky_trader_task_2_name">
         <text>
             Нельотна погода: знищити військовий гвинтокрил
@@ -1172,8 +1166,8 @@
             її до біса. Користь від цього всім буде, в тому числі і тобі.
         </text>
     </string>
-    
-<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+
+    <!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
     <string id="sim_default_csky_trader_task_3_name">
         <text>
             Йти в науку - значить терпіти муку
@@ -1198,8 +1192,8 @@
             Дякую, сталкер. Ось і нагорода за труди.
         </text>
     </string>
-    
-<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+
+    <!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
     <string id="sim_default_csky_trader_task_4_name">
         <text>
             Популяційний контроль
@@ -1225,8 +1219,8 @@
             Чудово! Тримай гроші. Тепер на Болотах стане трохи спокійніше. Дякую, друже.
         </text>
     </string>
-    
-<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+
+    <!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
     <string id="sim_default_csky_trader_task_5_name">
         <text>
             Болотяна війна
@@ -1255,8 +1249,8 @@
             Відмінна робота! Ну вже тепер вони до нас довго не сунуться! Тримай свою нагороду.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+
+    <!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
     <string id="sim_default_csky_trader_task_6_name">
         <text>
             Любиш полювання - ходи і по болоту
@@ -1292,8 +1286,8 @@
             Відмінно, а ти таки непоганий мисливець! Ось твоє винагороду.
         </text>
     </string>
-    
-<!-- ASSAULT MILITARY CAMP FOR CLEAR SKY TASK -->
+
+    <!-- ASSAULT MILITARY CAMP FOR CLEAR SKY TASK -->
     <string id="sim_default_csky_trader_task_7_name">
         <text>
             «Спалах зліва!»: Знищити табір «Військових»
@@ -1320,8 +1314,8 @@
             твоя нагорода. А я поки рознесу звісточку, що тут знову безпечно...
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLS FOR CSKY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLS FOR CSKY MECHANICS TASK -->
     <string id="sim_default_csky_mechanic_task_1_name">
         <text>
             З «Гравію» і палиць: знайти «%s» для техніків «Чистого неба»
@@ -1352,8 +1346,8 @@
             Відмінно! Дякую, тобі, чоловіче. Ось твоя нагорода.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR CSKY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR CSKY MECHANICS TASK -->
     <string id="sim_default_csky_mechanic_task_2_name">
         <text>
             З «Гравію» і палиць: знайти «%s» для техніків «Чистого неба»
@@ -1384,8 +1378,8 @@
             всі не доторкалися без інструментів. Запишу тобі нову скидочку, брат.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR CSKY MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR CSKY MECHANICS TASK -->
     <string id="sim_default_csky_mechanic_task_3_name">
         <text>
             З «Гравію» і палиць: знайти «%s» для техніків «Чистого неба»
@@ -1422,19 +1416,17 @@
             ха-ха.
         </text>
     </string>
-    
-<!--# esc_2_12_stalker_nimble -->
-    
-<!-- sim_default_csky_trader_nimble_pda_task_1 -->
+
+    <!--# esc_2_12_stalker_nimble -->
+    <!-- sim_default_csky_trader_nimble_pda_task_1 -->
     <string id="sim_default_csky_trader_nimble_pda_warfare_task_1">
         <text>
             От дякую, сталкер, я все чекав його. Ось тобі за труди:
         </text>
     </string>
-    
-<!--/////////////////////////////////// FREEDOM WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- STOP ENEMY ASSAULT FOR FREEDOM TASK -->
+
+    <!--/////////////////////////////////// FREEDOM WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- STOP ENEMY ASSAULT FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_1_name">
         <text>
             Вільний!
@@ -1457,8 +1449,8 @@
             Виконав? Молодець!
         </text>
     </string>
-    
-<!-- RECAPTURE TERRITORY FOR FREEDOM TASK -->
+
+    <!-- RECAPTURE TERRITORY FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_2_name">
         <text>
             Коммандо
@@ -1482,8 +1474,8 @@
             Зробив? Молодець, чувак.
         </text>
     </string>
-    
-<!-- ASSASSINATE MONOLITH FOR FREEDOM TASK -->
+
+    <!-- ASSASSINATE MONOLITH FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_3_name">
         <text>
             Дух свободи"
@@ -1508,8 +1500,8 @@
             Ага! Ти вижив! А у тебе кулі свинцеві, ха! Тримай нагороду.
         </text>
     </string>
-    
-<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+
+    <!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_4_name">
         <text>
             Воля слова
@@ -1531,8 +1523,8 @@
             Відмінно! Ми пишаємося тобою, мен. Як і обіцяв:
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR FREEDOM TASK -->
+
+    <!-- FIND WEAPON FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_5_name">
         <text>
             Вільний обіг зброї: знайти «%s» для «Волі»
@@ -1560,8 +1552,8 @@
             Дякую за дуло. Ось і грошенята, як я і обіцяв.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+
+    <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_6_name">
         <text>
             Полювання на дичину
@@ -1592,8 +1584,8 @@
             Хе-хе, славна полювання, так? Дякую тобі, чоловіче.
         </text>
     </string>
-    
-<!-- ELIMINATE MUTANTS FOR FREEDOM TASK -->
+
+    <!-- ELIMINATE MUTANTS FOR FREEDOM TASK -->
     <string id="sim_default_freedom_trader_task_7_name">
         <text>
             Вільна територія
@@ -1616,8 +1608,8 @@
             Опа, все влаштував? Відмінна робота, мен! Ось і те, що я обіцяв.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLS FOR FREEDOM MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLS FOR FREEDOM MECHANICS TASK -->
     <string id="sim_default_freedom_mechanic_task_1_name">
         <text>
             Справа майстра боїться: знайти «%s» для техніків «Волі»
@@ -1650,8 +1642,8 @@
             Ми тобі скидочку закрити.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR FREEDOM MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR FREEDOM MECHANICS TASK -->
     <string id="sim_default_freedom_mechanic_task_2_name">
         <text>
             Справа майстра боїться: знайти «%s» для техніків «Волі»
@@ -1684,8 +1676,8 @@
             улюбленцем. Благодарочку вже організовую по нашому каналу.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR FREEDOM MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR FREEDOM MECHANICS TASK -->
     <string id="sim_default_freedom_mechanic_task_3_name">
         <text>
             Справа майстра боїться: знайти «%s» для техніків «Волі»
@@ -1716,10 +1708,9 @@
             вищому розряду! Але почнемо з обіцяної тобі знижку.
         </text>
     </string>
-    
-<!--/////////////////////////////////// MONOLITH WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSAULT TERRITORY FOR MONOLITH TASK -->
+
+    <!--/////////////////////////////////// MONOLITH WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSAULT TERRITORY FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_1_name">
         <text>
             Гнів Моноліту
@@ -1741,8 +1732,8 @@
             Задача виконана? Слава Моноліту!
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR MONOLITH TASK -->
+
+    <!-- ASSASSINATION FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_2_name">
         <text>
             Кожен буде прощений від гріхів
@@ -1769,8 +1760,8 @@
             Ти все добре зробив. Пишаються тобою брати.
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR MONOLITH TASK -->
+
+    <!-- FIND WEAPON FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_3_name">
         <text>
             Віра рухає зброєю: знайти «%s»
@@ -1807,8 +1798,8 @@
             І бачив все Моноліт, і знав він, що так воно і буде. Брати пишаються тобою.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+
+    <!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_4_name">
         <text>
             Славна полювання
@@ -1844,8 +1835,8 @@
             Слава Моноліту! Він бачив - і сталося це. Вклоняюся славному брату-мисливцеві.
         </text>
     </string>
-    
-<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+
+    <!-- FIND SUPPLIES FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_5_name">
         <text>
             Один за всіх, всі за одного
@@ -1882,8 +1873,8 @@
             Моноліт благу роботу цінує і відданість твою, брат.
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+
+    <!-- FIND ARTEFACT FOR MONOLITH TASK -->
     <string id="sim_default_monolith_trader_task_6_name">
         <text>
             Підношень дари: знайти артефакт %s для «Моноліту»
@@ -1918,8 +1909,8 @@
             буде.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR MONOLITH MECHANICS TASK -->
     <string id="sim_default_monolith_mechanic_task_1_name">
         <text>
             Технічну перевагу: знайти «%s» для техніків «Моноліту»
@@ -1950,8 +1941,8 @@
             передам братам, щоб спорядження вони підготували своє.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR MONOLITH MECHANICS TASK -->
     <string id="sim_default_monolith_mechanic_task_2_name">
         <text>
             Технічну перевагу: знайти «%s» для техніків «Моноліту»
@@ -1983,8 +1974,8 @@
             Ти приніс їх. Слава Моноліту! Брати будуть раді допомогти тобі без зайвих витрат.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR MONOLITH MECHANICS TASK -->
     <string id="sim_default_monolith_mechanic_task_3_name">
         <text>
             Технічну перевагу: знайти «%s» для техніків «Моноліту»
@@ -2022,10 +2013,9 @@
             твоя заслуговує. І дякуємо ми тебе, брат.
         </text>
     </string>
-    
-<!--/////////////////////////////////// ECOLOGISTS WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ESCORT ECOGS TASK -->
+
+    <!--/////////////////////////////////// ECOLOGISTS WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ESCORT ECOGS TASK -->
     <string id="sim_default_ecolog_trader_task_1_name">
         <text>
             Дослідницька експедиція
@@ -2067,8 +2057,8 @@
             це в знак нашої вдячності.
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR ECOGS TASK -->
+
+    <!-- FIND ARTEFACT FOR ECOGS TASK -->
     <string id="sim_default_ecolog_trader_task_2_name">
         <text>
             Науковий прогрес: знайти артефакт %s
@@ -2109,8 +2099,8 @@
           \nОсь обіцяна нагорода.
         </text>
     </string>
-    
-<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+
+    <!-- FIND MUTANT PARTS FOR ECOGS TASK -->
     <string id="sim_default_ecolog_trader_task_3_name">
         <text>
             Науковий донор: «Ученим» потрібно «%s»
@@ -2154,8 +2144,8 @@
             Вам вдячний. Просто чудова робота. Я негайно сповіщу свою наукову команду.
         </text>
     </string>
-    
-<!-- ESCORT ECOGS FOR SAKHAROV TASK
+
+    <!-- ESCORT ECOGS FOR SAKHAROV TASK
       <string id="yan_stalker_sakharov_task_2_name">
           <text>Escort Sakharov's Scientists %s</text>
       </string>
@@ -2168,8 +2158,8 @@
       <string id="yan_stalker_sakharov_task_2_fetch_finish">
           <text>Thank you for your protection, stalker. Please, take this as a token of our gratitude.</text>
       </string> -->
-    
-<!-- FIND LEVEL 1 TOOLS FOR ECOLOG MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLS FOR ECOLOG MECHANICS TASK -->
     <string id="sim_default_ecolog_mechanic_task_1_name">
         <text>
             Сила знань: знайти «%s» для техніків «Вчених»
@@ -2201,8 +2191,8 @@
             Відмінно. Якраз ті, що нам і були потрібні. Дякую!
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR ECOLOG MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR ECOLOG MECHANICS TASK -->
     <string id="sim_default_ecolog_mechanic_task_2_name">
         <text>
             Сила знань: знайти «%s» для техніків «Вчених»
@@ -2232,8 +2222,8 @@
             покращимо ще!
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR ECOLOG MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR ECOLOG MECHANICS TASK -->
     <string id="sim_default_ecolog_mechanic_task_3_name">
         <text>
             Сила знань: знайти «%s» для техніків «Вчених»
@@ -2263,10 +2253,9 @@
             тобі, друже. Ми тобі вже послуги надамо з привілеями - заслужив.
         </text>
     </string>
-    
-<!--/////////////////////////////////// RENEGADE WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSASSIATION FOR RENEGADES TASK -->
+
+    <!--/////////////////////////////////// RENEGADE WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSASSIATION FOR RENEGADES TASK -->
     <string id="sim_default_renegade_trader_task_1_name">
         <text>
             Бушлат дерев'яний
@@ -2292,8 +2281,8 @@
             Кошерно ти позбувся цього баклана! Ось і те, що я обіцяв підігнати.
         </text>
     </string>
-    
-<!-- ELIMINATE MUTANTS FOR RENEGADES TASK -->
+
+    <!-- ELIMINATE MUTANTS FOR RENEGADES TASK -->
     <string id="sim_default_renegade_trader_task_2_name">
         <text>
             Чікі-брікі, чик-чирик
@@ -2322,8 +2311,8 @@
             Ну прям Рембо, на. Ось, лови смаколик.
         </text>
     </string>
-    
-<!-- DEFEND TERRITORY FOR RENEGADES TASK -->
+
+    <!-- DEFEND TERRITORY FOR RENEGADES TASK -->
     <string id="sim_default_renegade_trader_task_3_name">
         <text>
             Усунути загрозу для «ренегатів»
@@ -2348,8 +2337,8 @@
             Мля-а, та ти реально крутий! Тримай могорич в благодарочку.
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR RENEGADES TASK -->
+
+    <!-- ASSASSINATION FOR RENEGADES TASK -->
     <string id="sim_default_renegade_trader_task_4_name">
         <text>
             Бабосов і Досвідос
@@ -2377,8 +2366,8 @@
             Опа, одним каламутна менше, ось це тема! Тримай лавешку.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR RENEGADE MECHANICS -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR RENEGADE MECHANICS -->
     <string id="sim_default_renegade_mechanic_task_1_name">
         <text>
             Відлуння війни: знайти «%s» для техніків «ренегатів»
@@ -2410,8 +2399,8 @@
             твої справи.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR RENEGADE MECHANICS -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR RENEGADE MECHANICS -->
     <string id="sim_default_renegade_mechanic_task_2_name">
         <text>
             Відлуння війни: знайти «%s» для техніків «ренегатів»
@@ -2443,8 +2432,8 @@
             Ми ті і скідон замутимо колективно.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR RENEGADE MECHANICS -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR RENEGADE MECHANICS -->
     <string id="sim_default_renegade_mechanic_task_3_name">
         <text>
             Відлуння війни: знайти «%s» для техніків «ренегатів»
@@ -2479,10 +2468,9 @@
             вишці захєрячив внатуре.
         </text>
     </string>
-    
-<!--/////////////////////////////////// SIN WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- ASSAULT TERRITORY FOR SIN TASK -->
+
+    <!--/////////////////////////////////// SIN WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- ASSAULT TERRITORY FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_1_name">
         <text>
             Священних земель очищення
@@ -2511,8 +2499,8 @@
             Моноліт задоволений слугою, а Чорнобог - сином своїм, брат, ти славно постарався.
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR SIN TASK -->
+
+    <!-- ASSASSINATION FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_2_name">
         <text>
             Кара праведна
@@ -2537,8 +2525,8 @@
             Ти все добре зробив. Брати пишаються тобою.
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR SIN TASK -->
+
+    <!-- FIND WEAPON FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_3_name">
         <text>
             Не убий: знайти «Гріх»%s
@@ -2568,8 +2556,8 @@
             Дякую тобі, брат. З таким озброєнням ми будемо бити невірних ще швидше.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR SIN TASK -->
+
+    <!-- FIND MUTANT MEAT FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_4_name">
         <text>
             благословенна полювання
@@ -2600,8 +2588,8 @@
             Про Отчий наш Чорнобог, син твій тебе не підвів, як Моноліт і бачив.
         </text>
     </string>
-    
-<!-- FIND SUPPLIES FOR SIN TASK -->
+
+    <!-- FIND SUPPLIES FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_5_name">
         <text>
             Знайти «%s» для «Гріха»
@@ -2637,8 +2625,8 @@
             Чорнобог виплекав відмінного сина. Дякую тобі, брат.
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR SIN TASK -->
+
+    <!-- FIND ARTEFACT FOR SIN TASK -->
     <string id="sim_default_greh_trader_task_6_name">
         <text>
             Наближаючи неминуче: знайти дар %s для брата-грішника
@@ -2670,8 +2658,8 @@
             Дякую тобі я, брат мій. Відданість воістину не знає твоя кордонів.
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR SIN MECHANICS TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR SIN MECHANICS TASK -->
     <string id="sim_default_greh_mechanic_task_1_name">
         <text>
             Інструмент віри: знайти «%s» технікам «Гріха»
@@ -2700,8 +2688,8 @@
             Брати кажуть дякую тобі.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR SIN MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR SIN MECHANICS TASK -->
     <string id="sim_default_greh_mechanic_task_2_name">
         <text>
             Інструмент віри: знайти «%s» технікам «Гріха»
@@ -2732,8 +2720,8 @@
             Вклоняюся я за бажання твоє допомогу надати, брат. Діло праве здійснив ти.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR SIN MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR SIN MECHANICS TASK -->
     <string id="sim_default_greh_mechanic_task_3_name">
         <text>
             Інструмент віри: знайти «%s» технікам «Гріха»
@@ -2773,10 +2761,9 @@
             від Очищення. Брати дякують тебе за внесок великий - це вміння дарую тобі я.
         </text>
     </string>
-    
-<!--/////////////////////////////////// ISG WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-    
-<!-- FIND LEVEL 1 TOOLS FOR ISG MECHANICS TASK -->
+
+    <!--/////////////////////////////////// ISG WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <!-- FIND LEVEL 1 TOOLS FOR ISG MECHANICS TASK -->
     <string id="sim_default_isg_mechanic_task_1_name">
         <text>
             Неофіційне коштодавство: знайти «%s» для техніків «ІДГ»
@@ -2807,8 +2794,8 @@
             Ось Дякую. Порадував. Якраз такі і потрібні мені були.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR ISG MECHANICS TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR ISG MECHANICS TASK -->
     <string id="sim_default_isg_mechanic_task_2_name">
         <text>
             Неофіційне коштодавство: знайти «%s» для техніків «ІДГ»
@@ -2837,8 +2824,8 @@
             Молоток, брат! Відразу в справу пущу, щоб просто так не сидіти.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR ISG MECHANICS TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR ISG MECHANICS TASK -->
     <string id="sim_default_isg_mechanic_task_3_name">
         <text>
             Неофіційне коштодавство: знайти «%s» для техніків «ІДГ»

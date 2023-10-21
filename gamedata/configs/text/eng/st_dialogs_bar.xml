@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Barkeep -->
+
+    <!-- Barkeep -->
     <string id="bar_visitors_barman_stalker_trader_start_dialog_11">
         <text>
             Вітаю! Ну, як воно?
@@ -101,15 +101,15 @@
             Рудий ліс по гриби йдемо.
         </text>
     </string>
-    
-<!-- GARIK -->
+
+    <!-- GARIK -->
     <string id="request_go_to_nimble_0">
         <text>
             Мені потрібно пройти.
         </text>
     </string>
-    
-<!-- Voronin (Duty Leader) -->
+
+    <!-- Voronin (Duty Leader) -->
     <string id="story_dolg_0">
         <text>
             Спокійна зараз обстановка в околицях?
@@ -350,8 +350,8 @@
             На даний момент це вся доступна інформація, якою я можу поділитися.
         </text>
     </string>
-    
-<!-- Mangun (Duty Mechanic) -->
+
+    <!-- Mangun (Duty Mechanic) -->
     <string id="story_dolg_m_0">
         <text>
             Розкажи про себе, Громов.
@@ -387,8 +387,8 @@
             Добре.
         </text>
     </string>
-    
-<!-- Snitch (Informer) at the Bar -->
+
+    <!-- Snitch (Informer) at the Bar -->
     <string id="talk_to_inf_trader_0">
         <text>
             Ти ким будеш?
@@ -670,8 +670,8 @@
             безперечно додасть життя тут.
         </text>
     </string>
-    
-<!-- modified by Tronex -->
+
+    <!-- modified by Tronex -->
     <string id="inf_trader_buy_transitions_0">
         <text>
             Я хочу купити інформацію про маршрутах.
@@ -782,8 +782,8 @@
             Я передумав.
         </text>
     </string>
-    
-<!-- Guide -->
+
+    <!-- Guide -->
     <string id="meet_guid_bar_0">
         <text>
             Вітаю, сталкер! Ти ж провідник, так?
@@ -860,8 +860,8 @@
             Я передумав.
         </text>
     </string>
-    
-<!-- Medic -->
+
+    <!-- Medic -->
     <string id="bar_dolg_medic_talking_0">
         <text>
             Ти хто?
@@ -905,8 +905,8 @@
             Дякую.
         </text>
     </string>
-    
-<!-- ARENA -->
+
+    <!-- ARENA -->
     <string id="bar_arena_man_job_0">
         <text>
             Є для мене противник?
@@ -1452,8 +1452,8 @@
             Вибач, але ти програв. Приходь пізніше, коли підготуєшся.
         </text>
     </string>
-    
-<!-- bar_visitors_stalker_mechanic -->
+
+    <!-- bar_visitors_stalker_mechanic -->
     <string id="bar_visitors_stalker_mechanic_start_dialog_1">
         <text>
             Вітаю, чоловіче, як Зона? М-м... Я сподіваюся, тобі потрібно що-небудь полагодити? А

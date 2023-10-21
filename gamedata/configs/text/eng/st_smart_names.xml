@@ -2410,8 +2410,8 @@
             Коридори
         </text>
     </string>
-    
-<!-- MLR -->
+
+    <!-- MLR -->
     <string id="ui_st_red_forest_vagon_csky">
         <text>
             Табір у капера
@@ -2672,8 +2672,8 @@
             Тартак
         </text>
     </string>
-    
-<!-- Missing Smarts -->
+
+    <!-- Missing Smarts -->
     <string id="st_esc_smart_terrain_9_10_name">
         <text>
             Багаття у тунелю

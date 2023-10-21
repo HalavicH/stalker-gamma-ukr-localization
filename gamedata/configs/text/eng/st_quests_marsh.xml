@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 14, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Default Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_name">
         <text>
             Отримати наступне завдання
@@ -35,10 +34,9 @@
             Удачі, друже.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Covert Agent Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Covert Agent Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
         <text>
             Таємний агент
@@ -63,10 +61,9 @@
             Швидко, акуратно і ефективно. Мені це подобається. Хороша робота, чоловіче!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Protect Clear Sky Base Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Protect Clear Sky Base Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
         <text>
             Захистити базу «Чистого неба»
@@ -92,10 +89,9 @@
             Дякую братику. Ти все добре там влаштував, тепер ми знову в безпеці.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Find Artefact Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Find Artefact Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
         <text>
             Диявол криється в деталях
@@ -126,10 +122,9 @@
             Знайшов? Дякую, сталкер. Ти добре попрацював, і ми цінуємо твою допомогу.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Search Agroprom Underground Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Search Agroprom Underground Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_name">
         <text>
             Смертельний спуск
@@ -164,10 +159,9 @@
             відмінна робота, друже.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Blood Red Sky Storyline Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Blood Red Sky Storyline Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_name">
         <text>
             Криваве небо
@@ -202,10 +196,9 @@
             рідні топи ще з одним неврівноваженим.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Librarian (Clear Sky Trader) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Librarian (Clear Sky Trader) Default Storyline Task -->
     <string id="drx_sl_mar_base_stalker_barmen_default_task_name">
         <text>
             Отримати наступне завдання
@@ -227,10 +220,9 @@
             Щасливої дороги!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Librarian (Clear Sky Trader) Clear Out Mutant Lair Storyline Task -->
+
+    <!-- # -->
+    <!-- Librarian (Clear Sky Trader) Clear Out Mutant Lair Storyline Task -->
     <string id="drx_sl_mar_base_stalker_barmen_task_1_name">
         <text>
             Кабана - безкурковку, а снорка - вправністю
@@ -258,10 +250,9 @@
             Хороша робота! Ось дещо за турботу, чоловіче, тримай.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Librarian (Clear Sky Trader) Procure Supplies Storyline Task -->
+
+    <!-- # -->
+    <!-- Librarian (Clear Sky Trader) Procure Supplies Storyline Task -->
     <string id="drx_sl_mar_base_stalker_barmen_task_2_name">
         <text>
             Припаси для «Чистого неба»
@@ -295,10 +286,9 @@
             Ох, і виручив ти нас, друже. Велике тобі людське дякую!
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -307,10 +297,9 @@
       <!#	October 14, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_name">
         <text>
             Миру чисте небо
@@ -337,10 +326,9 @@
             що заняття ти собі знайдеш до душі.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -349,10 +337,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
     <string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
         <text>
             Очищення боліт
@@ -397,10 +384,9 @@
             двічі, ніж сунути сюди свій нахабний ніс. Ось твоя нагорода.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho)\night Terror Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho)\night Terror Task -->
     <string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
         <text>
             У ночі тисяча очей... або щупалець
@@ -433,10 +419,9 @@
             буде, що біля багаття розповісти. Сподіваюся, ця нагорода тебе не образить?
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
+
+    <!-- # -->
+    <!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
     <string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_title">
         <text>
             А топи тут тихі...
@@ -455,10 +440,9 @@
             відморозків, де болотні тварі зимують.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
+
+    <!-- # -->
+    <!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
     <string id="mar_smart_terrain_base_doctor_task_1_name">
         <text>
             Неприродний відбір
@@ -605,10 +589,9 @@
             медицині.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
+
+    <!-- # -->
+    <!-- Spore (Clear Sky Trader) Deliver PDA Task -->
     <string id="mar_base_owl_stalker_trader_task_1_name">
         <text>
             Доставити КПК Шустрому на «Скадовськ»
@@ -629,8 +612,8 @@
             подібного створити, ладно?
         </text>
     </string>
-    
-<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+
+    <!-- DESTROY HELICOPTER FOR SPORE TASK -->
     <string id="mar_base_owl_stalker_trader_task_2_name">
         <text>
             Нельотна погода
@@ -659,8 +642,8 @@
           \nСправішься - вважай, що знижка тобі забезпечена. Ну як, по руках?
         </text>
     </string>
-    
-<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+
+    <!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
     <string id="mar_base_owl_stalker_trader_task_3_name">
         <text>
             Йти в науку - значить терпіти муку
@@ -685,8 +668,8 @@
             Дякую, сталкер. Ось і нагорода.
         </text>
     </string>
-    
-<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+
+    <!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
     <string id="mar_base_stalker_barmen_task_1_name">
         <text>
             популяційний контроль
@@ -712,8 +695,8 @@
             Чудово! Тримай гроші. Тепер на Болотах стане трохи спокійніше. Дякую, сталкер.
         </text>
     </string>
-    
-<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+
+    <!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
     <string id="mar_base_stalker_barmen_task_2_name">
         <text>
             болотяна війна
@@ -741,8 +724,8 @@
             Чорт візьми, дякую! Вже тепер вони до нас довго не сунуться! Тримай свою нагороду.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+
+    <!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
     <string id="mar_base_stalker_barmen_task_3_name">
         <text>
             Любиш полювання - ходи і по болоту
@@ -779,8 +762,8 @@
             Відмінно, а ти таки непоганий мисливець! Ось твоє винагороду:
         </text>
     </string>
-    
-<!-- FIND LEVEL 1 TOOLS FOR\nOVIKOV TASK -->
+
+    <!-- FIND LEVEL 1 TOOLS FOR\nOVIKOV TASK -->
     <string id="mar_base_stalker_tech_task_1_name">
         <text>
             З «Граві» та палиць, ч.1
@@ -829,8 +812,8 @@
             легких модифікацій. Ось твоя нагорода:
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLS FOR\nOVIKOV TASK -->
+
+    <!-- FIND LEVEL 2 TOOLS FOR\nOVIKOV TASK -->
     <string id="mar_base_stalker_tech_task_2_name">
         <text>
             З «Граві» та палиць, ч.2
@@ -867,8 +850,8 @@
             ось твоя нагорода:
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLS FOR\nOVIKOV TASK -->
+
+    <!-- FIND LEVEL 3 TOOLS FOR\nOVIKOV TASK -->
     <string id="mar_base_stalker_tech_task_3_name">
         <text>
             З «Граві» та палиць, ч.2
@@ -910,8 +893,8 @@
             коли не дуже завантажений буду. Так що звертайся! А ще ось і твоя грошова нагорода:
         </text>
     </string>
-    
-<!-- ESCORT SCIENTISTS DIALOGS -->
+
+    <!-- ESCORT SCIENTISTS DIALOGS -->
     <string id="ecolog_companion_task_1_start_dialog_1">
         <text>
             Ви наш провідник? Я відзначу потрібне місце на вашому КПК. Ваше завдання -
@@ -934,8 +917,8 @@
             Дякую.
         </text>
     </string>
-    
-<!-- FIND SWAMP DOCTOR -->
+
+    <!-- FIND SWAMP DOCTOR -->
     <string id="mar_doctor_task">
         <text>
             Таємниці Зони
@@ -947,8 +930,8 @@
             питання
         </text>
     </string>
-    
-<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+
+    <!-- MARSH DOCTOR STASH IN PRIPYAT -->
     <string id="cit_doctor_task">
         <text>
             Готель «Полісся»
@@ -971,8 +954,8 @@
             Стрільцем в кімнаті. Слід перевірити їх на предмет будь-яких зачіпок.
         </text>
     </string>
-    
-<!-- MARSH DOCTOR VISIT LABS -->
+
+    <!-- MARSH DOCTOR VISIT LABS -->
     <string id="st_main_1_search_agr_ug_name">
         <text>
             Підземелля НДІ «Агропром»

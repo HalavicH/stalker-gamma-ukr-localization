@@ -851,8 +851,8 @@
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
 Synthetic Artifacts
 -->
     <string id="st_af_nk_syn_blackraven_name">
@@ -1000,8 +1000,8 @@ Synthetic Artifacts
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
 Unstable Artifacts
 -->
     <string id="st_af_nk_un_leviathan_name">
@@ -1780,8 +1780,8 @@ Unstable Artifacts
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
 Legacy Artifacts
 -->
     <string id="st_af_nk_leg_slime_name">

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Outfits -->
+
+    <!-- Outfits -->
     <string id="st_upgr_o_health">
         <text>
             Прототип системи життєзабезпечення
@@ -204,8 +204,8 @@
           \n
         </text>
     </string>
-    
-<!-- Weapons -->
+
+    <!-- Weapons -->
     <string id="st_upgr_w_weight">
         <text>
             Противага з полімерів

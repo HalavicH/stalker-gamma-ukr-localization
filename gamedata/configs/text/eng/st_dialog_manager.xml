@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ACTOR:  Meets honcho after being sent by another honcho: -->
+
+    <!-- ACTOR:  Meets honcho after being sent by another honcho: -->
     <string id="st_drx_sl_meet_honcho">
         <text>
             Я від наших спільних знайомих. Прибув для вирішення проблем насущних. Що треба
             зробити? Весь увагу.
         </text>
     </string>
-    
-<!-- ACTOR:  Accepts storyline task from honcho: -->
+
+    <!-- ACTOR:  Accepts storyline task from honcho: -->
     <string id="st_drx_sl_accept_task">
         <text>
             Добре.
         </text>
     </string>
-    
-<!-- HONCHO:  Affirmation of task acceptance: -->
+
+    <!-- HONCHO:  Affirmation of task acceptance: -->
     <string id="st_drx_sl_task_accepted">
         <text>
             Хай щастить.
         </text>
     </string>
-    
-<!-- ACTOR:  Leaves honcho: -->
+
+    <!-- ACTOR:  Leaves honcho: -->
     <string id="st_drx_sl_actor_exit">
         <text>
             Дякую.
         </text>
     </string>
-    
-<!-- DEFAULT END GAME TEXT: -->
+
+    <!-- DEFAULT END GAME TEXT: -->
     <string id="drx_sl_default_endgame">
         <text>
             Цей голос не від світу цього... У голові знову і знову відображаються тисячами
@@ -39,8 +39,8 @@
           \nВиконувач бажань кличе до себе. Треба його знайти.
         </text>
     </string>
-    
-<!-- SIDOROVICH STORYLINE START GAME 1 DIALOG -->
+
+    <!-- SIDOROVICH STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_stalker">
         <text>
             Сталкери, у мене утворилася досить цікава робітка, що вимагає відповідальних і
@@ -94,8 +94,8 @@
           \nНу, все зрозумів? Запам'ятай тільки одне: мене розчаровувати не прийнято, сталкер.
         </text>
     </string>
-    
-<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
         <text>
             Ну, подивися на себе, друже. Ти зміг зробити собі ім'я в Зоні, а це багато чого
@@ -106,8 +106,8 @@
             Інакше це буде поганим кінцем твоєї багатої історії.
         </text>
     </string>
-    
-<!-- PETRENKO STORYLINE START GAME 1 DIALOG -->
+
+    <!-- PETRENKO STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_dolg">
         <text>
             Увага особовому складу! Каже генерал Воронін. Шукаються добровольці для виконання
@@ -161,8 +161,8 @@
             богом! Готуйся висуватися.
         </text>
     </string>
-    
-<!-- PETRENKO STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- PETRENKO STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_endgame_1">
         <text>
             Боєць, урочисто вітаю тебе з виконанням поставленого завдання на «відмінно»! Твоя
@@ -179,8 +179,8 @@
             відповідальність.
         </text>
     </string>
-    
-<!-- LUKASH STORYLINE START GAME 1 DIALOG -->
+
+    <!-- LUKASH STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_freedom">
         <text>
             Вільні воїни! Перед нами постала, можливо, найважливіша за весь час завдання. І поки
@@ -223,8 +223,8 @@
             свободу всім даром. Тільки нам і нашій самовідданості по плечу цю справу.
         </text>
     </string>
-    
-<!-- LUKASH STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- LUKASH STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
         <text>
             Хей, брат, від усіх наших і особисто від мене тобі благодарочка світить за все твої
@@ -243,8 +243,8 @@
             загально благо, братик.
         </text>
     </string>
-    
-<!-- COLD STORYLINE START GAME 1 DIALOG -->
+
+    <!-- COLD STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_csky">
         <text>
             Хлопці, Холод на зв'язку. Я шукаю добровольців для виконання вкрай педантичного
@@ -294,8 +294,8 @@
             величезний обсяг знань і потенціал досліджень.
         </text>
     </string>
-    
-<!-- COLD STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- COLD STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_endgame_1">
         <text>
             Молодець, братик. Ти виконав воістину грандіозну роботу, за що тобі велике, як
@@ -318,8 +318,8 @@
           \nУдачі тобі - вона знадобиться.
         </text>
     </string>
-    
-<!-- SAKHAROV STORYLINE START GAME 1 DIALOG -->
+
+    <!-- SAKHAROV STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_ecolog">
         <text>
             Увага, члени і співробітники нашої наукової експедиції! Спільними зусиллями ряду
@@ -381,8 +381,8 @@
             колега. Ми будемо з нетерпінням чекати вашого повернення.
         </text>
     </string>
-    
-<!-- SAKHAROV STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- SAKHAROV STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_yan_stalker_sakharov_start_game_1_endgame_1">
         <text>
             А! Колега! Хочу від щирого серця і всієї світової наукової спільноти подякувати Вам
@@ -401,8 +401,8 @@
             наступний раз!
         </text>
     </string>
-    
-<!-- DUSHMAN STORYLINE START GAME 1 DIALOG -->
+
+    <!-- DUSHMAN STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_killer">
         <text>
             Гей, бійці, доступний новий контракт від нашого замовника. Контракт цей добре пахне
@@ -441,8 +441,8 @@
             то з нас шкуру живцем здеруть.
         </text>
     </string>
-    
-<!-- SWEDE STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- SWEDE STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_endgame_1">
         <text>
             Маладца, брат, відмінно впорався. Тепер слухай, у мене є повідомлення для тебе з
@@ -459,8 +459,8 @@
             вимовити наступну фразу: «Princeps magis opulentus». , , , , , ,
         </text>
     </string>
-    
-<!-- KUZNETSOV STORYLINE START GAME 1 DIALOG -->
+
+    <!-- KUZNETSOV STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_army">
         <text>
             Увага особовому складу! До мене в розпорядження тільки що надійшли нові накази
@@ -495,8 +495,8 @@
             Пам'ятай про свою шкуру і тоді ти зможеш повернутися додому. Все, вільний.
         </text>
     </string>
-    
-<!-- KUZNETSOV STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- KUZNETSOV STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_endgame_1">
         <text>
             Ну що, солдат, не такий вже ти і щиглик. Із завданням ти впорався відмінно, вітаю.
@@ -520,8 +520,8 @@
             зрозумів, так що дій на свій розсуд.
         </text>
     </string>
-    
-<!-- SULTAN STORYLINE START GAME 1 DIALOG -->
+
+    <!-- SULTAN STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_bandit">
         <text>
             Братва! Це Султан, на. Намалювалася відмінна МАЗу. Грошви можна непогано підняти, а
@@ -551,8 +551,8 @@
             справи нарісовивается.
         </text>
     </string>
-    
-<!-- SULTAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- SULTAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
         <text>
             Шо мля ?! А, гхи-ги, трясця, кореш, це ти... сідай, накатим.
@@ -576,8 +576,8 @@
             всієї, зрозумів, д-да? Давай, трясця, хи, чекаємо тебе, в загальному.
         </text>
     </string>
-    
-<!-- RABBIT STORYLINE START GAME 1 DIALOG -->
+
+    <!-- RABBIT STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_monolith">
         <text>
             Брати мої! І закликав Моноліт до мене. І волю бачив я Його, велич Його і долю нашу.
@@ -602,8 +602,8 @@
             брат, невірним і їх підступам неси очищення проти Великого.
         </text>
     </string>
-    
-<!-- RABBIT STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- RABBIT STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_endgame_1">
         <text>
             Брат мій, істинність віри своєї довів ти Моноліту багатьма справами, вони - запорука
@@ -618,8 +618,8 @@
           \nСтупай, брат. Слава Моноліту!
         </text>
     </string>
-    
-<!-- STRIBOG STORYLINE START GAME 1 DIALOG -->
+
+    <!-- STRIBOG STORYLINE START GAME 1 DIALOG -->
     <string id="drx_sl_start_msg_greh">
         <text>
             Чорнобог слово своє мовив. Настав час для просвітлення всього світу. Повертайтеся до
@@ -640,8 +640,8 @@
             допоможемо світу позбутися кайданів пороку.
         </text>
     </string>
-    
-<!-- STRIBOG STORYLINE START GAME 1 END GAME 1 TEXT: -->
+
+    <!-- STRIBOG STORYLINE START GAME 1 END GAME 1 TEXT: -->
     <string id="drx_sl_red_greh_trader_start_game_1_endgame_1">
         <text>
             Діянь роль твоїх також сильна, як і віра наша в загальне благо, брат мій. І
@@ -652,36 +652,36 @@
             шлях, брат.
         </text>
     </string>
-    
-<!-- ACTOR:  Requests to change factions: -->
+
+    <!-- ACTOR:  Requests to change factions: -->
     <string id="st_drx_sl_change_factions_request">
         <text>
             Подумую тут угруповання змінити.
         </text>
     </string>
-    
-<!-- ACTOR:  Accepts change factions task from\npc -->
+
+    <!-- ACTOR:  Accepts change factions task from\npc -->
     <string id="st_drx_sl_accept_change_factions_task">
         <text>
             Я повернуся, коли все буде готовий.
         </text>
     </string>
-    
-<!-- НПС:  Affirmation of task acceptance: -->
+
+    <!-- НПС:  Affirmation of task acceptance: -->
     <string id="st_drx_sl_change_factions_task_accepted">
         <text>
             Добре. Якщо пощастить, то дуже скоро побачимося знову.
         </text>
     </string>
-    
-<!-- ACTOR:  Leaves\npc: -->
+
+    <!-- ACTOR:  Leaves\npc: -->
     <string id="st_drx_sl_change_factions_actor_exit">
         <text>
             До скорого!
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="dm_universal_actor_start">
         <text>
             Хочу про дещо у тебе запитати.
@@ -822,8 +822,8 @@
             Пробач, нічим не можу допомогти.
         </text>
     </string>
-    
-<!-- Greetings -->
+
+    <!-- Greetings -->
     <string id="dm_hello_general_1">
         <text>
             Як життя?
@@ -909,8 +909,8 @@
             Що потрібно, сталкер?
         </text>
     </string>
-    
-<!-- Help -->
+
+    <!-- Help -->
     <string id="dm_help_1">
         <text>
             Братик, рятуй, подихати! ..
@@ -996,8 +996,8 @@
             Лікаря! Будь ласка!
         </text>
     </string>
-    
-<!-- Anomalies -->
+
+    <!-- Anomalies -->
     <string id="dm_anomalies_general_1">
         <text>
             Що скажеш про аномалії і артефакти?
@@ -1499,8 +1499,8 @@
             на наявність артефактів обов'язково перевірив.
         </text>
     </string>
-    
-<!-- Information -->
+
+    <!-- Information -->
     <string id="dm_information_general_1">
         <text>
             Що нового в Зоні?
@@ -2350,8 +2350,8 @@
         </text>
     </string>
     <string id="dm_information_78">
-        
-<!--
+
+        <!--
             army
         -->
         <text>
@@ -2425,8 +2425,8 @@
         </text>
     </string>
     <string id="dm_information_83">
-        
-<!--
+
+        <!--
             monolith
         -->
         <text>
@@ -2722,8 +2722,8 @@
         </text>
     </string>
     <string id="dm_information_108">
-        
-<!--
+
+        <!--
             Living Legend
         -->
         <text>
@@ -2734,8 +2734,8 @@
         </text>
     </string>
     <string id="dm_information_109">
-        
-<!--
+
+        <!--
             Mortal Sin
         -->
         <text>
@@ -2751,8 +2751,8 @@
             йому. Так що ти це, будь обережний, чоловіче, якщо раптом зустрінеш його.
         </text>
     </string>
-    
-<!-- Brain Scorcher is off -->
+
+    <!-- Brain Scorcher is off -->
     <string id="dm_information_110">
         <text>
             Це я у тебе повинен питати, чоловіче. Все-таки це ти відключив «Випалювач».
@@ -2800,8 +2800,8 @@
             бути, тому що виродки монохромні вдруге отримали по щам.
         </text>
     </string>
-    
-<!-- Brain Scorcher enabled -->
+
+    <!-- Brain Scorcher enabled -->
     <string id="dm_information_118">
         <text>
             Якийсь дурень вирішив поцупити артефакт аж з самої ЧАЕС прямо з-під носа фанатиків.
@@ -2824,8 +2824,8 @@
             віри.
         </text>
     </string>
-    
-<!-- Miracle Machine disabled -->
+
+    <!-- Miracle Machine disabled -->
     <string id="dm_information_121">
         <text>
             Установка на заводі поблизу озера Янтар була успішно відключена. Маю велику надію, що
@@ -2839,8 +2839,8 @@
             решта душі упокоїлися.
         </text>
     </string>
-    
-<!-- Miracle Machine enabled -->
+
+    <!-- Miracle Machine enabled -->
     <string id="dm_information_123">
         <text>
             Сахаров на Янтарі нарешті пополірував свій пристрій, що захищає від деяких пси-
@@ -2854,8 +2854,8 @@
             захисту. Якщо пощастить, то і мій внесок буде відображений.
         </text>
     </string>
-    
-<!-- Sin appearance -->
+
+    <!-- Sin appearance -->
     <string id="dm_information_125">
         <text>
             Всі ці чутки про «темних сталкерів» можуть бути правдою. Ми бачили якісь дивні
@@ -2890,8 +2890,8 @@
             таки погане у мене передчуття.
         </text>
     </string>
-    
-<!-- Sin attack on Limansk -->
+
+    <!-- Sin attack on Limansk -->
     <string id="dm_information_130">
         <text>
             Ти що, реально не в курсі останніх новин? «Моноліт» знайшов собі якихось лівих друзів
@@ -2942,8 +2942,8 @@
             мене вже нерви на межі, якщо чесно!
         </text>
     </string>
-    
-<!-- Generator Big Emission -->
+
+    <!-- Generator Big Emission -->
     <string id="dm_information_138">
         <text>
             Ось послухай, новини з Великої землі: там говорять, що деякі європейські країни стали
@@ -2965,8 +2965,8 @@
             «туристів» попре тільки так.
         </text>
     </string>
-    
-<!-- UNISG Appearance -->
+
+    <!-- UNISG Appearance -->
     <string id="dm_information_141">
         <text>
             Я чув, що інтернаціональна дослідницька група була відновлена в повноваженнях. Може
@@ -3004,8 +3004,8 @@
             особи». Схоже, викид грішників все-таки привернув до Зони увагу Великої землі....
         </text>
     </string>
-    
-<!-- Military vs UNISG -->
+
+    <!-- Military vs UNISG -->
     <string id="dm_information_146">
         <text>
             Вояки з СБУ в повному розпачі. Звідки знаю? У мене самого зараз контракт від
@@ -3032,10 +3032,9 @@
             гостинність.
         </text>
     </string>
-    
-<!-- Added Dialog -->
-    
-<!-- ECOLOGIST -->
+
+    <!-- Added Dialog -->
+    <!-- ECOLOGIST -->
     <string id="dm_information_150">
         <text>
             Чи бували Ви коли-небудь в північних районах ЧАЕС? Я чув, що аномалії, які ми
@@ -3500,8 +3499,8 @@
             соромтеся надавати науковим групам будь знайдені Вами артефакти.
         </text>
     </string>
-    
-<!-- DUTY -->
+
+    <!-- DUTY -->
     <string id="dm_information_200">
         <text>
             Зміни довгі, сухпай часто залишає бажати кращого, а завдання як і раніше небезпечні -
@@ -3998,8 +3997,8 @@
             пробував. Адже ось старий шкарбун...
         </text>
     </string>
-    
-<!-- MILITARY -->
+
+    <!-- MILITARY -->
     <string id="dm_information_255">
         <text>
             А ти як думаєш? Чи не служба, а якийсь... Ми ж взагалі, трясця, не готові до
@@ -4501,8 +4500,8 @@
             заради загального блага.
         </text>
     </string>
-    
-<!-- CLEAR SKY -->
+
+    <!-- CLEAR SKY -->
     <string id="dm_information_305">
         <text>
             Інше фінансове посередництво і клани в Зоні толком нічого і не роблять: хтось
@@ -4896,8 +4895,8 @@
             своїх проблем вистачає.
         </text>
     </string>
-    
-<!-- FREEDOM -->
+
+    <!-- FREEDOM -->
     <string id="dm_information_350">
         <text>
             Мен, в світі немає нічого крутіше Зони! А небо! Ти бачив це небо після викиду?
@@ -5338,8 +5337,8 @@
             якийсь ти нервовий.
         </text>
     </string>
-    
-<!-- MERCENARIES -->
+
+    <!-- MERCENARIES -->
     <string id="dm_information_395">
         <text>
             «Зона така-то, Зона сяка-то»... А мені по барабану - просто чергова гаряча точка в
@@ -5935,8 +5934,8 @@
             було б куди по-іншому.
         </text>
     </string>
-    
-<!-- BANDITS -->
+
+    <!-- BANDITS -->
     <string id="dm_information_440">
         <text>
             Ну типу слухай, на. Все що треба робити, так це врубать вежу када треба і не тупити
@@ -6419,8 +6418,8 @@
             сторонам - сам расчухаєш що до чого внатурі.
         </text>
     </string>
-    
-<!-- RENEGADES -->
+
+    <!-- RENEGADES -->
     <string id="dm_information_485">
         <text>
             Кучковаться раніше серед пацанів в «Волі». Я думав, що вони реально круті... Що
@@ -6516,8 +6515,8 @@
             одне велике кладовище. А ми будемо Зоною рулити.
         </text>
     </string>
-    
-<!-- LONERS -->
+
+    <!-- LONERS -->
     <string id="dm_information_495">
         <text>
             Ох, брат, Зона - зовсім не те, що я очікував побачити, коли потрапив сюди. Я думав,
@@ -7896,8 +7895,8 @@
             дурість або мудрість...
         </text>
     </string>
-    
-<!-- GENERAL: MUTANTS -->
+
+    <!-- GENERAL: MUTANTS -->
     <string id="dm_information_615">
         <text>
             Наявність шостого почуття вкрай корисно в Зоні, так як часом це єдине, що допоможе
@@ -8014,8 +8013,8 @@
             особливо не потрібно - вбивають, так би мовити, з спортивного інтересу.
         </text>
     </string>
-    
-<!-- SIN -->
+
+    <!-- SIN -->
     <string id="dm_information_625">
         <text>
             Чорнобогу, хай береже його Мокоша, піднесення уготовано, а не смерть. Життя Отця тече
@@ -8508,8 +8507,8 @@
             результату забажала Зона. І надалі з усіма так буде!
         </text>
     </string>
-    
-<!-- UNISG -->
+
+    <!-- UNISG -->
     <string id="dm_information_675">
         <text>
             Це місце збиває з пантелику... Я завжди думав, що ситуація в Чорнобилі - просто
@@ -8928,8 +8927,8 @@
             головорізів з армії - це нічим не краще, ніж ті ж покидьки, про яких вже говорив.
         </text>
     </string>
-    
-<!-- Jobs -->
+
+    <!-- Jobs -->
     <string id="dm_job_general_1">
         <text>
             Не знаєш, чи є робітка яка?
@@ -9013,8 +9012,8 @@
             Ні, вибачай. Самі чіпляємося за те, що можемо зробити.
         </text>
     </string>
-    
-<!-- Tips -->
+
+    <!-- Tips -->
     <string id="dm_tips_general_1">
         <text>
             Знаєш чого корисного?
@@ -9282,8 +9281,8 @@
             таким чином можеш прийти на допомогу і навіть врятувати комусь життя.
         </text>
     </string>
-    
-<!-- Wounded -->
+
+    <!-- Wounded -->
     <string id="dm_wounded_general">
         <text>
             Допоможи!
@@ -9488,8 +9487,8 @@
             Хочу знайти декілька артов.
         </text>
     </string>
-    
-<!-- Technician -->
+
+    <!-- Technician -->
     <string id="st_mechanic_query_items">
         <text>
             Ти вже закінчив з моїм спорядженням?
@@ -9505,8 +9504,8 @@
             Поки що ні.
         </text>
     </string>
-    
-<!-- Surrender -->
+
+    <!-- Surrender -->
     <string id="st_surrender_victim">
         <text>
             Я здаюсь!
@@ -9659,8 +9658,8 @@
             ...
         </text>
     </string>
-    
-<!--
+
+    <!--
 	PDA BROKER DIALOG STRINGS
 
 	Modified by DoctorX
@@ -10328,8 +10327,8 @@
             І ще! Ось тобі як бонус координати пари схронів, до яких мені взагалі немає справи.
         </text>
     </string>
-    
-<!-- Tasks -->
+
+    <!-- Tasks -->
     <string id="st_ordered_task_query">
         <text>
             Чи знайдеться робота якась?
@@ -10416,8 +10415,8 @@
             А втім, забий.
         </text>
     </string>
-    
-<!-- Task cancelling -->
+
+    <!-- Task cancelling -->
     <string id="dm_universal_actor_exit_sorry">
         <text>
             Вибач, не зміг виконати доручення.
@@ -10458,8 +10457,8 @@
             Мда. Вважаю, цього результату мені і варто було очікувати... Хрін з тобою.
         </text>
     </string>
-    
-<!-- Repair -->
+
+    <!-- Repair -->
     <string id="st_inventory_upgrade_reply_1">
         <text>
             Що, %s? Через десь %s хвилин зварганити. Ось тоді і повертайся.

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Ammo_Check Messages -->
+
+    <!-- Ammo_Check Messages -->
     <string id="st_ac_overfull">
         <text>
             Переповнений

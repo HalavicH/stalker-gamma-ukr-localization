@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- PDA -->
+
+    <!-- PDA -->
     <string id="pda_btn_encyclopedia">
         <text>
             Довідник
@@ -12,8 +12,8 @@
             Відкрити довідник
         </text>
     </string>
-    
-<!-- Interface components -->
+
+    <!-- Interface components -->
     <string id="pda_encyclopedia_title">
         <text>
             Довідник Зони
@@ -29,8 +29,8 @@
             Показати повідомлення
         </text>
     </string>
-    
-<!-- Messages -->
+
+    <!-- Messages -->
     <string id="pda_encyclopedia_notify">
         <text>
             Відкрита стаття:%s, %s
@@ -41,8 +41,8 @@
             Нова нотатка:%s
         </text>
     </string>
-    
-<!-- Misc -->
+
+    <!-- Misc -->
     <string id="pda_encyclopedia_info">
         <text>
             Інформація
@@ -98,8 +98,8 @@
             Я у безпеці.
         </text>
     </string>
-    
-<!-- Locked articles -->
+
+    <!-- Locked articles -->
     <string id="pda_encyclopedia_locked">
         <text>
             ??????????

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Dusman (Mercenary Leader) -->
+
+    <!-- Dusman (Mercenary Leader) -->
     <string id="find_blackbox_mlr_reward_killer_0">
         <text>
             Вітаю, я тут самописець подекуди відкопав. Здається мені, інфа у ньому є цінна, та і
@@ -13,8 +13,8 @@
             Військовий? Ну ж бо. Хороша річ, візьми за неї грошенята.
         </text>
     </string>
-    
-<!-- (Mercenary Guide) -->
+
+    <!-- (Mercenary Guide) -->
     <string id="meet_ds_killer_guide_main_base_0">
         <text>
             Як звідси вибратися?
@@ -58,8 +58,8 @@
             Я передумав.
         </text>
     </string>
-    
-<!-- Aslan (Mercenary Barman) -->
+
+    <!-- Aslan (Mercenary Barman) -->
     <string id="talk_to_aslan_on_main_base_merk_0">
         <text>
             Розкажи про себе.

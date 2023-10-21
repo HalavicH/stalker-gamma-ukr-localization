@@ -5,8 +5,8 @@
             Здобич
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="ui_mcm_SMR_smr_loot_random_items">
         <text>
             Розкидана здобич
@@ -25,8 +25,8 @@
             населення "Немає".
         </text>
     </string>
-    
-<!-- PDA MESSAGES -->
+
+    <!-- PDA MESSAGES -->
     <string id="ui_mcm_SMR_smr_loot_send_message">
         <text>
             Показати сповіщення на КПК
@@ -83,8 +83,8 @@
             використанням звичайного шансу знайти предмети в схованках.
         </text>
     </string>
-    
-<!-- ITEMS -->
+
+    <!-- ITEMS -->
     <string id="ui_mcm_SMR_smr_loot_items_title">
         <text>
             Додатковий предмет з'являється у схованках.
@@ -144,8 +144,8 @@
             набори деталей.
         </text>
     </string>
-    
-<!-- AMMO -->
+
+    <!-- AMMO -->
     <string id="ui_mcm_SMR_smr_loot_ammo_spawn">
         <text>
             Спавн додаткових боєприпасів
@@ -191,8 +191,8 @@
             Знайдено множник кількості боєприпасів.
         </text>
     </string>
-    
-<!-- USEFUL -->
+
+    <!-- USEFUL -->
     <string id="ui_mcm_SMR_smr_loot_useful_spawn">
         <text>
             спавн корисних предметів
@@ -214,8 +214,8 @@
             Відсоток ймовірності знайти корисні предмети у схованках.
         </text>
     </string>
-    
-<!-- MEDS -->
+
+    <!-- MEDS -->
     <string id="ui_mcm_SMR_smr_loot_meds_spawn">
         <text>
             Створювати медичні предмети

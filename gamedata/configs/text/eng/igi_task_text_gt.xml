@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- mutant -->
+
+    <!-- mutant -->
     <string id="igi_task_text_gt_mutant_title">
         <text>
             Усунути небезпечних мутантів
@@ -23,8 +23,8 @@
             Чудова робота! Вони дошкуляли нашим командам...
         </text>
     </string>
-    
-<!-- supply -->
+
+    <!-- supply -->
     <string id="igi_task_text_gt_supply_title">
         <text>
             Ланцюг постачання
@@ -48,8 +48,8 @@
             Чесна оплата за чесну роботу. Ці речі справді те що треба.
         </text>
     </string>
-    
-<!-- heavy -->
+
+    <!-- heavy -->
     <string id="igi_task_text_gt_heavy_title">
         <text>
             Нейтралізація
@@ -72,8 +72,8 @@
             Сподіваюся, без проблем? Ці хлопці явно були готові до бою. Відмінна робота.
         </text>
     </string>
-    
-<!-- transaction -->
+
+    <!-- transaction -->
     <string id="igi_task_text_gt_transaction_title">
         <text>
             Транзакція
@@ -97,8 +97,8 @@
             Гарна робота. Вони винні мені випивку за це. Ось твоя частка.
         </text>
     </string>
-    
-<!-- artifact_world -->
+
+    <!-- artifact_world -->
     <string id="igi_task_text_gt_artifact_world_title">
         <text>
             Артефакти для всіх, на халяву
@@ -122,8 +122,8 @@
             Нічого. Цей рядок не буде показаний у грі. Слава Україні
         </text>
     </string>
-    
-<!-- artifact_stalker -->
+
+    <!-- artifact_stalker -->
     <string id="igi_task_text_gt_artifact_stalker_title">
         <text>
             Артефактове "Полювання"
@@ -145,8 +145,8 @@
             Нічого. Цей рядок не буде показаний у грі. Путін - хуйло
         </text>
     </string>
-    
-<!-- weapon -->
+
+    <!-- weapon -->
     <string id="igi_task_text_gt_weapon_title">
         <text>
             Споряга

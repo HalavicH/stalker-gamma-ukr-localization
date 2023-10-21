@@ -15,8 +15,8 @@
             Outfits
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_zombied_header">
         <text>
             Zombified Stalkers
@@ -32,8 +32,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_novice_header">
         <text>
             Novice Stalkers
@@ -49,8 +49,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_trainee_header">
         <text>
             Trainee Stalkers
@@ -66,8 +66,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_experienced_header">
         <text>
             Experienced Stalkers
@@ -83,8 +83,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_professional_header">
         <text>
             Professional Stalkers
@@ -100,8 +100,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_veteran_header">
         <text>
             Veteran Stalkers
@@ -117,8 +117,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_expert_header">
         <text>
             Expert Stalkers
@@ -134,8 +134,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_master_header">
         <text>
             Master Stalkers
@@ -151,8 +151,8 @@
             Maximum Condition
         </text>
     </string>
-    
-<!-- //// -->
+
+    <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_outfit_legend_header">
         <text>
             Legend Stalkers

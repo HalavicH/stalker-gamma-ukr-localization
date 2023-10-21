@@ -21,8 +21,8 @@
             Для запуску дистанційного лутингу підійдіть ближче до цілі
         </text>
     </string>
-    
-<!-- Контекстне меню на елементах -->
+
+    <!-- Контекстне меню на елементах -->
     <string id="st_auto_looter_enable_auto_disassemble">
         <text>
             Увімкнути auto-disassemble

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--< ALCOHOL >-->
+
+    <!--< ALCOHOL >-->
     <string id="st_vodka">
         <text>
             Горілка «Nemiroff»
@@ -98,8 +98,8 @@
           \n
         </text>
     </string>
-    
-<!--#< FOOD >-->
+
+    <!--#< FOOD >-->
     <string id="st_energy_drink">
         <text>
             Міцний енергетик (250 мл.)
@@ -595,8 +595,8 @@
           \n
         </text>
     </string>
-    
-<!--#< SMOKE >-->
+
+    <!--#< SMOKE >-->
     <string id="st_cuban_cigar">
         <text>
             Кубинські сигари
@@ -754,10 +754,9 @@
           \n
         </text>
     </string>
-    
-<!-- unused -->
-    
-<!--
+
+    <!-- unused -->
+    <!--
       <string id="st_vodka_1_radiated">
           <text>Putinka vodka (irradiated)</text>
       </string>

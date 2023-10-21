@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Categories -->
+
+    <!-- Categories -->
     <string id="xcvb_trade_mut_1">
         <text>
             Частини мутантів (звичайні)
@@ -82,8 +82,8 @@
             Медицина
         </text>
     </string>
-    
-<!-- for HUD -->
+
+    <!-- for HUD -->
     <string id="xcvb_trade_discount">
         <text>
             Знижки
@@ -109,8 +109,8 @@
             -
         </text>
     </string>
-    
-<!-- повідомлення -->
+
+    <!-- повідомлення -->
     <string id="xcvb_trade_trade">
         <text>
             (Торгівля)

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 14, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Default Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_default_task_name">
         <text>
             Отримати наступне завдання
@@ -36,10 +35,9 @@
             Бувай!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Sniper Storyline Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Sniper Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name">
         <text>
             Сама Вірна Дівчина - це СВД
@@ -71,10 +69,9 @@
             Відмінна влучність і відмінна робота.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Assault Enemy Camp Storyline Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Assault Enemy Camp Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
         <text>
             "Прийшов побачив переміг"
@@ -107,10 +104,9 @@
             Відмінна робота. Як ми їх, а! Нічого. Ми тут ще наведемо лад!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Defend Military Base Storyline Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Defend Military Base Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
         <text>
             Ні кроку назад!
@@ -141,10 +137,9 @@
             реакції і моніторити ситуацію...
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Save the Military Agent Storyline Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Save the Military Agent Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
         <text>
             Троянський кінь
@@ -198,10 +193,9 @@
             Ну що ж, тут наші шляхи розходяться. Дякую тобі. Сподіваюсь ще побачимось!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kirilov (Military Mechanic) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Kirilov (Military Mechanic) Default Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -224,10 +218,9 @@
             Ну, ні пуху, боєць!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kirilov (Military Mechanic) Battle Plans Storyline Task -->
+
+    <!-- # -->
+    <!-- Kirilov (Military Mechanic) Battle Plans Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
         <text>
             Військова справа
@@ -259,10 +252,9 @@
             Відмінно спрацьовано! Знай, братик, що ти врятував багато життів.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kirilov (Military Mechanic) Patrol Local Area Storyline Task -->
+
+    <!-- # -->
+    <!-- Kirilov (Military Mechanic) Patrol Local Area Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
         <text>
             патрулювання
@@ -300,10 +292,9 @@
             Хороша робота. Командир буде радий.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -312,10 +303,9 @@
       <!#	October 14, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_name">
         <text>
             Військова присяга
@@ -346,10 +336,9 @@
             спокійніше спати.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -358,10 +347,9 @@
       <!#	October 14, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name">
         <text>
             Злочин і кара
@@ -393,10 +381,9 @@
             Відмінна робота. Ти допоміг мені, а я - батьківщині. Всі залишилися задоволені.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Capture Territory Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Capture Territory Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
         <text>
             військовий суд
@@ -431,10 +418,9 @@
             Задача виконана? Відмінна робота. Я повідомлю наверх про твої успіхи.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
         <text>
             Наказано взяти живим або мертвим
@@ -464,10 +450,9 @@
             Добре відпрацював! У МВС будуть задоволені нашою роботою.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Kuznetsov (Military Honcho) Tight Security Task -->
+
+    <!-- # -->
+    <!-- Kuznetsov (Military Honcho) Tight Security Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
         <text>
             В бой идут одни сталкери
@@ -544,10 +529,9 @@
             провтикав противника, буде цілий тиждень розважальних пригод в нарядах.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# MECHANIC TASK TEXT  STRINGS
       <!#
@@ -556,10 +540,9 @@
       <!#	October 06, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- # -->
+    <!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
     <string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
         <text>
             Де прапорщики безсилі, ч.1
@@ -709,8 +692,8 @@
             верстата - я якщо не надто зайнятий буду, то й копійки не візьму з тебе.
         </text>
     </string>
-    
-<!-- (Military Medic) -->
+
+    <!-- (Military Medic) -->
     <string id="agr_1_6_medic_army_mlr_task_1_name">
         <text>
             Біль лікаря шукає

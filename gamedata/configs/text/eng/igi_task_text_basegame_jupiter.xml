@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
     <string id="igi_task_text_jup_b6_scientist_tech_1_title">
         <text>
             Дослідницька експедиція
@@ -97,10 +96,9 @@
           \nОсь обіцяна нагорода.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
     <string id="igi_task_text_jup_b6_scientist_tech_3_title">
         <text>
             Розум проти сили
@@ -142,10 +140,9 @@
             дослідженнями і вимірами у відносній тиші та безпеці. І все завдяки тобі.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
     <string id="igi_task_text_jup_b220_trapper_bs_assault_monster_online_title">
         <text>
             Мутанти проти хижака
@@ -218,8 +215,8 @@
             Дякую, мисливцю. Ось твоя нагорода:
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR HUNTSMAN TASK -->
+
+    <!-- FIND WEAPON FOR HUNTSMAN TASK -->
     <string id="igi_task_text_jup_b220_trapper_3_title">
         <text>
             Рушниця для мисливця - що сокира для тесляра
@@ -274,8 +271,8 @@
           \nА ось і гроші, які я обіцяв тобі.
         </text>
     </string>
-    
-<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
+
+    <!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
     <string id="igi_task_text_jup_b220_trapper_4_title">
         <text>
             Особливості національного полювання
@@ -318,8 +315,8 @@
             мисливцю.
         </text>
     </string>
-    
-<!-- Jup A6 Yar -->
+
+    <!-- Jup A6 Yar -->
     <string id="igi_task_text_jup_b19_freedom_yar_1_title">
         <text>
             Кур'єр
@@ -348,8 +345,8 @@
             Я доставив повідомлення.
         </text>
     </string>
-    
-<!-- (Екологи) -->
+
+    <!-- (Екологи) -->
     <string id="igi_task_text_jup_b6_scientist_nuclear_physicist_1_title">
         <text>
             Дослідження аномалій
@@ -398,8 +395,8 @@
             результатів стане достатньою...
         </text>
     </string>
-    
-<!-- Bonesetter (Loner Medic) -->
+
+    <!-- Bonesetter (Loner Medic) -->
     <string id="igi_task_text_jup_a6_stalker_medik_bs_fetch_drugkit_title">
         <text>
             Мануальна терапія

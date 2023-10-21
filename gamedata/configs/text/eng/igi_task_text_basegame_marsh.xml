@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_title">
         <text>
             Great Swamp Clean-up
@@ -28,10 +27,9 @@
             before they dare visit our Swamp again. I hope. Here's your reward, by the way.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Cold (Clear Sky Honcho) Night Terror Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Cold (Clear Sky Honcho) Night Terror Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_title">
         <text>
             Night Terror
@@ -58,10 +56,9 @@
             people'll tell.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_4_title">
         <text>
             Defend the pump station
@@ -75,10 +72,9 @@
             course.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
+
+    <!-- ######################################################################################### -->
+    <!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_title">
         <text>
             Unnatural Selection
@@ -193,10 +189,9 @@
             Great job! I own you big time.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Spore (Clear Sky Trader) Deliver PDA Task -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_title">
         <text>
             Deliver PDA to Nimble
@@ -215,8 +210,8 @@
             he has to offer; he can get his hands on some nice equipment... for a price.
         </text>
     </string>
-    
-<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+
+    <!-- DESTROY HELICOPTER FOR SPORE TASK -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_2_title">
         <text>
             Destroy the helicopter
@@ -236,8 +231,8 @@
             please, before I get somebody killed.
         </text>
     </string>
-    
-<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+
+    <!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_3_title">
         <text>
             Escort the Ecologists
@@ -262,8 +257,8 @@
             Thank you, stalker. You may have this as payment for your services.
         </text>
     </string>
-    
-<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+
+    <!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_bs_assault_monster_online_title">
         <text>
             Clear area of mutants
@@ -289,8 +284,8 @@
             safe there once again. Thank you, stalker.
         </text>
     </string>
-    
-<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+
+    <!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_2_title">
         <text>
             Assault the bandit camp
@@ -317,8 +312,8 @@
             safe there once again. Thank you, stalker.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+
+    <!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_3_title">
         <text>
             Procure mutant parts
@@ -351,8 +346,8 @@
             Great, you are a good hunter after all! I have payment for you.
         </text>
     </string>
-    
-<!-- ESCORT SCIENTISTS DIALOGS -->
+
+    <!-- ESCORT SCIENTISTS DIALOGS -->
     <string id="igi_task_text_ecolog_companion_1_start_dialog_1">
         <text>
             You are our guide? I will mark the location on your PDA. Lead the way, and we will

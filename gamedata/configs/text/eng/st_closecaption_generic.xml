@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Bandits -->
+
+    <!-- Bandits -->
     <string id="cc_generic-bandit-meet_hello_1">
         <text>
             Що нового?
@@ -107,8 +107,8 @@
             Або зброю в кишеню, або сам звалюй!
         </text>
     </string>
-    
-<!-- Clear Sky -->
+
+    <!-- Clear Sky -->
     <string id="cc_generic-csky-meet_hello_1">
         <text>
             Чого тобі, сталкер?
@@ -334,8 +334,8 @@
             Я тебе слухаю.
         </text>
     </string>
-    
-<!-- «Обов'язок» -->
+
+    <!-- «Обов'язок» -->
     <string id="cc_generic-dolg-meet_hello_1">
         <text>
             Які новини, сталкер?
@@ -466,8 +466,8 @@
             Прибери свою рушницю, тоді і розмова буде!
         </text>
     </string>
-    
-<!-- Ecologists -->
+
+    <!-- Ecologists -->
     <string id="cc_generic-ecolog-meet_hello_1">
         <text>
             Що скажеш?
@@ -558,8 +558,8 @@
             Е, ні, так не піде. Давай без зброї.
         </text>
     </string>
-    
-<!-- Freedom -->
+
+    <!-- Freedom -->
     <string id="cc_generic-freedom-meet_hello_1">
         <text>
             Що скажеш, брат?
@@ -685,8 +685,8 @@
             Ну не люблю я говорити під прицілом, чувак.
         </text>
     </string>
-    
-<!-- «Наёмники» -->
+
+    <!-- «Наёмники» -->
     <string id="cc_generic-killer-meet_hello_1">
         <text>
             Підходь. Я не кусаюсь.
@@ -792,8 +792,8 @@
             Сховай Волину, потім поговоримо.
         </text>
     </string>
-    
-<!-- «Военные» -->
+
+    <!-- «Военные» -->
     <string id="cc_generic-military-meet_hello_1">
         <text>
             Здоров.
@@ -884,8 +884,8 @@
             Зброю опусти, тоді поговоримо.
         </text>
     </string>
-    
-<!-- «Монолит» -->
+
+    <!-- «Монолит» -->
     <string id="cc_generic-monolith-meet_hello_1">
         <text>
             Нікому не вір, крім Моноліту і братів своїх. Нікому.
@@ -936,8 +936,8 @@
             Не хочу зараз розмовляти.
         </text>
     </string>
-    
-<!-- «Одиночки» -->
+
+    <!-- «Одиночки» -->
     <string id="cc_generic-stalker-meet_hello_1">
         <text>
             Ну привіт.

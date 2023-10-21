@@ -67,8 +67,8 @@
             Замінює загони з вимкненими мутантами на загони з увімкненими мутантами.
         </text>
     </string>
-    
-<!-- TYPES -->
+
+    <!-- TYPES -->
     <string id="ui_mcm_SMR_smr_mutants_dogp">
         <text>
             Собаки
@@ -164,8 +164,8 @@
             Зомбі
         </text>
     </string>
-    
-<!-- UNUSED -->
+
+    <!-- UNUSED -->
     <string id="ui_mcm_smr_mutants_unused_title">
         <text>
             Unused Mutants

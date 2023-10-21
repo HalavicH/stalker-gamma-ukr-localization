@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--
+
+    <!--
     messages are constructed based on scenarios #> parts #> variants
     1. scenario is a message template, used to represent some sort of topic
     2. parts are what construct the message
@@ -12,8 +12,8 @@
 
     You can have as many scenarios, parts and variants you want. Make sure to follow the numeric values without a break (1 followed by 3 will make the script ignore the 3)
 -->
-    
-<!-- stash # found a stash by accident -->
+
+    <!-- stash # found a stash by accident -->
     <string id="st_msg_stash_title_1_1">
         <text>
             Знайшов схованку
@@ -402,8 +402,8 @@
             Я зайві речі скинув і вже рухаю до координат, так що наздоганяй. Не боїсь, зачекаю.
         </text>
     </string>
-    
-<!-- Death of a friend # buried stash or just mournful message -->
+
+    <!-- Death of a friend # buried stash or just mournful message -->
     <string id="st_msg_death_title_1_1">
         <text>
             Втратили чоловіка...
@@ -705,8 +705,8 @@
             Навіть не знаю, що братові його тепер сказати.
         </text>
     </string>
-    
-<!-- map route # got info from someone on route-->
+
+    <!-- map route # got info from someone on route-->
     <string id="st_msg_map_title_1_1">
         <text>
             Приватна інформація
@@ -937,8 +937,8 @@
             схожого, то й мені кидай теж.
         </text>
     </string>
-    
-<!-- RF source # caught a signal by accident -->
+
+    <!-- RF source # caught a signal by accident -->
     <string id="st_msg_rf_title_1_1">
         <text>
             Радіосигнали!
@@ -1146,8 +1146,8 @@
             брате.
         </text>
     </string>
-    
-<!-- Chitchat # you took stuff from me -->
+
+    <!-- Chitchat # you took stuff from me -->
     <string id="st_msg_chitchat_title_1_1">
         <text>
             З тебе хавчик
@@ -1581,8 +1581,8 @@
             подумай!
         </text>
     </string>
-    
-<!-- Chitchat # trolling -->
+
+    <!-- Chitchat # trolling -->
     <string id="st_msg_joke_title_1_1">
         <text>
             За тебе бабки хороші пропонують
@@ -1966,8 +1966,8 @@
             бродили. Не впевнений.
         </text>
     </string>
-    
-<!-- Mission # target -->
+
+    <!-- Mission # target -->
     <string id="st_msg_mission_target_title_1_1">
         <text>
             Доповідь
@@ -2279,8 +2279,8 @@
             Чекаю подальших вказівок.
         </text>
     </string>
-    
-<!-- Mission # guard -->
+
+    <!-- Mission # guard -->
     <string id="st_msg_mission_guard_title_1_1">
         <text>
             Туга несусвітня
@@ -2591,8 +2591,8 @@
             поршнями там.
         </text>
     </string>
-    
-<!-- Mission # mutant hunt -->
+
+    <!-- Mission # mutant hunt -->
     <string id="st_msg_mission_hunt_title_1_1">
         <text>
             Безкоштовне м'ясо
@@ -2960,8 +2960,8 @@
             мою думку, взагалі щось уже протухло...
         </text>
     </string>
-    
-<!-- Mission # raid -->
+
+    <!-- Mission # raid -->
     <string id="st_msg_mission_raid_title_1_1">
         <text>
             Готуємо рейд
@@ -3096,8 +3096,8 @@
             Нам би ствол ще один, щоб вони на місці обосрались. Підкотиш до нас?
         </text>
     </string>
-    
-<!-- Mission # bounty -->
+
+    <!-- Mission # bounty -->
     <string id="st_msg_mission_bounty_title_1_1">
         <text>
             Замовлення нове
@@ -3421,8 +3421,8 @@
             забудь під розпал чого, бо мені нервів не вистачить стільки часу багаття розводити...
         </text>
     </string>
-    
-<!-- Mission # artefact -->
+
+    <!-- Mission # artefact -->
     <string id="st_msg_mission_artefact_title_1_1">
         <text>
             Зона благоволіє
@@ -3861,8 +3861,8 @@
             Ля, краса яка! Ти бачив би тільки!
         </text>
     </string>
-    
-<!-- Mission # anomaly study -->
+
+    <!-- Mission # anomaly study -->
     <string id="st_msg_mission_anomaly_title_1_1">
         <text>
             Експедиція

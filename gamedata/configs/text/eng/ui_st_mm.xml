@@ -354,8 +354,8 @@
         <text>
             Збереження: багаття
         </text>
-        
-<!--
+
+        <!--
             edited
         -->
     </string>
@@ -379,8 +379,8 @@
             «Життя після життя»
         </text>
     </string>
-    
-<!-- New -->
+
+    <!-- New -->
     <string id="ui_mm_character_name">
         <text>
             Ім'я персонажа

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Mutant -->
+
+    <!-- Mutant -->
     <string id="igi_task_text_gt_zombie">
         <text>
             Зомбі
@@ -62,8 +62,8 @@
             Псевдогігант
         </text>
     </string>
-    
-<!-- Heavy -->
+
+    <!-- Heavy -->
     <string id="igi_task_text_gt_heavy">
         <text>
             Досвідчений сталкер

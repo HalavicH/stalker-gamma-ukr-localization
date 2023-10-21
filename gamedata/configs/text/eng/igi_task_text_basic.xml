@@ -5,8 +5,8 @@
             Job done. Time to return to task giver.
         </text>
     </string>
-    
-<!-- basic text -->
+
+    <!-- basic text -->
     <string id="igi_task_text_title">
         <text>
             Igi Tasks: Title not found
@@ -27,8 +27,8 @@
             Igi Tasks: Finish not found, but congrats anyway
         </text>
     </string>
-    
-<!-- UI -->
+
+    <!-- UI -->
     <string id="igi_task_text_targets">
         <text>
             Target

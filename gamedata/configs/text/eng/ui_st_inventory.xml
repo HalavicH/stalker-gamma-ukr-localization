@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Sorter -->
+
+    <!-- Sorter -->
     <string id="ui_st_tab_all">
         <text>
             Все спорядження (1)
@@ -52,8 +52,8 @@
             Різне (10)
         </text>
     </string>
-    
-<!-- Loot mode -->
+
+    <!-- Loot mode -->
     <string id="ui_st_put_all">
         <text>
             Скласти все
@@ -74,8 +74,8 @@
             Взяти всі предмети в рюкзак (SHIFT + T)
         </text>
     </string>
-    
-<!-- Trade mode -->
+
+    <!-- Trade mode -->
     <string id="ui_total_price">
         <text>
             Разом:
@@ -121,8 +121,8 @@
             Предмет в занадто поганому стані для продажу.
         </text>
     </string>
-    
-<!-- Upgrade mode -->
+
+    <!-- Upgrade mode -->
     <string id="ui_st_inv_repair">
         <text>
             Ремонт
@@ -133,8 +133,8 @@
             Відремонтувати обрані предмети
         </text>
     </string>
-    
-<!-- Quick use items -->
+
+    <!-- Quick use items -->
     <string id="quick_use_str_1">
         <text>
             $$ACTION_QUICK_USE_1$$
@@ -155,8 +155,8 @@
             $$ACTION_QUICK_USE_4$$
         </text>
     </string>
-    
-<!-- Item Properties -->
+
+    <!-- Item Properties -->
     <string id="st_activate_artefact">
         <text>
             Активувати артефакт
@@ -427,8 +427,8 @@
             встановити: таймер на 30 сек.
         </text>
     </string>
-    
-<!-- Units -->
+
+    <!-- Units -->
     <string id="st_perc">
         <text>
             %
@@ -554,8 +554,8 @@
             секунд
         </text>
     </string>
-    
-<!-- Player states -->
+
+    <!-- Player states -->
     <string id="st_ui_main_sensor">
         <text>
             Іонізуюче радіаційне отруєння
@@ -959,8 +959,8 @@
             внутрішніх органів. , , , , ,
         </text>
     </string>
-    
-<!-- Item description-->
+
+    <!-- Item description-->
     <string id="st_cap_old">
         <text>
             Непридатні.
@@ -1401,8 +1401,8 @@
             може бути використано на верстаті для установки модифікацій
         </text>
     </string>
-    
-<!-- Others -->
+
+    <!-- Others -->
     <string id="ui_inv_ammo_pistol">
         <text>
             Купити базові патрони для пістолета (Q)
@@ -1673,8 +1673,8 @@
             колишнє
         </text>
     </string>
-    
-<!-- Messages -->
+
+    <!-- Messages -->
     <string id="st_news_dis_items">
         <text>
             %c[d_red] Потрібно відповідний інструмент.
@@ -1920,8 +1920,8 @@
             Доступне паливо
         </text>
     </string>
-    
-<!-- Workshop-->
+
+    <!-- Workshop-->
     <string id="st_tab_state">
         <text>
             СТАН
@@ -2295,8 +2295,8 @@
             Для установки обраної модифікації необхідно мати «%s»
         </text>
     </string>
-    
-<!--string id="st_ui_workshop_no_upgr_3">
+
+    <!--string id="st_ui_workshop_no_upgr_3">
           <text>The condition of this item is critical for this upgrade to be installed.</text>
       </string-->
     <string id="st_ui_workshop_no_upgr_3">

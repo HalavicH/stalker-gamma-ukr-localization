@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Jammin -->
+
+    <!-- Jammin -->
     <string id="kb_unjam">
         <text>
             Прибрати Клин
@@ -77,8 +77,8 @@
             Прибрати Клин
         </text>
     </string>
-    
-<!-- Messages -->
+
+    <!-- Messages -->
     <string id="st_news_parts_success">
         <text>
             %c[d_green]Деталь успішно замінена.
@@ -120,8 +120,8 @@
             Очищені деталі:
         </text>
     </string>
-    
-<!-- MCM -->
+
+    <!-- MCM -->
     <string id="ui_mcm_menu_wpo">
         <text>
             Weapon Parts Overhaul
@@ -451,8 +451,8 @@
           \n
         </text>.
 	</string>
-    
-<!-- Info -->
+
+    <!-- Info -->
     <string id="st_dot">
         <text>
             -

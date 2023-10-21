@@ -5,10 +5,9 @@
             Розвідка
         </text>
     </string>
-    
-<!-- Cold -->
-    
-<!-- mar_smart_terrain_base_stalker_leader_marsh_arszi_scout -->
+
+    <!-- Cold -->
+    <!-- mar_smart_terrain_base_stalker_leader_marsh_arszi_scout -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_arszi_scout_title">
         <text>
             Розвідати місцевість на Болоті.
@@ -34,10 +33,9 @@
             Так, що ти знайшов? Бачу ... Дякую за роботу, ось твоя нагорода!
         </text>
     </string>
-    
-<!-- Fanatic -->
-    
-<!-- esc_2_12_stalker_fanat_arszi_scout -->
+
+    <!-- Fanatic -->
+    <!-- esc_2_12_stalker_fanat_arszi_scout -->
     <string id="igi_task_text_esc_2_12_stalker_fanat_arszi_scout_title">
         <text>
             Розвідати місцевість навколо Села Новачків
@@ -65,10 +63,9 @@
             нагорода, як і було обіцяно!
         </text>
     </string>
-    
-<!-- Генерал Воронін -->
-    
-<!-- bar_dolg_leader_arszi_scout -->
+
+    <!-- Генерал Воронін -->
+    <!-- bar_dolg_leader_arszi_scout -->
     <string id="igi_task_text_bar_dolg_leader_arszi_scout_title">
         <text>
             Розвідати місцевість навколо заводу "Росток".
@@ -95,10 +92,9 @@
             Хороша робота, ця інформація просуне наші плани. Ось твоя нагорода.
         </text>
     </string>
-    
-<!-- Sultan -->
-    
-<!-- zat_b7_bandit_boss_sultan_arszi_scout -->
+
+    <!-- Sultan -->
+    <!-- zat_b7_bandit_boss_sultan_arszi_scout -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_arszi_scout_title">
         <text>
             Розвідати місцевість навколо укриття.
@@ -128,10 +124,9 @@
             справ!
         </text>
     </string>
-    
-<!-- Майор Кузнецов -->
-    
-<!-- agr_smart_terrain_1_6_near_2_military_colonel_kovalski_arszi_scout -->
+
+    <!-- Майор Кузнецов -->
+    <!-- agr_smart_terrain_1_6_near_2_military_colonel_kovalski_arszi_scout -->
     <string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_arszi_scout_title">
         <text>
             Розвідати місцевість навколо військової бази.
@@ -156,10 +151,9 @@
             Значить, така ситуація. Молодець, солдате! Ось твоя нагорода і трохи зайвого.
         </text>
     </string>
-    
-<!-- Лукаш -->
-    
-<!-- mil_smart_terrain_7_7_freedom_leader_stalker_arszi_scout -->
+
+    <!-- Лукаш -->
+    <!-- mil_smart_terrain_7_7_freedom_leader_stalker_arszi_scout -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_arszi_scout_title">
         <text>
             Розвідати місцевість біля Складів.
@@ -185,10 +179,9 @@
             Схоже на затишшя перед бурею. Дякую, ми вдячні тобі за допомогу.
         </text>
     </string>
-    
-<!-- Душман -->
-    
-<!-- cit_killers_merc_trader_stalker_arszi_scout -->
+
+    <!-- Душман -->
+    <!-- cit_killers_merc_trader_stalker_arszi_scout -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_arszi_scout_title">
         <text>
             Розвідати місцевість навколо Мертвого Міста.
@@ -212,10 +205,9 @@
             Молодець! Ось твоя нагорода і дещо на додачу.
         </text>
     </string>
-    
-<!-- Krolik -->
-    
-<!-- pri_monolith_monolith_trader_stalker_arszi_scout -->
+
+    <!-- Krolik -->
+    <!-- pri_monolith_monolith_trader_stalker_arszi_scout -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_arszi_scout_title">
         <text>
             Розвідати місцевість навколо Прип'яті.

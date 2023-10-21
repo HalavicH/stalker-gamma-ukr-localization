@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
+
+    <!-- ######################################################################################### -->
+    <!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_title">
         <text>
             Clear area of mutants
@@ -26,8 +25,8 @@
             Haha! Well done, stalker! Have a drink on Beard!
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR BEARD TASK -->
+
+    <!-- FIND ARTEFACT FOR BEARD TASK -->
     <string id="igi_task_text_zat_a2_stalker_barmen_2_title">
         <text>
             Find the Artefact for Beard
@@ -55,8 +54,8 @@
             Good hunting, stalker! Have a drink on the house!
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR BEARD TASK -->
+
+    <!-- ASSASSINATION FOR BEARD TASK -->
     <string id="igi_task_text_zat_a2_stalker_barmen_3_title">
         <text>
             My Brother's Keeper
@@ -80,8 +79,8 @@
             Ah, you killed him? Help yourself to a drink. I'm sure we could all do with one...
         </text>
     </string>
-    
-<!-- Noah -->
+
+    <!-- Noah -->
     <string id="igi_task_text_noah_2_1">
         <text>
             Benefactor: get in the teleporter anomaly on the hill
@@ -139,8 +138,8 @@
             That's what I'm talking about! Here's your money.
         </text>
     </string>
-    
-<!-- Axel (Loner Medic) -->
+
+    <!-- Axel (Loner Medic) -->
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_title">
         <text>
             Find drug-making kit for Axel

@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
     <string id="igi_task_text_esc_m_trader_1_title">
         <text>
             Assault the Car Park
@@ -56,10 +55,9 @@
             never be said that uncle Sidorovich doesn't reward good work.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
     <string id="igi_task_text_esc_m_trader_3_title">
         <text>
             Mobbing the Mob
@@ -97,10 +95,9 @@
             handle the rest.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Wolf (Loner Honcho) -->
+
+    <!-- ######################################################################################### -->
+    <!-- Wolf (Loner Honcho) -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_bs_assault_monster_online_title">
         <text>
             Eliminate the Mutant Threat from Cordon
@@ -128,10 +125,9 @@
             payment.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_2_title">
         <text>
             Rescue the Courier
@@ -159,10 +155,9 @@
             Here's your reward.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_3_title">
         <text>
             Tourist Safari
@@ -192,10 +187,9 @@
             for you, here's your cut.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Nimble (Loner Trader) Find Weapon Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Nimble (Loner Trader) Find Weapon Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_title">
         <text>
             Find the gun
@@ -227,10 +221,9 @@
             Here is what I owe you.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_title">
         <text>
             Retrieve PDA for Nimble
@@ -252,10 +245,9 @@
             Thank you stalker!
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- (Military Trader # Southern Outpost) -->
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- (Military Trader # Southern Outpost) -->
     <string id="igi_task_text_esc_3_16_military_trader_bs_fetch_patches_title">
         <text>
             Cordon Crackdown
@@ -279,8 +271,8 @@
             commendation and be proud today.
         </text>
     </string>
-    
-<!-- Fanatic -->
+
+    <!-- Fanatic -->
     <string id="igi_task_text_esc_2_12_stalker_fanat_bs_assault_monster_online_title">
         <text>
             Destroy the Mutant Lair
@@ -342,8 +334,8 @@
             ordinary life out there. Thank you, stalker.
         </text>
     </string>
-    
-<!-- Seryoga -->
+
+    <!-- Seryoga -->
     <string id="igi_task_text_army_south_mechan_mlr_4_job_descr">
         <text>
             Some jackass keeps shooting at the speaker, I have no idea if it's some stalker from

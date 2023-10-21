@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Default Storyline Task -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -35,10 +34,9 @@
             Удачі, сталкер.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Assassination Storyline Task# -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Assassination Storyline Task# -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
         <text>
             Вбивство для Лукаша
@@ -60,10 +58,9 @@
             Дякую.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
         <text>
             «Воля» проти «Моноліту»
@@ -87,10 +84,9 @@
             Відмінна робота.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Search Lab X#8 (Outskirts) Storyline Task -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Search Lab X#8 (Outskirts) Storyline Task -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
         <text>
             Дослідження X-8
@@ -116,10 +112,9 @@
             Добре. Відмінна робота.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -128,8 +123,8 @@
       <!#	December 08, 2016
       <!#
       <!# # -->
-    
-<!-- Пропущенный диалог Лукаша -->
+
+    <!-- Пропущенный диалог Лукаша -->
     <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
         <text>
             З диким вітром нарівні
@@ -162,10 +157,9 @@
           \nОсь і добре!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
         <text>
             З диким вітром нарівні
@@ -198,10 +192,9 @@
           \nОт і добре!
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -210,10 +203,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+
+    <!-- # -->
+    <!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
         <text>
             Знищити противника
@@ -298,8 +290,8 @@
             особисте прохання.
         </text>
     </string>
-    
-<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+
+    <!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
         <text>
             Смерть зрадникам
@@ -325,8 +317,8 @@
             я обіцяв:
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR FREEDOM TASK -->
+
+    <!-- FIND WEAPON FOR FREEDOM TASK -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
         <text>
             Вільний обіг зброї
@@ -361,8 +353,8 @@
             Дякую за зброю. А ось і гроші, як я і обіцяв.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
+
+    <!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
         <text>
             Ковбой
@@ -394,8 +386,8 @@
             Ось тримай. Дякую чоловіче.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+
+    <!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
         <text>
             Гей, бро! Пам'ятаєш тих поїхавших фанатиків? Настирливі що свідки Єгови, хіба що
@@ -409,8 +401,8 @@
             Ха! Я знав, що Рембо наш їх всіх зробить! Ось, чуваче, тримай заслужену нагороду.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+
+    <!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
     <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
         <text>
             Воля в неволі
@@ -494,12 +486,10 @@
             би там не було, для цієї справи тобі знадобиться хороший запас вибухівки.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Skinflint (Freedom Mechanic) -->
-    
-<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+
+    <!-- # -->
+    <!-- Skinflint (Freedom Mechanic) -->
+    <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
     <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
         <text>
             Полювання на дичину
@@ -538,10 +528,9 @@
             От дякую, чувак, ну виручив! Ось тримай. Вже чим багатий.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+
+    <!-- # -->
+    <!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
     <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
         <text>
             Цілком легальна робота
@@ -569,10 +558,9 @@
             Дякую, сталкер! Приємно з тобою працювати.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Skinflint (Freedom Trader)\night Terror Task -->
+
+    <!-- # -->
+    <!-- Skinflint (Freedom Trader)\night Terror Task -->
     <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
         <text>
             Вечори на хуторі
@@ -598,10 +586,9 @@
             Ха! Одним геморой менше. Молодець! А тепер, мабуть, треба хильнути за помста хлопців.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+
+    <!-- # -->
+    <!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
     <string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
         <text>
             Дефіцит припасів
@@ -649,10 +636,9 @@
             батарейок. Не турбуйся, за це тобі перепаде бонус. Ну що, в темі?
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# MECHANIC TASK TEXT  STRINGS
       <!#
@@ -661,10 +647,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- # -->
+    <!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
     <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
         <text>
             Справа майстра боїться, ч.1
@@ -783,12 +768,10 @@
             спочатку, добре?
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Defend the barrier -->
-    
-<!-- # -->
+
+    <!-- # -->
+    <!-- Defend the barrier -->
+    <!-- # -->
     <string id="barrier_defense_monolith_announce">
         <text>
             Увага всім сталкерам! Великий загін монолітовців наближається до «Барьеру», будемо
@@ -1004,8 +987,8 @@
             Все почалося! Давайте-давайте, хлопці. Ворушіть поршнями!
         </text>
     </string>
-    
-<!-- Solid (Freedom Medic) -->
+
+    <!-- Solid (Freedom Medic) -->
     <string id="mil_freedom_medic_task_1_name">
         <text>
             Всі трави одного кольору

@@ -5,16 +5,16 @@
             Stash Loot
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_stashloot_general_info">
         <text>
             The options below add a chance to find extra items in stashes. Hovering your cursor
             on settings gives additionnal informations for the settings.
         </text>
     </string>
-    
-<!-- PDA STASH MESSAGES -->
+
+    <!-- PDA STASH MESSAGES -->
     <string id="ui_mcm_ZML_zml_stashloot_send_message">
         <text>
             Show PDA notification
@@ -90,8 +90,8 @@
             Found a device
         </text>
     </string>
-    
-<!-- STASH LOOT -->
+
+    <!-- STASH LOOT -->
     <string id="ui_mcm_ZML_zml_stashloot_stash_spawn">
         <text>
             Find extra items in stashes (main)
@@ -107,10 +107,9 @@
             Chance to find extra items in stashes.
         </text>
     </string>
-    
-<!-- ITEMS -->
-    
-<!-- REPAIR KIT -->
+
+    <!-- ITEMS -->
+    <!-- REPAIR KIT -->
     <string id="ui_mcm_ZML_zml_stashloot_repair_spawn">
         <text>
             Spawn repair kits
@@ -132,8 +131,8 @@
             Chance to find repair kits.
         </text>
     </string>
-    
-<!-- AMMO -->
+
+    <!-- AMMO -->
     <string id="ui_mcm_ZML_zml_stashloot_ammo_spawn">
         <text>
             Spawn extra ammo
@@ -179,8 +178,8 @@
             Amount multiplier of ammo found.
         </text>
     </string>
-    
-<!-- MEDS -->
+
+    <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_stashloot_meds_spawn">
         <text>
             Spawn medical items
@@ -202,8 +201,8 @@
             Chance to find medical items.
         </text>
     </string>
-    
-<!-- DRUG -->
+
+    <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_stashloot_drug_spawn">
         <text>
             Spawn drug items.
@@ -225,8 +224,8 @@
             Chance to find drug items.
         </text>
     </string>
-    
-<!-- FOOD -->
+
+    <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_stashloot_food_spawn">
         <text>
             Spawn food items
@@ -247,8 +246,8 @@
             Chance to find food items.
         </text>
     </string>
-    
-<!-- DRINK -->
+
+    <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_stashloot_drink_spawn">
         <text>
             Spawn drink items
@@ -269,8 +268,8 @@
             Chance to find drink items.
         </text>
     </string>
-    
-<!-- DEVICE  -->
+
+    <!-- DEVICE  -->
     <string id="ui_mcm_ZML_zml_stashloot_device_spawn">
         <text>
             Spawn device items
@@ -292,8 +291,8 @@
             Chance to find device items.
         </text>
     </string>
-    
-<!-- TOOL  -->
+
+    <!-- TOOL  -->
     <string id="ui_mcm_ZML_zml_stashloot_tool_spawn">
         <text>
             Spawn tool items
@@ -315,8 +314,8 @@
             Chance to find tool items.
         </text>
     </string>
-    
-<!-- CONTAINER -->
+
+    <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_stashloot_container_spawn">
         <text>
             Spawn container items
@@ -338,8 +337,8 @@
             Chance to find container items.
         </text>
     </string>
-    
-<!-- LOOTBOXES -->
+
+    <!-- LOOTBOXES -->
     <string id="ui_mcm_ZML_zml_stashloot_zzlootbox_spawn">
         <text>
             Anomaly Lootboxes (toggle spawn in integration)
@@ -360,10 +359,9 @@
             Chance to find lootboxes.
         </text>
     </string>
-    
-<!-- POTIONS TEST -->
-    
-<!--	
+
+    <!-- POTIONS TEST -->
+    <!--	
     <string id="ui_mcm_ZML_zml_stashloot_potion_spawn">
 		<text>Spawn potion items</text>
 	</string>
@@ -383,8 +381,8 @@
 		<text>Change the amount of Potion items found in stash boxes.</text>
 	</string>
 	-->
-    
-<!-- FACTION -->
+
+    <!-- FACTION -->
     <string id="ui_mcm_ZML_zml_stashloot_faction_spawn">
         <text>
             Spawn faction-specific items

@@ -36,8 +36,8 @@
             Ворог тримає дистанцію
         </text>
     </string>
-    
-<!-- ZOMBIE TYPES -->
+
+    <!-- ZOMBIE TYPES -->
     <string id="ui_mcm_smr_zombies_zombie_types_title">
         <text>
             Варіанти зомбі

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--COMMON-->
+
+    <!--COMMON-->
     <string id="st_mag_weapon_jammed">
         <text>
             Зброя заклинила
@@ -38,8 +38,8 @@
             переоснащенням.
         </text>
     </string>
-    
-<!-- MCM -->
+
+    <!-- MCM -->
     <string id="ui_mcm_menu_magazines">
         <text>
             Магазини
@@ -411,8 +411,8 @@
             Множник кількості боєприпасів для магазинів, викинутих NPC.
         </text>
     </string>
-    
-<!--MAGAZINES-->
+
+    <!--MAGAZINES-->
     <string id="st_dot">
         <text>
             •

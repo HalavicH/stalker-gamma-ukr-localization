@@ -982,8 +982,8 @@
             ВОГ-25
         </text>
     </string>
-    
-<!-- Bad Ammo Addon-->
+
+    <!-- Bad Ammo Addon-->
     <string id="ammo-11.43x23-fmj_bad">
         <text>
             Патрони .45 ACP (старі)
@@ -1394,8 +1394,8 @@
             Снаряди 12,7х55 мм СЦ-130 АП (з пошкодженням)
         </text>
     </string>
-    
-<!-- Bad Ammo Addon-->
+
+    <!-- Bad Ammo Addon-->
     <string id="ammo-12x70-buck_self">
         <text>
             Гільзи саморобні 12х70

@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_title">
         <text>
             Contract killer
@@ -27,8 +26,8 @@
             It is done? Great. Here's your percentage.
         </text>
     </string>
-    
-<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+
+    <!-- ASSAULT TERRITORY FOR MERCS TASK -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_2_title">
         <text>
             Assault territory
@@ -50,10 +49,9 @@
             Excellent work. Here's your paycheck.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_title">
         <text>
             Capture enemy documents
@@ -75,10 +73,9 @@
             Good job.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!##
 	<!## MECHANIC TASK TEXT  STRINGS
 	<!##
@@ -87,10 +84,9 @@
 	<!##	October 07, 2016
 	<!##
 	<!## ######################################################################################### -->
-    
-<!-- ######################################################################################### -->
-    
-<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_title">
         <text>
             Find Basic tools for Hog
@@ -176,8 +172,8 @@
             It's got everything I need. Thank you.
         </text>
     </string>
-    
-<!-- Aslan (Barman) -->
+
+    <!-- Aslan (Barman) -->
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_title">
         <text>
             Eliminate the target
@@ -298,8 +294,8 @@
             Here's the payment, keep up the good work.
         </text>
     </string>
-    
-<!-- Surgeon (Mercenary Medic) -->
+
+    <!-- Surgeon (Mercenary Medic) -->
     <string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_title">
         <text>
             Find a Drug-making kit for Surgeon

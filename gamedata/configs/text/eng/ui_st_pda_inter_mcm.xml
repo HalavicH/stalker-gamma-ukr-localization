@@ -5,8 +5,8 @@
             ПДА інтерактив
         </text>
     </string>
-    
-<!-- Keybind -->
+
+    <!-- Keybind -->
     <string id="ui_mcm_menu_pda_keys">
         <text>
             Клавіша
@@ -22,8 +22,8 @@
             Клавіша
         </text>
     </string>
-    
-<!-- RAID -->
+
+    <!-- RAID -->
     <string id="ui_mcm_menu_pda_raid">
         <text>
             Рейд
@@ -54,8 +54,8 @@
             Чим менше це значення, тим менша ціна дорогих сквадів.
         </text>
     </string>
-    
-<!-- FIND -->
+
+    <!-- FIND -->
     <string id="ui_mcm_menu_pda_info">
         <text>
             Інформація
@@ -97,8 +97,8 @@
             Базова ціна
         </text>
     </string>
-    
-<!-- GAMES -->
+
+    <!-- GAMES -->
     <string id="ui_mcm_menu_pda_games">
         <text>
             Ігри
@@ -119,8 +119,8 @@
             Слоти ставки
         </text>
     </string>
-    
-<!-- TRADE -->
+
+    <!-- TRADE -->
     <string id="ui_mcm_menu_pda_trade">
         <text>
             Торгівля
@@ -169,8 +169,8 @@
             торговці.
         </text>
     </string>
-    
-<!-- Comms -->
+
+    <!-- Comms -->
     <string id="ui_mcm_menu_pda_banter">
         <text>
             Спілкування
@@ -211,8 +211,8 @@
             Максимальна кількість загонів, які можуть відгукнутися.
         </text>
     </string>
-    
-<!-- Tasks -->
+
+    <!-- Tasks -->
     <string id="ui_mcm_menu_pda_tasks">
         <text>
             Завдання
@@ -270,8 +270,8 @@
             виконане.
         </text>
     </string>
-    
-<!-- mutant -->
+
+    <!-- mutant -->
     <string id="ui_mcm_pda_inter_tasks_mutants_header">
         <text>
             Полювання на мутантів
@@ -287,8 +287,8 @@
             Радіус для мети "Полювання на мутантів"
         </text>
     </string>
-    
-<!-- bounty -->
+
+    <!-- bounty -->
     <string id="ui_mcm_pda_inter_tasks_bounty_header">
         <text>
             Нагорода за голову
@@ -304,8 +304,8 @@
             Радіус для мети "Нагорода за голову"
         </text>
     </string>
-    
-<!-- guide -->
+
+    <!-- guide -->
     <string id="ui_mcm_pda_inter_tasks_guide_header">
         <text>
             Провідник
@@ -321,8 +321,8 @@
             Множина часу завдання Провідник
         </text>
     </string>
-    
-<!-- fetch items -->
+
+    <!-- fetch items -->
     <string id="ui_mcm_pda_inter_tasks_items_header">
         <text>
             Знайти предмети
@@ -333,8 +333,8 @@
             Множина нагороди
         </text>
     </string>
-    
-<!-- squad -->
+
+    <!-- squad -->
     <string id="ui_mcm_pda_inter_tasks_squad_header">
         <text>
             Небезпечний загін
@@ -350,8 +350,8 @@
             Радіус для мети "Небезпечний загін"
         </text>
     </string>
-    
-<!-- stealth -->
+
+    <!-- stealth -->
     <string id="ui_mcm_pda_inter_tasks_stealth_header">
         <text>
             Вкрасти предмет
@@ -362,8 +362,8 @@
             Множина нагороди
         </text>
     </string>
-    
-<!-- guard -->
+
+    <!-- guard -->
     <string id="ui_mcm_pda_inter_tasks_guard_header">
         <text>
             Охорона позиції
@@ -374,8 +374,8 @@
             Множина нагороди
         </text>
     </string>
-    
-<!-- scout -->
+
+    <!-- scout -->
     <string id="ui_mcm_pda_inter_tasks_scout_header">
         <text>
             Розвідка
@@ -386,8 +386,8 @@
             Множина нагороди
         </text>
     </string>
-    
-<!-- Incoming -->
+
+    <!-- Incoming -->
     <string id="ui_mcm_menu_pda_inc">
         <text>
             Вхідні повідомлення
@@ -428,8 +428,8 @@
             "1" зробить схованки єдиною нагородою за допомогу.
         </text>
     </string>
-    
-<!-- Debug -->
+
+    <!-- Debug -->
     <string id="ui_mcm_menu_pda_debug">
         <text>
             Різне/Дебаг

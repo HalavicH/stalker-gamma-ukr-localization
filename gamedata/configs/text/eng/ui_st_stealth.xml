@@ -10,8 +10,8 @@
             Стелс
         </text>
     </string>
-    
-<!-- MAIN -->
+
+    <!-- MAIN -->
     <string id="ui_mcm_stealth_header_main">
         <text>
             Основні
@@ -117,8 +117,8 @@
           \n За замовчуванням: 1
         </text>
     </string>
-    
-<!-- HUD -->
+
+    <!-- HUD -->
     <string id="ui_mcm_stealth_header_hud">
         <text>
             HUD
@@ -161,8 +161,8 @@
             Положення іконки Y
         </text>
     </string>
-    
-<!-- Patches -->
+
+    <!-- Patches -->
     <string id="ui_mcm_stealth_header_patches">
         <text>
             Патчі
@@ -178,8 +178,8 @@
             Рекомендується увімкнути якщо використовуєте погодний аддон від Мічіко.
         </text>
     </string>
-    
-<!-- Debug -->
+
+    <!-- Debug -->
     <string id="ui_mcm_stealth_header_debug">
         <text>
             Дебаг

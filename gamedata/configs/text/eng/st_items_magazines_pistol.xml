@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--
+
+    <!--
 Pistols and MP's
 -->
     <string id="st_mag_aps_9x18_fmj">
@@ -378,8 +378,8 @@ Pistols and MP's
             Стандартний магазин Walther P99 на 16 патронів для 9x19 Parabellum.
         </text>
     </string>
-    
-<!-- begin smgs -->
+
+    <!-- begin smgs -->
     <string id="st_mag_bizon_9x18_fmj">
         <text>
             Стандартний магазин 9x18 PP-19

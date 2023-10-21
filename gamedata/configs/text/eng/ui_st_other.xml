@@ -738,8 +738,8 @@
             Зберегтися
         </text>
     </string>
-    
-<!-- Miscellaneous -->
+
+    <!-- Miscellaneous -->
     <string id="st_ui_selected">
         <text>
             Вибрано
@@ -822,8 +822,8 @@
             1234567890
         </text>
     </string>
-    
-<!-- valid symbols only -->
+
+    <!-- valid symbols only -->
     <string id="st_trx_output_symbols">
         <text>
             1234567890
@@ -834,15 +834,15 @@
             1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.
         </text>
     </string>
-    
-<!-- valid symbols only -->
+
+    <!-- valid symbols only -->
     <string id="st_trx_output_symbols_full">
         <text>
             1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.
         </text>
     </string>
-    
-<!-- Unused -->
+
+    <!-- Unused -->
     <string id="selfroll_making">
         <text>
             I'm rolling the leaves, won't take long.
@@ -883,8 +883,8 @@
             The cartridges are done.
         </text>
     </string>
-    
-<!-- New RC18 -->
+
+    <!-- New RC18 -->
     <string id="st_fast_travel_discovered">
         <text>
             : точка відкрита

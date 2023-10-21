@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- PDA MESSAGES -->
+
+    <!-- PDA MESSAGES -->
     <string id="tb_anon_sender">
         <text>
             "Анонімно"
         </text>
     </string>
-    
-<!-- PDA MESSAGES -->
+
+    <!-- PDA MESSAGES -->
     <string id="tb_sooner_rf">
         <text>
             Чим швидше ви отримаєте RF-ресивер, тим швидше ми допоможемо... якщо зможемо.
@@ -44,8 +44,8 @@
             МГц.
         </text>
     </string>
-    
-<!-- ROUGH LOCATION TEXTS -->
+
+    <!-- ROUGH LOCATION TEXTS -->
     <string id="tb_loc_n_r">
         <text>
             у північному регіоні
@@ -86,8 +86,8 @@
             у північно-західному регіоні
         </text>
     </string>
-    
-<!-- НАЗВИ РІВНІВ -->
+
+    <!-- НАЗВИ РІВНІВ -->
     <string id="tb_loc_mar">
         <text>
             Болот

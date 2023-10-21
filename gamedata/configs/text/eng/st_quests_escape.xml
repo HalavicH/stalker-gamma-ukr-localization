@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Default Storyline Task -->
     <string id="drx_sl_esc_m_trader_default_task_name">
         <text>
             Отримати наступне завдання
@@ -35,10 +34,9 @@
             Удачі, сталкер.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Mutant Safari Storyline Task -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Mutant Safari Storyline Task -->
     <string id="drx_sl_esc_m_trader_task_1_name">
         <text>
             турпохід
@@ -68,10 +66,9 @@
             Повернулися з полювання? От і добре. Тримай нагороду.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task# -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task# -->
     <string id="drx_sl_esc_m_trader_task_2_name">
         <text>
             Посвята в сталкери
@@ -102,10 +99,9 @@
             Хе... хе... Дякую.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Xenotech (Loner Mechanic) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Xenotech (Loner Mechanic) Default Storyline Task -->
     <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -128,10 +124,9 @@
             Не підведи, сталкер. Успіхів!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
+
+    <!-- # -->
+    <!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
     <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
         <text>
             Зниклий сталкер
@@ -158,10 +153,9 @@
             Ти врятував його! Відмінна робота. Візьми це в якості подяки, я наполягаю.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Xenotech (Loner Mechanic) Track Wounded Attacker Storyline Task -->
+
+    <!-- # -->
+    <!-- Xenotech (Loner Mechanic) Track Wounded Attacker Storyline Task -->
     <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
         <text>
             Поранений звір
@@ -195,10 +189,9 @@
             допомогу.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -207,10 +200,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
     <string id="drx_sl_esc_m_trader_cf_task_1_name">
         <text>
             Одинокий вовк
@@ -237,10 +229,9 @@
             Добре! Можеш тепер вважати себе самотнім вовком, братан.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -249,10 +240,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
     <string id="esc_m_trader_task_1_name">
         <text>
             Привіт з 90-их
@@ -312,10 +302,9 @@
             слово тримає.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
+
+    <!-- # -->
+    <!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
     <string id="esc_m_trader_task_3_name">
         <text>
             Слон проти Моськи
@@ -356,10 +345,9 @@
             нагороду. Про решту я вже сам подбаю.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Wolf (Loner Honcho) -->
+
+    <!-- # -->
+    <!-- Wolf (Loner Honcho) -->
     <string id="esc_2_12_stalker_wolf_task_1_name">
         <text>
             Безпечний Кордон
@@ -388,10 +376,9 @@
             на твоєму прикладі. Лови за труди.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+    <!-- # -->
+    <!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
     <string id="esc_2_12_stalker_wolf_task_2_name">
         <text>
             Порятунок рядового сталкера
@@ -424,10 +411,9 @@
             безпеці, але, як бачиш, в Зоні все можливо.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+    <!-- # -->
+    <!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
     <string id="esc_2_12_stalker_wolf_task_3_name">
         <text>
             Перша вилазка
@@ -459,10 +445,9 @@
             цим сподобалося все. Ось твої грошенята.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!--\nimble (Loner Trader) Find Weapon Task -->
+
+    <!-- # -->
+    <!--\nimble (Loner Trader) Find Weapon Task -->
     <string id="esc_2_12_stalker_nimble_task_1_name">
         <text>
             Постачальник зброї
@@ -497,10 +482,9 @@
             Тримай, як обіцяв.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!--\nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+    <!-- # -->
+    <!--\nimble (Loner Trader) Retrieve PDA Dynamic Task -->
     <string id="esc_2_12_stalker_nimble_task_2_name">
         <text>
             Доставити КПК Спритному
@@ -525,10 +509,9 @@
             Дякую, сталкер!
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# MECHANIC TASK TEXT  STRINGS
       <!#
@@ -537,10 +520,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- # -->
+    <!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
     <string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
         <text>
             СТО: знайти Фургону «%s»
@@ -646,8 +628,8 @@
             - відбою від клієнтів не буде! Ось твоя нагорода, ти її заслужив сповна!
         </text>
     </string>
-    
-<!-- (Military Trader # Southern Outpost) -->
+
+    <!-- (Military Trader # Southern Outpost) -->
     <string id="esc_3_16_military_trader_task_1_name">
         <text>
             Особливо небезпечний і особливо мертвий
@@ -683,8 +665,8 @@
             Ха, а ти не промах! Дякую за допомогу. Тримай свої преміальні.
         </text>
     </string>
-    
-<!-- (Military Mechanic # Southern Outpost) -->
+
+    <!-- (Military Mechanic # Southern Outpost) -->
     <string id="army_south_mechan_mlr_task_1_name">
         <text>
             Саморобкін, ч.1
@@ -817,8 +799,8 @@
             пощастить знайти, головне - інше барахло.
         </text>
     </string>
-    
-<!-- Fanatic -->
+
+    <!-- Fanatic -->
     <string id="task_fanat_training_1_1">
         <text>
             КМБ - Ази полювання
@@ -981,8 +963,8 @@
             пробачить самовпевненість.
         </text>
     </string>
-    
-<!-- Hip -->
+
+    <!-- Hip -->
     <string id="toz34_sk2_return">
         <text>
             Віднести ТОЗ-34 «Зубр» Хіп і патрони до нього

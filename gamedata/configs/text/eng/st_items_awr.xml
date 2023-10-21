@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--
+
+    <!--
           Interface
       -->
     <string id="st_current_condition">
@@ -183,8 +183,8 @@
             Лещата механіка з %s
         </text>
     </string>
-    
-<!-- ListBox status texts -->
+
+    <!-- ListBox status texts -->
     <string id="st_ending_1">
         <text>
             и
@@ -286,8 +286,8 @@
             ДЛЯ ОТРИМАННЯ ДОВІДКИ НАТИСНІТЬ "F1"
         </text>
     </string>
-    
-<!-- Disassembly -->
+
+    <!-- Disassembly -->
     <string id="st_dis_news">
         <text>
             [AWR]
@@ -336,8 +336,8 @@
         <text>
             %sВи розібрали %s%s%s%s
         </text>
-        
-<!--
+
+        <!--
             text>%s %s %s %s has been disassembled</text
         -->
     </string>
@@ -363,8 +363,8 @@
             %s%s%s%s%s
         </text>
     </string>
-    
-<!-- Dialogues -->
+
+    <!-- Dialogues -->
     <string id="st_awr_dialog_1">
         <text>
             Слухай, я твоїми лещатами скористаюся? Треба підлатати де що...
@@ -404,8 +404,8 @@
             заперечує можуть.
         </text>
     </string>
-    
-<!-- Sell dialog -->
+
+    <!-- Sell dialog -->
     <string id="st_awr_sell_dialog_1">
         <text>
             У мене тут зайві деталі залишилися. Не знаєш, кому їх запропонувати можна?
@@ -449,8 +449,8 @@
             І на тому дякую. Бувай.
         </text>
     </string>
-    
-<!-- Help -->
+
+    <!-- Help -->
     <string id="st_awr_help_0">
         <text>
             ДОВІДКА

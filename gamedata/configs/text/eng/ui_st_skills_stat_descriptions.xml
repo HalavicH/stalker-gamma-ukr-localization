@@ -6,8 +6,8 @@
           \nСТАТИСТИКА:
         </text>
     </string>
-    
-<!-- Scavenging -->
+
+    <!-- Scavenging -->
     <string id="st_player_skills_hint_scavenging">
         <text>
             Дає збільшений дроп зі сталкерів.
@@ -30,8 +30,8 @@
           \n%c[255,86,102,255]•%c[ui_6] Шанс втратити лут: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Сила -->
+
+    <!-- Сила -->
     <string id="st_player_skills_hint_strength">
         <text>
             Дає збільшену вагу та шкоду від ближнього бою.
@@ -71,8 +71,8 @@
           \n%c[255,255,201,86]•%c[ui_6] Бонус до ваги: %c[d_green]+$stat кг
         </text>
     </string>
-    
-<!-- Виживання -->
+
+    <!-- Виживання -->
     <string id="st_player_skills_hint_survival">
         <text>
             Дає підвищену стійкість до ушкоджень і шанс отримати додаткову частину при знятті
@@ -116,8 +116,8 @@
           \n%c[255,135,255,86]•%c[ui_6] Шанс втратити частину мутанта: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Витривалість -->
+
+    <!-- Витривалість -->
     <string id="st_player_skills_hint_endurance">
         <text>
             Збільшує витривалість і швидкість.

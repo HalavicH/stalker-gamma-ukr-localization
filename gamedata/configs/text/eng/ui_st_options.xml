@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--
+
+    <!--
       Options
   -->
     <string id="ui_mm_options_n">
@@ -14,8 +14,8 @@
             Для всіх
         </text>
     </string>
-    
-<!-- Options menu -->
+
+    <!-- Options menu -->
     <string id="ui_mm_menu_video">
         <text>
             Відео
@@ -206,8 +206,8 @@
             Дінамічні новини
         </text>
     </string>
-    
-<!-- Buttons -->
+
+    <!-- Buttons -->
     <string id="ui_mm_apply">
         <text>
             Застосувати
@@ -233,8 +233,8 @@
             Пресети
         </text>
     </string>
-    
-<!-- Messages -->
+
+    <!-- Messages -->
     <string id="ui_mm_warning_pending">
         <text>
             У Вас (%s) змін(a/и), які очікують підтвердження.
@@ -265,8 +265,8 @@
             Зміни, які очікують підтвердження, будуть скасовані. Продовжити?
         </text>
     </string>
-    
-<!-- Video # Basic -->
+
+    <!-- Video # Basic -->
     <string id="ui_mm_title_video_basic">
         <text>
             Основні настройки відео
@@ -392,8 +392,8 @@
             цветокоррекция
         </text>
     </string>
-    
-<!-- Video # Advanced -->
+
+    <!-- Video # Advanced -->
     <string id="ui_mm_title_video_advanced">
         <text>
             Розширені настройки відео
@@ -783,8 +783,8 @@
             об'ємний дим
         </text>
     </string>
-    
-<!-- Video # HUD -->
+
+    <!-- Video # HUD -->
     <string id="ui_mm_title_hud">
         <text>
             Налаштування UI/HUD
@@ -886,8 +886,8 @@
             Використовувати 3D-модель КПК
         </text>
     </string>
-    
-<!-- Video # Visual effects -->
+
+    <!-- Video # Visual effects -->
     <string id="ui_mm_title_effects">
         <text>
             Ефекти і гравець
@@ -963,8 +963,8 @@
             Відображення на забралом масок
         </text>
     </string>
-    
-<!-- Video # Weather -->
+
+    <!-- Video # Weather -->
     <string id="ui_mm_lst_rare">
         <text>
             рідко
@@ -1035,8 +1035,8 @@
             частота
         </text>
     </string>
-    
-<!-- Video # Night -->
+
+    <!-- Video # Night -->
     <string id="ui_mm_title_night">
         <text>
             ночі
@@ -1132,8 +1132,8 @@
             Постійна фаза
         </text>
     </string>
-    
-<!-- Sounds # General -->
+
+    <!-- Sounds # General -->
     <string id="ui_mm_title_sound">
         <text>
             Основні налаштування звуку
@@ -1189,8 +1189,8 @@
             субтитри
         </text>
     </string>
-    
-<!-- Sounds # Environment -->
+
+    <!-- Sounds # Environment -->
     <string id="ui_mm_title_sound_environment">
         <text>
             Доп. погодні аудіоефекти
@@ -1222,8 +1222,8 @@
             Аудіоефекти дощу, що б'є по шолому
         </text>
     </string>
-    
-<!-- Sounds # Radio/Zone FM -->
+
+    <!-- Sounds # Radio/Zone FM -->
     <string id="ui_mm_title_sound_radio">
         <text>
             радіо
@@ -1349,8 +1349,8 @@
             Назва плейлиста №10
         </text>
     </string>
-    
-<!-- Control # General -->
+
+    <!-- Control # General -->
     <string id="ui_mm_title_control">
         <text>
             Управління, Основне
@@ -1435,8 +1435,8 @@
             предмету.
         </text>
     </string>
-    
-<!-- Gameplay # General -->
+
+    <!-- Gameplay # General -->
     <string id="ui_mm_title_gameplay">
         <text>
             Основні настройки гри
@@ -1551,8 +1551,8 @@
             Бонус оброблення тільки при надітому мисливському рюкзаку
         </text>
     </string>
-    
-<!-- Gameplay difficulty -->
+
+    <!-- Gameplay difficulty -->
     <string id="ui_mm_title_gameplay_diff">
         <text>
             Налаштування складності гри
@@ -1703,8 +1703,8 @@
             аномалій.
         </text>
     </string>
-    
-<!-- Gameplay # Progression difficulty -->
+
+    <!-- Gameplay # Progression difficulty -->
     <string id="ui_mm_title_economy_diff">
         <text>
             Налаштування економіки гри
@@ -1932,8 +1932,8 @@
             трупа.
         </text>
     </string>
-    
-<!-- Gameplay # Disguise -->
+
+    <!-- Gameplay # Disguise -->
     <string id="ui_mm_title_disguise">
         <text>
             налаштування маскування
@@ -2134,8 +2134,8 @@
             Макс. час бездіяльності [сек.]
         </text>
     </string>
-    
-<!-- Gameplay # Fast Travel -->
+
+    <!-- Gameplay # Fast Travel -->
     <string id="ui_mm_desc_fast_travel">
         <text>
             Нехай і з невеликими обмеженнями, але Ви можете використовувати швидке переміщення,
@@ -2200,8 +2200,8 @@
             миттєве переміщення
         </text>
     </string>
-    
-<!-- Gameplay # Backpack Travel -->
+
+    <!-- Gameplay # Backpack Travel -->
     <string id="ui_mm_desc_backpack_travel">
         <text>
             Нехай і з невеликими обмеженнями, але Ви можете використовувати швидке переміщення до
@@ -2239,8 +2239,8 @@
             миттєве переміщення
         </text>
     </string>
-    
-<!-- Alife # General -->
+
+    <!-- Alife # General -->
     <string id="ui_mm_title_alife">
         <text>
             Основні настройки A-Life
@@ -2388,8 +2388,8 @@
             Вертоліт: Спаун
         </text>
     </string>
-    
-<!-- Alife # Events -->
+
+    <!-- Alife # Events -->
     <string id="ui_mm_title_emission">
         <text>
             викиди
@@ -2520,8 +2520,8 @@
             давати завдання
         </text>
     </string>
-    
-<!-- Alife # Warfare # General -->
+
+    <!-- Alife # Warfare # General -->
     <string id="ui_mm_prst_warfare_default">
         <text>
             швидкоплинна війна
@@ -3028,8 +3028,8 @@
             збільшиться в розмірах.
         </text>
     </string>
-    
-<!-- Alife # Warfare # Faction -->
+
+    <!-- Alife # Warfare # Faction -->
     <string id="ui_mm_title_warfare_faction">
         <text>
             Налаштування окремих угруповань
@@ -3751,8 +3751,8 @@
             Кладовище техніки, Пріоритет
         </text>
     </string>
-    
-<!-- Alife # Warfare # Azazel Mode  -->
+
+    <!-- Alife # Warfare # Azazel Mode  -->
     <string id="ui_mm_title_warfare_azazel">
         <text>
             «Життя після життя», Налаштування
@@ -3873,8 +3873,8 @@
             Макс. відстань до ворога
         </text>
     </string>
-    
-<!-- Alife # Dynamic News -->
+
+    <!-- Alife # Dynamic News -->
     <string id="ui_mm_desc_dynamic_news">
         <text>
             Сталкери спілкуються між собою з різних причин: чи то завдання і повідомлення про
@@ -4012,8 +4012,8 @@
             Пауза між повідомленнями напарників [сек.]
         </text>
     </string>
-    
-<!-- Others -->
+
+    <!-- Others -->
     <string id="ui_mm_title_other">
         <text>
             інше

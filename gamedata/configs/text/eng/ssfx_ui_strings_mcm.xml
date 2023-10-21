@@ -5,8 +5,8 @@
             SSS Settings(Огидне розмиття)
         </text>
     </string>
-    
-<!-- Buttons -->
+
+    <!-- Buttons -->
     <string id="ui_mcm_ssfx_module_general">
         <text>
             General
@@ -17,8 +17,8 @@
             Weapons DOF
         </text>
     </string>
-    
-<!-- General Settings -->
+
+    <!-- General Settings -->
     <string id="ui_mcm_ssfx_module_general_title">
         <text>
             General Settings
@@ -29,8 +29,8 @@
             Acitvate SHADER BASED 2D SCOPES support
         </text>
     </string>
-    
-<!-- DOF Settings -->
+
+    <!-- DOF Settings -->
     <string id="ui_mcm_ssfx_module_wpn_dof_title">
         <text>
             Weapons DOF Settings

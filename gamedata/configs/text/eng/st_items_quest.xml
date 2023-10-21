@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- DRX Storyline Documents Quest Item -->
+
+    <!-- DRX Storyline Documents Quest Item -->
     <string id="drx_sl_quest_item_1_name">
         <text>
             Документи
@@ -42,8 +42,8 @@
           \nцц -2018»
         </text>
     </string>
-    
-<!-- DRX Storyline Locked Case Quest Item -->
+
+    <!-- DRX Storyline Locked Case Quest Item -->
     <string id="drx_sl_quest_item_2_name">
         <text>
             Закритий кейс
@@ -54,8 +54,8 @@
             Закритий кейс. Його вміст невідомо, проте важить він пристойно.
         </text>
     </string>
-    
-<!-- DRX Storyline PDA Quest Item -->
+
+    <!-- DRX Storyline PDA Quest Item -->
     <string id="drx_sl_quest_item_3_name">
         <text>
             КПК
@@ -288,8 +288,8 @@
           \n
         </text>
     </string>
-    
-<!-- MLR -->
+
+    <!-- MLR -->
     <string id="mlr_strelok_item_01">
         <text>
             Зошит з записами
@@ -326,8 +326,8 @@
             локаціями.
         </text>
     </string>
-    
-<!-- DRX -->
+
+    <!-- DRX -->
     <string id="drx_x8_documents_name">
         <text>
             Документи з даними з антен

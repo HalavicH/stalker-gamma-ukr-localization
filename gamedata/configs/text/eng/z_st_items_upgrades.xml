@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Outfits -->
+
+    <!-- Outfits -->
     <string id="st_upgr_o_health">
         <text>
             Комплект покращень костюма "HPs-1
@@ -275,8 +275,8 @@
           \n
         </text>
     </string>
-    
-<!-- Weapons -->
+
+    <!-- Weapons -->
     <string id="st_upgr_w_reliability">
         <text>
             Комплект для тюнінгу стрілецької зброї 'D-11'

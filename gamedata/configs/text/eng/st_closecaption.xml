@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
+
+    <!-- UI STRINGS FOR CLOSED CAPTION MODS -->
     <string id="ui_mm_cc_icc">
         <text>
             Закриті субтитри
@@ -32,8 +32,8 @@
             Всі субтитри
         </text>
     </string>
-    
-<!-- STRING TABLE ADDITIONS FOR GAME -->
+
+    <!-- STRING TABLE ADDITIONS FOR GAME -->
     <string id="st_sending_msg">
         <text>
             Відправка повідомлення
@@ -79,8 +79,8 @@
             СБУ
         </text>
     </string>
-    
-<!-- CLOSED CAPTIONS FOR GAME -->
+
+    <!-- CLOSED CAPTIONS FOR GAME -->
     <string id="cc_effect-ambient-blowout_begin">
         <text>
             [починається викид]
@@ -301,10 +301,9 @@
             [Сталкер атакує]
         </text>
     </string>
-    
-<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
-    
-<!-- Zaton -->
+
+    <!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
+    <!-- Zaton -->
     <string id="zat_a2_base_alarm">
         <text>
             Сталкери, увага, «Скадовськ» атакований! Ми задраємо люки, поки все не вщухне.
@@ -1260,8 +1259,8 @@
             Сечі їх!
         </text>
     </string>
-    
-<!-- Jupiter -->
+
+    <!-- Jupiter -->
     <string id="jup_a10_bandit_leader_hello">
         <text>
             Лопни мої оченята! І хто це до нас завітав ?!
@@ -2512,8 +2511,8 @@
             зможе витягти з нього інформацію.
         </text>
     </string>
-    
-<!-- Underpass -->
+
+    <!-- Underpass -->
     <string id="pas_b400_sokolov_about_control_gates_1">
         <text>
             Заблоковано, кнопки немає. М-да, сітуёвіна... Доведеться комусь лізти в диспетчерську
@@ -3212,8 +3211,8 @@
             Брат, давай-ка назад! Без розвідки обійдемося.
         </text>
     </string>
-    
-<!-- Pripyat -->
+
+    <!-- Pripyat -->
     <string id="pri_a15_actor_introduce">
         <text>
             Майор Дегтярев, СБУ. Прибув для розслідування провалу операції «Фарватер».
@@ -4458,8 +4457,8 @@
             Обидві цілі втрачені! Відбій! Відходимо!
         </text>
     </string>
-    
-<!-- CLOSED CAPTIONS FOR CALL OF CHERNOBYL -->
+
+    <!-- CLOSED CAPTIONS FOR CALL OF CHERNOBYL -->
     <string id="bar_barman_hello_1">
         <text>
             Давай вже, підходь.

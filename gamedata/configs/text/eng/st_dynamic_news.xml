@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Utilities -->
-    
-<!-- Mutants -->
+
+    <!-- Utilities -->
+    <!-- Mutants -->
     <string id="st_dyn_news_lurker_1">
         <text>
             кікімору
@@ -774,8 +773,8 @@
             щури
         </text>
     </string>
-    
-<!-- Factions -->
+
+    <!-- Factions -->
     <string id="st_dyn_news_comm_trader_6">
         <text>
             Торговець
@@ -1901,8 +1900,8 @@
             Запитуємо вогонь підтримки! Негайно!
         </text>
     </string>
-    
-<!-- weapon class description -->
+
+    <!-- weapon class description -->
     <string id="st_dyn_news_wpn_cls_1_1">
         <text>
             Причина невідома
@@ -2223,8 +2222,8 @@
             гримнув
         </text>
     </string>
-    
-<!-- direction -->
+
+    <!-- direction -->
     <string id="st_dyn_news_near">
         <text>
             біля
@@ -2275,8 +2274,8 @@
             на південний схід від
         </text>
     </string>
-    
-<!-- level description -->
+
+    <!-- level description -->
     <string id="st_dyn_news_jupiter">
         <text>
             в околицях «Юпітера»,
@@ -2442,8 +2441,8 @@
             на Армійських складах,
         </text>
     </string>
-    
-<!-- Daleko -->
+
+    <!-- Daleko -->
     <string id="st_dyn_l09_deadcity_daleko_1">
         <text>
             тунелю на Армійські Cклад
@@ -3284,8 +3283,8 @@
             заводу
         </text>
     </string>
-    
-<!-- blizko -->
+
+    <!-- blizko -->
     <string id="st_dyn_l09_deadcity_blizko_1">
         <text>
             у тунелю на Армійські склади
@@ -4126,8 +4125,8 @@
             на заводі
         </text>
     </string>
-    
-<!-- Sentence Builders -->
+
+    <!-- Sentence Builders -->
     <string id="st_dyn_news_builder_attacked_1">
         <text>
             Ми під вогнем! це
@@ -4343,8 +4342,8 @@
             Не знаю, що, чорт візьми, там відбувається.
         </text>
     </string>
-    
-<!-- Time scope -->
+
+    <!-- Time scope -->
     <string id="st_dyn_news_second">
         <text>
             сек
@@ -4380,8 +4379,8 @@
             р
         </text>
     </string>
-    
-<!-- Time -->
+
+    <!-- Time -->
     <string id="st_dyn_news_today">
         <text>
             сьогодні
@@ -4397,8 +4396,8 @@
             через пару днів
         </text>
     </string>
-    
-<!-- Time phase -->
+
+    <!-- Time phase -->
     <string id="st_dyn_news_morning">
         <text>
             вранці
@@ -4424,8 +4423,8 @@
             вночі
         </text>
     </string>
-    
-<!--\numbers -->
+
+    <!--\numbers -->
     <string id="st_dyn_news_number_1">
         <text>
             1
@@ -4576,8 +4575,8 @@
             30
         </text>
     </string>
-    
-<!-- Surge type -->
+
+    <!-- Surge type -->
     <string id="st_dyn_news_surge_type_emission">
         <text>
             викид
@@ -4593,10 +4592,9 @@
             пси-шторм
         </text>
     </string>
-    
-<!-- Reports and Responses -->
-    
-<!-- Response # death by stalker -->
+
+    <!-- Reports and Responses -->
+    <!-- Response # death by stalker -->
     <string id="st_dyn_news_res_death_stalker_1">
         <text>
             Вбило людину!
@@ -4772,8 +4770,8 @@
             Гіркий урок - куля в скроню.
         </text>
     </string>
-    
-<!-- Response # death by mutant -->
+
+    <!-- Response # death by mutant -->
     <string id="st_dyn_news_res_death_mutant_1">
         <text>
             М-да уж, ще одного зжерли, свисніть нашим, що в цьому місці мутанти осіли.
@@ -4939,8 +4937,8 @@
             Ну і фіг з ним, виживає найсильніший!
         </text>
     </string>
-    
-<!-- Response fake # death by stalker -->
+
+    <!-- Response fake # death by stalker -->
     <string id="st_dyn_news_res_fake_death_stalker_1">
         <text>
             Що за чухня ?!
@@ -5532,8 +5530,8 @@
             Ще один прожитий день - ще одна втрачена життя...
         </text>
     </string>
-    
-<!-- Response fake # death by mutant -->
+
+    <!-- Response fake # death by mutant -->
     <string id="st_dyn_news_res_fake_death_mutant_1">
         <text>
             Яйця б відірвав цим монстрам, щоб не плодилися більше!
@@ -5802,8 +5800,8 @@
             Нікому б не побажав такої смерті.
         </text>
     </string>
-    
-<!-- Response fake # death by surge -->
+
+    <!-- Response fake # death by surge -->
     <string id="st_dyn_news_res_fake_death_surge_1">
         <text>
             Рвана рана на грудях. Точних обставин смерті не знаю.
@@ -5883,8 +5881,8 @@
             Схоже на радіаційний опік.
         </text>
     </string>
-    
-<!-- Found artefacts -->
+
+    <!-- Found artefacts -->
     <string id="st_dyn_news_gossip_arte_1">
         <text>
             Вдалий день! Знайшов артефакт $what. Сьогодні буду гуляти! А то задовбало відбивними
@@ -6007,8 +6005,8 @@
             Ну нічого собі - $what!
         </text>
     </string>
-    
-<!-- Response # found artefact-->
+
+    <!-- Response # found artefact-->
     <string id="st_dyn_news_res_artefact_1">
         <text>
             Везе! Слухай, а проставити не хочеш за находочку?
@@ -6083,8 +6081,8 @@
             порожньо! Артик-то конче потрібен...
         </text>
     </string>
-    
-<!-- Heli gossip -->
+
+    <!-- Heli gossip -->
     <string id="st_dyn_news_gossip_heli_1">
         <text>
             Звертаюсь надати нам гвинтокрила $where.
@@ -6120,8 +6118,8 @@
             «Земля» - «Повітря». Потрібна допомога $where. Мета - $what. Знищити!
         </text>
     </string>
-    
-<!-- buy gossip -->
+
+    <!-- buy gossip -->
     <string id="st_dyn_news_gossip_buy_1">
         <text>
             Мені здається, що $who мене наколов... $what за такою ціною - це аж взагалі очманіти!
@@ -6166,8 +6164,8 @@
             зіпсуються!
         </text>
     </string>
-    
-<!-- Response # bought items-->
+
+    <!-- Response # bought items-->
     <string id="st_dyn_news_res_trade_1">
         <text>
             Треба і мені, мабуть, затаритися.
@@ -6203,8 +6201,8 @@
             Ох, паперу б туалетного краще б купив... А то все лопухи та лопухи ці...
         </text>
     </string>
-    
-<!-- upgrade gossip -->
+
+    <!-- upgrade gossip -->
     <string id="st_dyn_news_gossip_upgrade_1">
         <text>
             Бляха, $who встановити встановив модифікацію «$upgrade» на $what, та тільки вартість
@@ -6229,8 +6227,8 @@
             відчуття, що я на лоходром потрапив...
         </text>
     </string>
-    
-<!-- kill wounded -->
+
+    <!-- kill wounded -->
     <string id="st_dyn_news_gossip_kill_wounded_1">
         <text>
             Один ще живий. Це не на довго!
@@ -6301,8 +6299,8 @@
             А-а, що, тепер по-іншому заспівав? Пізно!
         </text>
     </string>
-    
-<!-- Hostage -->
+
+    <!-- Hostage -->
     <string id="st_dyn_news_gossip_hostage_1">
         <text>
             Ба! Так нам на заручника пощастило!
@@ -6363,8 +6361,8 @@
             Руки за голову, гнида!
         </text>
     </string>
-    
-<!-- Looting -->
+
+    <!-- Looting -->
     <string id="st_dyn_news_loot_good_1">
         <text>
             А в рюкзаку непогано так добра припасено.
@@ -6495,8 +6493,8 @@
             Ба, чим Зона нагородила! $what!
         </text>
     </string>
-    
-<!-- Found stashes -->
+
+    <!-- Found stashes -->
     <string id="st_dyn_news_found_stash_1">
         <text>
             Хто облапав мою схованку?!
@@ -6557,10 +6555,9 @@
             Треба було краще ховати.
         </text>
     </string>
-    
-<!-- Task\news -->
-    
-<!-- Bounty gossip -->
+
+    <!-- Task\news -->
+    <!-- Bounty gossip -->
     <string id="st_dyn_news_gossip_bounty_1">
         <text>
             Я тут чув, що $who вляпався по самі не балуй. Кажуть, його бачили $where.
@@ -6603,8 +6600,8 @@
             Ну що, $who, ось і по твою душу прийшли. Цокати б тобі...
         </text>
     </string>
-    
-<!-- Task -->
+
+    <!-- Task -->
     <string id="st_dyn_news_gossip_task_1">
         <text>
             Чув, що %s добровольців для якогось завдання шукає.
@@ -6849,10 +6846,9 @@
             підходьте до мене - все обговоримо.
         </text>
     </string>
-    
-<!-- Random\news -->
-    
-<!-- Post#surge -->
+
+    <!-- Random\news -->
+    <!-- Post#surge -->
     <string id="st_dyn_news_surge_after_1">
         <text>
             Ось тепер я бачив все...
@@ -6903,8 +6899,8 @@
             Фу-ух, пронесло!
         </text>
     </string>
-    
-<!-- Surge template -->
+
+    <!-- Surge template -->
     <string id="st_dyn_news_surge_template_1">
         <text>
             Заходив тут Лісовика провідати та спорягу свою підлатати. Розговорилися за життя
@@ -6979,8 +6975,8 @@
             У-у-у, песець біжить до нас - $what $when.
         </text>
     </string>
-    
-<!-- surge builder by faction -->
+
+    <!-- surge builder by faction -->
     <string id="st_dyn_news_surge_builder_start_army_1">
         <text>
             Взводний передав, що
@@ -7569,8 +7565,8 @@
             Невірні будуть знищені
         </text>
     </string>
-    
-<!-- Faction\news-->
+
+    <!-- Faction\news-->
     <string id="st_dyn_news_spam_faction_stalker_1">
         <text>
             Гей, стара гвардія! Пам'ятайте, як ми на Кордоні армійцям цим дали жару? Вони ще
@@ -10261,8 +10257,8 @@
             Чи не противитися змінам.
         </text>
     </string>
-    
-<!-- Zone Activity -->
+
+    <!-- Zone Activity -->
     <string id="st_dyn_news_zone_activity_troop_none_1">
         <text>
             Що за чортівня ?! Зловив сигнал SOS, який вказує на одне місце $location.
@@ -10895,8 +10891,8 @@
             заміри тоді знімемо пізніше - нікуди не втечуть.
         </text>
     </string>
-    
-<!-- Random\news-->
+
+    <!-- Random\news-->
     <string id="st_dyn_news_spam_1">
         <text>
             $clr_1 Анонімно
@@ -12366,8 +12362,8 @@
             і прикидай тепер, скопичусь я через пару днів чи ні...
         </text>
     </string>
-    
-<!-- Corpse findings-->
+
+    <!-- Corpse findings-->
     <string id="st_dyn_news_death_reason_1">
         <text>
             бюрер
@@ -12596,10 +12592,9 @@
             застигле обличчя, що побачило щось жахливе, більше ніяких поранень
         </text>
     </string>
-    
-<!-- Special\news -->
-    
-<!-- Time\news -->
+
+    <!-- Special\news -->
+    <!-- Time\news -->
     <string id="st_dyn_news_time_night_1">
         <text>
             Скоро почнеться... Так, хлопці, рухайте-ка ви з Кладовища техніки та скоріше. На ніч
@@ -13077,8 +13072,8 @@
             Минулої ночі таке наснилося... Сьогодні точно око не зімкніть, точно кажу.
         </text>
     </string>
-    
-<!-- Weather\news -->
+
+    <!-- Weather\news -->
     <string id="st_dyn_news_weather_clear_1">
         <text>
             Ох, добре як. Небо чисте.
@@ -13607,8 +13602,8 @@
             Полюбляю таку погоду, де гримить, калюжі...
         </text>
     </string>
-    
-<!--\nearby enemy activity -->
+
+    <!--\nearby enemy activity -->
     <string id="st_dyn_news_enemy_activity_zombied_1">
         <text>
             Гей, один з наших хлопців зауважив $who недалеко звідси. Їх там може бути і більше.
@@ -14123,8 +14118,8 @@
             Опа! Я зараз! Тільки... Так... Я не зрозумів, хто взяв мій ніж ?!
         </text>
     </string>
-    
-<!-- Dumb zombies -->
+
+    <!-- Dumb zombies -->
     <string id="st_dyn_news_dumb_zombie_1">
         <text>
             Нна-а-айт-і-і-і... артефакти... нна-а-айт-і-і-і... ар... ар... артефакти...
@@ -14155,8 +14150,8 @@
             Лю-у-біт... Не л-л-ю-у-біт... Лю-у-біт... Не л-л-ю-у-біт...
         </text>
     </string>
-    
-<!-- Response # Dumb zombies -->
+
+    <!-- Response # Dumb zombies -->
     <string id="st_dyn_news_res_dumb_zombie_1">
         <text>
             Ось, що відбувається з тими, хто потрапляє під викид.
@@ -14202,10 +14197,9 @@
             Який милий зомбі! Ось що відбувається з тими, хто дивиться «Битву екстрасенсів»!
         </text>
     </string>
-    
-<!-- Companions\news -->
-    
-<!-- Companions # Life -->
+
+    <!-- Companions\news -->
+    <!-- Companions # Life -->
     <string id="st_dyn_news_companion_life_all_1">
         <text>
             Ох, щось я зголоднів.
@@ -15295,8 +15289,8 @@
             Смерть... люта смерть тим, хто відкидає Його священну силу!
         </text>
     </string>
-    
-<!-- Companions # Level -->
+
+    <!-- Companions # Level -->
     <string id="st_dyn_news_companion_level_home_1">
         <text>
             ... так звик до цього місця.
@@ -17624,8 +17618,8 @@
             навіть знудило.
         </text>
     </string>
-    
-<!-- Companions # Actor # Rank -->
+
+    <!-- Companions # Actor # Rank -->
     <string id="st_dyn_news_companion_rank_1_1">
         <text>
             $name, правильно? Зелений піди ще тут. Як тобі Зона-то?
@@ -17683,8 +17677,8 @@
             З глузду з'їхати, це ж $name! Моє повагу, брат.
         </text>
     </string>
-    
-<!-- Companions # Actor # Reputation -->
+
+    <!-- Companions # Actor # Reputation -->
     <string id="st_dyn_news_companion_rep_1_1">
         <text>
             Стривай, ти ж $name? Багато чого чув я про тебе... Але в основному, звичайно, те, що
@@ -17757,8 +17751,8 @@
             Друган кажуть, що ти людина слова, $name. Що ж, подивимося, чи правда це.
         </text>
     </string>
-    
-<!-- Medicine gossip -->
+
+    <!-- Medicine gossip -->
     <string id="st_dyn_news_gossip_med_1">
         <text>
             О! $what! У самий раз здоров'я поправити.
@@ -17799,8 +17793,8 @@
             Так-так, що тут у нас... $what, добре, здоровіше будемо.
         </text>
     </string>
-    
-<!-- Food gossip -->
+
+    <!-- Food gossip -->
     <string id="st_dyn_news_gossip_food_1">
         <text>
             $what, непогано, на дорозі таке зазвичай не валяється.
@@ -17848,8 +17842,8 @@
             $what, відмінно! Прям в животі забурчав...
         </text>
     </string>
-    
-<!-- Warfare -->
+
+    <!-- Warfare -->
     <string id="st_dyn_news_warfare_capture_troop_1">
         <text>
             $speaker на зв'язку. Область $location під контролем. Чекаю подальших вказівок.
@@ -17904,10 +17898,9 @@
             кинувся врозтіч як таргани.
         </text>
     </string>
-    
-<!-- Extra -->
-    
-<!-- Special -->
+
+    <!-- Extra -->
+    <!-- Special -->
     <string id="st_dyn_news_spc_obituary_s">
         <text>
             $clr_1 $who_name ($who_comm) $clr_2 вбив сталкера $clr_1 $victim_name ($victim_comm)
@@ -17955,8 +17948,8 @@
             Очікування ідентифікації: $num
         </text>
     </string>
-    
-<!-- Senders -->
+
+    <!-- Senders -->
     <string id="st_dyn_news_sender_obituary">
         <text>
             некролог
@@ -17992,8 +17985,8 @@
             закритий канал
         </text>
     </string>
-    
-<!-- misc -->
+
+    <!-- misc -->
     <string id="st_dyn_news_ch_died">
         <text>
             некролог:
@@ -18009,8 +18002,8 @@
             викид
         </text>
     </string>
-    
-<!-- Extra -->
+
+    <!-- Extra -->
     <string id="st_dyn_news_day_part_am">
         <text>
             .

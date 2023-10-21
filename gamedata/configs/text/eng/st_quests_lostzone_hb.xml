@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Dushman intel -->
+
+    <!-- Dushman intel -->
     <string id="st_hb_isg_dushman_intel_name">
         <text>
             Дані Душмана
@@ -14,8 +14,8 @@
             виявлення місцевими.
         </text>
     </string>
-    
-<!-- Hollow Boundaries Arc 1 -->
+
+    <!-- Hollow Boundaries Arc 1 -->
     <string id="lttz_hb_task_1_1_dushman_intel_name">
         <text>
             Порожні кордони - Передача даних
@@ -42,8 +42,8 @@
             «Юпітер». Необхідно доставити отримані дані в обумовлене місце зустрічі.
         </text>
     </string>
-    
-<!-- Hollow Boundaries Arc 2 -->
+
+    <!-- Hollow Boundaries Arc 2 -->
     <string id="lttz_hb_task_2_1_guarded_secrets_name_1">
         <text>
             Порожні кордони - Розвідка заводу «Юпітер»
@@ -88,8 +88,8 @@
             Ернандесу якомога швидше.
         </text>
     </string>
-    
-<!-- Hollow Boundaries Arc 3 -->
+
+    <!-- Hollow Boundaries Arc 3 -->
     <string id="st_lttz_hb_task_3_1_search_agr_ug_name">
         <text>
             Обстежити підземелля «Агропрома»
@@ -152,8 +152,8 @@
             ними до майору - той напевно буде радий такому подарунку долі.
         </text>
     </string>
-    
-<!-- Hollow Boundaries Arc 4 -->
+
+    <!-- Hollow Boundaries Arc 4 -->
     <string id="lttz_hb_task_4_1_crossfire_1_name">
         <text>
             Перехресний вогонь: ліквідувати військовослужбовців
@@ -231,8 +231,8 @@
             Схоже, це воно - флешка Стрільця. Слід негайно доставити її Ернандесу.
         </text>
     </string>
-    
-<!-- Maus (ISG Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- Maus (ISG Mechanic) Find Level 1 Toolkit Task -->
     <string id="jup_depo_isg_tech_task_1_name">
         <text>
             Тактичне скидання, ч.1
@@ -266,8 +266,8 @@
             Супер! Відразу ж почну все в порядок наводити. Дякую!
         </text>
     </string>
-    
-<!-- Maus (ISG Mechanic) Find Level 2 Toolkit Task -->
+
+    <!-- Maus (ISG Mechanic) Find Level 2 Toolkit Task -->
     <string id="jup_depo_isg_tech_task_2_name">
         <text>
             Тактичне скидання, ч.2
@@ -299,8 +299,8 @@
             Найс ворк, бро! Те, що мені і треба було.
         </text>
     </string>
-    
-<!-- Maus (ISG Mechanic) Find Level 3 Toolkit Task -->
+
+    <!-- Maus (ISG Mechanic) Find Level 3 Toolkit Task -->
     <string id="jup_depo_isg_tech_task_3_name">
         <text>
             Тактичне скидання, ч.3

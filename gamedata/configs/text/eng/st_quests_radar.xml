@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- TURN OFF BRAIN SCORCHER TASK -->
+
+    <!-- TURN OFF BRAIN SCORCHER TASK -->
     <string id="bar_radar_deactivate_name">
         <text>
             Відключити «Випалювач мізків»

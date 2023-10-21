@@ -5,8 +5,8 @@
             Stash Tier
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_stashtier_general_info">
         <text>
             The options below allow to edit each threshold for each tier of loot found in
@@ -15,8 +15,8 @@
             threshold should not be set higher than its superior.
         </text>
     </string>
-    
-<!-- REPAIR -->
+
+    <!-- REPAIR -->
     <string id="ui_mcm_ZML_zml_stashtier_repair_info">
         <text>
             Repair kits
@@ -42,8 +42,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- MEDS -->
+
+    <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_stashtier_meds_info">
         <text>
             Medical items
@@ -69,8 +69,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- DRUG -->
+
+    <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_stashtier_drug_info">
         <text>
             Drug items
@@ -96,8 +96,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- FOOD -->
+
+    <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_stashtier_food_info">
         <text>
             Food items
@@ -123,8 +123,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- DRINK -->
+
+    <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_stashtier_drink_info">
         <text>
             Drink items
@@ -150,8 +150,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- TOOL -->
+
+    <!-- TOOL -->
     <string id="ui_mcm_ZML_zml_stashtier_tool_info">
         <text>
             Tool items
@@ -177,8 +177,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- DEVICE -->
+
+    <!-- DEVICE -->
     <string id="ui_mcm_ZML_zml_stashtier_device_info">
         <text>
             Device items
@@ -204,8 +204,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- CONTAINER -->
+
+    <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_stashtier_container_info">
         <text>
             Container items
@@ -231,8 +231,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- LOOTBOX -->
+
+    <!-- LOOTBOX -->
     <string id="ui_mcm_ZML_zml_stashtier_zzlootbox_info">
         <text>
             Lootboxes
@@ -258,15 +258,15 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- FACTION#SPECIFIC TIER -->
+
+    <!-- FACTION#SPECIFIC TIER -->
     <string id="ui_mcm_menu_zml_stashfaction_tier">
         <text>
             Stash Faction tier
         </text>
     </string>
-    
-<!-- MILITARY -->
+
+    <!-- MILITARY -->
     <string id="ui_mcm_ZML_zml_stashtier_army_info">
         <text>
             Military
@@ -292,8 +292,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- BANDIT -->
+
+    <!-- BANDIT -->
     <string id="ui_mcm_ZML_zml_stashtier_bandit_info">
         <text>
             Bandit
@@ -319,8 +319,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- CLEAR SKY -->
+
+    <!-- CLEAR SKY -->
     <string id="ui_mcm_ZML_zml_stashtier_csky_info">
         <text>
             Clear Sky
@@ -346,8 +346,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- DUTY -->
+
+    <!-- DUTY -->
     <string id="ui_mcm_ZML_zml_stashtier_dolg_info">
         <text>
             Duty
@@ -373,8 +373,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- ECOLOGIST -->
+
+    <!-- ECOLOGIST -->
     <string id="ui_mcm_ZML_zml_stashtier_ecolog_info">
         <text>
             Ecologist
@@ -400,8 +400,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- FREEDOM -->
+
+    <!-- FREEDOM -->
     <string id="ui_mcm_ZML_zml_stashtier_freedom_info">
         <text>
             Freedom
@@ -427,8 +427,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- SIN -->
+
+    <!-- SIN -->
     <string id="ui_mcm_ZML_zml_stashtier_greh_info">
         <text>
             Sin
@@ -454,8 +454,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- MERCENARY -->
+
+    <!-- MERCENARY -->
     <string id="ui_mcm_ZML_zml_stashtier_killer_info">
         <text>
             Mercenary
@@ -481,8 +481,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- UNISG -->
+
+    <!-- UNISG -->
     <string id="ui_mcm_ZML_zml_stashtier_isg_info">
         <text>
             UNISG
@@ -508,8 +508,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- MONOLITH -->
+
+    <!-- MONOLITH -->
     <string id="ui_mcm_ZML_zml_stashtier_monolith_info">
         <text>
             Monolith
@@ -535,8 +535,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- LONER -->
+
+    <!-- LONER -->
     <string id="ui_mcm_ZML_zml_stashtier_stalker_info">
         <text>
             Loner
@@ -562,8 +562,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- RENEGADE -->
+
+    <!-- RENEGADE -->
     <string id="ui_mcm_ZML_zml_stashtier_renegade_info">
         <text>
             Renegade
@@ -589,8 +589,8 @@
             Tier4 threshold
         </text>
     </string>
-    
-<!-- MAGUS -->
+
+    <!-- MAGUS -->
     <string id="ui_mcm_ZML_zml_stashtier_magus_info">
         <text>
             Magus

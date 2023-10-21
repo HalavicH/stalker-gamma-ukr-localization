@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- (Military Mechanic) -->
+
+    <!-- (Military Mechanic) -->
     <string id="army_yan_mec_about_tool_0">
         <text>
             Доброго. Ким будеш?
@@ -38,8 +38,8 @@
             удачі тобі тут.
         </text>
     </string>
-    
-<!-- (Military Cooker) -->
+
+    <!-- (Military Cooker) -->
     <string id="meet_povar_army_0">
         <text>
             Привіт, а ти...
@@ -120,25 +120,21 @@
             2 пачки FMJ 5,56x45 мм (x30)
         </text>
     </string>
-
     <string id="barter_povar_army_4_2">
         <text>
             4 пачки FMJ 5,56x45 мм (x60)
         </text>
     </string>
-
     <string id="barter_povar_army_3_3">
         <text>
             2 пачки СП-5 9x39 мм (x30)
         </text>
     </string>
-
     <string id="barter_povar_army_4_3">
         <text>
             4 пачки СП-5 9x39 мм (x60)
         </text>
     </string>
-
     <string id="barter_povar_army_5">
         <text>
             3 пачки дробу (х30).
@@ -221,15 +217,15 @@
           \n
         </text>
     </string>
-    
-<!-- Kruglov -->
+
+    <!-- Kruglov -->
     <string id="yan_ecolog_kruglov_start_dialog_1">
         <text>
             Вітаю.
         </text>
     </string>
-    
-<!-- yan_ecolog_semenov -->
+
+    <!-- yan_ecolog_semenov -->
     <string id="yan_ecolog_semenov_start_dialog_1">
         <text>
             Так, Вам щось потрібно?
@@ -240,15 +236,15 @@
             Все ще недостатньо даних. Потрібно знайти ще декілька мутантів.
         </text>
     </string>
-    
-<!-- yan_ecolog_vasilyev -->
+
+    <!-- yan_ecolog_vasilyev -->
     <string id="yan_ecolog_vasilyev_start_dialog_1">
         <text>
             Здрастуй.
         </text>
     </string>
-    
-<!-- Sakharov -->
+
+    <!-- Sakharov -->
     <string id="st_yan_saharov_message_free_upgrade">
         <text>
             Дякую, сталкер, Ви нас просто врятували! Якби не Ви, нас всіх спіткала б жахлива
@@ -532,8 +528,8 @@
             Прошу вибачення, на даний момент не можу поділитися будь-якими інтригуючими даними.
         </text>
     </string>
-    
-<!-- yan_merc_guards -->
+
+    <!-- yan_merc_guards -->
     <string id="yan_merc_guards_start_2">
         <text>
             Чи не до того ти звернувся, брат. Іди-но ти цих космонавтів дошкуляють. Мені і так за

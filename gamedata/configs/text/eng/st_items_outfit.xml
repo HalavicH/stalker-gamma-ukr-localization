@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Miscellaneous gear -->
+
+    <!-- Miscellaneous gear -->
     <string id="st_psy_helmet_name">
         <text>
             «Пси-шолом»
@@ -42,8 +42,8 @@
             випромінювання.
         </text>
     </string>
-    
-<!-- Headgear -->
+
+    <!-- Headgear -->
     <string id="st_helm_exo_name">
         <text>
             Екзошлем
@@ -560,8 +560,8 @@
           \n
         </text>
     </string>
-    
-<!--\novice outfits -->
+
+    <!--\novice outfits -->
     <string id="novice_outfit_name">
         <text>
             Шкіряна куртка
@@ -702,8 +702,8 @@
           \n
         </text>
     </string>
-    
-<!-- Overcoats -->
+
+    <!-- Overcoats -->
     <string id="monolith_trenchcoat_outfit_name">
         <text>
             Плащ «Моноліту»
@@ -779,8 +779,8 @@
           \n
         </text>
     </string>
-    
-<!-- Exploration -->
+
+    <!-- Exploration -->
     <string id="travel_outfit_name">
         <text>
             Комбінезон барахольщика
@@ -875,8 +875,8 @@
           \n
         </text>
     </string>
-    
-<!-- CS outfits -->
+
+    <!-- CS outfits -->
     <string id="csky_light_novice_outfit_name">
         <text>
             Бронежилет ЧН-1а
@@ -939,8 +939,8 @@
           \n
         </text>
     </string>
-    
-<!--\nBC outfits -->
+
+    <!--\nBC outfits -->
     <string id="nbc_outfit_name">
         <text>
             Комбінезон РХБЗ
@@ -1071,8 +1071,8 @@
           \n
         </text>
     </string>
-    
-<!-- Assault vest -->
+
+    <!-- Assault vest -->
     <string id="light_loner_outfit_name">
         <text>
             Бронежилет «Перехоплювач»
@@ -1191,8 +1191,8 @@
           \n
         </text>
     </string>
-    
-<!-- Sunrise suits -->
+
+    <!-- Sunrise suits -->
     <string id="stalker_outfit_name">
         <text>
             Комбінезон «Зоря»
@@ -1430,8 +1430,8 @@
           \n
         </text>
     </string>
-    
-<!-- STS (Special Tactical Suits) -->
+
+    <!-- STS (Special Tactical Suits) -->
     <string id="svoboda_light_outfit_name">
         <text>
             Комбінезон «Вітер свободи»
@@ -1572,8 +1572,8 @@
           \n
         </text>
     </string>
-    
-<!-- LCS (Light Combat Suit) -->
+
+    <!-- LCS (Light Combat Suit) -->
     <string id="merc_outfit_name">
         <text>
             Легкий комбінезон найманців
@@ -1808,8 +1808,8 @@
           \n
         </text>
     </string>
-    
-<!-- Berill#5M Armoured Suits -->
+
+    <!-- Berill#5M Armoured Suits -->
     <string id="army_outfit_name">
         <text>
             Армійський бронежилет
@@ -1925,8 +1925,8 @@
           \n
         </text>
     </string>
-    
-<!-- PS5#M Universal protection suit -->
+
+    <!-- PS5#M Universal protection suit -->
     <string id="dolg_outfit_name">
         <text>
             Пс5-М "Універсальний захист»
@@ -2028,8 +2028,8 @@
           \n
         </text>
     </string>
-    
-<!-- Skat#9 Military Armoured Suits -->
+
+    <!-- Skat#9 Military Armoured Suits -->
     <string id="military_outfit_name">
         <text>
             Бронекостюм «СКАТ-9»
@@ -2134,8 +2134,8 @@
           \n
         </text>
     </string>
-    
-<!-- Scientific outfits -->
+
+    <!-- Scientific outfits -->
     <string id="scientific_outfit_name">
         <text>
             Комбінезон «СЄВА»
@@ -2428,8 +2428,8 @@
           \n
         </text>
     </string>
-    
-<!-- SSP#99 -->
+
+    <!-- SSP#99 -->
     <string id="st_ecologist_outfit_orange_name">
         <text>
             ССП-99 «Еколог»
@@ -2531,8 +2531,8 @@
           \n
         </text>
     </string>
-    
-<!-- Heavy combat suits -->
+
+    <!-- Heavy combat suits -->
     <string id="exolight_outfit_name">
         <text>
             Важкий бронекостюм
@@ -2881,8 +2881,8 @@
           \n
         </text>
     </string>
-    
-<!-- Proptotype Exoskeleton -->
+
+    <!-- Proptotype Exoskeleton -->
     <string id="stalker_proto_exo_outfit_name">
         <text>
             Комбінезон «Зоря» з протоекзоскелетом
@@ -3035,8 +3035,8 @@
           \n
         </text>
     </string>
-    
-<!-- Exoskeletons -->
+
+    <!-- Exoskeletons -->
     <string id="exo_outfit_name">
         <text>
             Екзоскелет
@@ -3249,8 +3249,8 @@
           \n
         </text>
     </string>
-    
-<!--\nosorog exskeletal armour -->
+
+    <!--\nosorog exskeletal armour -->
     <string id="dolg_nosorog_outfit_name">
         <text>
             ПСЗ-10Д «Носоріг»
@@ -3315,8 +3315,8 @@
           \n
         </text>
     </string>
-    
-<!--\no group -->
+
+    <!--\no group -->
     <string id="ghillie_outfit_name">
         <text>
             Маскувальний костюм

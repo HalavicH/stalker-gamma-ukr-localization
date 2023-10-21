@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_bar_dolg_leader_bs_fetch_patches_title">
         <text>
             Между молотом и наковальней
@@ -39,10 +38,9 @@
             повторение - мать учения.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Voronin (Duty Honcho) Night Terror Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Voronin (Duty Honcho) Night Terror Task -->
     <string id="igi_task_text_bar_dolg_leader_2_title">
         <text>
             Дух мщения
@@ -73,8 +71,8 @@
             наконец-то были отомщены. Вот твоя награда.
         </text>
     </string>
-    
-<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
+
+    <!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
     <string id="igi_task_text_bar_dolg_leader_3_job_descr">
         <text>
             Даже несмотря на то, что мы практически уничтожили силы «Греха», его остатки не
@@ -89,8 +87,8 @@
             с Зоной и людьми, что хотят превратить весь мир в неё.
         </text>
     </string>
-    
-<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
+
+    <!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
     <string id="igi_task_text_bar_dolg_leader_4_title">
         <text>
             Свой среди чужих
@@ -151,8 +149,8 @@
             Фух, дошли! Что ж, брат, полагаю, здесь наши пути расходятся. Спасибо тебе за всё!
         </text>
     </string>
-    
-<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+
+    <!-- Petrenko (Duty Trader) Defend Rostok Task -->
     <string id="igi_task_text_bar_dolg_general_petrenko_stalker_bs_assault_stalker_online_title">
         <text>
             Со щитом или на щите
@@ -270,8 +268,8 @@
             Молодцом отработал, охотник. Вот и награда.
         </text>
     </string>
-    
-<!-- Barkeep -->
+
+    <!-- Barkeep -->
     <string id="igi_task_text_bar_visitors_barman_stalker_trader_1_title">
         <text>
             Деловое предложение
@@ -370,10 +368,9 @@
             Хорошая работа. А вот и твои честно заработанные.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Barkeep (Loner Trader) New Tasks -->
+
+    <!-- ######################################################################################### -->
+    <!-- Barkeep (Loner Trader) New Tasks -->
     <string id="igi_task_text_bar_visitors_barman_stalker_trader_4_title">
         <text>
             Необычный бизнес
@@ -436,8 +433,8 @@
             Вот это порадовал. Отличная работа, сталкер.
         </text>
     </string>
-    
-<!-- Aspirin (Duty Medic) -->
+
+    <!-- Aspirin (Duty Medic) -->
     <string id="igi_task_text_bar_dolg_medic_bs_fetch_drugkit_title">
         <text>
             Народная медицина: найти и доставить Аспирину «Набор для создания медикаментов»
@@ -464,8 +461,8 @@
             синтезировать свои припарки.
         </text>
     </string>
-    
-<!-- Snitch (100 Rads) -->
+
+    <!-- Snitch (100 Rads) -->
     <string id="igi_task_text_top_10_title">
         <text>
             Топ-10: #$num. $name

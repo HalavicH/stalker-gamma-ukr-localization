@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Default Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -35,10 +34,9 @@
             Удачі, сталкер.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_1_name">
         <text>
             Рейд
@@ -74,10 +72,9 @@
             перепав, лови.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
         <text>
             Конфлікт інтересів
@@ -108,10 +105,9 @@
             Відмінна робота. Орел! Знову все вільніше стало. Ні до чого нам зайві сусіди.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Hog (Merc Mechanic) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Hog (Merc Mechanic) Default Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -133,10 +129,9 @@
             Бувай-бувай.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
+
+    <!-- # -->
+    <!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_name">
         <text>
             Йдучи, гасіть всіх
@@ -168,10 +163,9 @@
           \nОсь виродки тупоролие, все прут і прут...
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
+
+    <!-- # -->
+    <!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
         <text>
             Солдат невдачі
@@ -197,10 +191,9 @@
             Хороша робота.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
+
+    <!-- # -->
+    <!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
     <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_name">
         <text>
             Особиста помста
@@ -232,10 +225,9 @@
             Убив цю худобу? Дякую, чоловіче.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -244,10 +236,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Payoff Change Factions Task -->
     <string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_name">
         <text>
             Солдат удачі
@@ -274,10 +265,9 @@
             Що ж, можеш вважати, що контракт з нами підписаний. Ласкаво просимо до нас, орел.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -286,10 +276,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
     <string id="cit_killers_merc_trader_stalker_task_1_name">
         <text>
             Просто бізнес
@@ -318,8 +307,8 @@
             Зроблено? Відмінно. Ось твоя доля:
         </text>
     </string>
-    
-<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+
+    <!-- ASSAULT TERRITORY FOR MERCS TASK -->
     <string id="cit_killers_merc_trader_stalker_task_2_name">
         <text>
             Зачистка
@@ -342,10 +331,9 @@
             Молоток. Лови гешефт.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+
+    <!-- # -->
+    <!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
     <string id="cit_killers_merc_trader_stalker_task_3_name">
         <text>
             Цінна інформація
@@ -372,10 +360,9 @@
             Ось порадував. Знав, що на тебе можна покластися. Лови належне.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# MECHANIC TASK TEXT  STRINGS
       <!#
@@ -384,10 +371,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- # -->
+    <!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
     <string id="cit_killers_merc_mechanic_stalker_task_1_name">
         <text>
             Інструменти війни, ч.1
@@ -497,8 +483,8 @@
             підкрутити або підтягти треба буде - ми це легко поміркуємо.
         </text>
     </string>
-    
-<!-- Aslan (Barman) -->
+
+    <!-- Aslan (Barman) -->
     <string id="cit_killers_merc_barman_mlr_task_1_name">
         <text>
             ліквідація
@@ -647,8 +633,8 @@
             по-людськи.
         </text>
     </string>
-    
-<!-- Surgeon (Mercenary Medic) -->
+
+    <!-- Surgeon (Mercenary Medic) -->
     <string id="cit_killers_merc_medic_stalker_task_1_name">
         <text>
             Один лікує, інший - калічить

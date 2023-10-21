@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Sorter -->
+
+    <!-- Sorter -->
     <string id="st_ui_craft_artefacts_container">
         <text>
             Артефакти (у контейнерах)

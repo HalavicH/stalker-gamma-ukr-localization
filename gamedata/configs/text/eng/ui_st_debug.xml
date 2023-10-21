@@ -21,8 +21,8 @@
           \numpad 0: %c[ ui_gray_2] Перезапуск system_ini ()
         </text>
     </string>
-    
-<!-- Debuggers -->
+
+    <!-- Debuggers -->
     <string id="st_ui_dbg_weather_about">
         <text>
             %c[ui_gray_1] Tronex / Rezy
@@ -502,8 +502,8 @@
           \n%c[ui_gray_2] $range
         </text>
     </string>
-    
-<!--string id="st_desc_time_to_aim">
+
+    <!--string id="st_desc_time_to_aim">
           <text>\n \n%c[pda_green]Описание\n%c[ui_gray_2]Скорость прицеливания.\n \n%c[pda_red]Диапазон\n%c[ui_gray_2]$range
           </text>
       </string-->

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Medicine -->
+
+    <!-- Medicine -->
     <string id="st_player_skills_hint_medicine">
         <text>
             Grants a short burst of improved health and radiation restoration based on medical
@@ -24,8 +24,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Restoration lost as boost: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Insanity -->
+
+    <!-- Insanity -->
     <string id="st_player_skills_hint_insanity">
         <text>
             You lose your sanity... but gain psy regen and psy damage resistance.
@@ -55,8 +55,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Psy damage taken increased by: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Tinkering -->
+
+    <!-- Tinkering -->
     <string id="st_player_skills_hint_tinkering">
         <text>
             Grants a chance to not spend a use of your repair kit.
@@ -72,8 +72,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Repair kit free use chance: %c[d_green]$stat%
         </text>
     </string>
-    
-<!-- Bartering -->
+
+    <!-- Bartering -->
     <string id="st_player_skills_hint_bartering">
         <text>
             Grants better prices when trading.
@@ -107,8 +107,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Selling value reduced by: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Magloading -->
+
+    <!-- Magloading -->
     <string id="st_player_skills_hint_magloading">
         <text>
             Grants faster magazine loading and unloading speed.
@@ -131,8 +131,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Mag loading speed reduced by: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Lockpicking -->
+
+    <!-- Lockpicking -->
     <string id="st_player_skills_hint_lockpicking">
         <text>
             Grants: Lootboxes lock difficulty are reduced.
@@ -155,8 +155,8 @@
           \n%c[255,138,43,226]•%c[ui_6] Lootbox difficulty increased by: %c[d_red]$stat%
         </text>
     </string>
-    
-<!-- Reloading -->
+
+    <!-- Reloading -->
     <string id="st_player_skills_hint_reloading">
         <text>
             Grants faster gun reloading and raise/holster speed.

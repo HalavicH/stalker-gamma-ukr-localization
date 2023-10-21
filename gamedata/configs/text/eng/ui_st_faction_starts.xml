@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- SineDeviance Edits/Adds -->
+
+    <!-- SineDeviance Edits/Adds -->
     <string id="ui_st_train_hangar">
         <text>
             Залізничний ангар (Звалище)
@@ -17,8 +17,8 @@
             Центральна сторожова вежа (Кладовище техніки)
         </text>
     </string>
-    
-<!-- Stock Anomaly -->
+
+    <!-- Stock Anomaly -->
     <string id="ui_st_abandoned_sawmill">
         <text>
             Лісопилка (Затон)
@@ -179,8 +179,8 @@
             Руїни села (Болота)
         </text>
     </string>
-    
-<!-- Last Day -->
+
+    <!-- Last Day -->
     <string id="ui_st_atp">
         <text>
             АТП (Кордон)

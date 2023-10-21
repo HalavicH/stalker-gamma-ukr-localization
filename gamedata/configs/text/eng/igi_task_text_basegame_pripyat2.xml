@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
     <string id="igi_task_text_monolith_eidolon_bs_fetch_patches_title">
         <text>
             Purge the Infidels
@@ -27,10 +26,9 @@
             Such devotion. To our glorious cause. Devotion shall be rewarded.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
     <string id="igi_task_text_monolith_eidolon_2_title">
         <text>
             The Greatest Warrior
@@ -61,10 +59,9 @@
             Magnificent trophy. The Monolith is proud. So am I. A reward, for you.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
     <string id="igi_task_text_monolith_eidolon_3_title">
         <text>
             Harvest the Fruit
@@ -94,10 +91,9 @@
             Excellent. Marvellous. A sight to behold. You have got my gratitude, loyal brother.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
     <string id="igi_task_text_monolith_eidolon_bs_return_document_from_stash_title">
         <text>
             Keeper of Secrets
@@ -120,10 +116,9 @@
             The Zone is safe. Owing to you.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Rabbit (Monolith Trader) Assault Territory Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Rabbit (Monolith Trader) Assault Territory Task -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_bs_assault_stalker_online_title">
         <text>
             Conquer the Enemy
@@ -146,8 +141,8 @@
             The task is done? Good. Praise Monolith.
         </text>
     </string>
-    
-<!-- ASSASSINATION FOR MONOLITH TASK -->
+
+    <!-- ASSASSINATION FOR MONOLITH TASK -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_bs_kill_stalker_nearby_title">
         <text>
             Kill the Planner
@@ -170,8 +165,8 @@
             You have done well. The Collective is pleased.
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR MONOLITH TASK -->
+
+    <!-- FIND WEAPON FOR MONOLITH TASK -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_3_title">
         <text>
             Procure a weapon for Rabbit
@@ -198,8 +193,8 @@
             This will do well.
         </text>
     </string>
-    
-<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+
+    <!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_4_title">
         <text>
             Hunt for meat for Rabbit
@@ -227,8 +222,8 @@
             You have succeeded in your task. Well done.
         </text>
     </string>
-    
-<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+
+    <!-- FIND SUPPLIES FOR MONOLITH TASK -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_5_title">
         <text>
             Collect supplies for Rabbit
@@ -254,8 +249,8 @@
             You have done well to serve Monolith.
         </text>
     </string>
-    
-<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+
+    <!-- FIND ARTEFACT FOR MONOLITH TASK -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_6_title">
         <text>
             Find the Artefact for Rabbit
@@ -325,8 +320,8 @@
             Outstanding, brother. This is for you, from the Monolith.
         </text>
     </string>
-    
-<!-- Griffith -->
+
+    <!-- Griffith -->
     <string id="igi_task_text_merc_pri_grifon_mlr_1_title">
         <text>
             Collect patches
@@ -406,8 +401,8 @@
             Thank you, great work. Here's some money for your trouble.
         </text>
     </string>
-    
-<!-- (Mercenary Mechanic) -->
+
+    <!-- (Mercenary Mechanic) -->
     <string id="igi_task_text_merc_pri_a18_mech_mlr_1_title">
         <text>
             Find Basic tools for the Mercenary mechanic in Outskirts

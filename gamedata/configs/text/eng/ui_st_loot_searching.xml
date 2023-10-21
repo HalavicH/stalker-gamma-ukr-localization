@@ -10,8 +10,8 @@
             Loot Searching
         </text>
     </string>
-    
-<!-- TIME -->
+
+    <!-- TIME -->
     <string id="ui_mcm_loot_searching_header_time">
         <text>
             Час
@@ -38,8 +38,8 @@
             За замовчуванням: 15
         </text>
     </string>
-    
-<!-- HUD -->
+
+    <!-- HUD -->
     <string id="ui_mcm_loot_searching_header_hud">
         <text>
             Індикатор пошуку(лутінгу)
@@ -66,8 +66,8 @@
             спочатку надіслав як необов’язкову.
         </text>
     </string>
-    
-<!-- SOUND -->
+
+    <!-- SOUND -->
     <string id="ui_mcm_loot_searching_header_sound">
         <text>
             Звук
@@ -103,8 +103,8 @@
             Гучність фонового звуку
         </text>
     </string>
-    
-<!-- DEBUG -->
+
+    <!-- DEBUG -->
     <string id="ui_mcm_loot_searching_header_debug">
         <text>
             Debug
@@ -120,8 +120,8 @@
             Показує деяку корисну інформацію в консолі.
         </text>
     </string>
-    
-<!-- non#mcm -->
+
+    <!-- non#mcm -->
     <string id="st_xcvb_looting">
         <text>
             Пошук

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Названия уровней -->
+
+    <!-- Названия уровней -->
     <string id="l03_agroprom">
         <text>
             Агропром
@@ -172,8 +172,8 @@
             Поляна
         </text>
     </string>
-    
-<!-- Выходы с уровня -->
+
+    <!-- Выходы с уровня -->
     <string id="mar_space_restrictor_to_agroprom_descr">
         <text>
             На Агропром

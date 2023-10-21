@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
+
+    <!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
     <string id="trucks_cemetery_bandit_mechanic_task_1_name">
         <text>
             Шпалерних справ майстер, ч.1
@@ -39,8 +39,8 @@
             Опа, притягнув! Лови лавешку, заслужив! Ну зара я пацанам тут все як треба захєрячу.
         </text>
     </string>
-    
-<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
+
+    <!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
     <string id="trucks_cemetery_bandit_mechanic_task_2_name">
         <text>
             Шпалерних справ майстер, ч.2
@@ -76,8 +76,8 @@
             питання.
         </text>
     </string>
-    
-<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
+
+    <!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
     <string id="trucks_cemetery_bandit_mechanic_task_3_name">
         <text>
             Шпалерних справ майстер, ч.3

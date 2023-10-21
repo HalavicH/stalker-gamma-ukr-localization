@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!--
+
+    <!--
   ITEMS
   -->
     <string id="st_prt_i_ammo">
@@ -297,12 +297,12 @@
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
   WEAPONS (rifles)
   -->
-    
-<!-- Barrels-->
+
+    <!-- Barrels-->
     <string id="st_barrel_1">
         <text>
             Дуло [Р] 18.5мм
@@ -459,8 +459,8 @@
           \n
         </text>
     </string>
-    
-<!-- Trigger mechanisms -->
+
+    <!-- Trigger mechanisms -->
     <string id="st_trigger_components_1">
         <text>
             Однорежимний УСМ куркового типу
@@ -537,8 +537,8 @@
           \n
         </text>
     </string>
-    
-<!-- Breech blocks -->
+
+    <!-- Breech blocks -->
     <string id="st_bolt_carrier_1">
         <text>
             Поздовжньо-ковзний затвор з замиканням поворотом [Україна]
@@ -674,8 +674,8 @@
           \n
         </text>
     </string>
-    
-<!-- Breech heads -->
+
+    <!-- Breech heads -->
     <string id="st_bolt_1">
         <text>
             Клин затвора [Р]
@@ -894,8 +894,8 @@
           \n
         </text>
     </string>
-    
-<!-- Gas tubes, etc -->
+
+    <!-- Gas tubes, etc -->
     <string id="st_gas_tube_1">
         <text>
             Газова трубка [К]
@@ -1029,12 +1029,12 @@
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
   WEAPONS (pistols)
   -->
-    
-<!-- barrels -->
+
+    <!-- barrels -->
     <string id="st_prt_w_p_barrel_1">
         <text>
             Дуло 9x18 мм
@@ -1119,8 +1119,8 @@
           \n
         </text>
     </string>
-    
-<!-- trigger mechanism -->
+
+    <!-- trigger mechanism -->
     <string id="st_prt_w_p_trigger_1">
         <text>
             Однорежимний УСМ
@@ -1169,8 +1169,8 @@
           \n
         </text>
     </string>
-    
-<!-- recoil spring assembly -->
+
+    <!-- recoil spring assembly -->
     <string id="st_prt_w_p_spring_1">
         <text>
             Поворотна пружина 9 мм [СССР]
@@ -1243,12 +1243,12 @@
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
   OUTFITS
   -->
-    
-<!-- Fabrics and hardware -->
+
+    <!-- Fabrics and hardware -->
     <string id="st_prt_o_fabrics_1">
         <text>
             Листи тканини
@@ -1308,8 +1308,8 @@
           \n
         </text>
     </string>
-    
-<!-- Retardants / Protective textiles -->
+
+    <!-- Retardants / Protective textiles -->
     <string id="st_prt_o_retardant_1">
         <text>
             Багатошарові вогнестійкі тканини
@@ -1608,8 +1608,8 @@
           \n
         </text>
     </string>
-    
-<!-- Ballistic inserts -->
+
+    <!-- Ballistic inserts -->
     <string id="st_prt_o_ballistic_1">
         <text>
             Пластини з кевлара «К129» з укріпленими керамічними вставками
@@ -1940,8 +1940,8 @@
           \n
         </text>
     </string>
-    
-<!-- Supportive installations -->
+
+    <!-- Supportive installations -->
     <string id="st_prt_o_support_1">
         <text>
             Каркас Екзоскелета

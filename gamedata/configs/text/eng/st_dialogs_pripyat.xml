@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Griffith (Mercs leader in the Bookstore) -->
+
+    <!-- Griffith (Mercs leader in the Bookstore) -->
     <string id="grifon_meet_dialog_0">
         <text>
             Вітаю. Бачив я твоє повідомлення. Чого це раптом ви такі добренькі стали?
@@ -74,8 +74,8 @@
             гонорар.
         </text>
     </string>
-    
-<!-- Trunk (Merc Mechanic in the Bookstore) -->
+
+    <!-- Trunk (Merc Mechanic in the Bookstore) -->
     <string id="tech_a18_meet_dialog_0">
         <text>
             Привіт, ти ж постачальник місцевий, так? Надаєш якісь послуги?
@@ -141,8 +141,8 @@
             Почекай, я передумав.
         </text>
     </string>
-    
-<!-- Meeker (Special trader  in the Bookstore, substituting\nimble as special orders trader) -->
+
+    <!-- Meeker (Special trader  in the Bookstore, substituting\nimble as special orders trader) -->
     <string id="pri_special_trader_mlr1_0">
         <text>
             Здоров буде, сталкер. М-м... промишляли чимось?
@@ -453,16 +453,16 @@
             От же ж... Забув.
         </text>
     </string>
-    
-<!-- Monolith Mechanic in the Yubileiny service center -->
+
+    <!-- Monolith Mechanic in the Yubileiny service center -->
     <string id="mechanic_monolith_kbo_start_0">
         <text>
             Вітаю. Його волю мені дано виконувати. Братам нашим допомогу зі спорядженням
             виявляється мною.
         </text>
     </string>
-    
-<!-- Monolith trader in the Yubileiny service center -->
+
+    <!-- Monolith trader in the Yubileiny service center -->
     <string id="meet_guid_prikbo_mon_0">
         <text>
             Брат, чи не знаєш ти, як можна швидко дістатися до тих чи інших місць через стежки
@@ -518,8 +518,8 @@
             Передумав я.
         </text>
     </string>
-    
-<!--# Charon, in the basement of the Palace of Culture -->
+
+    <!--# Charon, in the basement of the Palace of Culture -->
     <string id="meet_guid_l11pri_mon_haron_0">
         <text>
             Вітаю тебе, хранитель. Чи не маєш ти знаннями шляхів, від ока невірних прихованих,
@@ -586,8 +586,8 @@
             підступи їх грішних.
         </text>
     </string>
-    
-<!-- Guide in eastern Pripyat -->
+
+    <!-- Guide in eastern Pripyat -->
     <string id="meet_guid_pri_stalker_0">
         <text>
             Ти теж провідник, вірно?
@@ -660,8 +660,8 @@
             Передумав я.
         </text>
     </string>
-    
-<!-- Eidolon -->
+
+    <!-- Eidolon -->
     <string id="monolith_eidolon_st_1">
         <text>
             Я буду Фантомом. Обраним Моноліту.

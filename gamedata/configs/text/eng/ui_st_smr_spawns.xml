@@ -44,8 +44,8 @@
             Apply to replaced disabled mutant spawns
         </text>
     </string>
-    
-<!-- WEEK 0 -->
+
+    <!-- WEEK 0 -->
     <string id="ui_mcm_smr_spawns_preset_week0_title">
         <text>
             First week
@@ -66,8 +66,8 @@
             Tier 3 chance
         </text>
     </string>
-    
-<!-- WEEK 1 -->
+
+    <!-- WEEK 1 -->
     <string id="ui_mcm_smr_spawns_preset_week1_title">
         <text>
             Second week
@@ -88,8 +88,8 @@
             Tier 3 chance
         </text>
     </string>
-    
-<!-- WEEK 2 -->
+
+    <!-- WEEK 2 -->
     <string id="ui_mcm_smr_spawns_preset_week2_title">
         <text>
             Third week
@@ -110,8 +110,8 @@
             Tier 3 chance
         </text>
     </string>
-    
-<!-- WEEK 3 -->
+
+    <!-- WEEK 3 -->
     <string id="ui_mcm_smr_spawns_preset_week3_title">
         <text>
             Fourth week and beyond

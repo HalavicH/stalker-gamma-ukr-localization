@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- (Monolith Mechanic # Jupiter factory) -->
+
+    <!-- (Monolith Mechanic # Jupiter factory) -->
     <string id="mechanic_monolith_jup_depo_start_0">
         <text>
             Здрастуй, брат. Технічною підтримкою побратимів в даній місцевості займаюся я.
         </text>
     </string>
-    
-<!-- (Monolith Trader # Jupiter factory) -->
+
+    <!-- (Monolith Trader # Jupiter factory) -->
     <string id="meet_guid_jupdepo_mon_0">
         <text>
             Брат, чи є в окрузі стежки таємні для швидкого переміщення, невідомі черв'якам?
@@ -64,8 +64,8 @@
             Я передумав, брат.
         </text>
     </string>
-    
-<!-- Garry (Guide) -->
+
+    <!-- Garry (Guide) -->
     <string id="meet_guid_jup_0">
         <text>
             Привіт, сталкер. Ти хто?
@@ -131,8 +131,8 @@
             Я передумав.
         </text>
     </string>
-    
-<!-- Loki (Freedom Leader) in Yanov -->
+
+    <!-- Loki (Freedom Leader) in Yanov -->
     <string id="loki_st_0">
         <text>
             Ти за головного тут?
@@ -242,8 +242,8 @@
             Вітаю, сталкер. Ну, що там у тебе?
         </text>
     </string>
-    
-<!-- Trapper (Loner) in Yanov -->
+
+    <!-- Trapper (Loner) in Yanov -->
     <string id="jup_b220_trapper_start_11">
         <text>
             Я Звіробій. Не уявляю, не треба.
@@ -334,8 +334,8 @@
             У мене зараз справ багато, так що давай іншим разом продовжимо.
         </text>
     </string>
-    
-<!-- -->
+
+    <!-- -->
     <string id="jup_a6_stalker_medik_start_dialog_0">
         <text>
             Ти за медикаментами або так, поговорити?
@@ -417,8 +417,8 @@
             Будь-який каприз за ваші гроші.
         </text>
     </string>
-    
-<!-- -->
+
+    <!-- -->
     <string id="jup_a6_freedom_leader_start_dialog_11">
         <text>
             Що розповіси?
@@ -518,8 +518,8 @@
             Як скажеш.
         </text>
     </string>
-    
-<!-- Hawaiian (Bartender at Yanov Station) -->
+
+    <!-- Hawaiian (Bartender at Yanov Station) -->
     <string id="jup_a6_stalker_barmen_start_dialog_11">
         <text>
             Вітаю тебе в моєму індивідуальному райському куточку. Що, бажаєш долучитися до
@@ -551,8 +551,8 @@
             колеса, травичка? У мене як у Греції, брат!
         </text>
     </string>
-    
-<!-- Hermann (Ecologist)-->
+
+    <!-- Hermann (Ecologist)-->
     <string id="jup_b6_scientist_nuclear_physicist_start_11">
         <text>
             Так? Я вас слухаю.
@@ -603,8 +603,8 @@
             Що привело Вас сюди?
         </text>
     </string>
-    
-<!-- Ashot and Yar -->
+
+    <!-- Ashot and Yar -->
     <string id="st_jup_yar_reply_1">
         <text>
             Піди і скажи, щоб %s тягнув сюди свою дупу. Окей?

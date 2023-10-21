@@ -1623,8 +1623,8 @@
         </text>
     </string>
     <string id="st_wpn_famas3">
-        
-<!--
+
+        <!--
             
           \nEW GUNS
         -->
@@ -4235,8 +4235,8 @@
           \n
         </text>
     </string>
-    
-<!--\new -->
+
+    <!--\new -->
     <string id="st_wpn_ash12">
         <text>
             јЎ-12
@@ -4612,8 +4612,8 @@
           \n
         </text>
     </string>
-    
-<!--
+
+    <!--
   Grenades
   -->
     <string id="st_grenade_f1">
@@ -4682,8 +4682,8 @@
           \n%c[d_purple] Х %c[ui_gray_2] затримка вибуху: %c[ui_gray_1] ~ 4 секунди
         </text>
     </string>
-    
-<!--
+
+    <!--
       Melee
   -->
     <string id="st_knife_combat">

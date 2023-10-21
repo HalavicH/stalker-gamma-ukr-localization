@@ -29,8 +29,8 @@
             миші на її назву, щоб побачити опис.
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="st_smr_glitched_pda_text">
         <text>
             FATAL ERROR: INTERNAL MEMORY CORRUPTION DETECTED

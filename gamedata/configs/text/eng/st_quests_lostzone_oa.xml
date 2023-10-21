@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 1 -->
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- # -->
+    <!-- Operation Afterglow Task 1 -->
     <string id="lttz_oa_encrypted_transmission_name">
         <text>
             Зашифрована передача
@@ -37,10 +35,9 @@
             перехоплення і розшифровки радіопередач в невеликому радіусі.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 2 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 2 -->
     <string id="lttz_oa_rally_point_name">
         <text>
             Операція «Післясвічення» - Точка збору
@@ -98,10 +95,9 @@
             щодо вмісту.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 3 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 3 -->
     <string id="lttz_oa_report_name">
         <text>
             Доповідь
@@ -116,10 +112,9 @@
             чого... Як же добре, коли мало знаєш.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 4 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 4 -->
     <string id="lttz_oa_special_delivery_name">
         <text>
             Операція «Післясвічення» - Спецдоставка
@@ -162,10 +157,9 @@
             Закритий кейс з невідомим вмістом. Досить важкий.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 5 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 5 -->
     <string id="lttz_oa_undercover_agent_name">
         <text>
             Операція «Післясвічення» - Під прикриттям
@@ -206,10 +200,9 @@
             детальна інформація зашифрована.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 6 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 6 -->
     <string id="lttz_oa_search_unit_name">
         <text>
             Операція «Післясвічення» - що охороняються секрети
@@ -259,10 +252,9 @@
             підказує, що не варто підпускати до них будь-яких іноземних агентів.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 7 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 7 -->
     <string id="lttz_oa_strelok_name">
         <text>
             Влучний стрілець
@@ -291,10 +283,9 @@
             Поговорити зі Стрільцем.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 8 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 8 -->
     <string id="lttz_oa_rogue_name">
         <text>
             Війна всередині
@@ -329,10 +320,9 @@
             Пси-аномалія забрала Бурлаку... Слід розповісти Стрілку про долю його друга.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 9 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 9 -->
     <string id="lttz_oa_stitch_name">
         <text>
             Ходячі мерці
@@ -360,10 +350,9 @@
             Шов не зміг відбитися... Слід розповісти Стрілку про його долю.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Operation Afterglow Task 10 -->
+
+    <!-- # -->
+    <!-- Operation Afterglow Task 10 -->
     <string id="lttz_oa_loose_ends_name">
         <text>
             Операція «Післясвічення» - Незавершені справи
@@ -440,6 +429,6 @@
             новинами в Зоні.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 </string_table>

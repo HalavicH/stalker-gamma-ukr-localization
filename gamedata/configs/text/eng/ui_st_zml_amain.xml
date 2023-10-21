@@ -45,8 +45,8 @@
             https://www.moddb.com/mods/stalker-anomaly/addons/survival-mode-remade-151
         </text>
     </string>
-    
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_amain_zml_enabled">
         <text>
             Enable ZLM - ZCP Loot Module revised 2.0 (main)
@@ -68,8 +68,8 @@
             is corrupted or otherwise invalid.
         </text>
     </string>
-    
-<!-- INFOS -->
+
+    <!-- INFOS -->
     <string id="ui_mcm_ZML_zml_amain_toggle_info_work">
         <text>
             While in-game, changing settings in here may or may not have immediate effects. Below

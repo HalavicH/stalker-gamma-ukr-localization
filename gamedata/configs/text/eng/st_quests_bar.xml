@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Default Storyline Task -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_name">
         <text>
             Отримати наступне завдання
@@ -37,10 +36,9 @@
             Удачі, чоловіче.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task# -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task# -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_name">
         <text>
             Затишшя перед бурею
@@ -68,10 +66,9 @@
             Відмінно відпрацював за програмними цілями. Молодець!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_name">
         <text>
             Про всяк «Випалювач» мозок знайдеться
@@ -105,10 +102,9 @@
             роздобути хоча б частину подібної зброї.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
         <text>
             Полковника ніхто не чекає
@@ -137,10 +133,9 @@
             нагорода.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Search Lab X#19 (Radar) Storyline Task -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Search Lab X#19 (Radar) Storyline Task -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_name">
         <text>
             Документація «Випалювачі мізків»
@@ -167,10 +162,9 @@
             Добре, ось і нагорода.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Mangun (Duty Mechanic) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Mangun (Duty Mechanic) Default Storyline Task -->
     <string id="drx_sl_bar_visitors_stalker_mechanic_default_task_name">
         <text>
             Отримати наступне завдання
@@ -192,10 +186,9 @@
             Удачі, брат!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task# -->
+
+    <!-- # -->
+    <!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task# -->
     <string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
         <text>
             Руки-крюки
@@ -231,10 +224,9 @@
             Ух, здорово! Дякую, братик, ти ж реально врятував мою дупу.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
+
+    <!-- # -->
+    <!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
     <string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
         <text>
             Бременські мутанти
@@ -262,10 +254,9 @@
             попередньому власнику... бідний хлопець. Добре, що мені він заплатив наперед.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -274,10 +265,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
+
+    <!-- # -->
+    <!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
     <string id="bar_dolg_leader_task_1_name">
         <text>
             Між молотом і ковадлом
@@ -321,10 +311,9 @@
             повторення - мати навчання.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Voronin (Duty Honcho)\night Terror Task -->
+
+    <!-- # -->
+    <!-- Voronin (Duty Honcho)\night Terror Task -->
     <string id="bar_dolg_leader_task_2_name">
         <text>
             дух помсти
@@ -355,8 +344,8 @@
             нарешті були відомщені. Ось твоя нагорода.
         </text>
     </string>
-    
-<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
+
+    <!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
     <string id="bar_dolg_leader_task_3_about">
         <text>
             Навіть незважаючи на те, що ми практично знищили сили «Гріха», його залишки не
@@ -371,8 +360,8 @@
             Зоною і людьми, що хочуть перетворити весь світ в неї.
         </text>
     </string>
-    
-<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
+
+    <!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
     <string id="bar_dolg_leader_task_4_name">
         <text>
             Свій серед чужих
@@ -433,10 +422,9 @@
             Фух, дійшли! Що ж, брат, вважаю, тут наші шляхи розходяться. Дякую тобі за все!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
     <string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
         <text>
             Новобранець «Обов'язку»
@@ -467,8 +455,8 @@
             Ласкаво просимо в «Обов'язок», боєць. Пишайся цим.
         </text>
     </string>
-    
-<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+
+    <!-- Petrenko (Duty Trader) Defend Rostok Task -->
     <string id="bar_dolg_general_petrenko_stalker_task_1_name">
         <text>
             Зі щитом чи на щиті
@@ -586,8 +574,8 @@
             Молодцем відпрацював, мисливець. Ось і нагорода.
         </text>
     </string>
-    
-<!-- Mangun (Duty Mechanic) -->
+
+    <!-- Mangun (Duty Mechanic) -->
     <string id="bar_visitors_stalker_mechanic_task_1_name">
         <text>
             І грянув грім, ч.1
@@ -711,8 +699,8 @@
             Але ти підходь в будь-який час!
         </text>
     </string>
-    
-<!-- Barkeep -->
+
+    <!-- Barkeep -->
     <string id="bar_visitors_barman_stalker_trader_task_1_name">
         <text>
             Ділову пропозицію
@@ -812,10 +800,9 @@
             Хороша робота. А ось і твої чесно зароблені.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Barkeep (Loner Trader)\new Tasks -->
+
+    <!-- # -->
+    <!-- Barkeep (Loner Trader)\new Tasks -->
     <string id="bar_visitors_barman_stalker_trader_task_4_name">
         <text>
             Незвичайний бізнес
@@ -877,8 +864,8 @@
             Ось це порадував. Відмінна робота, сталкер.
         </text>
     </string>
-    
-<!-- Aspirin (Duty Medic) -->
+
+    <!-- Aspirin (Duty Medic) -->
     <string id="bar_dolg_medic_task_1_name">
         <text>
             Народна медицина: знайти і доставити Аспірину «%s»
@@ -920,8 +907,8 @@
             почну синтезувати свої припарки.
         </text>
     </string>
-    
-<!-- Snitch (100 Rads) -->
+
+    <!-- Snitch (100 Rads) -->
     <string id="top_10_task_name">
         <text>
             Топ-10: #$num. $name

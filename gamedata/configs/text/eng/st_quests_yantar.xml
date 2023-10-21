@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# STORYLINE TASK TEXT  STRINGS
       <!#
@@ -10,10 +10,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist) Default Storyline Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist) Default Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_default_task_name">
         <text>
             Отримати наступне завдання
@@ -35,10 +34,9 @@
             Всього Вам доброго!
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist) Research Documents Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_1_name">
         <text>
             Польові звіти
@@ -86,10 +84,9 @@
             за надані незручності.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_2_name">
         <text>
             Неприродня наука
@@ -153,10 +150,9 @@
             дуже добре попрацювали. Наука Вас дякує.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist) Search Lab X#18 (Dark Valley) Storyline Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist) Search Lab X#18 (Dark Valley) Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_3_name">
         <text>
             Аморальна Чорнобильська Зона
@@ -204,10 +200,9 @@
             винагороду.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
     <string id="drx_sl_yan_stalker_sakharov_task_4_name">
         <text>
             Жага знань: встановити сканер поруч з аномалією «симбіонтів»
@@ -276,10 +271,9 @@
             молодий чоловік. Ми негайно почнемо аналізувати дані!
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# CHANGE FACTIONS TASK TEXT  STRINGS
       <!#
@@ -288,10 +282,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
     <string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
         <text>
             Наука і бюрократія
@@ -323,10 +316,9 @@
             Чудово! Просто чудово! Будь ласка, колега, відчувайте себе тут як вдома.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////
       <!#
       <!# DYNAMIC TASK TEXT  STRINGS
       <!#
@@ -335,10 +327,9 @@
       <!#	October 07, 2016
       <!#
       <!# # -->
-    
-<!-- # -->
-    
-<!-- Semenov (Ecog Honcho) Research Hunt Task -->
+
+    <!-- # -->
+    <!-- Semenov (Ecog Honcho) Research Hunt Task -->
     <string id="yan_ecolog_semenov_task_1_name">
         <text>
             Мисливці за знаннями
@@ -384,10 +375,9 @@
             голови.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Sakharov (Ecog Trader) -->
+
+    <!-- # -->
+    <!-- Sakharov (Ecog Trader) -->
     <string id="yan_stalker_sakharov_task_1_name">
         <text>
             Науковий донор
@@ -430,8 +420,8 @@
             експерименти.
         </text>
     </string>
-    
-<!-- Collect\new Artefact Task -->
+
+    <!-- Collect\new Artefact Task -->
     <string id="yan_stalker_sakharov_task_2_name">
         <text>
             Науковий прогрес
@@ -473,8 +463,8 @@
             лабораторія і особисто я дякуємо Вам за надану допомогу.
         </text>
     </string>
-    
-<!-- Classified Information Task -->
+
+    <!-- Classified Information Task -->
     <string id="classified_information_task_name">
         <text>
             Втрачене знання
@@ -512,8 +502,8 @@
             хочеться вірити, що подальша робота пройде без ексцесів.
         </text>
     </string>
-    
-<!-- yan_stalker_sakharov -->
+
+    <!-- yan_stalker_sakharov -->
     <string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
         <text>
             Калібрування пси-шолому
@@ -537,10 +527,9 @@
             небезпечній близькості. Для її відключення потрібні передові пристрої пси-захисту.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
+
+    <!-- # -->
+    <!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
     <string id="mechanic_army_yan_mlr_task_1_name">
         <text>
             Спеціаліст по гравіцапі, ч.1

@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-    
-<!-- # -->
-    
-<!-- Living Legend Task 1 -->
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+    <!-- # -->
+    <!-- Living Legend Task 1 -->
     <string id="lttz_ll_find_doctor_task_title">
         <text>
             Жива легенда - А друга старого нема
@@ -18,10 +16,9 @@
             знаходженні Стрілка.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 2 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 2 -->
     <string id="lttz_ll_visit_agro_ug_name">
         <text>
             Жива легенда: обшукати Підземелля Агропрома
@@ -52,10 +49,9 @@
             шляху Росток, щоб підготувати спорядження.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 3 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 3 -->
     <string id="lttz_ll_visit_barkeep_task_title">
         <text>
             Жива легенда - Слідами
@@ -68,10 +64,9 @@
             північ, де можна закупитися практично всім.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 3 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 3 -->
     <string id="lttz_ll_visit_aslan_task_title">
         <text>
             Жива легенда - Слідами
@@ -83,10 +78,9 @@
             чим він зможе допомогти.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 4 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 4 -->
     <string id="lttz_ll_call_north_task_title">
         <text>
             Жива легенда - Поклик півночі
@@ -104,10 +98,9 @@
             бачила групу Стрілка на південних територіях Зони.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 5 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 5 -->
     <string id="lttz_ll_breakthrough_task_name">
         <text>
             Жива легенда - Прорив
@@ -124,10 +117,9 @@
             Що ж, напад «Моноліту» відбито. Треба поговорити з Цербером ще раз.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 6 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 6 -->
     <string id="lttz_ll_radar_deactivate_name">
         <text>
             Жива легенда - Через «Веселку»
@@ -144,10 +136,9 @@
             портфоліо при зустрічі з легендою.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 7 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 7 -->
     <string id="lttz_ll_visit_beard_task_title">
         <text>
             Жива легенда - Анклав
@@ -161,10 +152,9 @@
             Стрілка і проходила там, то Борода точно знатиме що-небудь про це.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 8 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 8 -->
     <string id="lttz_ll_meet_rogue_task_title">
         <text>
             Жива легенда - Бродяга
@@ -177,10 +167,9 @@
             інших членів групи.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 9 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 9 -->
     <string id="lttz_ll_fetch_gauss_task_title">
         <text>
             Жива легенда - Експериментальна зброя
@@ -209,10 +198,9 @@
             хтось залишив завершену бойову версію поруч з її прототипом.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 10 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 10 -->
     <string id="lttz_ll_path_pripyat_task_title">
         <text>
             Жива легенда - Дорога в Прип'ять
@@ -238,10 +226,9 @@
             монолітовці.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 11 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 11 -->
     <string id="lttz_ll_medical_supplies_name">
         <text>
             Жива легенда - Медприпаси
@@ -253,10 +240,9 @@
             тим, що йому і треба.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 12 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 12 -->
     <string id="lttz_ll_attack_on_titan_name">
         <text>
             Жива легенда - Давид і Голіаф
@@ -273,10 +259,9 @@
             Псевдогіганта мертвий. Необхідно повідомити Бродягу про успіх.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 13 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 13 -->
     <string id="lttz_ll_find_documents_name">
         <text>
             Жива легенда - «Цілком таємно»
@@ -318,10 +303,9 @@
           \nСтрелок напевно зацікавиться цими документами.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 14 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 14 -->
     <string id="lttz_ll_eidolon_start_task_title">
         <text>
             Жива легенда - Наступ
@@ -332,10 +316,9 @@
             Необхідно зібрати загін для знищення Фантома.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 15 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 15 -->
     <string id="lttz_ll_eidolon_task_title">
         <text>
             Жива легенда - Чемпіон Моноліту
@@ -347,10 +330,9 @@
             забути про зброю в запалі бою...
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 16 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 16 -->
     <string id="lttz_ll_strelok_objective_task_title">
         <text>
             Жива легенда - Великі плани
@@ -361,10 +343,9 @@
             Фантом переможений. Тепер пора б і Стрілку розкрити свої справжні наміри.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 17 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 17 -->
     <string id="lttz_ll_chernobyl_raid_task_title">
         <text>
             Жива легенда - Штурм ЧАЕС
@@ -376,10 +357,9 @@
             же просто це все звучить...
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 18 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 18 -->
     <string id="lttz_ll_crucible_task_title">
         <text>
             Жива легенда - Чистилище
@@ -405,10 +385,9 @@
             потріскує своєю енергією. Всього лише частинка колишньої могутності Виконавця бажань.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 19 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 19 -->
     <string id="lttz_ll_answers_task_title">
         <text>
             Жива легенда - Відповіді
@@ -431,10 +410,9 @@
             створили Зону.
         </text>
     </string>
-    
-<!-- # -->
-    
-<!-- Living Legend Task 20 -->
+
+    <!-- # -->
+    <!-- Living Legend Task 20 -->
     <string id="lttz_ll_finish_task_title">
         <text>
             Жива легенда - Розв'язка
@@ -489,6 +467,6 @@
             Що ж, професор Сахаров буде радий почути про грандіозний успіх і даних Стрілка.
         </text>
     </string>
-    
-<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+    <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 </string_table>

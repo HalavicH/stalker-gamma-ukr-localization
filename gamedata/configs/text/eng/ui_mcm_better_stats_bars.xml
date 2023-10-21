@@ -136,8 +136,8 @@
             if you want to know exact protection against fields and plan to evade mines rather
             than knowing how much damage you take from them.
         </text>
-        
-<!--
+
+        <!--
             <text>Enabling this option will make bars represent protection against actual game
             threats (npcs, mutants, anomalies), based on their damage values, elemental types,
             and also includes corrected behaviour of outfit and helmet protection. You can choose

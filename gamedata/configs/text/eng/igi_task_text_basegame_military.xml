@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_title">
         <text>
             Destroy the Enemy Detachment
@@ -79,8 +78,8 @@
             their fallen comrade. As for you, here's your payment.
         </text>
     </string>
-    
-<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+
+    <!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_4_title">
         <text>
             Deal with the Problematic Stalker
@@ -104,8 +103,8 @@
             job, stalker.
         </text>
     </string>
-    
-<!-- FIND WEAPON FOR FREEDOM TASK -->
+
+    <!-- FIND WEAPON FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_title">
         <text>
             Bring Lukash a Reliable gun
@@ -137,8 +136,8 @@
             pass. Here is the payment I promised.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
+
+    <!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_bs_fetch_patches_title">
         <text>
             Trigger Happy
@@ -163,8 +162,8 @@
             Hey, nice job, man. Here's your money.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+
+    <!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_7_job_descr">
         <text>
             Hey man. Here's a thing. Remember those Sin folks? They didn't get the memo the last
@@ -180,8 +179,8 @@
             me think they may be onto something. So here. A little something for our Rambo.
         </text>
     </string>
-    
-<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+
+    <!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_title">
         <text>
             Zoneraker
@@ -245,12 +244,10 @@
             You want in? Then pack your pineapples and get going!
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Skinflint (Freedom Mechanic) -->
-    
-<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+
+    <!-- ######################################################################################### -->
+    <!-- Skinflint (Freedom Mechanic) -->
+    <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_title">
         <text>
             Bring Wild Game for Freedom
@@ -281,10 +278,9 @@
             payment. Why not buy some vodka and celebrate?
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_title">
         <text>
             Deliver Locked Case to Skinflint
@@ -309,10 +305,9 @@
             cut of the pay.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Skinflint (Freedom Trader) Night Terror Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Skinflint (Freedom Trader) Night Terror Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_title">
         <text>
             Phantoms in the Dark
@@ -348,10 +343,9 @@
             have a hunter like you around.
         </text>
     </string>
-    
-<!-- ######################################################################################### -->
-    
-<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+
+    <!-- ######################################################################################### -->
+    <!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_title">
         <text>
             Scarce Supplies
@@ -404,8 +398,8 @@
             extra mile and get some batteries, you'll even get a bonus, too. So, you in?
         </text>
     </string>
-    
-<!-- Solid (Freedom Medic) -->
+
+    <!-- Solid (Freedom Medic) -->
     <string id="igi_task_text_mil_freedom_medic_bs_fetch_drugkit_title">
         <text>
             Find drug-makin kit for Solid

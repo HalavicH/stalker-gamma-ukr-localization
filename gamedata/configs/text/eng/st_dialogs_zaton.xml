@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- (Mercenary Guide) at the merc base -->
-    
-<!-- (Mercenary Trader) at the merc base -->
+
+    <!-- (Mercenary Guide) at the merc base -->
+    <!-- (Mercenary Trader) at the merc base -->
     <string id="meet_zaton_killer_guide_station_0">
         <text>
             Хай, чим займаєшся?
@@ -49,8 +48,8 @@
             Мабуть, я передумав.
         </text>
     </string>
-    
-<!-- Pilot (Loner Guide) -->
+
+    <!-- Pilot (Loner Guide) -->
     <string id="meet_guid_zat_0">
         <text>
             Привіт. Ким будеш?
@@ -208,8 +207,8 @@
             головне - не відволікатися.
         </text>
     </string>
-    
-<!-- Gonta -->
+
+    <!-- Gonta -->
     <string id="gonta_about_himself_0">
         <text>
             Розкажи про себе.
@@ -316,8 +315,8 @@
             Добре забудь.
         </text>
     </string>
-    
-<!-- Owl (Loner Trader) -->
+
+    <!-- Owl (Loner Trader) -->
     <string id="owl_story_0">
         <text>
             Розкажи про цю «тиху гавань».
@@ -390,8 +389,8 @@
             Звісно. Давай подивимося, що ти там знайшов.
         </text>
     </string>
-    
-<!-- Beard (Loner Barman) -->
+
+    <!-- Beard (Loner Barman) -->
     <string id="boroda_story_0">
         <text>
             Бородою, значить, кличуть?
@@ -444,8 +443,8 @@
             занепокоєння.
         </text>
     </string>
-    
-<!--\noah (Loner Honcho) Character Description -->
+
+    <!--\noah (Loner Honcho) Character Description -->
     <string id="noah_start_dialog_0">
         <text>
             Чоловіче, ти берега поплутав чи - палити куди попало ?! Ти ж мене ледь не поклав тут!
@@ -832,8 +831,8 @@
             Є третя пляшка, якщо треба ще.
         </text>
     </string>
-    
-<!-- Nimble -->
+
+    <!-- Nimble -->
     <string id="player_inquiry">
         <text>
             Я б хотів покращити зброю.

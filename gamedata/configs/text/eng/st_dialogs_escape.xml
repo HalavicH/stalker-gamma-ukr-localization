@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    
-<!-- Sidrovish -->
+
+    <!-- Sidrovish -->
     <string id="esc_2_12_stalker_trader_start_dialog_1">
         <text>
             О, нові пики... Чи я вже бачив тебе раніше, сталкер? Я тут купую і продаю все, що
@@ -178,8 +178,8 @@
             табір в селі і сталкерів розпитувати про що хочеш.
         </text>
     </string>
-    
-<!-- Wolf -->
+
+    <!-- Wolf -->
     <string id="esc_2_12_stalker_wolf_start_dialog_1">
         <text>
             Привіт, сталкер! Яким чином в Селі?
@@ -200,8 +200,8 @@
             молодиків.
         </text>
     </string>
-    
-<!-- Fanatic -->
+
+    <!-- Fanatic -->
     <string id="esc_2_12_stalker_fanat_start_dialog_1">
         <text>
             Вітаю, сталкер! Як життя?
@@ -428,8 +428,8 @@
             Я знайшов схованку. Дякую за артефакт.
         </text>
     </string>
-    
-<!--string id="fanat_training_stash_found_1">
+
+    <!--string id="fanat_training_stash_found_1">
           <text>Huh... I see that with your level of perception, the Zone won't be taking you so easily. Your final lesson is about to start. Take some time to prepare.</text>
       </string-->
     <string id="fanat_training_stash_found_1">
@@ -481,10 +481,9 @@
             повітря свободи, хе-хе!
         </text>
     </string>
-    
-<!--\nimble -->
-    
-<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
+
+    <!--\nimble -->
+    <!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
     <string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
         <text>
             Хм-м, для мене? Ах так, я чекав цей КПК. Спора допомагає мені підтримувати контакти
@@ -1056,8 +1055,8 @@
             Твій замовлення виконано. Можеш забрати.
         </text>
     </string>
-    
-<!-- (Military Mechanic # Southern Outpost) -->
+
+    <!-- (Military Mechanic # Southern Outpost) -->
     <string id="army_south_mechan_mlr_st_0">
         <text>
             Слава Україні, командир. Ти, як розумію, тутешній технік?
@@ -1119,8 +1118,8 @@
             Ось як... я це запам'ятаю.
         </text>
     </string>
-    
-<!-- (Military Trader # Southern Outpost) -->
+
+    <!-- (Military Trader # Southern Outpost) -->
     <string id="guid_esc_mlr_military_0">
         <text>
             Слава Україні, командир! Терміново потрібна вертушка, щоб підкинути. Зможемо?
@@ -1176,8 +1175,8 @@
             Я передумав.
         </text>
     </string>
-    
-<!-- Hip -->
+
+    <!-- Hip -->
     <string id="devushka_1_start_0">
         <text>
             Вітаю, брат сталкер. Як твоє нічого? А то якось ти неважливо виглядаєш... Та ти не
