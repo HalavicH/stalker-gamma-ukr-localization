@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ################### inventory pda ################# -->
-    <!-- ############### script ############## -->
-    <!-- ######## gui ######## -->
+    <!-- =================== inventory pda ================= -->
+    <!-- =============== script ============== -->
+    <!-- ======== gui ======== -->
     <string id="pda_inter_menu">
         <text>
             ПДА меню
@@ -125,7 +125,7 @@
         </text>
     </string>
 
-    <!-- ######## raid ######## -->
+    <!-- ======== raid ======== -->
     <string id="pda_raid_to_join_1">
         <text>
             Ми можемо допомогти... за хорошу ціну.
@@ -158,7 +158,7 @@
         </text>
     </string>
 
-    <!-- ######## find ######## -->
+    <!-- ======== find ======== -->
     <string id="pda_find_seen_1">
         <text>
             Так, я бачив це нещодавно.
@@ -210,7 +210,7 @@
         </text>
     </string>
 
-    <!-- ######## trade ######## -->
+    <!-- ======== trade ======== -->
     <string id="pda_trade_offer_1">
         <text>
             У мене є те, що ти шукаєш.
@@ -247,7 +247,7 @@
         </text>
     </string>
 
-    <!-- ######## Banter ######## -->
+    <!-- ======== Banter ======== -->
     <string id="pda_banter_sos_1">
         <text>
             SOS, потрібна допомога! Це
@@ -314,8 +314,8 @@
         </text>
     </string>
 
-    <!-- ######## Tasks ######## -->
-    <!-- #### Mutant hunt #### -->
+    <!-- ======== Tasks ======== -->
+    <!-- ==== Mutant hunt ==== -->
     <string id="pda_task_mutant_hunt_btn">
         <text>
             Полювання на мутантів
@@ -337,7 +337,7 @@
         </text>
     </string>
 
-    <!-- #### Bounty #### -->
+    <!-- ==== Bounty ==== -->
     <string id="pda_task_bounty_btn">
         <text>
             Нагорода за голову
@@ -359,7 +359,7 @@
         </text>
     </string>
 
-    <!-- #### Guide #### -->
+    <!-- ==== Guide ==== -->
     <string id="pda_task_guide_btn">
         <text>
             Провідник
@@ -381,7 +381,7 @@
         </text>
     </string>
 
-    <!-- #### Fetch items #### -->
+    <!-- ==== Fetch items ==== -->
     <string id="pda_task_fetch_items_btn">
         <text>
             Знайти предмети
@@ -403,7 +403,7 @@
         </text>
     </string>
 
-    <!-- #### Dangerous squad #### -->
+    <!-- ==== Dangerous squad ==== -->
     <string id="pda_task_dangerous_squad_btn">
         <text>
             Небезпечний загін
@@ -425,7 +425,7 @@
         </text>
     </string>
 
-    <!-- #### Steal item #### -->
+    <!-- ==== Steal item ==== -->
     <string id="pda_task_stealth_btn">
         <text>
             Вкрасти предмет
@@ -462,7 +462,7 @@
         </text>
     </string>
 
-    <!-- #### Guard position #### -->
+    <!-- ==== Guard position ==== -->
     <string id="pda_task_guard_btn">
         <text>
             Охорона позиції
@@ -515,7 +515,7 @@
         </text>
     </string>
 
-    <!-- #### Scout #### -->
+    <!-- ==== Scout ==== -->
     <string id="pda_task_scout_btn">
         <text>
             Розвідка
@@ -547,7 +547,7 @@
         </text>
     </string>
 
-    <!-- #### Misc #### -->
+    <!-- ==== Misc ==== -->
     <string id="pda_task_reward">
         <text>
             Нагорода:
@@ -619,8 +619,8 @@
         </text>
     </string>
 
-    <!-- ############################################# -->
-    <!-- ################### xml ################# -->
+    <!-- ============================================= -->
+    <!-- =================== xml ================= -->
     <string id="pda_main_menu_raid">
         <text>
             Рейд

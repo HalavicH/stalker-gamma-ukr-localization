@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
     <string id="igi_task_text_monolith_eidolon_bs_fetch_patches_title">
         <text>
@@ -27,7 +27,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
     <string id="igi_task_text_monolith_eidolon_2_title">
         <text>
@@ -60,7 +60,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
     <string id="igi_task_text_monolith_eidolon_3_title">
         <text>
@@ -92,7 +92,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
     <string id="igi_task_text_monolith_eidolon_bs_return_document_from_stash_title">
         <text>
@@ -117,7 +117,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Rabbit (Monolith Trader) Assault Territory Task -->
     <string id="igi_task_text_pri_monolith_monolith_trader_stalker_bs_assault_stalker_online_title">
         <text>

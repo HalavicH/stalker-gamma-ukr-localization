@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
     <string id="igi_task_text_jup_b6_scientist_tech_1_title">
         <text>
@@ -97,7 +97,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
     <string id="igi_task_text_jup_b6_scientist_tech_3_title">
         <text>
@@ -141,7 +141,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
     <string id="igi_task_text_jup_b220_trapper_bs_assault_monster_online_title">
         <text>

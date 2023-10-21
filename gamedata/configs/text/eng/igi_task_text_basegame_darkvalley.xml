@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Sultan (Bandit Honcho) Mob Hit Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_kill_stalker_nearby_title">
         <text>
@@ -34,7 +34,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_2_title">
         <text>
@@ -62,7 +62,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_3_title">
         <text>
@@ -112,7 +112,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_5_title">
         <text>
@@ -138,7 +138,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Sultan (Bandit Honcho) Night Terror Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_6_title">
         <text>
@@ -164,7 +164,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Olivius (Bandit Trader) Eliminate Mutants Task# -->
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_monster_online_title">
         <text>

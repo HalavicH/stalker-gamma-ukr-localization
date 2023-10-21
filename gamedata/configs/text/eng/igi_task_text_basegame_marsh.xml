@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_title">
         <text>
@@ -28,7 +28,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Cold (Clear Sky Honcho) Night Terror Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_title">
         <text>
@@ -57,7 +57,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_4_title">
         <text>
@@ -73,7 +73,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_title">
         <text>
@@ -190,7 +190,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Spore (Clear Sky Trader) Deliver PDA Task -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_title">
         <text>

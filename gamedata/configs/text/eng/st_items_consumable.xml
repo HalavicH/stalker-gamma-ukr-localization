@@ -99,7 +99,7 @@
         </text>
     </string>
 
-    <!--#< FOOD >-->
+    <!---< FOOD >-->
     <string id="st_energy_drink">
         <text>
             Міцний енергетик (250 мл.)
@@ -596,7 +596,7 @@
         </text>
     </string>
 
-    <!--#< SMOKE >-->
+    <!---< SMOKE >-->
     <string id="st_cuban_cigar">
         <text>
             Кубинські сигари

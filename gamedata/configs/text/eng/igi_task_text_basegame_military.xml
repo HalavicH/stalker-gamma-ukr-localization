@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_title">
         <text>
@@ -245,7 +245,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Skinflint (Freedom Mechanic) -->
     <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_title">
@@ -279,7 +279,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_title">
         <text>
@@ -306,7 +306,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Skinflint (Freedom Trader) Night Terror Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_title">
         <text>
@@ -344,7 +344,7 @@
         </text>
     </string>
 
-    <!-- ######################################################################################### -->
+    <!-- ========================================================================================= -->
     <!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_title">
         <text>
