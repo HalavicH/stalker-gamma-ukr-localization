@@ -95,42 +95,68 @@
     </string>
     <string id="barter_povar_army_1">
         <text>
-            Отлічненько, вибирай:
+            Чудово, вибирай:
         </text>
     </string>
     <string id="barter_povar_army_2">
         <text>
-            4 пачок 9x18 мм.
+            4 пачкм 9x18 мм (x60)
         </text>
     </string>
     <string id="barter_povar_army_3">
         <text>
-            2 пачки 5,45x39 мм.
+            2 пачки FMJ 5,45x39 мм (x30)
         </text>
     </string>
     <string id="barter_povar_army_4">
         <text>
-            4 пачки 5,45x39 мм.
+            4 пачки FMJ 5,45x39 мм (x60)
         </text>
     </string>
+
+    <!--  New items  -->
+    <string id="barter_povar_army_3_2">
+        <text>
+            2 пачки FMJ 5,56x45 мм (x30)
+        </text>
+    </string>
+
+    <string id="barter_povar_army_4_2">
+        <text>
+            4 пачки FMJ 5,56x45 мм (x60)
+        </text>
+    </string>
+
+    <string id="barter_povar_army_3_3">
+        <text>
+            2 пачки СП-5 9x39 мм (x30)
+        </text>
+    </string>
+
+    <string id="barter_povar_army_4_3">
+        <text>
+            4 пачки СП-5 9x39 мм (x60)
+        </text>
+    </string>
+
     <string id="barter_povar_army_5">
         <text>
-            3 пачки дробу.
+            3 пачки дробу (х30).
         </text>
     </string>
     <string id="barter_povar_army_6">
         <text>
-            Пачку 7,62 мм 7Н1.
+            Пачку 7,62 мм 7Н1 (х10).
         </text>
     </string>
     <string id="barter_povar_army_7">
         <text>
-            3 короба для ПКП давай.
+            3 короба для ПКП 7,62x54 мм R давай (х90).
         </text>
     </string>
     <string id="barter_povar_army_8">
         <text>
-            «Берил».
+            Інструменти для грубої роботи.
         </text>
     </string>
     <string id="barter_povar_army_9">
@@ -181,14 +207,17 @@
     <string id="remember_dyx_barter_1">
         <text>
             Записати не можеш чи що? Ось, дивись:
-          \n 5 порцій «Nemiroff»: 4 пачки 9x18 мм,
-          \n 5 порцій «Nemiroff»: 2 пачки 5,45 мм,
-          \n 10 порцій «Nemiroff»: 4 пачки 5,45 мм,
-          \n 10 порцій «Nemiroff»: 3 пачки 12x70 дробу,
-          \n 10 порцій «Nemiroff»: пачка 7,62х54 мм 7H1,
-          \n 5 повних пузирів «Nemiroff» + 7,000 гривень: 3 короба 7,62x54 мм R,
-          \n 20 порцій «
-          \nemiroff»:«Берил».
+          \n 5 порцій «Nemiroff»: 4 пачки FMJ 5,56x45 мм,
+          \n 5 порцій «Nemiroff»: 2 пачки СП-5 9x39 мм,
+          \n 10 порцій «Nemiroff»: 4 пачки СП-5 9x39 мм,
+          \n 5 порцій «Nemiroff»: 2 пачки FMJ 5,56x45 мм (x30),
+          \n 10 порцій «Nemiroff»: 4 пачки FMJ 5,56x45 мм (x60),
+          \n 5 порцій «Nemiroff»: 2 пачки СП-5 9x39 мм (x30),
+          \n 10 порцій «Nemiroff»: 4 пачки СП-5 9x39 мм (x60),
+          \n 10 порцій «Nemiroff»: 3 пачки 12x70 дробу (х30),
+          \n 10 порцій «Nemiroff»: пачка 7,62х54 мм 7H1 (х10),
+          \n 15 повних пузирів «Nemiroff» + 7,000 гривень: 3 короба 7,62x54 мм R (х90),
+          \n 20 порцій «Nemiroff»: Інструменти для грубої роботи.
           \n
         </text>
     </string>
