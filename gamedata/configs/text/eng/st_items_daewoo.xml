@@ -7,12 +7,12 @@
     </string>
     <string id="st_wpn_k2_descr">
         <text>
-            The Daewoo Precision Industries K2 assault rifle is the standard service rifle of the
-            South Korean military. The rifle combines the best features from the AKM and M16 into
-            a cold war era package.
+            Штурмова гвинтівка Daewoo Precision Industries K2 є стандартною гвинтівкою
+            південнокорейської армії. Гвинтівка поєднує в собі найкращі риси АКМ та М16 в корпусі
+            часів холодної війни.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer
+          \n %c[ui_gray_2]СУМІСНІСТЬ:
+          \n %c[d_purple] • %c[ui_gray_2] Глушник 5.56 Nato
           \n
           \n
         </text>
@@ -24,12 +24,12 @@
     </string>
     <string id="st_wpn_dr200_descr">
         <text>
-            The DR200 is a modernized version of the Daewoo K2. This one features a vertical grip
-            and a rail to allow attachments for optics.
+            DR200 - це модернізована версія Daewoo K2. Ця модель має вертикальну рукоятку та
+            рейку для кріплення оптики.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer, ACOG, EOTECH, that one budget red
-            dot.
+          \n %c[ui_gray_2]СУМІСНІСТЬ:
+          \n %c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer, ACOG, EOTECH, одна бюджетна
+            червона точка.
           \n
           \n
         </text>
@@ -41,13 +41,13 @@
     </string>
     <string id="st_wpn_k1_descr">
         <text>
-            The Daewoo Precision Industries K1 assault rifle is the standard service rifle of the
-            South Korean military. The rifle combines the best features from the AKM and M16 into
-            a cold war era package. This rifle is essentially the same as the K2, except it has a
-            wire stock instead of a fixed stock.
+            Штурмова гвинтівка Daewoo Precision Industries K1 є стандартною гвинтівкою
+            південнокорейської армії. Гвинтівка поєднує в собі найкращі риси АКМ та М16 часів
+            холодної війни. Ця гвинтівка по суті така ж, як і K2, за винятком того, що вона має
+            дротяну ложу замість фіксованого приклада.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] 5.56 Nato Silencer
+          \n %c[ui_gray_2]СУМІСНІСТЬ:
+          \n %c[d_purple] • %c[ui_gray_2] Глушник 5.56 Nato
           \n
           \n
         </text>
@@ -59,25 +59,26 @@
     </string>
     <string id="st_wpn_k7_descr">
         <text>
-            The Daewoo Telecom K7 is a 9x19mm Parabellum submachine gun with an integral
-            suppressor used by the Republic of Korea Armed Forces. It is based on the Daewoo K1A
-            assault rifle, but is simplified by utilizing a blowback action rather than the gas
-            impingement system of its parent firearm.
+            Daewoo Telecom K7 - це пістолет-кулемет під набій 9x19 мм Parabellum із вбудованим
+            глушником, що використовується Збройними силами Республіки Корея. Він створений на
+            основі штурмової гвинтівки Daewoo K1A, але спрощений внаслідок використання відкату,
+            а не газової ударно-спускової системи, як у зброї-оригіналу.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] Integrated Silencer
+          \n %c[ui_gray_2]Насадки:
+          \n %c[d_purple] • %c[ui_gray_2] Інтегрований глушник
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_9mmdaewoo">
         <text>
-            K7 Magazine
+            Журнал K7
         </text>
     </string>
     <string id="st_wpn_9mmdaewoo_descr">
         <text>
-            A 32 round 9mm magazine for the Daewoo K7. This goes fast, be sure to carry multiple.
+            Магазин на 32 патрони 9 мм для Daewoo K7. Витрачається швидко, не забудьте взяти
+            кілька.
         </text>
     </string>
     <string id="st_wpn_ar70">
@@ -87,29 +88,29 @@
     </string>
     <string id="st_wpn_ar70_descr">
         <text>
-            The Beretta AR70 is the first iteration in a series of Cold War assault rifles
-            developed and adopted by Italy. The weapon is pretty basic in its current
-            configuration, featuring no bipod or grenade spigot but has a full auto fire control
-            group. Various amounts of these rifles were sold by Italy for use with NATO supplied
-            factions as a cheap alternative to the AR15. This rifle is often overshadowed by the
-            AR15 and other modern platforms in the zone due to its ergonomics and old manual of
-            arms.
+            Beretta AR70 є першою ітерацією в серії штурмових гвинтівок часів холодної війни,
+            розроблених і прийнятих на озброєння в Італії. У своїй нинішній конфігурації
+            гвинтівка досить проста, без сошок і гранатомета, але з повністю автоматичною
+            системою управління вогнем. Різні партії цих гвинтівок були продані Італією для
+            використання у збройних формуваннях НАТО як дешева альтернатива AR15. Ця гвинтівка
+            часто затьмарює AR15 та інші сучасні платформи в зоні бойових дій через свою
+            ергономіку та стару інструкцію зі стрільби.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] NATO Silencer
+          \n %c[ui_gray_2]СУМІСНІСТЬ:
+          \n %c[d_purple] • %c[ui_gray_2] Глушник НАТО
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_556ar70mag">
         <text>
-            AR70 Magazine
+            Журнал AR70
         </text>
     </string>
     <string id="st_wpn_556ar70mag_descr">
         <text>
-            A 30 round steel 5.56 AR70 magazine. It's odd and looks AK like, but it works and
-            feeds ammunition fine.
+            Сталевий магазин на 30 набоїв калібру 5.56 AR70. Він дивний і схожий на АК, але
+            працює і подає набої чудово.
         </text>
     </string>
     <string id="st_wpn_k2gl">
@@ -119,12 +120,12 @@
     </string>
     <string id="st_wpn_k2gl_descr">
         <text>
-            The Daewoo Precision Industries K2 assault rifle is the standard service rifle of the
-            South Korean military. The rifle combines the best features from the AKM and M16 into
-            a cold war era package. This one features an M203 and heatshield.
+            Штурмова гвинтівка Daewoo Precision Industries K2 є стандартною гвинтівкою
+            південнокорейської армії. Гвинтівка поєднує в собі найкращі риси АКМ та М16 часів
+            холодної війни. Ця гвинтівка оснащена прикладом M203 та тепловим екраном.
           \n
-          \n %c[ui_gray_2]Attachments:
-          \n %c[d_purple] • %c[ui_gray_2] Integrated Grenade Launcher
+          \n %c[ui_gray_2]Обвіс:
+          \n %c[d_purple] • %c[ui_gray_2] Інтегрований гранатомет
           \n
           \n
         </text>
