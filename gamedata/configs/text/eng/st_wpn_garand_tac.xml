@@ -7,21 +7,21 @@
     </string>
     <string id="st_wpn_garand_tac_descr">
         <text>
-            The M1 Garand or M1 rifle is a semi-automatic rifle that was the service rifle of the
-            U.S. Army during World War II and the Korean War. The rifle is chambered for the
-            .30-06 Springfield cartridge and is named after its Canadian-American designer, John
-            Garand. It was the first standard-issue autoloading rifle for the United States. By
-            most accounts, the M1 rifle performed well. General George S. Patton called it "the
-            greatest battle implement ever devised". The M1 replaced the bolt-action M1903
-            Springfield as the U.S.' service rifle in 1936, and was itself replaced by the
-            selective-fire M14 rifle on March 26, 1958. The Tactical variant includes polymer
-            furniture instead of wooden, as well as a picatinny rail on top of the handguard to
-            mount optics.
+            Гвинтівка M1 Garand або M1 - це напівавтоматична гвинтівка, яка була на озброєнні
+            армії США під час Другої світової війни та Корейської війни. Гвинтівка під патрон
+            .30-06 Springfield названа на честь її канадсько-американського конструктора Джона
+            Гаранда. Це була перша стандартна автоматична гвинтівка для США. За багатьма
+            оцінками, гвинтівка М1 добре себе зарекомендувала. Генерал Джордж С. Паттон назвав її
+            "найкращим бойовим інструментом, який коли-небудь був винайдений". М1 замінила
+            болтову гвинтівку M1903 Springfield на озброєнні США в 1936 році, а 26 березня 1958
+            року була замінена на гвинтівку M14 з вибірковою стрільбою. Варіант Tactical має
+            полімерне руків'я замість дерев'яного, а також планку Пікатіні на верхній частині
+            рукоятки для кріплення оптики.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n%c[d_purple] %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot
-            Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount),
-            Docter Sight, 1P76 Rakurs (low mount).
+          \n %c[ui_gray_2]СУМІСНІСТЬ:
+          \n%c[d_purple] %c[ui_gray_2] Приціли: Всі для пікатінні/вівера (крім прицілів Red Dot
+            Sights з низьким кріпленням: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1
+            (низьке кріплення), Docter Sight, 1P76 Rakurs (низьке кріплення).
           \n
           \n
         </text>
