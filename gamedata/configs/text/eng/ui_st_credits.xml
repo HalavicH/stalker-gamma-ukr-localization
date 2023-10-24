@@ -2,27 +2,27 @@
 <string_table>
     <string id="st_chechin">
         <text>
-            Sergiy Chechin
+            Сергій Чечин
         </text>
     </string>
     <string id="st_abramowicz">
         <text>
-            Maciej Abramowicz
+            Мацей Абрамович
         </text>
     </string>
     <string id="st_abroyan">
         <text>
-            Armen Abroyan
+            Армен Аброян
         </text>
     </string>
     <string id="st_actors">
         <text>
-            Actors
+            Актори
         </text>
     </string>
     <string id="st_all_qa">
         <text>
-            Testers
+            Тестувальники
         </text>
     </string>
     <string id="st_amdati">
@@ -32,187 +32,187 @@
     </string>
     <string id="st_androshchuk">
         <text>
-            Roman Androshiuk
+            Роман Андрощук
         </text>
     </string>
     <string id="st_animator">
         <text>
-            Animator
+            Аніматор
         </text>
     </string>
     <string id="st_art_department">
         <text>
-            Graphics Department
+            Відділ графіки
         </text>
     </string>
     <string id="st_art_director">
         <text>
-            Art Director
+            Арт-директор
         </text>
     </string>
     <string id="st_atroshenko">
         <text>
-            Nikita Atroshenko
+            Микита Атрошенко
         </text>
     </string>
     <string id="st_bajorek">
         <text>
-            Damian Bajorek
+            Даміан Баджорек
         </text>
     </string>
     <string id="st_bastrikin">
         <text>
-            Mikhail Bastrykin
+            Михайло Бастрикін
         </text>
     </string>
     <string id="st_bilinski">
         <text>
-            Kamil Bilinski
+            Каміль Білінський
         </text>
     </string>
     <string id="st_binkowski">
         <text>
-            Krzysztof Binkowski
+            Кшиштоф Бінковський
         </text>
     </string>
     <string id="st_bochenek">
         <text>
-            Arkadiusz Bochenek
+            Аркадіуш Бохенек
         </text>
     </string>
     <string id="st_boggs">
         <text>
-            Justin Boggs
+            Джастін Боггс
         </text>
     </string>
     <string id="st_bogush">
         <text>
-            Anatoly Bogush
+            Анатолій Богуш
         </text>
     </string>
     <string id="st_borowy">
         <text>
-            Wojciech Borowy
+            Войцех Боровий
         </text>
     </string>
     <string id="st_burtsau">
         <text>
-            Stanislaw Burtsau
+            Станіслав Бурцау
         </text>
     </string>
     <string id="st_character_models">
         <text>
-            Character Models
+            Моделі персонажів
         </text>
     </string>
     <string id="st_cherevatenko">
         <text>
-            Oleksiy Cherevatenko
+            Олексій Череватенко
         </text>
     </string>
     <string id="st_chrul">
         <text>
-            Jerzy Chrul
+            Єжи Хруль
         </text>
     </string>
     <string id="st_ciemny">
         <text>
-            Wojciech Ciemny
+            Войцех Чемний
         </text>
     </string>
     <string id="st_composer">
         <text>
-            Composer
+            Композитор
         </text>
     </string>
     <string id="st_davidian">
         <text>
-            Dmitry 'Abe' Davidyan
+            Дмитро 'Ейб' Давідян
         </text>
     </string>
     <string id="st_davies">
         <text>
-            Aaron Davies
+            Аарон Девіс
         </text>
     </string>
     <string id="st_demidenko">
         <text>
-            Oleksandr Demidenko
+            Олександр Демиденко
         </text>
     </string>
     <string id="st_dep_programmers">
         <text>
-            Programming
+            Програмування
         </text>
     </string>
     <string id="st_dep_programmers1">
         <text>
-            Department
+            Відділ
         </text>
     </string>
     <string id="st_derewonko">
         <text>
-            Lukasz Derewonko
+            Лукаш Деревонько
         </text>
     </string>
     <string id="st_didenko">
         <text>
-            Ruslan Didenko
+            Руслан Діденко
         </text>
     </string>
     <string id="st_doroshenko">
         <text>
-            Yuri Doroshenko
+            Юрій Дорошенко
         </text>
     </string>
     <string id="st_dovgoluk">
         <text>
-            Elena Dovgaliuk
+            Олена Довгалюк
         </text>
     </string>
     <string id="st_durajczyk">
         <text>
-            Rafal Durajczyk
+            Рафал Дурайчик
         </text>
     </string>
     <string id="st_dushinskiy">
         <text>
-            Petro Dushinsky
+            Петро Душинський
         </text>
     </string>
     <string id="st_dziarnowski">
         <text>
-            Maciej Dziarnowski
+            Мацей Дзярновський
         </text>
     </string>
     <string id="st_eremenko">
         <text>
-            Sergey Eremenko
+            Сергій Єременко
         </text>
     </string>
     <string id="st_falchenko">
         <text>
-            Yuri 'Dark' Falchenko
+            Юрій 'Dark' Фальченко
         </text>
     </string>
     <string id="st_gabryel">
         <text>
-            Jakub Gabryel
+            Якуб Габріель
         </text>
     </string>
     <string id="st_galach">
         <text>
-            Cezary Galach
+            Цезарій Галач
         </text>
     </string>
     <string id="st_gamedesign_department">
         <text>
-            Game Design Department
+            Кафедра ігрового дизайну
         </text>
     </string>
     <string id="st_gameplay">
         <text>
-            Gameplay Programmers
+            Ігрові програмісти
         </text>
     </string>
     <string id="st_genega_qa">
@@ -222,353 +222,352 @@
     </string>
     <string id="st_genega_thanks">
         <text>
-            Special thanks to
+            Особлива подяка
         </text>
     </string>
     <string id="st_gerasimov">
         <text>
-            Filip Gerasimov
+            Філіп Герасимов
         </text>
     </string>
     <string id="st_german">
         <text>
-            Grigory Hermann
+            Григорій Герман
         </text>
     </string>
     <string id="st_girich">
         <text>
-            Angelica Girich
+            Анжеліка Гіріч
         </text>
     </string>
     <string id="st_golubinski">
         <text>
-            Pawel Golubinski
+            Павел Голубінський
         </text>
     </string>
     <string id="st_gorniak">
         <text>
-            Marcin Gorniak
+            Марцін Горняк
         </text>
     </string>
     <string id="st_goscicki">
         <text>
-            Tomasz Goscicki
+            Томаш Ґосціцький
         </text>
     </string>
     <string id="st_graphics">
         <text>
-            Graphics Programmers
+            Графічні програмісти
         </text>
     </string>
     <string id="st_grun">
         <text>
-            Holger Grun
+            Хольгер Грюн
         </text>
     </string>
     <string id="st_grzywaczewski">
         <text>
-            Pawel Grzywaczewski
+            Павел Гживачевський
         </text>
     </string>
     <string id="st_gsc">
         <text>
-            Sergiy Grygorovich
+            Сергій Григорович
         </text>
     </string>
     <string id="st_gutowski">
         <text>
-            Marcin Gutowski
+            Марцін Гутовський
         </text>
     </string>
     <string id="st_iassenev">
         <text>
-            Dmytro Yasenev
+            Дмитро Ясенєв
         </text>
     </string>
     <string id="st_intel">
         <text>
-            Intel
+            Інтел
         </text>
     </string>
     <string id="st_ivancov">
         <text>
-            Sergey Ivantsov
+            Сергій Іванцов
         </text>
     </string>
     <string id="st_jankowski">
         <text>
-            Norbert Jankowski
+            Норберт Янковський
         </text>
     </string>
     <string id="st_kachanuyk">
         <text>
-            Oleksandr Kachaniuk
+            Олександр Качанюк
         </text>
     </string>
     <string id="st_kalita">
         <text>
-            Dmitry Kalita
+            Дмитро Калита
         </text>
     </string>
     <string id="st_keska">
         <text>
-            Aleksander Keska
+            Олександр Кеска
         </text>
     </string>
     <string id="st_kirienko">
         <text>
-            Andriy 'Darin' Kirienko
+            Андрій 'Дарін' Кірієнко
         </text>
     </string>
     <string id="st_kobylanski">
         <text>
-            Lukasz Kobylanski
+            Лукаш Кобилянський
         </text>
     </string>
     <string id="st_kolomiech">
         <text>
-            Andriy Kolomiets
+            Андрій Коломієць
         </text>
     </string>
     <string id="st_komorek">
         <text>
-            Artur Komorek
+            Артур Коморек
         </text>
     </string>
     <string id="st_konstantinov">
         <text>
-            Yuri Konstantinov
+            Юрій Константінов
         </text>
     </string>
     <string id="st_kotolovskaya">
         <text>
-            Maria Kotolovskaya
+            Марія Котоловська
         </text>
     </string>
     <string id="st_kovach">
         <text>
-            Oleksandr Kovach
+            Олександр Ковач
         </text>
     </string>
     <string id="st_koval">
         <text>
-            Kirill Koval
+            Кирило Коваль
         </text>
     </string>
     <string id="st_krivchenko">
         <text>
-            Irina Krivchikova
+            Ірина Кривчикова
         </text>
     </string>
     <string id="st_krivets">
         <text>
-            Dmytro Krivets
+            Дмитро Кривець
         </text>
     </string>
     <string id="st_kuchma">
         <text>
-            Eugene Kuchma
+            Євген Кучма
         </text>
     </string>
     <string id="st_kudrya">
         <text>
-            Svitlana Kudrya
+            Світлана Кудря
         </text>
     </string>
     <string id="st_kurbatov">
         <text>
-            Sergey Kurbatov
+            Сергій Курбатов
         </text>
     </string>
     <string id="st_kuzhel">
         <text>
-            Olga Kuzhel
+            Ольга Кужель
         </text>
     </string>
     <string id="st_kuzmenko">
         <text>
-            Dmytro Kuzmenko
+            Дмитро Кузьменко
         </text>
     </string>
     <string id="st_kuznecov">
         <text>
-            Aleksey Kuznetsov
+            Олексій Кузнєцов
         </text>
     </string>
     <string id="st_kuznecov1">
         <text>
-            Oleg Kuznetsov
+            Олег Кузнєцов
         </text>
     </string>
     <string id="st_lazarski">
         <text>
-            Szymon Lazarski
+            Шимон Лазарський
         </text>
     </string>
     <string id="st_lead_animator">
         <text>
-            Lead Animator
+            Провідний аніматор
         </text>
     </string>
     <string id="st_lead_artist">
         <text>
-            Lead Artist
+            Провідний художник
         </text>
     </string>
     <string id="st_lead_game_designer">
         <text>
-            Lead Game Designer
+            Провідний геймдизайнер
         </text>
     </string>
     <string id="st_lead_programmer">
         <text>
-            Lead Programmer
+            Провідний програміст
         </text>
     </string>
     <string id="st_lead_qa">
         <text>
-            Lead Testers
+            Провідні тестувальники
         </text>
     </string>
     <string id="st_lead_specialist">
         <text>
-            Lead Experts
+            Провідні експерти
         </text>
     </string>
     <string id="st_level_design">
         <text>
-            Level Design
+            Дизайн рівнів
         </text>
     </string>
     <string id="st_lit_editor">
         <text>
-            Proofreading
+            Коректура
         </text>
     </string>
     <string id="st_litvinenko">
         <text>
-            Volodymyr Litvinenko
+            Володимир Литвиненко
         </text>
     </string>
     <string id="st_lundgren">
         <text>
-            Eric Lundgren
+            Ерік Лундгрен
         </text>
     </string>
     <string id="st_maistrenko">
         <text>
-            Sergiy Maistrenko
+            Сергій Майстренко
         </text>
     </string>
     <string id="st_makedon">
         <text>
-            Dmitry Macedon
+            Дмитро Македон
         </text>
     </string>
     <string id="st_malinkin">
         <text>
-            Roman Malinkin
+            Роман Малінкін
         </text>
     </string>
     <string id="st_manager_qa">
         <text>
-            Project Managers
+            Керівники проектів
         </text>
     </string>
     <string id="st_manilyuk">
         <text>
-            Oleksandr Maniliuk
+            Олександр Манилюк
         </text>
     </string>
     <string id="st_mankowski">
         <text>
-            Daniel Mankowski
+            Даніель Маньковський
         </text>
     </string>
     <string id="st_matveenko">
         <text>
-            Denis Matveenko
+            Денис Матвєєнко
         </text>
     </string>
     <string id="st_mazurek">
         <text>
-            Maciej Mazurek
+            Мацей Мазурек
         </text>
     </string>
     <string id="st_mazurkiewicz">
         <text>
-            Piotr Mazurkiewicz
+            Пьотр Мазуркевич
         </text>
     </string>
     <string id="st_mcphee">
         <text>
-            Darren McPhee
+            Даррен Макфі
         </text>
     </string>
     <string id="st_melnikov">
         <text>
-            Igor Melnikov
+            Ігор Мельников
         </text>
     </string>
     <string id="st_merkulov">
         <text>
-            Victor Merkulov
+            Віктор Меркулов
         </text>
     </string>
     <string id="st_mielnik">
         <text>
-            Damian Mielnik
+            Даміан Мельник
         </text>
     </string>
     <string id="st_mikhailov">
         <text>
-            Pavel Mikhailov
+            Павло Михайлов
         </text>
     </string>
     <string id="st_mironov">
         <text>
-            Konstantin Mironov
+            Костянтин Миронов
         </text>
     </string>
     <string id="st_mocap">
         <text>
-            Huge thanks to Oleg Fomenko
+            Величезна подяка Олегу Фоменку
         </text>
     </string>
     <string id="st_mocap1">
         <text>
-            and BuntarMedia
+            та BuntarMedia
         </text>
     </string>
     <string id="st_mocap3">
         <text>
-            for advice on MOCAP
+            для отримання консультації щодо MOCAP
         </text>
     </string>
     <string id="st_mopev">
         <text>
-            Vladimir Morev
+            Володимир Морєв
         </text>
     </string>
     <string id="st_moroz">
         <text>
-            Andriy Moroz
+            Андрій Мороз
         </text>
     </string>
     <string id="st_mrozowski">
         <text>
-            Dawid Mrozowski
+            Давид Мрозовський
         </text>
     </string>
     <string id="st_negrobov">
         <text>
-            Yuri
-          \negrobov
+            Юрій Негробов
         </text>
     </string>
     <string id="st_network">
         <text>
-            Multiplayer Programmer
+            Програміст мультиплеєру
         </text>
     </string>
     <string id="st_nvidia">
@@ -578,563 +577,562 @@
     </string>
     <string id="st_omelchuk">
         <text>
-            Oleksiy Omelchuk
+            Олексій Омельчук
         </text>
     </string>
     <string id="st_osinski">
         <text>
-            Lukasz Osinski
+            Лукаш Осінський
         </text>
     </string>
     <string id="st_parphenyuk">
         <text>
-            Mikhail Parfeniuk
+            Михайло Парфенюк
         </text>
     </string>
     <string id="st_pashin">
         <text>
-            Eugene Pashin
+            Євген Пашин
         </text>
     </string>
     <string id="st_pasichniy">
         <text>
-            Igor Pasichnyi
+            Ігор Пасічний
         </text>
     </string>
     <string id="st_peas">
         <text>
-            Bartosz Peas
+            Бартош Горошок
         </text>
     </string>
     <string id="st_physic">
         <text>
-            Physics Programmer
+            Програміст з фізики
         </text>
     </string>
     <string id="st_piotrowski">
         <text>
-            Jacek Piotrowski
+            Яцек Пьотровський
         </text>
     </string>
     <string id="st_plichko">
         <text>
-            Oleksandr Plichko
+            Олександр Плічко
         </text>
     </string>
     <string id="st_pr_department">
         <text>
-            PR Department
+            Відділ зв'язків з громадськістю
         </text>
     </string>
     <string id="st_pr_director">
         <text>
-            PR Director
+            Директор зі зв'язків з громадськістю
         </text>
     </string>
     <string id="st_pr_manager">
         <text>
-            PR Managers
+            PR-менеджери
         </text>
     </string>
     <string id="st_prishepa">
         <text>
-            Sergey Prishepa
+            Сергій Прищепа
         </text>
     </string>
     <string id="st_producer">
         <text>
-            Producer
+            Продюсер
         </text>
     </string>
     <string id="st_project_lead">
         <text>
-            Project Manager
+            Керівник проекту
         </text>
     </string>
     <string id="st_qa_department">
         <text>
-            Testing
+            Тестування
         </text>
     </string>
     <string id="st_ravin">
         <text>
-            Anton Ravin
+            Антон Равін
         </text>
     </string>
     <string id="st_rejent">
         <text>
-            Sebastian Rejent
+            Себастьян Режент
         </text>
     </string>
     <string id="st_rekorajski">
         <text>
-            Mateusz Rekorajski
+            Матеуш Рекорайський
         </text>
     </string>
     <string id="st_resiak">
         <text>
-            Filip Resiak
+            Філіп Ресяк
         </text>
     </string>
     <string id="st_ross">
         <text>
-            Peter Ross
+            Пітер Росс
         </text>
     </string>
     <string id="st_rozin">
         <text>
-            Ivan Rozin
+            Іван Розін
         </text>
     </string>
     <string id="st_ruminski">
         <text>
-            Lukasz Ruminski
+            Лукаш Румінський
         </text>
     </string>
     <string id="st_rutkovskiy">
         <text>
-            Denis Rutkovsky
+            Денис Рутковський
         </text>
     </string>
     <string id="st_rynkowski">
         <text>
-            Lukasz Rynkowski
+            Лукаш Ринковський
         </text>
     </string>
     <string id="st_sales_department">
         <text>
-            Business Development Manager
+            Менеджер з розвитку бізнесу
         </text>
     </string>
     <string id="st_samborowski">
         <text>
-            Piotr Samborowski
+            Пьотр Самборовський
         </text>
     </string>
     <string id="st_shapunova">
         <text>
-            Maria Shapunova
+            Марія Шапунова
         </text>
     </string>
     <string id="st_shelest">
         <text>
-            Sergey Shelest
+            Сергій Шелест
         </text>
     </string>
     <string id="st_sidorenko">
         <text>
-            Igor Sidorenko
+            Ігор Сидоренко
         </text>
     </string>
     <string id="st_sitkiewicz">
         <text>
-            Mikolaj Sitkiewicz
+            Микола Сіткевич
         </text>
     </string>
     <string id="st_skripal">
         <text>
-            Yuri Skripal
+            Юрій Скрипаль
         </text>
     </string>
     <string id="st_slipchenko">
         <text>
-            Konstantin Slipchenko
+            Костянтин Сліпченко
         </text>
     </string>
     <string id="st_sobotka">
         <text>
-            Tomasz Sobotka
+            Томаш Соботка
         </text>
     </string>
     <string id="st_sound_producer">
         <text>
-            Sound Producer
+            Звукорежисер
         </text>
     </string>
     <string id="st_special_thanks">
         <text>
-            Special
+            Спеціальна
         </text>
     </string>
     <string id="st_special_thanks1">
         <text>
-            thanks to
+            подяка
         </text>
     </string>
     <string id="st_stalchuk">
         <text>
-            Oleg Stalchuk
+            Олег Стальчук
         </text>
     </string>
     <string id="st_starodub">
         <text>
-            Liudmila Starodub
+            Людмила Стародуб
         </text>
     </string>
     <string id="st_stavickiy">
         <text>
-            Vladimir Stavitsky
+            Володимир Ставицький
         </text>
     </string>
     <string id="st_stempien">
         <text>
-            Pawel Stempien
+            Павел Стемпієн
         </text>
     </string>
     <string id="st_strzelczyk">
         <text>
-            Pawel Strzelczyk
+            Павел Стржельчик
         </text>
     </string>
     <string id="st_stuff">
         <text>
-            Credits
+            Кредити
         </text>
     </string>
     <string id="st_stupicev">
         <text>
-            Konstantin Stupivtsev
+            Костянтин Ступівцев
         </text>
     </string>
     <string id="st_support">
         <text>
-            Customer
+            Клієнтська
         </text>
     </string>
     <string id="st_support1">
         <text>
-            Support
+            Підтримка
         </text>
     </string>
     <string id="st_szekalski">
         <text>
-            Rafal Szekalski
+            Рафал Секальський
         </text>
     </string>
     <string id="st_szumowski">
         <text>
-            Maciej Szumowski
+            Мацей Шумовський
         </text>
     </string>
     <string id="st_szwargolinski">
         <text>
-            Marcin Szwargolinski
+            Марцін Шварголінський
         </text>
     </string>
     <string id="st_tereshchyk">
         <text>
-            Vladimir Tereshiuk
+            Володимир Терестюк
         </text>
     </string>
     <string id="st_terlik">
         <text>
-            Sergey Terliuk
+            Сергій Терлюк
         </text>
     </string>
     <string id="st_textures">
         <text>
-            Textures
+            Текстури
         </text>
     </string>
     <string id="st_thanks">
         <text>
-            And everyone else who helped us
+            І всім, хто нам допомагав
         </text>
     </string>
     <string id="st_thanks1">
         <text>
-            make the game even better:
+            зробити гру ще кращою:
         </text>
     </string>
     <string id="st_thanks10">
         <text>
-            Konstantin Morozkov
+            Костянтин Морозков
         </text>
     </string>
     <string id="st_thanks11">
         <text>
-            Yaroslav 'Uncle Yar' Alexandrov
+            Ярослав "Дядька Яр" Александров
         </text>
     </string>
     <string id="st_thanks12">
         <text>
-            Dmitry 'Comandor' Ivanov
+            Дмитро 'Командор' Іванов
         </text>
     </string>
     <string id="st_thanks13">
         <text>
-            Oleg Chernov
+            Олег Чернов
         </text>
     </string>
     <string id="st_thanks14">
         <text>
-            Ig. Valerian (Golovchenko) aka oVal
+            Ig. Валеріана (Головченко) aka oVal
         </text>
     </string>
     <string id="st_thanks15">
         <text>
-            M. Bystrykhin
+            M. Бистрихін
         </text>
     </string>
     <string id="st_thanks16">
         <text>
-            Eugene 'Mulder' Khaletskiy
+            Євген "Малдер" Халецький
         </text>
     </string>
     <string id="st_thanks17">
         <text>
-            Pavel 'Goon' Bolotov
+            Павло "Бун" Болотов
         </text>
     </string>
     <string id="st_thanks18">
         <text>
-            Alexander 'Leks' Abramov
+            Олександр 'Лекс' Абрамов
         </text>
     </string>
     <string id="st_thanks19">
         <text>
-            Alexander
-          \novikov
+            Олександр Новіков
         </text>
     </string>
     <string id="st_thanks2">
         <text>
-            Alexander Poshtaruk, Andrey Oleshk
+            Олександр Поштарук, Андрій Олешок
         </text>
     </string>
     <string id="st_thanks20">
         <text>
-            Eugene 'KRANZ' Goncharenko
+            Євген 'KRANZ' Гончаренко
         </text>
     </string>
     <string id="st_thanks21">
         <text>
-            Sergey Dvuzhilny
+            Сергій Двужильний
         </text>
     </string>
     <string id="st_thanks22">
         <text>
-            Aleksey 'Don Reba' Badalov
+            Олексій 'Дон Реба' Бадалов
         </text>
     </string>
     <string id="st_thanks23">
         <text>
-            Sergey Dvuzhilny, Tolusha
+            Сергій Двужильний, Толуша
         </text>
     </string>
     <string id="st_thanks24">
         <text>
-            Artem Zuev, aka BAC9-FLCL
+            Артем Зуєв, він же BAC9-FLCL
         </text>
     </string>
     <string id="st_thanks25">
         <text>
-            Glot, Patriot, Mers
+            Глот, Патріот, Мерс
         </text>
     </string>
     <string id="st_thanks26">
         <text>
-            Tiger, Demesis, Kharon, Moby
+            Тигр, Демесіс, Харон, Мобі
         </text>
     </string>
     <string id="st_thanks3">
         <text>
-            Alexander Oleinik
+            Олександр Олійник
         </text>
     </string>
     <string id="st_thanks4">
         <text>
-            Konstantin 'Inquisitor' Kriuchkov
+            Костянтин "Інквізитор" Крючков
         </text>
     </string>
     <string id="st_thanks5">
         <text>
-            Alexander Shakhovsky, Igor Dolzhenko
+            Олександр Шаховський, Ігор Долженко
         </text>
     </string>
     <string id="st_thanks6">
         <text>
-            Sergey 'Tur' Leshenko
+            Сергій 'Тур' Лешенко
         </text>
     </string>
     <string id="st_thanks7">
         <text>
-            Dmitry 'Hill' Gorban
+            Дмитро 'Hill' Горбань
         </text>
     </string>
     <string id="st_thanks8">
         <text>
-            Mikhail Kliuev
+            Михайло Клюєв
         </text>
     </string>
     <string id="st_thanks9">
         <text>
-            Sergey 'Termite' Volchanov
+            Сергій 'Терміт' Волчанов
         </text>
     </string>
     <string id="st_tihomirov">
         <text>
-            Sergey Tikhomirov
+            Сергій Тихомиров
         </text>
     </string>
     <string id="st_tolmachev">
         <text>
-            Ilya Tolmachev
+            Ілля Толмачов
         </text>
     </string>
     <string id="st_trudzik">
         <text>
-            Jakub Trudzik
+            Якуб Трудзік
         </text>
     </string>
     <string id="st_ui_art">
         <text>
-            Interface Design
+            Дизайн інтерфейсу
         </text>
     </string>
     <string id="st_uralskiy">
         <text>
-            Yuri Uralsky
+            Юрій Уральський
         </text>
     </string>
     <string id="st_usupov">
         <text>
-            Denis 'Tetri$Zs' Yusupov
+            Денис 'Tetri$Zs' Юсупов
         </text>
     </string>
     <string id="st_vander">
         <text>
-            RandyJ VanderHeyden
+            Ренді Джей ВандерХейден
         </text>
     </string>
     <string id="st_vazinskiy">
         <text>
-            Vladimir Vazhinsky
+            Володимир Важинський
         </text>
     </string>
     <string id="st_verpahovskiy">
         <text>
-            Andrey Verpakhovsky
+            Андрій Верпаховський
         </text>
     </string>
     <string id="st_vilkov">
         <text>
-            Alexander Vilkov
+            Олександр Вілков
         </text>
     </string>
     <string id="st_voskolovich">
         <text>
-            Anastassia Voskolovich
+            Анастасія Восколович
         </text>
     </string>
     <string id="st_wardziak">
         <text>
-            Andrzej Wardziak
+            Анджей Вардзяк
         </text>
     </string>
     <string id="st_web_programmer">
         <text>
-            Web Programmer
+            Веб-програміст
         </text>
     </string>
     <string id="st_wojcik">
         <text>
-            Dominik Wojcik
+            Домінік Войцик
         </text>
     </string>
     <string id="st_wtroba">
         <text>
-            Lukasz Watroba
+            Лукаш Ватроба
         </text>
     </string>
     <string id="st_yablon">
         <text>
-            Eugene Yablon
+            Євген Яблон
         </text>
     </string>
     <string id="st_yacenko">
         <text>
-            Yuri Yatsenko
+            Юрій Яценко
         </text>
     </string>
     <string id="st_yacyk">
         <text>
-            Eugene Yatsiuk
+            Євген Яцюк
         </text>
     </string>
     <string id="st_yavorsky">
         <text>
-            Oleg Yavorsky
+            Олег Яворський
         </text>
     </string>
     <string id="st_yeltyshev">
         <text>
-            Valentin Yeltyshev
+            Валентин Єлтишев
         </text>
     </string>
     <string id="st_zaitsev">
         <text>
-            Eugene Zaitsev
+            Євген Зайцев
         </text>
     </string>
     <string id="st_zakolukin">
         <text>
-            Andrey Zakoliukin
+            Андрій Заколюкін
         </text>
     </string>
     <string id="st_zdziarski">
         <text>
-            Marek Zdziarski
+            Марек Здзярський
         </text>
     </string>
     <string id="st_zegarski">
         <text>
-            Michal Zegarski
+            Міхал Зегарський
         </text>
     </string>
     <string id="st_zmudzki">
         <text>
-            Albert Zmudzki
+            Альберт Змудзький
         </text>
     </string>
     <string id="st_zorin">
         <text>
-            Aleksey Zorin
+            Олексій Зорін
         </text>
     </string>
     <string id="st_zukowski">
         <text>
-            Bartosz Zukowski
+            Бартош Жуковський
         </text>
     </string>
     <string id="st_yuhno">
         <text>
-            Victoria 'Morrant' Yukhno
+            Вікторія "Моррант" Юхно
         </text>
     </string>
     <string id="st_kalintsev">
         <text>
-            Sergey 'ion' Kalintsev
+            Сергій 'ion' Калінцев
         </text>
     </string>
     <string id="st_kulikov">
         <text>
-            Roman 'RVCool' Kulikov
+            Роман 'RVCool' Куликов
         </text>
     </string>
     <string id="st_smirnov">
         <text>
-            Maxim Smirnov
+            Максим Смирнов
         </text>
     </string>
     <string id="st_alshekhly">
         <text>
-            Omar Al-Shekhly
+            Омар Аль-Шехлі
         </text>
     </string>
     <string id="st_arhipov">
         <text>
-            Roman =Marauder= Arhipov
+            Роман =Marauder= Архипов
         </text>
     </string>
 </string_table>
