@@ -73,7 +73,7 @@
             використовувати приц≥л при р≥зних р≥вн€х осв≥тленост≥.
           \n
           \n%c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] в≥дсутн€ (кол≥матор)
-          \n%c[d_purple ] Х %c[ui_gray_2] —тан: %c[ui_gray_1] в≥дм≥нне
+          \n%c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1] в≥дм≥нне
         </text>
     </string>
     <string id="st_addon_scope_acog">
@@ -148,7 +148,7 @@
             веденн€ приц≥льного вогню на середн≥ та дальн≥ дистанц≥њ.
           \n
           \n%c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] 4.0x
-          \n%c[d_purple ] Х %c[ui_gray_2] —тан: %c[ui_gray_1] хороше
+          \n%c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1] хороше
           \n%c[d_purple] Х %c[ui_gray_2] “ип приц≥льноњ с≥тки: %c[ui_gray_1] SUSAT
         </text>
     </string>
@@ -232,7 +232,7 @@
             що робить його гарним вибором дл€ веденн€ бою на середн≥х ≥ далеких дистанц≥€х.
           \n
           \n%c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] 3.5x
-          \n%c[d_purple ] Х %c[ui_gray_2] —тан: %c[ui_gray_1] стерпне
+          \n%c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1] стерпне
           \n%c[d_purple] Х %c[ui_gray_2] “ип приц≥льноњ с≥тки: %c[ui_gray_1] ѕ”
         </text>
     </string>
@@ -257,7 +257,7 @@
             залишаЇтьс€ досить попул€рним в «он≥, оск≥льки збро€ час≥в ƒругоњ св≥товоњ, дл€
             €кого в≥н був розроблений, все ще застосовуЇтьс€ тут.
           \n
-          \n%c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1 ] 2.0x
+          \n%c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] 2.0x
           \n%c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1] хороше
           \n%c[d_purple] Х %c[ui_gray_2] “ип приц≥льноњ с≥тки: %c[ui_gray_1] ZF-41
         </text>

@@ -700,7 +700,7 @@
             вогнепальної зброї.
           \n
           \n%c[ui_gray_2] НАВІСНЕ ОБЛАДНАННЯ:
-          \n%c[d_purple ] • %c[ui_gray_2] глушник ПБС-1
+          \n%c[d_purple] • %c[ui_gray_2] глушник ПБС-1
           \n%c[d_purple] • %c[ui_gray_2] приціли Кобра ЕКП-1С-03, УСП-1 «Тюльпан», ПСО-1М
           \n%c[d_purple] • %c[ui_gray_2] підствольний гранатомет ГП-25 (після модифікації)
           \n
@@ -1516,7 +1516,7 @@
           \n
           \n%c[ui_gray_2] НАВІСНЕ ОБЛАДНАННЯ:
           \n%c[d_purple] • %c[ui_gray_2] глушник НАТО
-          \n%c[d_purple ] • %c[ui_gray_2] приціли ACOG, Barska ES AC10632, «EOTech»
+          \n%c[d_purple] • %c[ui_gray_2] приціли ACOG, Barska ES AC10632, «EOTech»
           \n
           \n
         </text>
@@ -3157,7 +3157,7 @@
           \n
           \n%c[ui_gray_2] НАВІСНЕ ОБЛАДНАННЯ:
           \n%c[d_purple] • %c[ui_gray_2] глушник НАТО
-          \n%c[d_purple ] • %c[ui_gray_2] приціли ACOG, Barska ES AC10632, «EOTech»
+          \n%c[d_purple] • %c[ui_gray_2] приціли ACOG, Barska ES AC10632, «EOTech»
           \n%c[d_purple] • %c[ui_gray_2] підствольний гранатомет М203
           \n
           \n
@@ -4123,7 +4123,7 @@
           \n
           \n%c[ui_gray_2] НАВІСНЕ ОБЛАДНАННЯ:
           \n%c[d_purple] • %c[ui_gray_2] приціл ПСО-1 (інтегрований)
-          \n%c[d_purple ] • %c[ui_gray_2] глушник ВСС (інтегрований)
+          \n%c[d_purple] • %c[ui_gray_2] глушник ВСС (інтегрований)
           \n
           \n
         </text>
@@ -4190,7 +4190,7 @@
             засобах захисту (в тому числі і важких бронежилетах) на дальності до 600 метрів.
           \n
           \n%c[ui_gray_2] НАВІСНЕ ОБЛАДНАННЯ:
-          \n%c [d_purple] • %c[ui_gray_2] приціл ПКС-07 (інтегрований)
+          \n%c[d_purple] • %c[ui_gray_2] приціл ПКС-07 (інтегрований)
         </text>
     </string>
     <string id="st_wpn_vz61">

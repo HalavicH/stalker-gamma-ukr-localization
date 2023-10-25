@@ -26,7 +26,7 @@
             ¬аршавського договору.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1]4.0x
-          \n %c[d_purple ] Х %c[ui_gray_2] —тан: %c[ui_gray_1]хороший
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]хороший
           \n %c[d_purple] Х %c[ui_gray_2] ¬≥зерунок с≥тки: %c[ui_gray_1]PSO-1
         </text>
     </string>
@@ -140,7 +140,7 @@
             ≈фективний п≥д час зйомки з рухомих транспортних засоб≥в.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] немаЇ (кол≥матор)
-          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c [ui_gray_1]дуже добре
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]дуже добре
         </text>
     </string>
     <string id="st_addon_scope_pso-1m2-01">

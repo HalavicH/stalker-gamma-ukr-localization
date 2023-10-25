@@ -447,7 +447,7 @@
           \n%c[d_cyan] (!)%c[ui_gray_2] Є статистичними параметром.
           \n
           \n%c[pda_blue] Примітка
-          \n%c [ui_gray_2] Кожне значення параметра використовується для різних рівнів
+          \n%c[ui_gray_2] Кожне значення параметра використовується для різних рівнів
             складності:
           \nМастер -&gt; Ветеран -&gt; Сталкер -&gt; Новачок
           \nДефолтний рівень складності не використовується в Anomaly, тому використовуйте
@@ -610,7 +610,7 @@
             condition) x (end_prop - start_prop) / factor )
           \n
           \n%c[d_purple] • %c[ui_gray_3] condition: %c[ui_gray_2] поточний стан зброї
-          \n%c[d_purple] • %c [ui_gray_3] start_prop: %c[ui_gray_2] значення
+          \n%c[d_purple] • %c[ui_gray_3] start_prop: %c[ui_gray_2] значення
             "misfire_start_prob"
           \n%c[d_purple] • %c[ui_gray_3] end_prop: %c[ui_gray_2] значення
             "misfire_end_prob"
@@ -640,7 +640,7 @@
             condition) x (end_prop - start_prop ) / factor)
           \n
           \n%c[d_purple] • %c[ui_gray_3] condition: %c[ui_gray_2] поточний стан зброї
-          \n%c [d_purple] • %c[ui_gray_3] start_prop: %c[ui_gray_2] значення
+          \n%c[d_purple] • %c[ui_gray_3] start_prop: %c[ui_gray_2] значення
             "misfire_start_prob"
           \n%c[d_purple] • %c[ui_gray_3] end_prop: %c[ui_gray_2] значення
             "misfire_end_prob"
@@ -700,7 +700,7 @@
             "misfire_end_prob"
           \n%c[d_purple] • %c[ui_gray_3] start_con: %c[ui_gray_2] значення
             "misfire_start_condition"
-          \n%c[d_purple ] • %c[ui_gray_3] end_con: %c[ui_gray_2] значення
+          \n%c[d_purple] • %c[ui_gray_3] end_con: %c[ui_gray_2] значення
             "misfire_end_condition"
           \n%c[d_purple] • %c[ui_gray_3] factor: %c[ui_gray_2] (start_con - end_con) якщо
             їх значення відмінні один від одного , (start_con) - якщо значення ідентичні.
@@ -752,7 +752,7 @@
           \n%c[d_purple] • %c[ui_gray_3] "condition_shot_dec"%c[ui_gray_2] визначається
             секцією для кожного зброї. Наведіть "condition_queue_shot_dec" до того ж самому
             значенню
-          \n%c[d_purple] • %c [ui_gray_3] "weapon_degredation"%c[ui_gray_2] - консольна
+          \n%c[d_purple] • %c[ui_gray_3] "weapon_degredation"%c[ui_gray_2] - консольна
             команда, що дозволяє контролювати знос під час гри в цілому (за замовчуванням
             встановлено 1)
           \n %c[d_purple] • %c[ui_gray_3] "impair"%c[ui_gray_2] - коефіцієнт зносу зброї
@@ -876,7 +876,7 @@
             пристосування повертаються в нейтральне положення.
           \n
           \n%c[pda_red] Діапазон
-          \n%c [ui_gray_2] $range (градус)
+          \n%c[ui_gray_2] $range (градус)
           \n
           \n%c[pda_blue] Примітка
           \n%c[ui_gray_2] Якщо даний параметр не заданий в секції зброї, движок буде
@@ -955,7 +955,7 @@
             прицілів і оптичних пристроїв).
           \n
           \n%c[pda_red] Діапазон
-          \n%c [ui_gray_2] $range
+          \n%c[ui_gray_2] $range
           \n
           \n%c[pda_blue] Примітка
           \n%c[ui_gray_2] Якщо даний параметр не заданий в секції зброї, движок буде

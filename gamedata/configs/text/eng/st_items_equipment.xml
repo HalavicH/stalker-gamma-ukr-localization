@@ -119,12 +119,12 @@
           \n%c[d_blue] Х %c[default] ¬икористанн€ стимул€тор≥в: %c[d_red_1] C
           \n
           \n%c[d_cyan] атлетичний
-          \n%c[d_blue] Х %c[default] ¬итривал≥сть: %c [ui_gray_1] %c[d_red_1] дуже висока
+          \n%c[d_blue] Х %c[default] ¬итривал≥сть: %c[ui_gray_1] %c[d_red_1] дуже висока
           \n%c[d_blue] Х %c[default] ѕрискоренн€ (спринт): %c[d_red_1] низька
           \n%c[d_blue] Х %c[default] ¬исота стрибка: %c[d_red_1] низька
           \n%c[d_blue] Х %c[default] —притн≥сть при пад≥нн€х: %c[d_red _1] низька
           \n%c[d_blue] Х %c[default] Ѕазова витривал≥сть: %c[d_red_1] низька
-          \n%c[d_blue] Х %c[default] —терпний вага: %c[ui_gray_1] %c[d_red_1 ] висока
+          \n%c[d_blue] Х %c[default] —терпний вага: %c[ui_gray_1] %c[d_red_1] висока
           \n
           \n%c[d_cyan] «ƒќ–ќ¬'я
           \n%c[d_blue] Х %c[default] ѕотреба в њж≥: %c[d_red_1] висока
@@ -225,7 +225,7 @@
           \n
           \n%c[ui_gray_3] ’ј–ј “≈–»—“» »:
           \n%c[d_blue] Х %c[ui_gray_2] шанс зловити вил≥т значно зб≥льшений
-          \n%c[d_blue ] Х %c[ui_gray_2] не можна викинути
+          \n%c[d_blue] Х %c[ui_gray_2] не можна викинути
           \n%c[d_blue] Х %c[ui_gray_2] не можна продати
           \n
         </text>
