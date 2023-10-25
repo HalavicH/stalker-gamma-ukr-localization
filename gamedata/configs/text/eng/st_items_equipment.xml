@@ -49,7 +49,7 @@
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[ui_gray_2] Х %c[ui_gray_2] повсюдне застосуванн€
-          \n%c[ ui_gray_2] Х %c[ui_gray_2] неск≥нченний боЇзапас
+          \n%c[ui_gray_2] Х %c[ui_gray_2] неск≥нченний боЇзапас
           \n
         </text>
     </string>
@@ -104,14 +104,14 @@
           \n
           \n%c[d_cyan] —ѕќ–яƒ∆≈ЌЌя
           \n%c[default] ¬икористанн€ важкоњ брон≥: %c[d_red_1] A +
-          \n%c[d_blue] Х %c[ default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
+          \n%c[d_blue] Х %c[default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
             C
           \n%c[d_blue] Х %c[default] ¬икористанн€ артефакт≥в: %c[d_red_1] C
           \n
           \n%c[d_cyan] ќ«Ѕ–ќ™ЌЌя
-          \n%c[ d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] A +
+          \n%c[d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] A +
           \n%c[d_blue] Х %c[default] ѕокращена зверненн€: %c[d_red_1] висока
-          \n%c[d_blue] Х %c[ default] ќсновна спец≥ал≥зац≥€: %c[d_red_1] ¬ажке озброЇнн€
+          \n%c[d_blue] Х %c[default] ќсновна спец≥ал≥зац≥€: %c[d_red_1] ¬ажке озброЇнн€
           \n
           \n%c[d_cyan] ћ≈ƒ»÷»Ќј
           \n%c[d_blue] Х %c[default] ¬икористанн€ бинт≥в/аптечок: %c[d_red_1] B
@@ -144,12 +144,12 @@
           \n
           \n%c[d_cyan] —ѕќ–яƒ∆≈ЌЌя
           \n%c[default] ¬икористанн€ важкоњ брон≥: %c[d_red_1] C
-          \n%c[d_blue] Х %c[ default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
+          \n%c[d_blue] Х %c[default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
             A +
           \n%c[d_blue] Х %c[default] ¬икористанн€ артефакт≥в: %c[d_red_1] A +
           \n
           \n%c[d_cyan] ќ«Ѕ–ќ™ЌЌя
-          \n%c[ d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] A
+          \n%c[d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] A
           \n%c[d_blue] Х %c[default] ѕокращена зверненн€: %c[d_red_1] ѕ≥столети-кулемети
           \n%c[d_blue] Х %c[default] ќсновна спец≥ал≥зац≥€: %c[d_red_1] ѕ≥столети-кулемети
           \n
@@ -164,12 +164,12 @@
           \n
           \n%c[d_cyan] —ѕќ–яƒ∆≈ЌЌя
           \n%c[default] ¬икористанн€ важкоњ брон≥: %c[d_red_1] B
-          \n%c[d_blue] Х %c[ default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
+          \n%c[d_blue] Х %c[default] ¬икористанн€ замкнутоњ системи диханн€: %c[d_red_1]
             B
           \n%c[d_blue] Х %c[default] ¬икористанн€ артефакт≥в: %c[d_red_1] B
           \n
           \n%c[d_cyan] ќ«Ѕ–ќ™ЌЌя
-          \n%c[ d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] B
+          \n%c[d_blue] Х %c[default] ¬олод≥нн€ ножами: %c[d_red_1] B
           \n%c[d_blue] Х %c[default] ѕокращена зверненн€: %c[d_red_1] снайперськ≥
             гвинт≥вки
           \n%c[d_blue] Х %c[default] ќсновна спец≥ал≥зац≥€: %c[d_red_1] снайперськ≥

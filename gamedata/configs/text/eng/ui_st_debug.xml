@@ -18,7 +18,7 @@
           \n
           \n%c[d_orange] «авжди:
           \n%c[pda_blue] Х %c[ui_gray_3]
-          \numpad 0: %c[ ui_gray_2] ѕерезапуск system_ini ()
+          \numpad 0: %c[ui_gray_2] ѕерезапуск system_ini ()
         </text>
     </string>
 
@@ -237,7 +237,7 @@
           \n
           \n%c[pda_blue] ”правл≥нн€ %c[ui_gray_2]
           \n
-          \n%c[d_purple] Х %c[ ui_gray_3] —тр≥лки: %c[ui_gray_2] нав≥гац≥€ м≥ж
+          \n%c[d_purple] Х %c[ui_gray_3] —тр≥лки: %c[ui_gray_2] нав≥гац≥€ м≥ж
             параметрами.
           \n%c[d_purple] Х %c[ui_gray_3]
           \numpad 8/2: %c[ui_gray_2] зб≥льшити / зменшити вибране значенн€.
@@ -444,7 +444,7 @@
           \n%c[pda_red] ƒ≥апазон
           \n%c[ui_gray_2] $range
           \n
-          \n%c[d_cyan ] (!)%c[ui_gray_2] ™ статистичними параметром.
+          \n%c[d_cyan] (!)%c[ui_gray_2] ™ статистичними параметром.
           \n
           \n%c[pda_blue] ѕрим≥тка
           \n%c [ui_gray_2]  ожне значенн€ параметра використовуЇтьс€ дл€ р≥зних р≥вн≥в
@@ -671,7 +671,7 @@
           \n %c[d_purple] Х %c[ui_gray_3] condition: %c[ui_gray_2] поточний стан зброњ
           \n%c[d_purple] Х %c[ui_gray_3] start_prop: %c[ui_gray_2] значенн€
             "misfire_start_prob"
-          \n%c[ d_purple] Х %c[ui_gray_3] end_prop: %c[ui_gray_2] значенн€
+          \n%c[d_purple] Х %c[ui_gray_3] end_prop: %c[ui_gray_2] значенн€
             "misfire_end_prob"
           \n%c[d_purple] Х %c[ui_gray_3] start_con: %c[ui_gray_2] значенн€
             "misfire_start_condition"
@@ -749,7 +749,7 @@
           \n%c[ui_gray_3] втрата стану за постр≥л = (condition_shot_dec) x
             (weapon_degredation) x (impair) x (condition_shot_dec_k)
           \n
-          \n%c[d_purple] Х %c[ ui_gray_3] "condition_shot_dec"%c[ui_gray_2] визначаЇтьс€
+          \n%c[d_purple] Х %c[ui_gray_3] "condition_shot_dec"%c[ui_gray_2] визначаЇтьс€
             секц≥Їю дл€ кожного зброњ. Ќавед≥ть "condition_queue_shot_dec" до того ж самому
             значенню
           \n%c[d_purple] Х %c [ui_gray_3] "weapon_degredation"%c[ui_gray_2] - консольна

@@ -41,7 +41,7 @@
           \n
           \n–ад≥оактивне випром≥нюванн€ по ЂЎкалою випром≥нюванн€ артефакт≥вї - середнЇ.
           \n
-          \n%c[ui_gray_2 ] ’ј–ј “≈–»—“» »:
+          \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти , ,
@@ -157,7 +157,7 @@
           \n–ад≥оактивне випром≥нюванн€ по ЂЎкалою випром≥нюванн€ артефакт≥вї - середнЇ.
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
-          \n%c[ d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
+          \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
@@ -211,7 +211,7 @@
           \n–ад≥оактивне випром≥нюванн€ за ЂЎкалою випром≥нюванн€ артефакт≥вї - висока.
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
-          \n%c[d_cyan ] Х %c[ui_gray_2] технолог≥чне пристосуванн€
+          \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
@@ -238,7 +238,7 @@
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
-          \n%c[ d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
+          \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
@@ -272,7 +272,7 @@
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
-          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ ui_gray_1] 1
+          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
           \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
@@ -525,9 +525,9 @@
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
-          \n%c[ui_white] Х %c[ui_gray_2 ] максимальна м≥стк≥сть: %c[ui_gray_1] 1
+          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
-          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ ui_gray_1] заповнений
+          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
     </string>
@@ -552,7 +552,7 @@
           \n–ад≥оактивне випром≥нюванн€ за ЂЎкалою випром≥нюванн€ артефакт≥вї - середнЇ.
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
-          \n%c[d_cyan ] Х %c[ui_gray_2] технолог≥чне пристосуванн€
+          \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
@@ -586,9 +586,9 @@
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
-          \n%c[ui_white] Х %c[ui_gray_2 ] максимальна м≥стк≥сть: %c[ui_gray_1] 1
+          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
-          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ ui_gray_1] заповнений
+          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
     </string>
@@ -622,7 +622,7 @@
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
-          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ ui_gray_1] 1
+          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
           \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
@@ -782,7 +782,7 @@
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
-          \n%c[ ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
+          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
     </string>
@@ -841,7 +841,7 @@
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white ] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
-          \n%c[ui_white] Х %c[ui_gray_2 ] стан: %c[ui_gray_1] заповнений
+          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
     </string>
@@ -864,7 +864,7 @@
           \n
           \n–ад≥оактивне випром≥нюванн€ по ЂЎкалою випром≥нюванн€ артефакт≥вї - висока.
           \n
-          \n%c[ui_gray_2 ] ’ј–ј “≈–»—“» »:
+          \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти , ,
@@ -894,7 +894,7 @@
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
-          \n%c[ui_white] Х %c[ui_gray_2 ] екрануванн€ : %c[ui_gray_1] 7 м«в
+          \n%c[ui_white] Х %c[ui_gray_2] екрануванн€ : %c[ui_gray_1] 7 м«в
           \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
@@ -985,9 +985,9 @@
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
-          \n%c[ui_white] Х %c[ui_gray_2 ] максимальна м≥стк≥сть: %c[ui_gray_1] 1
+          \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в
-          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ ui_gray_1] заповнений
+          \n%c[ui_white] Х %c[ui_gray_2] стан: %c[ui_gray_1] заповнений
           \n
         </text>
     </string>
@@ -1009,7 +1009,7 @@
           \n
           \n–ад≥оактивне випром≥нюванн€ за ЂЎкалою випром≥нюванн€ артефакт≥вї- висока.
           \n
-          \n%c[ui_gray_2 ] ’ј–ј “≈–»—“» »:
+          \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти , ,
@@ -1041,7 +1041,7 @@
             висока.
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
-          \n%c[d_cyan] Х %c[ui_gray_2 ] технолог≥чне пристосуванн€
+          \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
           \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
@@ -1060,7 +1060,7 @@
           \n
           \n%c[ui_gray_2] ’ј–ј “≈–»—“» »:
           \n%c[d_cyan] Х %c[ui_gray_2] технолог≥чне пристосуванн€
-          \n%c[d_cyan] Х %c[ ui_gray_2] висока ц≥нн≥сть
+          \n%c[d_cyan] Х %c[ui_gray_2] висока ц≥нн≥сть
           \n%c[ui_white] Х %c[ui_gray_2] дозвол€Ї закр≥плювати артефакти
           \n%c[ui_white] Х %c[ui_gray_2] максимальна м≥стк≥сть: %c[ui_gray_1] 1
           \n%c[ui_white] Х %c[ui_gray_2] екрануванн€: %c[ui_gray_1] 7 м«в

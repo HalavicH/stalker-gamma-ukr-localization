@@ -23,7 +23,7 @@
           \n
           \n%c[ui_gray_3] ’ј–ј “≈–»—“» »:
           \n%c[d_blue] Х %c[ui_gray_2] вибухонебезпечне
-          \n%c[ d_blue] Х %c[ui_gray_2] в≥йськовий вир≥б
+          \n%c[d_blue] Х %c[ui_gray_2] в≥йськовий вир≥б
           \n%c[d_blue] Х %c[ui_gray_2] протип≥хотна м≥на
           \n%c[d_purple] Х %c[ui_gray_2] спускний механ≥зм: %c[ui_gray_1] натисканн€
           \n%c[d_purple] Х %c[ui_gray_2] потужн≥сть вибуху: %c[ui_gray_1] невелика
@@ -57,12 +57,12 @@
           \n
           \n%c[d_blue] Х %c[ui_gray_2] непом≥тний при розм≥щенн≥ на земл≥
           \n%c[d_purple] Х %c[ui_gray_2] спускний механ≥зм: %c[ui_gray_1] ближн€ д≥€
-          \n%c[ d_purple] Х %c[ui_gray_2] потужн≥сть вибуху: %c[ui_gray_1] висока
+          \n%c[d_purple] Х %c[ui_gray_2] потужн≥сть вибуху: %c[ui_gray_1] висока
           \n%c[d_purple] Х %c[ui_gray_2] рад≥ус вибуху: %c[ui_gray_1] 7.8 м
           \n%c[d_purple] Х %c[ui_gray_2] рад≥ус ураженн€ уламками: %c[ui_gray_1] 56 м
           \n%c[d_purple] Х %c[ui_gray_2] к≥льк≥сть фрагмент≥в: %c[ui_gray_1] 440
             (шрапнель)
-          \n%c[d_purple] Х %c[ ui_gray_2] затримка вибуху: %c[ui_gray_1] немаЇ
+          \n%c[d_purple] Х %c[ui_gray_2] затримка вибуху: %c[ui_gray_1] немаЇ
           \n
         </text>
     </string>
@@ -89,7 +89,7 @@
           \n
           \n%c[d_blue] Х %c[ui_gray_2] непом≥тний при розм≥щенн≥ на земл≥
           \n%c[d_purple] Х %c[ui_gray_2] спускний механ≥зм: %c[ui_gray_1] ближн€ д≥€
-          \n%c[ d_purple] Х %c[ui_gray_2] потужн≥сть вибуху: %c[ui_gray_1] дуже висока
+          \n%c[d_purple] Х %c[ui_gray_2] потужн≥сть вибуху: %c[ui_gray_1] дуже висока
           \n%c[d_purple] Х %c[ui_gray_2] рад≥ус вибуху: %c[ui_gray_1] 12.9 м
           \n%c[d_purple] Х %c[ui_gray_2] рад≥ус ураженн€ уламками: %c[ui_gray_1] 74 м
           \n%c[d_purple] Х %c[ui_gray_2] к≥льк≥сть фрагмент≥в: %c[ui_gray_1] 580 (сталев≥
