@@ -974,7 +974,7 @@
           \n%c[pda_red] Діапазон
           \n%c[ui_gray_2] $range
           \n
-          \n%c[ pda_blue] Примітка
+          \n%c[pda_blue] Примітка
           \n%c[ui_gray_2] Якщо даний параметр не заданий в секції зброї, движок буде
             використовувати значення "cam_step_angle_horz".
         </text>
