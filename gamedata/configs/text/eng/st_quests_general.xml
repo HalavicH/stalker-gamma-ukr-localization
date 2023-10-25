@@ -1186,7 +1186,7 @@
     <!-- Mutant Meat Stew for Bandit Simulation Task -->
     <string id="simulation_task_15_name">
         <text>
-            чітка кулінарія
+            Чітка кулінарія
         </text>
     </string>
     <string id="simulation_task_15_text">
@@ -1833,7 +1833,7 @@
     <!-- HOSTAGE RESCUE FOR ECOG TASK -->
     <string id="simulation_task_29_name">
         <text>
-            порятунок науки
+            Порятунок науки
         </text>
     </string>
     <string id="simulation_task_29_text">
@@ -2310,7 +2310,7 @@
     <!-- Eliminate Dangerous Mutants for Clear Sky Simulation Task -->
     <string id="simulation_task_42_name">
         <text>
-            знищення мутантів
+            Знищення мутантів
         </text>
     </string>
     <string id="simulation_task_42_text">
@@ -2347,7 +2347,7 @@
     <!-- Eliminate Dangerous Mutants for Monolith Simulation Task -->
     <string id="simulation_task_43_name">
         <text>
-            праведне помста
+            Праведне помста
         </text>
     </string>
     <string id="simulation_task_43_text">
@@ -2409,7 +2409,7 @@
     <!-- Drug Runner for Freedom Simulation Task -->
     <string id="simulation_task_45_name">
         <text>
-            листоноша
+            Листоноша
         </text>
     </string>
     <string id="simulation_task_45_text">
@@ -2473,7 +2473,7 @@
     <!-- Find PDA Tasks -->
     <string id="simulation_task_cl_name">
         <text>
-            екран смерті
+            Екран смерті
         </text>
     </string>
     <string id="simulation_task_cl_text">
@@ -2523,7 +2523,7 @@
     <!-- Deliver Package Simulation Task -->
     <string id="simulation_task_47_name">
         <text>
-            посередник
+            Посередник
         </text>
     </string>
     <string id="simulation_task_47_text_0">
@@ -2564,7 +2564,7 @@
     </string>
     <string id="simulation_task_48_name">
         <text>
-            листоноша
+            Листоноша
         </text>
     </string>
     <string id="simulation_task_48_text_0">
@@ -2650,7 +2650,7 @@
     <!-- Take Measurements of Anomaly Field Simulation Task -->
     <string id="simulation_task_50_name">
         <text>
-            польовий дослідник
+            Польовий дослідник
         </text>
     </string>
     <string id="simulation_task_50_text_0">
@@ -2696,7 +2696,7 @@
     <!-- Take Measurements of Anomaly Field Simulation Task -->
     <string id="simulation_task_51_name">
         <text>
-            сканування аномалій
+            Сканування аномалій
         </text>
     </string>
     <string id="simulation_task_51_text_0">
@@ -2851,7 +2851,7 @@
     <!-- FIND WEAPON FOR RENEGADE TASK -->
     <string id="simulation_task_54_name">
         <text>
-            живий тир
+            Живий тир
         </text>
     </string>
     <string id="simulation_task_54_text">
@@ -2887,7 +2887,7 @@
     <!-- Mutant Meat Stew for Renegade Simulation Task -->
     <string id="simulation_task_55_name">
         <text>
-            свято живота
+            Свято живота
         </text>
     </string>
     <string id="simulation_task_55_text">
@@ -2927,7 +2927,7 @@
     <!-- Subcontractor for Renegade Simulation Task -->
     <string id="simulation_task_56_name">
         <text>
-            дамоклів меч
+            Дамоклів меч
         </text>
     </string>
     <string id="simulation_task_56_text">
@@ -3815,7 +3815,7 @@
     </string>
     <string id="simulation_task_85_name">
         <text>
-            знайдіть %s для Свободи
+            Знайдіть %s для Свободи
         </text>
     </string>
     <string id="simulation_task_85_text">
@@ -5081,7 +5081,7 @@
     </string>
     <string id="st_multifetch_4">
         <text>
-            знайти:
+            Знайти:
         </text>
     </string>
 </string_table>

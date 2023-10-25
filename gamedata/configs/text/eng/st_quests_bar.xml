@@ -316,7 +316,7 @@
     <!-- Voronin (Duty Honcho)\night Terror Task -->
     <string id="bar_dolg_leader_task_2_name">
         <text>
-            дух помсти
+            Дух помсти
         </text>
     </string>
     <string id="bar_dolg_leader_task_2_text">
@@ -513,7 +513,7 @@
     </string>
     <string id="bar_dolg_general_petrenko_stalker_task_3_name">
         <text>
-            наказано знищити
+            Наказано знищити
         </text>
     </string>
     <string id="bar_dolg_general_petrenko_stalker_task_3_text">

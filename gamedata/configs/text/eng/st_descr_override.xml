@@ -17,17 +17,17 @@
     </string>
     <string id="desc_over_hp">
         <text>
-            здоров'я:
+            Здоров'я:
         </text>
     </string>
     <string id="desc_over_rad">
         <text>
-            радіація:
+            Радіація:
         </text>
     </string>
     <string id="desc_over_bleed">
         <text>
-            кровотеча:
+            Кровотеча:
         </text>
     </string>
     <string id="desc_over_over">
@@ -42,12 +42,12 @@
     </string>
     <string id="desc_over_sleep">
         <text>
-            сон:
+            Сон:
         </text>
     </string>
     <string id="desc_over_thirst">
         <text>
-            спрага:
+            Спрага:
         </text>
     </string>
 </string_table>

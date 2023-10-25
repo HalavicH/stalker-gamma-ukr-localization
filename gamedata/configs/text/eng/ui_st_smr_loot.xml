@@ -168,7 +168,7 @@
     </string>
     <string id="ui_mcm_SMR_smr_loot_ammo_bad_spawn">
         <text>
-            спавн старих боєприпасів
+            Спавн старих боєприпасів
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_loot_ammo_bad_chance">
@@ -195,7 +195,7 @@
     <!-- USEFUL -->
     <string id="ui_mcm_SMR_smr_loot_useful_spawn">
         <text>
-            спавн корисних предметів
+            Спавн корисних предметів
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_loot_useful_spawn_desc">

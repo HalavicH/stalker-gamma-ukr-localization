@@ -126,7 +126,7 @@
     <!-- Stribog (Sin Trader) Limansk Purge Storyline Task -->
     <string id="drx_sl_red_greh_trader_task_4_name">
         <text>
-            очищення Лиманську
+            Очищення Лиманську
         </text>
     </string>
     <string id="drx_sl_red_greh_trader_task_4_text">
@@ -204,7 +204,7 @@
     <!-- Dazhbog (Sin Mechanic) Retrieve the Secrets of Lab X#18 Storyline Task -->
     <string id="drx_sl_red_greh_tech_task_1_name">
         <text>
-            темні секрети
+            Темні секрети
         </text>
     </string>
     <string id="drx_sl_red_greh_tech_task_1_text">

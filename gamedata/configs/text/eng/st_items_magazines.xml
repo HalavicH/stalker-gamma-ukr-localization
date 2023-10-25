@@ -9,27 +9,27 @@
     </string>
     <string id="st_mag_eject_magazine">
         <text>
-            витягти магазин
+            Витягти магазин
         </text>
     </string>
     <string id="st_mag_unload_ammo">
         <text>
-            витягти набої
+            Витягти набої
         </text>
     </string>
     <string id="st_mag_loadout_remove">
         <text>
-            зняти з розвантаження
+            Зняти з розвантаження
         </text>
     </string>
     <string id="st_mag_loadout_add">
         <text>
-            додати до розвантаження
+            Додати до розвантаження
         </text>
     </string>
     <string id="st_mag_retool">
         <text>
-            переоснащення
+            Переоснащення
         </text>
     </string>
     <string id="st_mag_err_retool">

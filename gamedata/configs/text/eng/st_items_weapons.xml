@@ -1499,7 +1499,7 @@
     </string>
     <string id="st_wpn_g3_worn">
         <text>
-            зношена G3A3
+            Зношена G3A3
         </text>
     </string>
     <string id="st_wpn_g36">
@@ -1523,12 +1523,12 @@
     </string>
     <string id="st_wpn_g36_camo">
         <text>
-            камуфльований G36
+            Камуфльований G36
         </text>
     </string>
     <string id="st_wpn_g36_worn">
         <text>
-            зношена G36
+            Зношена G36
         </text>
     </string>
     <string id="st_wpn_g36k">
@@ -1556,7 +1556,7 @@
     </string>
     <string id="st_wpn_g36k_worn">
         <text>
-            зношена G36K
+            Зношена G36K
         </text>
     </string>
     <string id="st_wpn_g3sg1">
@@ -1997,7 +1997,7 @@
     </string>
     <string id="st_wpn_l85a2_modern">
         <text>
-            модернізована L85A2
+            Модернізована L85A2
         </text>
     </string>
     <string id="st_wpn_l85a2_descr">
@@ -2028,12 +2028,12 @@
     </string>
     <string id="st_wpn_l85_modern">
         <text>
-            модернізована L85A1
+            Модернізована L85A1
         </text>
     </string>
     <string id="st_wpn_l85_worn">
         <text>
-            зношена L85A1
+            Зношена L85A1
         </text>
     </string>
     <string id="st_wpn_l85_descr">
@@ -2077,7 +2077,7 @@
     </string>
     <string id="st_wpn_l96a1_worn">
         <text>
-            зношена L96A1
+            Зношена L96A1
         </text>
     </string>
     <string id="st_wpn_l96a1m">
@@ -2194,7 +2194,7 @@
     </string>
     <string id="st_wpn_m16_worn">
         <text>
-            зношена M16A4
+            Зношена M16A4
         </text>
     </string>
     <string id="st_wpn_m16a2">
@@ -2295,7 +2295,7 @@
     </string>
     <string id="st_wpn_m4a1_camo">
         <text>
-            камуфльований M4A1
+            Камуфльований M4A1
         </text>
     </string>
     <string id="st_wpn_m4a1_custom">
@@ -2328,7 +2328,7 @@
     </string>
     <string id="st_wpn_m4a1_worn">
         <text>
-            зношена M4A1
+            Зношена M4A1
         </text>
     </string>
     <string id="st_wpn_m79">
@@ -2537,7 +2537,7 @@
     </string>
     <string id="st_wpn_mp5_worn">
         <text>
-            зношений MP5A3
+            Зношений MP5A3
         </text>
     </string>
     <string id="st_wpn_mp5sd">
@@ -2570,12 +2570,12 @@
     </string>
     <string id="st_wpn_mp5sd_new">
         <text>
-            новий MP5SD6
+            Новий MP5SD6
         </text>
     </string>
     <string id="st_wpn_mp5sd_worn">
         <text>
-            зношений MP5SD6
+            Зношений MP5SD6
         </text>
     </string>
     <string id="st_wpn_oc33">
@@ -2726,7 +2726,7 @@
     </string>
     <string id="st_wpn_pm_actor">
         <text>
-            нагородний ПМ
+            Нагородний ПМ
         </text>
     </string>
     <string id="st_wpn_pm_actor_descr">
@@ -2757,7 +2757,7 @@
     </string>
     <string id="st_wpn_pm_rusty">
         <text>
-            іржавий ПМ
+            Іржавий ПМ
         </text>
     </string>
     <string id="st_wpn_pm_rusty_descr">
@@ -2774,7 +2774,7 @@
     </string>
     <string id="st_wpn_pm_worn">
         <text>
-            зношений ПМ
+            Зношений ПМ
         </text>
     </string>
     <string id="st_wpn_pmm">
@@ -3846,7 +3846,7 @@
     </string>
     <string id="st_wpn_usp_alt">
         <text>
-            альтернативний USP45
+            Альтернативний USP45
         </text>
     </string>
     <string id="st_wpn_usp_custom">
@@ -3906,7 +3906,7 @@
     </string>
     <string id="st_wpn_usp_worn">
         <text>
-            зношений USP45
+            Зношений USP45
         </text>
     </string>
     <string id="st_wpn_val">
@@ -4738,7 +4738,7 @@
     </string>
     <string id="st_knife_m">
         <text>
-            військовий ніж
+            Військовий ніж
         </text>
     </string>
     <string id="st_knife_m_descr">

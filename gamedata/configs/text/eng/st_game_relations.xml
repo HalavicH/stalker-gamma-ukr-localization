@@ -168,17 +168,17 @@
     </string>
     <string id="st_goodwill_enemy">
         <text>
-            ворог
+            Ворог
         </text>
     </string>
     <string id="st_goodwill_indifferent">
         <text>
-            нейтрал
+            Нейтрал
         </text>
     </string>
     <string id="st_goodwill_friendly">
         <text>
-            друг
+            Друг
         </text>
     </string>
 
@@ -190,42 +190,42 @@
     </string>
     <string id="st_rank_novice">
         <text>
-            новачок
+            Новачок
         </text>
     </string>
     <string id="st_rank_trainee">
         <text>
-            початківець
+            Початківець
         </text>
     </string>
     <string id="st_rank_experienced">
         <text>
-            досвідчений
+            Досвідчений
         </text>
     </string>
     <string id="st_rank_professional">
         <text>
-            профі
+            Профі
         </text>
     </string>
     <string id="st_rank_veteran">
         <text>
-            ветеран
+            Ветеран
         </text>
     </string>
     <string id="st_rank_expert">
         <text>
-            експерт
+            Експерт
         </text>
     </string>
     <string id="st_rank_master">
         <text>
-            майстер
+            Майстер
         </text>
     </string>
     <string id="st_rank_legend">
         <text>
-            легенда
+            Легенда
         </text>
     </string>
 
@@ -237,47 +237,47 @@
     </string>
     <string id="st_reputation_terrible">
         <text>
-            мерзенна
+            Мерзенна
         </text>
     </string>
     <string id="st_reputation_really_bad">
         <text>
-            жахлива
+            Жахлива
         </text>
     </string>
     <string id="st_reputation_very_bad">
         <text>
-            дуже погана
+            Дуже погана
         </text>
     </string>
     <string id="st_reputation_bad">
         <text>
-            погана
+            Погана
         </text>
     </string>
     <string id="st_reputation_neutral">
         <text>
-            нейтральна
+            Нейтральна
         </text>
     </string>
     <string id="st_reputation_good">
         <text>
-            хороша
+            Хороша
         </text>
     </string>
     <string id="st_reputation_very_good">
         <text>
-            дуже хороша
+            Дуже хороша
         </text>
     </string>
     <string id="st_reputation_really_good">
         <text>
-            відмінна
+            Відмінна
         </text>
     </string>
     <string id="st_reputation_excellent">
         <text>
-            чудова
+            Чудова
         </text>
     </string>
 

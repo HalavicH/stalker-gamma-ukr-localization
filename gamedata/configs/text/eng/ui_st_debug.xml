@@ -250,7 +250,7 @@
     </string>
     <string id="st_ui_dbg_launcher_console">
         <text>
-            консоль
+            Консоль
         </text>
     </string>
     <string id="st_ui_dbg_launcher_target">
@@ -260,32 +260,32 @@
     </string>
     <string id="st_ui_dbg_launcher_action">
         <text>
-            виконати дію
+            Виконати дію
         </text>
     </string>
     <string id="st_ui_dbg_launcher_toggle">
         <text>
-            перемикання команди
+            Перемикання команди
         </text>
     </string>
     <string id="st_ui_dbg_launcher_editor">
         <text>
-            список редакторів
+            Список редакторів
         </text>
     </string>
     <string id="st_ui_dbg_spawn_type">
         <text>
-            типи предметів
+            Типи предметів
         </text>
     </string>
     <string id="st_ui_dbg_spawn_list">
         <text>
-            перелік
+            Перелік
         </text>
     </string>
     <string id="st_ui_dbg_spawn_icon">
         <text>
-            іконки
+            Іконки
         </text>
     </string>
     <string id="st_ui_dbg_spawn_btn">
@@ -305,12 +305,12 @@
     </string>
     <string id="st_ui_dbg_spawn_smart_lvl">
         <text>
-            вибрати локацію
+            Вибрати локацію
         </text>
     </string>
     <string id="st_ui_dbg_spawn_smart_list">
         <text>
-            вибрати смарт
+            Вибрати смарт
         </text>
     </string>
     <string id="st_ui_dbg_spawn_point">
@@ -330,22 +330,22 @@
     </string>
     <string id="st_ui_dbg_spawn_log">
         <text>
-            лог
+            Лог
         </text>
     </string>
     <string id="st_ui_dbg_logic">
         <text>
-            логіка НПС
+            Логіка НПС
         </text>
     </string>
     <string id="st_ui_dbg_logic_section">
         <text>
-            активна секція
+            Активна секція
         </text>
     </string>
     <string id="st_ui_dbg_logic_logic">
         <text>
-            активна логіка
+            Активна логіка
         </text>
     </string>
     <string id="st_ui_dbg_logic_file">
@@ -355,57 +355,57 @@
     </string>
     <string id="st_ui_dbg_logic_set">
         <text>
-            встановити логіку
+            Встановити логіку
         </text>
     </string>
     <string id="st_ui_dbg_logic_revert">
         <text>
-            відкат змін
+            Відкат змін
         </text>
     </string>
     <string id="st_ui_dbg_exec">
         <text>
-            функції
+            Функції
         </text>
     </string>
     <string id="st_ui_dbg_exec_btn">
         <text>
-            виконати
+            Виконати
         </text>
     </string>
     <string id="st_ui_dbg_item_stats">
         <text>
-            параметри
+            Параметри
         </text>
     </string>
     <string id="st_ui_dbg_item_list">
         <text>
-            перелік
+            Перелік
         </text>
     </string>
     <string id="st_ui_dbg_item_compare">
         <text>
-            порівняння
+            Порівняння
         </text>
     </string>
     <string id="st_ui_dbg_item_btn_copy">
         <text>
-            копіювати
+            Копіювати
         </text>
     </string>
     <string id="st_ui_dbg_item_btn_paste">
         <text>
-            вставити
+            Вставити
         </text>
     </string>
     <string id="st_ui_dbg_item_btn_apply">
         <text>
-            застосувати
+            Застосувати
         </text>
     </string>
     <string id="st_ui_dbg_item_btn_Reset">
         <text>
-            відкотитися
+            Відкотитися
         </text>
     </string>
     <string id="st_ui_dbg_item_about">

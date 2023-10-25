@@ -47,7 +47,7 @@
     </string>
     <string id="st_prop_underbarrel_slot">
         <text>
-            підствольне кріплення
+            Підствольне кріплення
         </text>
     </string>
     <string id="st_prop_weight">
@@ -2460,32 +2460,32 @@
     </string>
     <string id="st_upgr_vodka">
         <text>
-            техніку потрібна горілка
+            Техніку потрібна горілка
         </text>
     </string>
     <string id="st_upgr_toolkit_1">
         <text>
-            техніку потрібні інструменти для основної роботи
+            Техніку потрібні інструменти для основної роботи
         </text>
     </string>
     <string id="st_upgr_toolkit_2">
         <text>
-            техніку потрібні інструменти для тонкої роботи
+            Техніку потрібні інструменти для тонкої роботи
         </text>
     </string>
     <string id="st_upgr_toolkit_3">
         <text>
-            техніку потрібні інструменти для калібрування
+            Техніку потрібні інструменти для калібрування
         </text>
     </string>
     <string id="st_upgr_condlist">
         <text>
-            техніку потрібні додаткові інструменти
+            Техніку потрібні додаткові інструменти
         </text>
     </string>
     <string id="st_upgr_parents">
         <text>
-            потрібні попередні зміни
+            Потрібні попередні зміни
         </text>
     </string>
     <string id="st_upgr_rusty_profile">
@@ -2495,17 +2495,17 @@
     </string>
     <string id="st_upgr_worn_profile">
         <text>
-            корозія запобігає модифікаціям вище базового рівня
+            Корозія запобігає модифікаціям вище базового рівня
         </text>
     </string>
     <string id="st_upgr_standard_profile">
         <text>
-            модернізований профіль зброї, необхідний для виконання модифікації
+            Модернізований профіль зброї, необхідний для виконання модифікації
         </text>
     </string>
     <string id="st_upgr_no_reason">
         <text>
-            неможлива зміна цього елемента
+            Неможлива зміна цього елемента
         </text>
     </string>
     <string id="st_up_arm_c9_name">

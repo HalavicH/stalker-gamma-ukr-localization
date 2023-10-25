@@ -257,7 +257,7 @@
     <!-- Kirilov (Military Mechanic) Patrol Local Area Storyline Task -->
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
         <text>
-            патрулювання
+            Патрулювання
         </text>
     </string>
     <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
@@ -386,7 +386,7 @@
     <!-- Kuznetsov (Military Honcho) Capture Territory Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
         <text>
-            військовий суд
+            Військовий суд
         </text>
     </string>
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_text">

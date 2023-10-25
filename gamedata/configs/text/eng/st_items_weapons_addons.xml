@@ -101,7 +101,7 @@
     </string>
     <string id="st_addon_scope_eotech">
         <text>
-            приціл EOTech
+            Приціл EOTech
         </text>
     </string>
     <string id="st_addon_scope_eotech_descr">
@@ -175,7 +175,7 @@
     </string>
     <string id="st_addon_scope_po4x34">
         <text>
-            приціл ПО4х34
+            Приціл ПО4х34
         </text>
     </string>
     <string id="st_addon_scope_po4x34_descr">
@@ -212,7 +212,7 @@
     </string>
     <string id="st_addon_scope_pu">
         <text>
-            приціл ПУ
+            Приціл ПУ
         </text>
     </string>
     <string id="st_addon_scope_pu_descr">
@@ -290,7 +290,7 @@
     </string>
     <string id="st_addon_sil_45">
         <text>
-            глушник .45ACP
+            Глушник .45ACP
         </text>
     </string>
     <string id="st_addon_sil_45_descr">
@@ -308,7 +308,7 @@
     </string>
     <string id="st_addon_sil_57">
         <text>
-            глушник 5,7x28мм
+            Глушник 5,7x28мм
         </text>
     </string>
     <string id="st_addon_sil_57_descr">
@@ -326,7 +326,7 @@
     </string>
     <string id="st_addon_sil_6p9">
         <text>
-            глушник 6П9
+            Глушник 6П9
         </text>
     </string>
     <string id="st_addon_sil_6p9_descr">
@@ -362,7 +362,7 @@
     </string>
     <string id="st_addon_sil_9mm">
         <text>
-            глушник 9мм
+            Глушник 9мм
         </text>
     </string>
     <string id="st_addon_sil_9mm_descr">
@@ -384,7 +384,7 @@
     </string>
     <string id="st_addon_sil_aps">
         <text>
-            глушник АПС
+            Глушник АПС
         </text>
     </string>
     <string id="st_addon_sil_aps_descr">
@@ -402,7 +402,7 @@
     </string>
     <string id="st_addon_sil_atg">
         <text>
-            глушник АТГ
+            Глушник АТГ
         </text>
     </string>
     <string id="st_addon_sil_atg_descr">
@@ -422,7 +422,7 @@
     </string>
     <string id="st_addon_sil_gemtech">
         <text>
-            глушник GemTech
+            Глушник GemTech
         </text>
     </string>
     <string id="st_addon_sil_gemtech_descr">
@@ -440,7 +440,7 @@
     </string>
     <string id="st_addon_sil_kzrzp">
         <text>
-            глушник КЗРЗП
+            Глушник КЗРЗП
         </text>
     </string>
     <string id="st_addon_sil_kzrzp_descr">
@@ -458,7 +458,7 @@
     </string>
     <string id="st_addon_sil_nato">
         <text>
-            глушник НАТО
+            Глушник НАТО
         </text>
     </string>
     <string id="st_addon_sil_nato_descr">
@@ -626,7 +626,7 @@
     </string>
     <string id="st_addon_trijicon_acog">
         <text>
-            приціл ACOG
+            Приціл ACOG
         </text>
     </string>
     <string id="st_addon_trijicon_acog_descr">

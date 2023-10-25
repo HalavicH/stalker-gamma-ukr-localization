@@ -40,7 +40,7 @@
     <!-- Tukarev  (Ecologist Mechanic) Mutant Tissue Experiment Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_1_name">
         <text>
-            експеримент Гаріна
+            Експеримент Гаріна
         </text>
     </string>
     <string id="drx_sl_jup_b6_scientist_tech_task_1_text">
@@ -85,7 +85,7 @@
     <!-- Tukarev  (Ecologist Mechanic) Find Missing Scientist Storyline Task -->
     <string id="drx_sl_jup_b6_scientist_tech_task_2_name">
         <text>
-            зниклий учений
+            Зниклий учений
         </text>
     </string>
     <string id="drx_sl_jup_b6_scientist_tech_task_2_text">
@@ -526,7 +526,7 @@
     <!-- Klenov (Bandit Trader) Escort the Bandits Spy Storyline Task -->
     <string id="drx_sl_jup_cont_trader_bandit_task_3_name">
         <text>
-            джентльмен невдачі
+            Джентльмен невдачі
         </text>
     </string>
     <string id="drx_sl_jup_cont_trader_bandit_task_3_text">
@@ -600,7 +600,7 @@
     <!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
     <string id="jup_b6_scientist_tech_task_1_name">
         <text>
-            дослідницька експедиція
+            Дослідницька експедиція
         </text>
     </string>
     <string id="jup_b6_scientist_tech_task_1_text">
@@ -640,7 +640,7 @@
     </string>
     <string id="jup_b6_scientist_tech_task_2_name">
         <text>
-            наукова революція
+            Наукова революція
         </text>
     </string>
     <string id="jup_b6_scientist_tech_task_2_text">
@@ -774,7 +774,7 @@
     </string>
     <string id="jup_b220_trapper_task_2_name">
         <text>
-            той, що біжить по лезу
+            Той, що біжить по лезу
         </text>
     </string>
     <string id="jup_b220_trapper_task_2_text">
@@ -1078,7 +1078,7 @@
     <!-- (Ecologists) -->
     <string id="jup_b6_scientist_nuclear_physicist_task_1_name">
         <text>
-            дослідження аномалій
+            Дослідження аномалій
         </text>
     </string>
     <string id="jup_b6_scientist_nuclear_physicist_task_1_text0">

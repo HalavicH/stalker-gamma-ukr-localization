@@ -2,7 +2,7 @@
 <string_table>
     <string id="st_demonized_crafter">
         <text>
-            craft
+            Craft
         </text>
     </string>
     <string id="st_demonized_crafter_craft_success">
@@ -32,7 +32,7 @@
     </string>
     <string id="st_demonized_crafter_craft_all">
         <text>
-            all
+            All
         </text>
     </string>
     <string id="st_demonized_crafter_craft_check_pda_news">
