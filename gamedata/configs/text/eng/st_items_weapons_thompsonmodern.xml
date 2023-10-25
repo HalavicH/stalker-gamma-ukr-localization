@@ -8,25 +8,25 @@
     <string id="st_wpn_thompsonmodern_descr">
         <text>
             The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier general
-            John T. Thompson in 1918. It was originally designed to break the stalemate of trench
-            warfare of World War I, but was not finished until after the war ended. The Thompson
-            was then widely adopted by the U.S. armed forces and their allies during World War
-            II.
+            selective-fire submachine gun, invented by the United States Army Brigadier
+            general John T. Thompson in 1918. It was originally designed to break the
+            stalemate of trench warfare of World War I, but was not finished until after the
+            war ended. The Thompson was then widely adopted by the U.S. armed forces and
+            their allies during World War II.
           \n
           \n It is the first weapon to be labelled and marketed as a "submachine gun".
           \n
-          \n This modernized tacticool version features an ergonomic stock, a foregrip, rails,
-            45° iron sights and a tactical green Laser Aiming Module.
+          \n This modernized tacticool version features an ergonomic stock, a foregrip,
+            rails, 45° iron sights and a tactical green Laser Aiming Module.
           \n
           \n %c[ui_gray_2]ATTACHMENTS:
           \n %c[d_purple] • %c[ui_gray_2] Installed: 45° iron sights, tactical green Laser
             Aiming Module
           \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] Optional (BaS): all colimators, scopes: Trijicon ACOG
-            and ELCAN SpecterDR Sight, no sniper scopes
-          \n %c[d_purple] • %c[ui_gray_2] Optional (LEWD): Leupold Carbine Optic - LCO, Razor
-            AMG UH-1, LEWD rifle kits: Specialist, Operator and Warmonger
+          \n %c[d_purple] • %c[ui_gray_2] Optional (BaS): all colimators, scopes: Trijicon
+            ACOG and ELCAN SpecterDR Sight, no sniper scopes
+          \n %c[d_purple] • %c[ui_gray_2] Optional (LEWD): Leupold Carbine Optic - LCO,
+            Razor AMG UH-1, LEWD rifle kits: Specialist, Operator and Warmonger
           \n
         </text>
     </string>
@@ -38,24 +38,24 @@
     <string id="st_wpn_thompsonmodern_specialist_descr">
         <text>
             The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier general
-            John T. Thompson in 1918. It was originally designed to break the stalemate of trench
-            warfare of World War I, but was not finished until after the war ended. The Thompson
-            was then widely adopted by the U.S. armed forces and their allies during World War
-            II.
+            selective-fire submachine gun, invented by the United States Army Brigadier
+            general John T. Thompson in 1918. It was originally designed to break the
+            stalemate of trench warfare of World War I, but was not finished until after the
+            war ended. The Thompson was then widely adopted by the U.S. armed forces and
+            their allies during World War II.
           \n
           \n It is the first weapon to be labelled and marketed as a "submachine gun".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45° iron
-            sights and a tactical green Laser Aiming Module. The "Specialist" rifle kit features
-            a TacPoint red dot sight from SightmarkTactical with a red reticle and a permanently
-            installed advanced silencer.
+          \n This modernized tacticool version features an ergonomic stock, rails, 45°
+            iron sights and a tactical green Laser Aiming Module. The "Specialist" rifle kit
+            features a TacPoint red dot sight from SightmarkTactical with a red reticle and
+            a permanently installed advanced silencer.
           \n
           \n %c[ui_gray_2]ATTACHMENTS:
           \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Specialist"
           \n %c[d_purple] • %c[ui_gray_2] Silencer: Permanent
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall this
-            kit
+          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
+            this kit
           \n
         </text>
     </string>
@@ -67,24 +67,24 @@
     <string id="st_wpn_thompsonmodern_operator_descr">
         <text>
             The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier general
-            John T. Thompson in 1918. It was originally designed to break the stalemate of trench
-            warfare of World War I, but was not finished until after the war ended. The Thompson
-            was then widely adopted by the U.S. armed forces and their allies during World War
-            II.
+            selective-fire submachine gun, invented by the United States Army Brigadier
+            general John T. Thompson in 1918. It was originally designed to break the
+            stalemate of trench warfare of World War I, but was not finished until after the
+            war ended. The Thompson was then widely adopted by the U.S. armed forces and
+            their allies during World War II.
           \n
           \n It is the first weapon to be labelled and marketed as a "submachine gun".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45° iron
-            sights and a quick-release sling. The "Operator" rifle kit features a Strikefire II
-            red dot sight from Vortex Optics with a red reticle and a tactical grip with
-            integrated flashlight and a green Laser Aiming Module.
+          \n This modernized tacticool version features an ergonomic stock, rails, 45°
+            iron sights and a quick-release sling. The "Operator" rifle kit features a
+            Strikefire II red dot sight from Vortex Optics with a red reticle and a tactical
+            grip with integrated flashlight and a green Laser Aiming Module.
           \n
           \n %c[ui_gray_2]ATTACHMENTS:
           \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Opeartor"
           \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall this
-            kit
+          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
+            this kit
           \n
         </text>
     </string>
@@ -96,24 +96,24 @@
     <string id="st_wpn_thompsonmodern_warmonger_descr">
         <text>
             The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier general
-            John T. Thompson in 1918. It was originally designed to break the stalemate of trench
-            warfare of World War I, but was not finished until after the war ended. The Thompson
-            was then widely adopted by the U.S. armed forces and their allies during World War
-            II.
+            selective-fire submachine gun, invented by the United States Army Brigadier
+            general John T. Thompson in 1918. It was originally designed to break the
+            stalemate of trench warfare of World War I, but was not finished until after the
+            war ended. The Thompson was then widely adopted by the U.S. armed forces and
+            their allies during World War II.
           \n
           \n It is the first weapon to be labelled and marketed as a "submachine gun".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45° iron
-            sights and a tactical green Laser Aiming Module. The "Warmonger" rifle kit features a
-            Micro T-2 red dot sight from Aimpoint with a red reticle, a hardenned foregrip and a
-            bayonette. It cannot mount a silencer.
+          \n This modernized tacticool version features an ergonomic stock, rails, 45°
+            iron sights and a tactical green Laser Aiming Module. The "Warmonger" rifle kit
+            features a Micro T-2 red dot sight from Aimpoint with a red reticle, a hardenned
+            foregrip and a bayonette. It cannot mount a silencer.
           \n
           \n %c[ui_gray_2]ATTACHMENTS:
           \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Warmonger"
           \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall this
-            kit
+          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
+            this kit
           \n
         </text>
     </string>

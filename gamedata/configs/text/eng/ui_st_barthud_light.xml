@@ -12,7 +12,8 @@
     </string>
     <string id="ui_mm_video_hud_radbar_show_desc">
         <text>
-            Shows the amount of Radiation you have, on the Stamina Bar, going from left-to-right.
+            Shows the amount of Radiation you have, on the Stamina Bar, going from left-to-
+            right.
         </text>
     </string>
     <string id="ui_mm_video_hud_bleeding_on_stamina_show">
@@ -22,7 +23,8 @@
     </string>
     <string id="ui_mm_video_hud_bleeding_on_stamina_show_desc">
         <text>
-            Shows the amount of blood you're losing, on the Health Bar, going from left-to-right.
+            Shows the amount of blood you're losing, on the Health Bar, going from left-to-
+            right.
         </text>
     </string>
     <string id="ui_mm_video_hud_armorbar">

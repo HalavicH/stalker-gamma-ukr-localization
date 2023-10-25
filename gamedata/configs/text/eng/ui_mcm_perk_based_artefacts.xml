@@ -27,8 +27,8 @@
     </string>
     <string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
         <text>
-            Дозволяє використання артефактів у контейнерах для перків. Опис перків все ще буде
-            доступним лише артефакту без контейнера
+            Дозволяє використання артефактів у контейнерах для перків. Опис перків все ще
+            буде доступним лише артефакту без контейнера
         </text>
     </string>
     <string id="ui_mcm_perk_based_artefacts_treasure_chance">

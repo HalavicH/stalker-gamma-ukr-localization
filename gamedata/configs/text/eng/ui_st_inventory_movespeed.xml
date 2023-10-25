@@ -32,8 +32,8 @@
             Encumbrance features gives bonuses when lightly encumbered ( less than 25% total
             encumbrance) and penalties when heavily encumbered. (more than 70%).
           \n
-          \n Be warned that enabling this option will result in ludicrous speed if you travel
-            lightly.
+          \n Be warned that enabling this option will result in ludicrous speed if you
+            travel lightly.
         </text>
     </string>
     <string id="ui_mcm_speed_weapon">
@@ -43,7 +43,8 @@
     </string>
     <string id="ui_mcm_speed_weapon_desc">
         <text>
-            If enabled, weapons apply a modifier to sprint speed depending on type and weight.
+            If enabled, weapons apply a modifier to sprint speed depending on type and
+            weight.
         </text>
     </string>
     <string id="ui_mcm_speed_debug">

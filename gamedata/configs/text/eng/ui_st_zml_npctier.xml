@@ -9,10 +9,10 @@
     <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_npctier_general_info">
         <text>
-            The options below allow to edit each threshold for each tier of loot found on dead
-            NPCs. Tier 1 being the most common and Tier 4 being the rarest. The higher the gap
-            between two thresholds, the higher is the chance that the former gets picked. A tier
-            threshold should not be set higher than its superior.
+            The options below allow to edit each threshold for each tier of loot found on
+            dead NPCs. Tier 1 being the most common and Tier 4 being the rarest. The higher
+            the gap between two thresholds, the higher is the chance that the former gets
+            picked. A tier threshold should not be set higher than its superior.
         </text>
     </string>
 

@@ -4,8 +4,8 @@
     <!-- Medicine -->
     <string id="st_player_skills_hint_medicine">
         <text>
-            Grants a short burst of improved health and radiation restoration based on medical
-            item used.
+            Grants a short burst of improved health and radiation restoration based on
+            medical item used.
           \n
           \nLevels are gained by using medicine and drugs.
           \n
@@ -182,7 +182,8 @@
     <string id="st_skills_stats_equip_speed_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Raise/holster speed increased by: %c[d_green]$stat%
+          \n%c[255,138,43,226]•%c[ui_6] Raise/holster speed increased by:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_equip_speed_negative">

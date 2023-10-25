@@ -33,8 +33,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
         <text>
-            Lower values allow you to turn down the NVGs more - very low values will even enable
-            you to use the NVGs during daylight.
+            Lower values allow you to turn down the NVGs more - very low values will even
+            enable you to use the NVGs during daylight.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
@@ -44,8 +44,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
         <text>
-            1.0 leaves world brightness as-is, larger values multiply world brightness (but not
-            light sources).
+            1.0 leaves world brightness as-is, larger values multiply world brightness (but
+            not light sources).
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
@@ -55,9 +55,9 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
         <text>
-            Generally recommended to keep at 0.1, but can be increased to reduce washout on light
-            sources slightly. This value scales with the nvg gain so that higher gains have more
-            washout and lower gains have less washout.
+            Generally recommended to keep at 0.1, but can be increased to reduce washout on
+            light sources slightly. This value scales with the nvg gain so that higher gains
+            have more washout and lower gains have less washout.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
@@ -67,8 +67,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
         <text>
-            If this box is checked, you can keep your NVGs on while ADS. If its is unchecked,
-            your character will disable their NVGs while raising their weapon.
+            If this box is checked, you can keep your NVGs on while ADS. If its is
+            unchecked, your character will disable their NVGs while raising their weapon.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
@@ -78,7 +78,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
         <text>
-            If this box is unchecked, your NVGs automatically disable when looking at your PDA.
+            If this box is unchecked, your NVGs automatically disable when looking at your
+            PDA.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
@@ -193,8 +194,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
         <text>
-            Basically, due to shadering magic, if you have Shader Based 2d Scopes, you need to
-            check this box. Otherwise, don't check this box.
+            Basically, due to shadering magic, if you have Shader Based 2d Scopes, you need
+            to check this box. Otherwise, don't check this box.
         </text>
     </string>
 </string_table>

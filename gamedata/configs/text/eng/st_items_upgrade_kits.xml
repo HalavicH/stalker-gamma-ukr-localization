@@ -7,8 +7,9 @@
     </string>
     <string id="st_addon_kit_lewd_operator_descr">
         <text>
-            This tacticool weapon kit will upgrade a base weapon (rifle size) with performance
-            parts and scopes, enhancing it's battle readiness for special operations.
+            This tacticool weapon kit will upgrade a base weapon (rifle size) with
+            performance parts and scopes, enhancing it's battle readiness for special
+            operations.
         </text>
     </string>
     <string id="st_addon_kit_lewd_specialist">
@@ -40,8 +41,9 @@
     </string>
     <string id="st_addon_kit_lewd_warmonger_descr">
         <text>
-            This brutal weapon kit will upgrade a base weapon with hardened parts and scopes, to
-            enhance sustained high-RPM fire and maximize the kill-ratio in close quarter.
+            This brutal weapon kit will upgrade a base weapon with hardened parts and
+            scopes, to enhance sustained high-RPM fire and maximize the kill-ratio in close
+            quarter.
         </text>
     </string>
     <string id="st_addon_kit_g33_flipup">
@@ -64,8 +66,9 @@
     <string id="st_addon_kit_g33_flipdown_descr">
         <text>
             This scope kit mounts a combined Aimpoint PRO reddot sight with an EOTech G33
-            magnifier scope (switched to the side) to the rifle. If it's already mounted with the
-            G33 flipped up, then this kit can be used to switch the G33 to the side.
+            magnifier scope (switched to the side) to the rifle. If it's already mounted
+            with the G33 flipped up, then this kit can be used to switch the G33 to the
+            side.
         </text>
     </string>
 </string_table>

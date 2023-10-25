@@ -32,9 +32,9 @@
     </string>
     <string id="st_up_binoc_b1_gamma_descr">
         <text>
-            Система нічного бачення для роботи в умовах низької освітленості, яка використовує
-            спектральні та інтенсивні методи для виявлення випромінювання, невидимого для
-            людського ока.
+            Система нічного бачення для роботи в умовах низької освітленості, яка
+            використовує спектральні та інтенсивні методи для виявлення випромінювання,
+            невидимого для людського ока.
         </text>
     </string>
     <string id="st_up_binoc_b2_gamma_name">
@@ -44,8 +44,9 @@
     </string>
     <string id="st_up_binoc_b2_gamma_descr">
         <text>
-            An improvement to the night vision technology, which introduces better system light
-            gain, system resolution and photosensitivity to increase the visual quality
+            An improvement to the night vision technology, which introduces better system
+            light gain, system resolution and photosensitivity to increase the visual
+            quality
         </text>
     </string>
     <string id="st_up_binoc_b3_gamma_name">
@@ -56,9 +57,9 @@
     <string id="st_up_binoc_b3_gamma_descr">
         <text>
             Удосконалення технології нічного бачення, що забезпечує краще посилення світла,
-            роздільну здатність системи та фоточутливість для підвищення якості зображення, а
-            також білий люмінофорний дисплей для кращої гостроти зору та зменшення шкоди для
-            очей.
+            роздільну здатність системи та фоточутливість для підвищення якості зображення,
+            а також білий люмінофорний дисплей для кращої гостроти зору та зменшення шкоди
+            для очей.
         </text>
     </string>
 </string_table>

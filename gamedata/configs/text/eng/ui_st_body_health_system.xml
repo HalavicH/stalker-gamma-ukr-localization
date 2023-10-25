@@ -27,8 +27,8 @@
     </string>
     <string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE_desc">
         <text>
-            (Reloading required) Enabling this activates new penalties feature. Disabling returns
-            old BHS penalties.
+            (Reloading required) Enabling this activates new penalties feature. Disabling
+            returns old BHS penalties.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_new_voice_sounds">
@@ -38,8 +38,8 @@
     </string>
     <string id="ui_mcm_body_health_system_new_voice_sounds_desc">
         <text>
-            Enabling this activates new voice during sprint with damaged legs. Disabling returns
-            voice from original mod.
+            Enabling this activates new voice during sprint with damaged legs. Disabling
+            returns voice from original mod.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
@@ -49,9 +49,9 @@
     </string>
     <string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
         <text>
-            HP of at least one leg must be below this value to play effects. Default slider value
-            of 5 means that effects will play at 4 or less HP. (Movement speed penalty will still
-            be there, for now)
+            HP of at least one leg must be below this value to play effects. Default slider
+            value of 5 means that effects will play at 4 or less HP. (Movement speed penalty
+            will still be there, for now)
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
@@ -61,9 +61,9 @@
     </string>
     <string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
         <text>
-            Sprint with damaged leg has a chance to deal damage. This slider sets the minimum
-            amount of leg HP needed to play this effect, i.e. if slider is 4 and leg HP is 4 then
-            effect will be active. (Value of -1 disables the feature)
+            Sprint with damaged leg has a chance to deal damage. This slider sets the
+            minimum amount of leg HP needed to play this effect, i.e. if slider is 4 and leg
+            HP is 4 then effect will be active. (Value of -1 disables the feature)
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_animation_power">
@@ -83,8 +83,8 @@
     </string>
     <string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
         <text>
-            Summary Arms HP must be below this value to play effects. Default slider value of 10
-            means that effects will play if both arms have 9 or less HP.
+            Summary Arms HP must be below this value to play effects. Default slider value
+            of 10 means that effects will play if both arms have 9 or less HP.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_arm_animation_power">
@@ -104,8 +104,8 @@
     </string>
     <string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
         <text>
-            Damage needed to play effects. For example, default slider value of 2 means that each
-            headshot damage must be for 2 or more HP.
+            Damage needed to play effects. For example, default slider value of 2 means that
+            each headshot damage must be for 2 or more HP.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_head_animation_power">

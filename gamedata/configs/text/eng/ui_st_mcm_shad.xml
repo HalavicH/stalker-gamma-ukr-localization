@@ -18,8 +18,8 @@
     <string id="ui_mcm_shad_shad_desc">
         <text>
             Shows the total amount of ammo you have for all types of your actual weapon
-            availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo -- Orange
-            --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)
+            availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo --
+            Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)
         </text>
     </string>
     <string id="ui_mcm_shad_boac">
@@ -29,8 +29,8 @@
     </string>
     <string id="ui_mcm_shad_boac_desc">
         <text>
-            Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the ammo
-            type)
+            Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the
+            ammo type)
         </text>
     </string>
     <string id="ui_mcm_shad_bvoac">
@@ -40,9 +40,9 @@
     </string>
     <string id="ui_mcm_shad_bvoac_desc">
         <text>
-            Makes the Very Old Ammo appear in RED color (only when you have no good ammo and no
-            bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do not use
-            very old ammo)
+            Makes the Very Old Ammo appear in RED color (only when you have no good ammo and
+            no bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do
+            not use very old ammo)
         </text>
     </string>
     <string id="ui_mcm_shad_color_mun_shad">
@@ -52,9 +52,9 @@
     </string>
     <string id="ui_mcm_shad_color_mun_shad_desc">
         <text>
-            Deactivate the shad default colors (Traffic Signals Colors : Green --&gt; Good Ammo --
-            Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly Orange
-            colors from darker (Good Ammo) to lighter (Very Bad Ammo)
+            Deactivate the shad default colors (Traffic Signals Colors : Green --&gt; Good Ammo
+            -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly
+            Orange colors from darker (Good Ammo) to lighter (Very Bad Ammo)
         </text>
     </string>
 </string_table>

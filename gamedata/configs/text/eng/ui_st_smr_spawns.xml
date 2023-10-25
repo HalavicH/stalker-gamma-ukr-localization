@@ -25,11 +25,11 @@
     <string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
         <text>
             The following template files are included:
-          \n - Default: Similar to vanilla spawns, you will mostly see mutants in each level
-            that spawn there in the base game.
+          \n - Default: Similar to vanilla spawns, you will mostly see mutants in each
+            level that spawn there in the base game.
           \n - All: All mutants can spawn in all levels but are still sorted into tiers.
-          \n - Balanced: A port of the values used in TheMrDemonized's. "ZCP Kinda Balanced
-            Spawns" mod for ZCP 1.4.
+          \n - Balanced: A port of the values used in TheMrDemonized's. "ZCP Kinda
+            Balanced Spawns" mod for ZCP 1.4.
           \n If you add your own spawn template it will automatically appear alongside the
             included ones.
         </text>

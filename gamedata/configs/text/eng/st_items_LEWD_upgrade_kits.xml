@@ -7,8 +7,8 @@
     </string>
     <string id="st_addon_kit_lewd_operator_descr">
         <text>
-            This tacticool weapon kit will upgrade a base weapon (LEWD) with performance parts
-            and scopes, enhancing it's battle readiness for special operations.
+            This tacticool weapon kit will upgrade a base weapon (LEWD) with performance
+            parts and scopes, enhancing it's battle readiness for special operations.
         </text>
     </string>
     <string id="st_addon_kit_lewd_specialist">
@@ -18,8 +18,9 @@
     </string>
     <string id="st_addon_kit_lewd_specialist_descr">
         <text>
-            This specialized weapon kit will upgrade a base weapon (LEWD) with selected parts and
-            scopes, to perform with excellence in a specialist role, such as an infiltrator.
+            This specialized weapon kit will upgrade a base weapon (LEWD) with selected
+            parts and scopes, to perform with excellence in a specialist role, such as an
+            infiltrator.
         </text>
     </string>
     <string id="st_addon_kit_lewd_marksman">
@@ -29,8 +30,9 @@
     </string>
     <string id="st_addon_kit_lewd_marksman_descr">
         <text>
-            This precision weapon kit will upgrade a base weapon (LEWD) with fine-tuned parts and
-            scopes, to significantly raise its long-range engagement and sniper capabilites.
+            This precision weapon kit will upgrade a base weapon (LEWD) with fine-tuned
+            parts and scopes, to significantly raise its long-range engagement and sniper
+            capabilites.
         </text>
     </string>
     <string id="st_addon_kit_lewd_warmonger">

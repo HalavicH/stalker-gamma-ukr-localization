@@ -57,8 +57,8 @@
     </string>
     <string id="ui_mcm_yasc_allowNeutralBases_desc">
         <text>
-            Інші фракції дозволять вам зберігатись на своїх базах в залежності від вашої доброї
-            волі.
+            Інші фракції дозволять вам зберігатись на своїх базах в залежності від вашої
+            доброї волі.
         </text>
     </string>
     <string id="ui_mcm_yasc_allowSanctuaries">
@@ -79,8 +79,8 @@
     </string>
     <string id="ui_mcm_yasc_enableNotifications_desc">
         <text>
-            Ви отримаєте повідомлення про час, що залишився до отримання безкоштовного токена
-            збереження.
+            Ви отримаєте повідомлення про час, що залишився до отримання безкоштовного
+            токена збереження.
         </text>
     </string>
     <string id="ui_mcm_yasc_isNotMommy">

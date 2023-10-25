@@ -17,7 +17,8 @@
     </string>
     <string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
         <text>
-            Виберіть цю опцію, якщо хочете мати можливість змінювати гучність звукового сигналу.
+            Виберіть цю опцію, якщо хочете мати можливість змінювати гучність звукового
+            сигналу.
         </text>
     </string>
     <string id="ui_mcm_reworked_rf_receiver_beep_volume">
@@ -42,7 +43,8 @@
     </string>
     <string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
         <text>
-            Для роботи не потрібно тримати випромінювач у руці, достатньо лише мати його на собі.
+            Для роботи не потрібно тримати випромінювач у руці, достатньо лише мати його на
+            собі.
         </text>
     </string>
 </string_table>

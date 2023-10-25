@@ -36,7 +36,8 @@
         <text>
             Дає збільшену вагу та шкоду від ближнього бою.
           \n
-          \nРівні отримуються за пересування з важким вантажем та ведення бою в ближньому бою.
+          \nРівні отримуються за пересування з важким вантажем та ведення бою в ближньому
+            бою.
           \n
           \n
         </text>
@@ -56,7 +57,8 @@
     <string id="st_skills_stats_melee_damage_positive">
         <text>
             
-          \n%c[255,255,201,86]•%c[ui_6] Модифікатор шкоди в ближньому бою: %c[d_green]x$stat
+          \n%c[255,255,201,86]•%c[ui_6] Модифікатор шкоди в ближньому бою:
+            %c[d_green]x$stat
         </text>
     </string>
     <string id="st_skills_stats_melee_damage_negative">
@@ -75,8 +77,8 @@
     <!-- Виживання -->
     <string id="st_player_skills_hint_survival">
         <text>
-            Дає підвищену стійкість до ушкоджень і шанс отримати додаткову частину при знятті
-            шкури.
+            Дає підвищену стійкість до ушкоджень і шанс отримати додаткову частину при
+            знятті шкури.
           \n
           \nРівні отримуються при отриманні ушкоджень (ушкодження завдають тільки кулі і
             мутанти) і знятті шкури з мутантів, більш небезпечні мутанти дають більше
@@ -100,7 +102,8 @@
     <string id="st_skills_stats_bleed_restore">
         <text>
             
-          \n%c[255,135,255,86]•%c[ui_6] Збільшено зменшення кровотечі на: %c[d_green]$stat%
+          \n%c[255,135,255,86]•%c[ui_6] Збільшено зменшення кровотечі на:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_hunting_skill_positive">
@@ -130,13 +133,15 @@
     <string id="st_skills_stats_power_loss_positive">
         <text>
             
-          \n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості: %c[d_green]x$stat
+          \n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості:
+            %c[d_green]x$stat
         </text>
     </string>
     <string id="st_skills_stats_power_loss_negative">
         <text>
             
-          \n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості: %c[d_red]x$stat
+          \n%c[255,255,86,86]•%c[ui_6] Модифікатор використання витривалості:
+            %c[d_red]x$stat
         </text>
     </string>
     <string id="st_skills_stats_speed_modifier_positive">

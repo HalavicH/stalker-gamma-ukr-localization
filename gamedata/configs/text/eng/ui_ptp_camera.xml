@@ -74,13 +74,14 @@
     <string id="ui_mcm_ptp_camera_cam_warning">
         <text>
             INSTRUCTIONS:
-          \nLoad into the game, make a quick save, go to settings and setup camera position.
-          \nOnce you choosed a camera position, be sure to check the "Reload system configs"
-            checkbox.
-          \nAfter that, immediately quick load, without leaving the main menu to avoid crash,
-            and enjoy!
-          \nIf you do not follow these instructions, changes to the camera position will not be
-            applied or will lead to crash!
+          \nLoad into the game, make a quick save, go to settings and setup camera
+            position.
+          \nOnce you choosed a camera position, be sure to check the "Reload system
+            configs" checkbox.
+          \nAfter that, immediately quick load, without leaving the main menu to avoid
+            crash, and enjoy!
+          \nIf you do not follow these instructions, changes to the camera position will
+            not be applied or will lead to crash!
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_style">

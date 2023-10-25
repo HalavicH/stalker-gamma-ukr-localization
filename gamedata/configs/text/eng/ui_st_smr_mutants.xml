@@ -32,8 +32,8 @@
     </string>
     <string id="ui_mcm_SMR_smr_mutants_random_mutants_desc">
         <text>
-            Замінює загони мутантів на інші, випадкові загони мутантів. Це означає, що ви можете
-            знайти певних мутантів там, де раніше їх не очікували.
+            Замінює загони мутантів на інші, випадкові загони мутантів. Це означає, що ви
+            можете знайти певних мутантів там, де раніше їх не очікували.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_random_mutants_chance">
@@ -53,8 +53,8 @@
     </string>
     <string id="ui_mcm_SMR_smr_mutants_types_info">
         <text>
-            Нижче ви можете ввімкнути або вимкнути типи мутантів. Вимкнені мутанти не з'являться
-            в Зоні.
+            Нижче ви можете ввімкнути або вимкнути типи мутантів. Вимкнені мутанти не
+            з'являться в Зоні.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_types_replace_squads">
@@ -189,8 +189,8 @@
     </string>
     <string id="ui_mcm_smr_mutants_unused_types_info">
         <text>
-            Below you can enable mutant variations which are present in the game files but not
-            used anywhere. They will then spawn together with the used variations.
+            Below you can enable mutant variations which are present in the game files but
+            not used anywhere. They will then spawn together with the used variations.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_unused_types_chance">
@@ -200,8 +200,8 @@
     </string>
     <string id="ui_mcm_SMR_smr_mutants_unused_types_chance_desc">
         <text>
-            This is the percent chance that normal variations of a mutant will be replaced with
-            unused ones.
+            This is the percent chance that normal variations of a mutant will be replaced
+            with unused ones.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_bloodsucker_strong_bigp">

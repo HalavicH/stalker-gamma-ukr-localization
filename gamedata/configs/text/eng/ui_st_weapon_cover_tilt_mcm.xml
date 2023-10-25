@@ -47,8 +47,8 @@
     </string>
     <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
         <text>
-            Це змінить залежність радіусу спуску курка від довжини зброї: чим більше значення,
-            тим більшою буде різниця між короткою та довгою зброєю
+            Це змінить залежність радіусу спуску курка від довжини зброї: чим більше
+            значення, тим більшою буде різниця між короткою та довгою зброєю
         </text>
     </string>
     <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
@@ -58,8 +58,8 @@
     </string>
     <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
         <text>
-            Зброя з приєднаними глушниками, коли вони приєднані, матиме збільшений радіус дії на
-            спусковий гачок приблизно на 0,1 метра
+            Зброя з приєднаними глушниками, коли вони приєднані, матиме збільшений радіус
+            дії на спусковий гачок приблизно на 0,1 метра
         </text>
     </string>
     <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
@@ -115,8 +115,8 @@
     </string>
     <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
         <text>
-            When a weapon is raised, it will be randomly rolled by +- a given degree for more
-            animation variation
+            When a weapon is raised, it will be randomly rolled by +- a given degree for
+            more animation variation
         </text>
     </string>
     <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">

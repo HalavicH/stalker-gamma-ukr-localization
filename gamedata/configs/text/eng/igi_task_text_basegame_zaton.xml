@@ -15,9 +15,9 @@
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_job_descr">
         <text>
-            Shh... Listen, hear that? Some mutants howling. Still gives me the chills after all
-            this time. How about you go out there and take care of them? I'll make it worth your
-            while.
+            Shh... Listen, hear that? Some mutants howling. Still gives me the chills after
+            all this time. How about you go out there and take care of them? I'll make it
+            worth your while.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_finish">
@@ -45,8 +45,8 @@
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_fetch_job_descr">
         <text>
-            I'm looking for the artefact. You ever seen one? If you can find it, I'll make sure
-            you're well paid.
+            I'm looking for the artefact. You ever seen one? If you can find it, I'll make
+            sure you're well paid.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_fetch_finish">
@@ -68,15 +68,16 @@
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_3_job_descr">
         <text>
-            There's a guy; used to be a regular stalker just like anyone else on this ship. One
-            day, some Military officers came and offered him a commission. The next thing we
-            knew, he's found murdering his former brothers in cold blood! We cannot stand for
-            that! Find this traitor and avenge the men he shot in the back.
+            There's a guy; used to be a regular stalker just like anyone else on this ship.
+            One day, some Military officers came and offered him a commission. The next
+            thing we knew, he's found murdering his former brothers in cold blood! We cannot
+            stand for that! Find this traitor and avenge the men he shot in the back.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_3_finish">
         <text>
-            Ah, you killed him? Help yourself to a drink. I'm sure we could all do with one...
+            Ah, you killed him? Help yourself to a drink. I'm sure we could all do with
+            one...
         </text>
     </string>
 
@@ -98,8 +99,8 @@
     </string>
     <string id="igi_task_text_noah_2_descr">
         <text>
-            Snorks have been threatening Noah for a while. He wants me to clear out a lair at the
-            southern plateau.
+            Snorks have been threatening Noah for a while. He wants me to clear out a lair
+            at the southern plateau.
         </text>
     </string>
     <string id="igi_task_text_noah_1_1">
@@ -129,8 +130,8 @@
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_job_descr">
         <text>
-            You feel like arranging a real safari? You will hunt people and bring their patches.
-            We will be raising the standards of the faction.
+            You feel like arranging a real safari? You will hunt people and bring their
+            patches. We will be raising the standards of the faction.
         </text>
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_finish">
@@ -147,16 +148,16 @@
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_descr">
         <text>
-            Drug-making kit is required by Axel to work on medical supplies. You should bring
-            them back to him if you find any.
+            Drug-making kit is required by Axel to work on medical supplies. You should
+            bring them back to him if you find any.
         </text>
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of injuries I
-            have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits
-            soon or later. I need you to find me one of those old drug-making kits. They will
-            come in handy for sure.
+            Maintaining what's left from medical supplies storage with this number of
+            injuries I have to treat on daily basis is worrying. I'm gonna run out of
+            bandages and medkits soon or later. I need you to find me one of those old drug-
+            making kits. They will come in handy for sure.
         </text>
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_finish">

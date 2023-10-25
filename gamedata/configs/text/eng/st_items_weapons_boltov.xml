@@ -7,10 +7,10 @@
     </string>
     <string id="st_wpn_boltov_descr">
         <text>
-            Another marvelous feat of a zone engineer. Inspired by one of the zone's most feared
-            weapons, the Boltov uses artifact power to supercharge rusty old bolts. Accelerated
-            to supersonic speed the bolt head separates and is launched at the targets face. The
-            Zone has now its very own gopnik space program.
+            Another marvelous feat of a zone engineer. Inspired by one of the zone's most
+            feared weapons, the Boltov uses artifact power to supercharge rusty old bolts.
+            Accelerated to supersonic speed the bolt head separates and is launched at the
+            targets face. The Zone has now its very own gopnik space program.
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_operator">
@@ -20,8 +20,8 @@
     </string>
     <string id="st_wpn_boltov_kit_lewd_operator_descr">
         <text>
-            This semi-auto Boltov has not only been gopnikoolized with a foregrip and an aiming
-            laser, no no no, it also has recoil dampeners and a magazine of 10 bolts!
+            This semi-auto Boltov has not only been gopnikoolized with a foregrip and an
+            aiming laser, no no no, it also has recoil dampeners and a magazine of 10 bolts!
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_marksman">
@@ -53,7 +53,8 @@
     </string>
     <string id="st_wpn_boltov_kit_lewd_warmonger_descr">
         <text>
-            Bolt-gun, shot-gun... sholt-gun? who the fuck cares?! it shoots bolts and is awesome!
+            Bolt-gun, shot-gun... sholt-gun? who the fuck cares?! it shoots bolts and is
+            awesome!
         </text>
     </string>
     <string id="st_boltwpn">

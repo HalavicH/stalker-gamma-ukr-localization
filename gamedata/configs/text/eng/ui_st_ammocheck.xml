@@ -114,8 +114,8 @@
     </string>
     <string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
         <text>
-            Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно, якщо
-            встановлено FDDA
+            Поставте цей прапорець, якщо «анімація» перевірки боєприпасів зависає. Ймовірно,
+            якщо встановлено FDDA
         </text>
     </string>
     <string id="ui_mcm_rax_ammo_check_keybind">

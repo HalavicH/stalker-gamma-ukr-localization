@@ -70,7 +70,8 @@
     </string>
     <string id="ui_mcm_sidhud_ammoshow_desc">
         <text>
-            Shows the TOTAL amount of ammo you have for each 3 types available in the inventory.
+            Shows the TOTAL amount of ammo you have for each 3 types available in the
+            inventory.
         </text>
     </string>
     <string id="ui_mcm_sidhud_oldammoshow">
@@ -80,7 +81,8 @@
     </string>
     <string id="ui_mcm_sidhud_oldammoshow_desc">
         <text>
-            Makes the Old Ammo appear where relevant (Such as not having its "good" counterparts)
+            Makes the Old Ammo appear where relevant (Such as not having its "good"
+            counterparts)
         </text>
     </string>
     <string id="ui_mcm_sidhud_radhealthshow">
@@ -90,7 +92,8 @@
     </string>
     <string id="ui_mcm_sidhud_radhealthshow_desc">
         <text>
-            Shows the amount of Radiation you have, on the Health Bar, going from left-to-right.
+            Shows the amount of Radiation you have, on the Health Bar, going from left-to-
+            right.
         </text>
     </string>
     <string id="ui_mcm_sidhud_bleedingbarshow">
@@ -111,8 +114,8 @@
     </string>
     <string id="ui_mcm_sidhud_healingbar_desc">
         <text>
-            Enables a subtle bar on the HP Bar that will show the exact amount of healing you
-            will get when using a healing item.
+            Enables a subtle bar on the HP Bar that will show the exact amount of healing
+            you will get when using a healing item.
         </text>
     </string>
 </string_table>

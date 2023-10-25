@@ -7,12 +7,13 @@
     </string>
     <string id="st_af_nk_doom_descr">
         <text>
-            Rip and tear until it is done. Rumors say that some drunk bandit went on a rampage
-            with just this artifact and his trusty knife against multiple bloodsuckers and
-            survived. The artifact increases protection against all mutant attacks and supports
-            various regenerative processes, further aiding in battle. Prolonged usage is
-            extremely taxing on the user, eventually leading to becoming a mad beast obsessed
-            with fighting and losing your mind. Extremely radioactive and expensive.
+            Rip and tear until it is done. Rumors say that some drunk bandit went on a
+            rampage with just this artifact and his trusty knife against multiple
+            bloodsuckers and survived. The artifact increases protection against all mutant
+            attacks and supports various regenerative processes, further aiding in battle.
+            Prolonged usage is extremely taxing on the user, eventually leading to becoming
+            a mad beast obsessed with fighting and losing your mind. Extremely radioactive
+            and expensive.
           \n
           \n%c[0,255,0,0]Tier 4 Unique Artifact
           \n
@@ -34,13 +35,13 @@
     </string>
     <string id="st_af_nk_bloodcompass_descr">
         <text>
-            A relatively new artifact in the Zone, only a handful of people have seen it. Unlike
-            its brother artifact Compass, it allows you to face danger and your fears instead of
-            avoiding them. When you touch this artifact, your entire body feels like it's on
-            fire. The eerie red glow fills you with courage and you understand that if you can
-            somehow manage its drawbacks, this artifact can substantially aid you in your
-            journeys. Extremely radioactive and expensive, possibly the most prized artifact
-            found in the Zone.
+            A relatively new artifact in the Zone, only a handful of people have seen it.
+            Unlike its brother artifact Compass, it allows you to face danger and your fears
+            instead of avoiding them. When you touch this artifact, your entire body feels
+            like it's on fire. The eerie red glow fills you with courage and you understand
+            that if you can somehow manage its drawbacks, this artifact can substantially
+            aid you in your journeys. Extremely radioactive and expensive, possibly the most
+            prized artifact found in the Zone.
           \n
           \n%c[0,255,0,0]Tier 4 Unique Artifact
           \n
@@ -67,13 +68,13 @@
     </string>
     <string id="st_af_nk_archdragonseye_descr">
         <text>
-            An incredibly strong artifact that can heal most wounds and even radiation poisoning
-            in usually less than a minute. You are afraid to hold it, let alone even look
-            straight into the eye. Its gaze follows your every step, you feel as if it wants to
-            burn you alive. For some reason it's popular among collectors, maybe they like to
-            chase people off with it or want to heal some old wounds? Either way it's very
-            expensive and that makes you a happy stalker, even though you feel like you might run
-            into a burner anomaly if you sell this artifact.
+            An incredibly strong artifact that can heal most wounds and even radiation
+            poisoning in usually less than a minute. You are afraid to hold it, let alone
+            even look straight into the eye. Its gaze follows your every step, you feel as
+            if it wants to burn you alive. For some reason it's popular among collectors,
+            maybe they like to chase people off with it or want to heal some old wounds?
+            Either way it's very expensive and that makes you a happy stalker, even though
+            you feel like you might run into a burner anomaly if you sell this artifact.
           \n
           \n%c[0,133,32,12]Tier 4 Coagulative Artifact
           \n
@@ -95,14 +96,15 @@
     </string>
     <string id="st_af_nk_goldenchrysanthemum_descr">
         <text>
-            A beautiful flower, it seems to have grown in an anomalous zone over an underground
-            precious metal deposit, resulting in partial replacement of chlorophyll with gold. A
-            digging operation to find the vein would probably be near impossible with all of the
-            anomalies around so you'll have to be content with just this flower. It boasts a very
-            strong anti-gravity field and can also filter out various toxins and radioactive
-            particles from the user. It is very fragile and would melt in high temperatures,
-            alongside with the person wearing it. It also makes the user susceptible to all forms
-            of physical damage and bleeding. Very expensive.
+            A beautiful flower, it seems to have grown in an anomalous zone over an
+            underground precious metal deposit, resulting in partial replacement of
+            chlorophyll with gold. A digging operation to find the vein would probably be
+            near impossible with all of the anomalies around so you'll have to be content
+            with just this flower. It boasts a very strong anti-gravity field and can also
+            filter out various toxins and radioactive particles from the user. It is very
+            fragile and would melt in high temperatures, alongside with the person wearing
+            it. It also makes the user susceptible to all forms of physical damage and
+            bleeding. Very expensive.
           \n
           \n%c[0,255,255,0]Tier 4 Anti-gravity Artifact
           \n
@@ -127,10 +129,10 @@
     <string id="st_af_nk_foolsgold_descr">
         <text>
             An artifact that looks like a chunk of gold but is actually just severely
-            gravitationally malformed pyrite. Has an extremely strong anti-gravity field that
-            allows you to carry an extra amount of loot, boosts your energy and also increases
-            your reflexes in combat. Comes with many drawbacks but the price is not one of them,
-            possibly one of the most prized artifacts in the Zone.
+            gravitationally malformed pyrite. Has an extremely strong anti-gravity field
+            that allows you to carry an extra amount of loot, boosts your energy and also
+            increases your reflexes in combat. Comes with many drawbacks but the price is
+            not one of them, possibly one of the most prized artifacts in the Zone.
           \n
           \n%c[0,255,255,0]Tier 4 Anti-gravity Artifact
           \n
@@ -152,13 +154,13 @@
     </string>
     <string id="st_af_nk_galaxy_descr">
         <text>
-            A spherical artifact of great mass and price. Looks like a galaxy trapped in a glass
-            globe, hence the name. It has amazing radiation filtering capabilities, allowing you
-            to carry multiple artifacts or stay in radioactive environments for longer periods of
-            time. Soothes the mind of nearby beings, increasing psychic protection and lowering
-            aggression of mutants. Continuously drains energy and vitality from the user to
-            upkeep its effects. It's so heavy that you could probably kill someone if you tossed
-            it at someone's head.
+            A spherical artifact of great mass and price. Looks like a galaxy trapped in a
+            glass globe, hence the name. It has amazing radiation filtering capabilities,
+            allowing you to carry multiple artifacts or stay in radioactive environments for
+            longer periods of time. Soothes the mind of nearby beings, increasing psychic
+            protection and lowering aggression of mutants. Continuously drains energy and
+            vitality from the user to upkeep its effects. It's so heavy that you could
+            probably kill someone if you tossed it at someone's head.
           \n
           \n%c[0,255,217,102]Tier 4 Anti-rad Artifact
           \n
@@ -178,13 +180,13 @@
     </string>
     <string id="st_af_nk_blackhole_descr">
         <text>
-            A mini black hole. With a bit of finesse you can push it around and "hold" it while
-            it levitates in your hands. You can't push through the gravity field or touch the
-            center if it even exists, the artifact just slips away and falls to the ground. It
-            sucks up various things to the benefit of the user like radiation, bullets, high
-            temperature and toxic particles, but also absorbs or speeds up other nearby things
-            like lightning, mutant claws or blood coming out of your wounds. Extremely expensive
-            and heavy when equipped.
+            A mini black hole. With a bit of finesse you can push it around and "hold" it
+            while it levitates in your hands. You can't push through the gravity field or
+            touch the center if it even exists, the artifact just slips away and falls to
+            the ground. It sucks up various things to the benefit of the user like
+            radiation, bullets, high temperature and toxic particles, but also absorbs or
+            speeds up other nearby things like lightning, mutant claws or blood coming out
+            of your wounds. Extremely expensive and heavy when equipped.
           \n
           \n%c[0,255,217,102]Tier 4 Anti-rad Artifact
           \n
@@ -209,10 +211,10 @@
         <text>
             As beautiful as it is deadly, the delicate Dahlia flower that was turned into an
             artifact promises many health benefits but will try to kill you in chemical and
-            electric anomaly zones or slowly drive you insane. Very radioactive and expensive,
-            one of the most prized artifacts in the Zone, the price driven up by foolish
-            collectors outside of it. There have been multiple reports of people mysteriously
-            dying after coming in contact with this artifact.
+            electric anomaly zones or slowly drive you insane. Very radioactive and
+            expensive, one of the most prized artifacts in the Zone, the price driven up by
+            foolish collectors outside of it. There have been multiple reports of people
+            mysteriously dying after coming in contact with this artifact.
           \n
           \n%c[0,133,32,12]Tier 4 Coagulative Artifact
           \n
@@ -235,13 +237,14 @@
     </string>
     <string id="st_af_nk_everlastinglove_descr">
         <text>
-            Fire and water stuck in an anti-gravity field in the shape of a heart, a possible
-            evolution of the Heart artifact but it is unconfirmed. You can't directly touch the
-            artifact, only move the field around. Even if you could you'd just burn yourself.
-            Inhaling the steam seems to have calming and regenerative properties. Severely
-            radioactive and increases vulnerability to fire and electricity, but thanks to the
-            benefits of extra vitality restoration, calmness, carry capacity and the price, you
-            feel like you might fall in love with this artifact.
+            Fire and water stuck in an anti-gravity field in the shape of a heart, a
+            possible evolution of the Heart artifact but it is unconfirmed. You can't
+            directly touch the artifact, only move the field around. Even if you could you'd
+            just burn yourself. Inhaling the steam seems to have calming and regenerative
+            properties. Severely radioactive and increases vulnerability to fire and
+            electricity, but thanks to the benefits of extra vitality restoration, calmness,
+            carry capacity and the price, you feel like you might fall in love with this
+            artifact.
           \n
           \n%c[0,213,70,125]Tier 4 Vitality Artifact
           \n
@@ -263,11 +266,11 @@
     </string>
     <string id="st_af_nk_anomalousliver_descr">
         <text>
-            Every time you take a bite you don't feel very good but at least you're not hungry
-            anymore. The liver regenerates extremely fast and never runs out. Judging by the size
-            it might be a remaining piece of a chimera that accidentally ran into a gravity
-            anomaly. Might solve the world's hunger problem if you were to sell it to some
-            Scientist so it's probably worth a lot of money.
+            Every time you take a bite you don't feel very good but at least you're not
+            hungry anymore. The liver regenerates extremely fast and never runs out. Judging
+            by the size it might be a remaining piece of a chimera that accidentally ran
+            into a gravity anomaly. Might solve the world's hunger problem if you were to
+            sell it to some Scientist so it's probably worth a lot of money.
           \n
           \n%c[0,255,0,0]Tier 2 Unique Artifact
           \n
@@ -286,11 +289,12 @@
     </string>
     <string id="st_af_nk_rubyrose_descr">
         <text>
-            A ruby gemstone formation loosely resembling the shape of a rose. The sharp crystals
-            have the ability to pierce through your outfit and skin, fueling this artifact's
-            regenerative and protective powers with your own blood. Extremely radioactive and
-            expensive, due to its strong properties and the fact that it is made out of a
-            valuable gem, both stalkers and collectors want one in their collection.
+            A ruby gemstone formation loosely resembling the shape of a rose. The sharp
+            crystals have the ability to pierce through your outfit and skin, fueling this
+            artifact's regenerative and protective powers with your own blood. Extremely
+            radioactive and expensive, due to its strong properties and the fact that it is
+            made out of a valuable gem, both stalkers and collectors want one in their
+            collection.
           \n
           \n%c[0,213,70,125]Tier 4 Vitality Artifact
           \n
@@ -314,12 +318,12 @@
     </string>
     <string id="st_af_nk_electrolytes_descr">
         <text>
-            A distant cousin of the Mama's Beads artifact. The little blue packets are filled
-            with an electrolyte fluid that increases the user's stamina, reflexes and
-            regenerative capabilities. Vulnerable to evaporating, the artifact will try to steal
-            water and electrolytes from the user's body when exposed to high temperatures. It is
-            also very easy to pierce the sacks, caution is advised when fighting mutants.
-            Extremely radioactive and very expensive.
+            A distant cousin of the Mama's Beads artifact. The little blue packets are
+            filled with an electrolyte fluid that increases the user's stamina, reflexes and
+            regenerative capabilities. Vulnerable to evaporating, the artifact will try to
+            steal water and electrolytes from the user's body when exposed to high
+            temperatures. It is also very easy to pierce the sacks, caution is advised when
+            fighting mutants. Extremely radioactive and very expensive.
           \n
           \n%c[0,0,200,255]Tier 4 Energy Artifact
           \n
@@ -342,15 +346,15 @@
     <string id="st_af_nk_luminewheel_descr">
         <text>
             The artifact was originally first spotted at the Dredge Station in Zaton, it has
-            since then been replicated by the Zone and now copies of it with new properties are
-            showing up here and there. This current specimen has become a very strong energy
-            artifact. It increases the user's stamina and resistance to psy waves. Being made out
-            of an unknown, living metal, it is still vulnerable to corroding and electricity,
-            conducting excess amounts straight at the user. The extreme radioactivity has made
-            this artifact shine very brightly.
+            since then been replicated by the Zone and now copies of it with new properties
+            are showing up here and there. This current specimen has become a very strong
+            energy artifact. It increases the user's stamina and resistance to psy waves.
+            Being made out of an unknown, living metal, it is still vulnerable to corroding
+            and electricity, conducting excess amounts straight at the user. The extreme
+            radioactivity has made this artifact shine very brightly.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by mutant
-            exterminating forces or stalkers that want to light up enemy positions.
+          \nCan be used to light up the surrounding area in darkness, sometimes used by
+            mutant exterminating forces or stalkers that want to light up enemy positions.
           \n
           \n%c[0,0,200,255]Tier 4 Energy Artifact
           \n
@@ -372,9 +376,9 @@
     </string>
     <string id="st_af_nk_amber_descr">
         <text>
-            Simple amber gem, turned into an artifact in one of the numerous blowouts. Incredibly
-            hot to the touch, it burns away radiation and flesh alike. Can be sold for an alright
-            price.
+            Simple amber gem, turned into an artifact in one of the numerous blowouts.
+            Incredibly hot to the touch, it burns away radiation and flesh alike. Can be
+            sold for an alright price.
           \n
           \n%c[0,255,0,0]Tier 1 Unique Artifact
           \n
@@ -394,9 +398,9 @@
     </string>
     <string id="st_af_nk_topaz_descr">
         <text>
-            A topaz in the rough, it filters a small amount of radiation but attracts extra psy
-            waves. This particular kind of waves interferes with wound healing through unknown
-            mechanisms. Fairly cheap artifact.
+            A topaz in the rough, it filters a small amount of radiation but attracts extra
+            psy waves. This particular kind of waves interferes with wound healing through
+            unknown mechanisms. Fairly cheap artifact.
           \n
           \n%c[0,255,0,0]Tier 0 Unique Artifact
           \n
@@ -415,9 +419,9 @@
     </string>
     <string id="st_af_nk_garnet_descr">
         <text>
-            A possibly sentient blood red garnet, its anti-rad and anti-psy power is fueled by
-            your own blood and it will do anything to feed on it, like further opening your
-            wounds or creating mini gravity fields that speed up mutant attacks. Fairly
+            A possibly sentient blood red garnet, its anti-rad and anti-psy power is fueled
+            by your own blood and it will do anything to feed on it, like further opening
+            your wounds or creating mini gravity fields that speed up mutant attacks. Fairly
             expensive.
           \n
           \n%c[0,255,0,0]Tier 2 Unique Artifact
@@ -439,10 +443,10 @@
     </string>
     <string id="st_af_nk_tourmarine_descr">
         <text>
-            A tourmarine gem rock formation. Due to anomalous influence it has turned into an
-            artifact. It boasts extremely high radiation filtering and psy protection with some
-            strong drawbacks that shouldn't be too much of a problem for a veteran stalker.
-            Expensive.
+            A tourmarine gem rock formation. Due to anomalous influence it has turned into
+            an artifact. It boasts extremely high radiation filtering and psy protection
+            with some strong drawbacks that shouldn't be too much of a problem for a veteran
+            stalker. Expensive.
           \n
           \n%c[0,255,0,0]Tier 3 Unique Artifact
           \n
@@ -464,17 +468,18 @@
     </string>
     <string id="st_af_nk_ametrine_descr">
         <text>
-            One of the strongest anti-rad artifacts in the Zone, another gem that turned into an
-            artifact thanks to anomalous interference. It can upkeep multiple high tier artifacts
-            and also regenerate a small amount of psy health. The user cannot venture into
-            anomalous zones while wearing this artifact, it would be simply suicide due to the
-            severe protection nullification caused by this artifact's unique psy waves. They also
-            cause some extra hunger through possible rewiring of the hunger signals in the brain.
-            It's also fragile, meaning combat situations risk the artifact breaking and becoming
-            unstable. Scientists speculate that it would result in a mini singularity that sucks
-            the user in but no one has seen this happen yet. The artifact overall is quite the
-            enigma, there is still a lot of things not well understood about it. One thing that
-            is known though is that it is extremely expensive.
+            One of the strongest anti-rad artifacts in the Zone, another gem that turned
+            into an artifact thanks to anomalous interference. It can upkeep multiple high
+            tier artifacts and also regenerate a small amount of psy health. The user cannot
+            venture into anomalous zones while wearing this artifact, it would be simply
+            suicide due to the severe protection nullification caused by this artifact's
+            unique psy waves. They also cause some extra hunger through possible rewiring of
+            the hunger signals in the brain. It's also fragile, meaning combat situations
+            risk the artifact breaking and becoming unstable. Scientists speculate that it
+            would result in a mini singularity that sucks the user in but no one has seen
+            this happen yet. The artifact overall is quite the enigma, there is still a lot
+            of things not well understood about it. One thing that is known though is that
+            it is extremely expensive.
           \n
           \n%c[0,255,0,0]Tier 4 Unique Artifact
           \n
@@ -499,16 +504,16 @@
     <string id="st_af_nk_magmashard_descr">
         <text>
             An incredibly durable magma stone with blazing hot, sharp edges. Most probably a
-            product of thermal anomalies but Scientists argue that it could have come from some
-            deep underground lava shafts. It is not known how deep downwards the Zone extends
-            into the Earth. It can be used as a makeshift melee weapon if skillfully affixed to a
-            fireproof pole, or as an armor plate if you can avoid touching the lava blades. The
-            dark stone absorbs excess heat from the air and transfers it to the edges which
-            continuously burn your skin and can easily pierce it. Handling with the utmost care
-            is advised. Extremely radioactive and expensive.
+            product of thermal anomalies but Scientists argue that it could have come from
+            some deep underground lava shafts. It is not known how deep downwards the Zone
+            extends into the Earth. It can be used as a makeshift melee weapon if skillfully
+            affixed to a fireproof pole, or as an armor plate if you can avoid touching the
+            lava blades. The dark stone absorbs excess heat from the air and transfers it to
+            the edges which continuously burn your skin and can easily pierce it. Handling
+            with the utmost care is advised. Extremely radioactive and expensive.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by mutant
-            exterminating forces or stalkers that want to light up enemy positions.
+          \nCan be used to light up the surrounding area in darkness, sometimes used by
+            mutant exterminating forces or stalkers that want to light up enemy positions.
           \n
           \n%c[0,255,160,0]Tier 4 Thermal Artifact
           \n
@@ -530,15 +535,16 @@
     </string>
     <string id="st_af_nk_ash_descr">
         <text>
-            A ball of clumped up radioactive ash. A biological scan done by Scientists revealed
-            that this artifact is primarily made out of items and living things that were burnt
-            in thermal anomalies. Absorbs heat and psy waves, converting them into light and
-            toxic particles. Exposing the artifact to extra chemicals can cause it to release
-            stored toxic particles which can subsequently have a disastrous effect on the user's
-            health. Fairly dense and heavy, extremely radioactive and expensive.
+            A ball of clumped up radioactive ash. A biological scan done by Scientists
+            revealed that this artifact is primarily made out of items and living things
+            that were burnt in thermal anomalies. Absorbs heat and psy waves, converting
+            them into light and toxic particles. Exposing the artifact to extra chemicals
+            can cause it to release stored toxic particles which can subsequently have a
+            disastrous effect on the user's health. Fairly dense and heavy, extremely
+            radioactive and expensive.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by mutant
-            exterminating forces or stalkers that want to light up enemy positions.
+          \nCan be used to light up the surrounding area in darkness, sometimes used by
+            mutant exterminating forces or stalkers that want to light up enemy positions.
           \n
           \n%c[0,255,160,0]Tier 4 Thermal Artifact
           \n
@@ -562,12 +568,13 @@
     <string id="st_af_nk_emerald_descr">
         <text>
             An anomalous emerald crystal with incredibly high purity. It filters out various
-            toxins, radiation and stabilizes the user's blood ph, allowing for more controlled
-            breathing and increased stamina. Extremely fragile, the artifact can only endure a
-            small amount of damage before exploding with anomalous energy. Collectors outside of
-            the Zone are very interested in purchasing one of these for their collections. That,
-            in combination with the strong positive properties and simple drawbacks, results in
-            the price being one of the highest of all artifacts.
+            toxins, radiation and stabilizes the user's blood ph, allowing for more
+            controlled breathing and increased stamina. Extremely fragile, the artifact can
+            only endure a small amount of damage before exploding with anomalous energy.
+            Collectors outside of the Zone are very interested in purchasing one of these
+            for their collections. That, in combination with the strong positive properties
+            and simple drawbacks, results in the price being one of the highest of all
+            artifacts.
           \n
           \n%c[0,200,255,0]Tier 4 Acidic Artifact
           \n
@@ -588,13 +595,14 @@
     </string>
     <string id="st_af_nk_stoneskull_descr">
         <text>
-            A fossilized skull covered in various organic matter and moss. Scientists speculate
-            that the artifact weighing down on the user has something to do with a massive amount
-            of gas being produced and trapped in a gravity bubble inside of the artifact when it
-            touches living people, but most stalkers think it's just the soul of the poor guy.
-            The skull releases counter-toxin gas that protects from chemicals, psy waves and also
-            regenerates the user. Metallic formations in the artifact attract extra radiation and
-            electricity. Very expensive, one of the most prized artifacts in the Zone.
+            A fossilized skull covered in various organic matter and moss. Scientists
+            speculate that the artifact weighing down on the user has something to do with a
+            massive amount of gas being produced and trapped in a gravity bubble inside of
+            the artifact when it touches living people, but most stalkers think it's just
+            the soul of the poor guy. The skull releases counter-toxin gas that protects
+            from chemicals, psy waves and also regenerates the user. Metallic formations in
+            the artifact attract extra radiation and electricity. Very expensive, one of the
+            most prized artifacts in the Zone.
           \n
           \n%c[0,200,255,0]Tier 4 Acidic Artifact
           \n
@@ -616,18 +624,19 @@
     </string>
     <string id="st_af_nk_zeus_descr">
         <text>
-            A crystallized mass with a glowing orb at the center, named after a Greek God. It
-            seems to hold an endless amount of energy, absorbing all electricity around it and
-            completely protecting from damage. It also absorbs massive amounts of psy and even
-            radio waves from a several kilometer radius, disrupting communications and weakening
-            local mutants' powers at the cost of the user's psyche. Using this artifact for a
-            prolonged amount of time tires the user out and eventually completely overloads the
-            brain and the nervous system, leading to an instant death. Whenever multiple PDAs
-            stop working at the same time, a team of stalkers knows it's time to hunt for a Zeus.
-            Extremely radioactive and expensive.
+            A crystallized mass with a glowing orb at the center, named after a Greek God.
+            It seems to hold an endless amount of energy, absorbing all electricity around
+            it and completely protecting from damage. It also absorbs massive amounts of psy
+            and even radio waves from a several kilometer radius, disrupting communications
+            and weakening local mutants' powers at the cost of the user's psyche. Using this
+            artifact for a prolonged amount of time tires the user out and eventually
+            completely overloads the brain and the nervous system, leading to an instant
+            death. Whenever multiple PDAs stop working at the same time, a team of stalkers
+            knows it's time to hunt for a Zeus. Extremely radioactive and expensive.
           \n
-          \nThe artifact seems to store an endless amount of electrical energy. It converts it
-            and transfers it to the user, drastically increasing combat reflexes.
+          \nThe artifact seems to store an endless amount of electrical energy. It
+            converts it and transfers it to the user, drastically increasing combat
+            reflexes.
           \n
           \n%c[0,74,134,232]Tier 4 Electric Artifact
           \n
@@ -651,14 +660,15 @@
         <text>
             A rock formation filled with a mineral called kyanite. After turning into an
             artifact, it now absorbs electrical energy and stores most of it at the tip, the
-            charge is so strong that it can jump and incapacitate an opponent for a few seconds
-            just like a taser. Useful against mutants that have gotten a bit too close. The
-            electrical shocks due to proximity to the body also periodically affect the user to a
-            smaller degree, damaging but also replenishing energy and stamina. The rock is
-            extremely radioactive, vulnerable to high heat, chemicals and greedy traders.
+            charge is so strong that it can jump and incapacitate an opponent for a few
+            seconds just like a taser. Useful against mutants that have gotten a bit too
+            close. The electrical shocks due to proximity to the body also periodically
+            affect the user to a smaller degree, damaging but also replenishing energy and
+            stamina. The rock is extremely radioactive, vulnerable to high heat, chemicals
+            and greedy traders.
           \n
-          \nThe artifact stores electrical energy, converts it and transfers it to the user,
-            increasing stamina.
+          \nThe artifact stores electrical energy, converts it and transfers it to the
+            user, increasing stamina.
           \n
           \n%c[0,74,134,232]Tier 4 Electric Artifact
           \n
@@ -681,14 +691,14 @@
     </string>
     <string id="st_af_nk_transistor_descr">
         <text>
-            A squiggly piece of the electric network that powers trains. It somehow turned into
-            an artifact and was first found in an anomalous train tunnel by a brave team of
-            stalkers working for the Scientists. Since then various versions of it started
-            showing up around the Zone, usually in areas with train tracks. It controls most psy
-            waves around the user, protecting from harm, but also amplifies any local electrical
-            currents to lethal amounts and pulls them in, resulting in a quick death. It also
-            steals some energy from the user to power itself. Extremely radioactive and
-            expensive.
+            A squiggly piece of the electric network that powers trains. It somehow turned
+            into an artifact and was first found in an anomalous train tunnel by a brave
+            team of stalkers working for the Scientists. Since then various versions of it
+            started showing up around the Zone, usually in areas with train tracks. It
+            controls most psy waves around the user, protecting from harm, but also
+            amplifies any local electrical currents to lethal amounts and pulls them in,
+            resulting in a quick death. It also steals some energy from the user to power
+            itself. Extremely radioactive and expensive.
           \n
           \nDecreases the amount of pain you feel and makes you braver.
           \n
@@ -711,19 +721,19 @@
     </string>
     <string id="st_af_nk_anomalousmarijuana_descr">
         <text>
-            Most probably the only thing left from a Freedomer that stepped into an anomaly. One
-            of his teammates reported that they were trying to grow weed near anomalies to see if
-            it would gain new properties, and they succeeded. After the accident though, he
-            decided that he doesn't want to participate in growing it anymore and destroyed the
-            recipe. The plant turned into an artifact and its edges became purple, it is now
-            growing in some spots in the Zone, randomly being spread by anomalies and getting
-            even more people high. It's so potent that just smelling it has an effect on the
-            endocannabinoid system, protecting from psy waves and also healing the user. The
-            anomalous high makes you very slow in combat though, resulting in extra hits and
-            damage taken. Duty stalkers have been ordered to destroy the plant and stop its
-            growth if it doesn't interfere with their current task, but it seems like a futile
-            effort since The Zone keeps regrowing it in new spots. Highly radioactive but
-            expensive, especially when Freedom is involved.
+            Most probably the only thing left from a Freedomer that stepped into an anomaly.
+            One of his teammates reported that they were trying to grow weed near anomalies
+            to see if it would gain new properties, and they succeeded. After the accident
+            though, he decided that he doesn't want to participate in growing it anymore and
+            destroyed the recipe. The plant turned into an artifact and its edges became
+            purple, it is now growing in some spots in the Zone, randomly being spread by
+            anomalies and getting even more people high. It's so potent that just smelling
+            it has an effect on the endocannabinoid system, protecting from psy waves and
+            also healing the user. The anomalous high makes you very slow in combat though,
+            resulting in extra hits and damage taken. Duty stalkers have been ordered to
+            destroy the plant and stop its growth if it doesn't interfere with their current
+            task, but it seems like a futile effort since The Zone keeps regrowing it in new
+            spots. Highly radioactive but expensive, especially when Freedom is involved.
           \n
           \n%c[0,125,0,210]Tier 4 Psychic Artifact
           \n
@@ -746,14 +756,14 @@
     </string>
     <string id="st_af_nk_emperor_descr">
         <text>
-            A beautiful formation of gold trapped inside of obsidian. Scientists are puzzled over
-            how this was created. Incredibly durable, it can even take a few shots before
-            breaking. You can feel the artifact commanding you various things, increasing your
-            morale, resistance to psy waves, combat awareness and effectiveness. The sharp
-            obsidian easily cuts through anything you put it into, your outfit and the skin,
-            resulting in heavily increased bleeding, making any wound lethal if not treated.
-            Vulnerable to chemicals and extremely radioactive. It is one of the most expensive
-            artifacts in the Zone.
+            A beautiful formation of gold trapped inside of obsidian. Scientists are puzzled
+            over how this was created. Incredibly durable, it can even take a few shots
+            before breaking. You can feel the artifact commanding you various things,
+            increasing your morale, resistance to psy waves, combat awareness and
+            effectiveness. The sharp obsidian easily cuts through anything you put it into,
+            your outfit and the skin, resulting in heavily increased bleeding, making any
+            wound lethal if not treated. Vulnerable to chemicals and extremely radioactive.
+            It is one of the most expensive artifacts in the Zone.
           \n
           \n%c[0,120,120,120]Tier 4 Combat Artifact
           \n
@@ -776,10 +786,10 @@
     <string id="st_af_nk_titan_descr">
         <text>
             A rock formation filled with titanium. Extremely durable, it ensures the user's
-            survival in all combat situations by reinforcing skin with the alloy and improving
-            wound regeneration. While the metal itself is fairly resistant, the skin around it is
-            not. It draws in extra heat, electricity and psy waves to the disbenefit of the user.
-            Extremely radioactive and expensive.
+            survival in all combat situations by reinforcing skin with the alloy and
+            improving wound regeneration. While the metal itself is fairly resistant, the
+            skin around it is not. It draws in extra heat, electricity and psy waves to the
+            disbenefit of the user. Extremely radioactive and expensive.
           \n
           \n%c[0,120,120,120]Tier 4 Combat Artifact
           \n
@@ -804,10 +814,11 @@
         <text>
             A direct evolution of the Ring artifact. It boasts increased physical and psy
             protection while also being able to heal most wounds fairly quickly. It absorbs
-            copious amounts of electrical energy from the surroundings and the user, resulting in
-            increased shock damage taken and lower stamina. It is also very easy to melt, high
-            temperatures make the artifact unstable and ignite the artifact, making the user burn
-            alive. Extremely radioactive and expensive but will still yield you no maidens.
+            copious amounts of electrical energy from the surroundings and the user,
+            resulting in increased shock damage taken and lower stamina. It is also very
+            easy to melt, high temperatures make the artifact unstable and ignite the
+            artifact, making the user burn alive. Extremely radioactive and expensive but
+            will still yield you no maidens.
           \n
           \n%c[0,180,225,255]Tier 4 Unyielding Artifact
           \n
@@ -831,13 +842,13 @@
     </string>
     <string id="st_af_nk_ares_descr">
         <text>
-            Named after the Greek God of war, this spiky artifact increases physical protection
-            and allows you to rapidly heal any wound. Sustained usage without proper equipment is
-            near impossible, not only is the radioactivity extremely high but the artifact itself
-            slowly drives the user insane. It is known that it has something to do with the
-            extremely fast healing process affecting the brain in a negative way but more
-            scientific research is needed to figure out this mechanism completely. Very
-            expensive.
+            Named after the Greek God of war, this spiky artifact increases physical
+            protection and allows you to rapidly heal any wound. Sustained usage without
+            proper equipment is near impossible, not only is the radioactivity extremely
+            high but the artifact itself slowly drives the user insane. It is known that it
+            has something to do with the extremely fast healing process affecting the brain
+            in a negative way but more scientific research is needed to figure out this
+            mechanism completely. Very expensive.
           \n
           \n%c[0,180,225,255]Tier 4 Unyielding Artifact
           \n
@@ -863,27 +874,29 @@ Synthetic Artifacts
     <string id="st_af_nk_syn_blackraven_descr">
         <text>
             The Scientists' first try at making an artifact out of synthetic materials and
-            various parts of anti-gravity artifacts. Many Ecologists complained about things like
-            not being able to carry a sufficient amount of supplies and equipment out into the
-            field or backpacks being too small for bringing back various samples. The supply of
-            anti-gravity artifacts at the time was low, not everyone was allowed to use them to
-            finish their tasks. The local higher ups had a great idea to confiscate all of them
-            and start experimenting with transmutations and crafting recipes taught by local
-            stalkers. Most of the artifacts were shattered into smaller parts to maximize the
-            amount of artifacts produced, but this caused serious instability in the end product.
-            Codename Black Raven was supposed to aid Ecologists in their tasks by increasing
-            their carry weight, but instead it increased their mortality when going out on
-            already dangerous missions by roughly 200%. The gravity field generated by this
-            artifact does indeed help carry more supplies, but it also increases the speed of any
-            incoming objects and attacks by up to 50 times, always, without a fail resulting in
-            instant death of the user, no matter how small the object or how weak the attack.
-            Colleagues had to be very careful around Ecologists using these artifacts to not
-            accidentally kill their friends by using certain gestures. Jumping and falling down
-            also triggers the unstable gravity field, crushing the legs when landing. The
-            Scientists were unable to remove all radiation from the previous artifacts during
-            transmutation but managed to reduce it by roughly 30%. Extremely expensive and
-            dangerous, deemed cursed among Ecologists and eventually all of these prototypes were
-            returned, now only daredevil stalkers use them to carry more loot.
+            various parts of anti-gravity artifacts. Many Ecologists complained about things
+            like not being able to carry a sufficient amount of supplies and equipment out
+            into the field or backpacks being too small for bringing back various samples.
+            The supply of anti-gravity artifacts at the time was low, not everyone was
+            allowed to use them to finish their tasks. The local higher ups had a great idea
+            to confiscate all of them and start experimenting with transmutations and
+            crafting recipes taught by local stalkers. Most of the artifacts were shattered
+            into smaller parts to maximize the amount of artifacts produced, but this caused
+            serious instability in the end product. Codename Black Raven was supposed to aid
+            Ecologists in their tasks by increasing their carry weight, but instead it
+            increased their mortality when going out on already dangerous missions by
+            roughly 200%. The gravity field generated by this artifact does indeed help
+            carry more supplies, but it also increases the speed of any incoming objects and
+            attacks by up to 50 times, always, without a fail resulting in instant death of
+            the user, no matter how small the object or how weak the attack. Colleagues had
+            to be very careful around Ecologists using these artifacts to not accidentally
+            kill their friends by using certain gestures. Jumping and falling down also
+            triggers the unstable gravity field, crushing the legs when landing. The
+            Scientists were unable to remove all radiation from the previous artifacts
+            during transmutation but managed to reduce it by roughly 30%. Extremely
+            expensive and dangerous, deemed cursed among Ecologists and eventually all of
+            these prototypes were returned, now only daredevil stalkers use them to carry
+            more loot.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
@@ -904,16 +917,17 @@ Synthetic Artifacts
     </string>
     <string id="st_af_nk_syn_projectd_descr">
         <text>
-            Wondering how fast a human could run with the help of an artifact, the Scientists
-            attempted creating one that would aid just in that. After a few unfortunate trials
-            that resulted in various wonders like accelerated aging of the user or ultra fast fat
-            cell burning, resulting in quick starvation if the user wasn't chubby enough. The end
-            result, shaped like a triangular pyramid, ended up being named Project D. The
-            original goal of speeding up the user was achieved, the energy restoration properties
-            of the artifact greatly aid in long sprints. After a few experiments and tweaks, the
-            radiation was completely nullified and the drawbacks reduced to simple fatigue from
-            overusage and lack of blood coagulation when using the artifact. Using it in
-            combination with other artifacts is recommended but not necessary. Expensive.
+            Wondering how fast a human could run with the help of an artifact, the
+            Scientists attempted creating one that would aid just in that. After a few
+            unfortunate trials that resulted in various wonders like accelerated aging of
+            the user or ultra fast fat cell burning, resulting in quick starvation if the
+            user wasn't chubby enough. The end result, shaped like a triangular pyramid,
+            ended up being named Project D. The original goal of speeding up the user was
+            achieved, the energy restoration properties of the artifact greatly aid in long
+            sprints. After a few experiments and tweaks, the radiation was completely
+            nullified and the drawbacks reduced to simple fatigue from overusage and lack of
+            blood coagulation when using the artifact. Using it in combination with other
+            artifacts is recommended but not necessary. Expensive.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
@@ -934,16 +948,16 @@ Synthetic Artifacts
     <string id="st_af_nk_syn_prototype60_descr">
         <text>
             A heavily modified Moonlight trapped in a specialized container. It has been
-            specifically manufactured just for this artifact to neutralize its radioactivity and
-            further boost its favorable psychic resistance. Prototype 60 is one of the inventions
-            predating the Psi Helmet, it was actually a helmet redesigned into an artifact
-            container, created as an attempt to nullify the effects of the Brain Scorcher in
-            Yantar with the help of artifacts, but it has proven to be too weak and also too
-            expensive and complicated to mass manufacture for Ecologists. The container is
-            vulnerable to various elements. It is now sometimes up for sale at various traders
-            after the Scientists decided to sell off most of their remaining supply. The
-            artifacts were simply taking up too much space with their heavy containers.
-            Expensive.
+            specifically manufactured just for this artifact to neutralize its radioactivity
+            and further boost its favorable psychic resistance. Prototype 60 is one of the
+            inventions predating the Psi Helmet, it was actually a helmet redesigned into an
+            artifact container, created as an attempt to nullify the effects of the Brain
+            Scorcher in Yantar with the help of artifacts, but it has proven to be too weak
+            and also too expensive and complicated to mass manufacture for Ecologists. The
+            container is vulnerable to various elements. It is now sometimes up for sale at
+            various traders after the Scientists decided to sell off most of their remaining
+            supply. The artifacts were simply taking up too much space with their heavy
+            containers. Expensive.
           \n
           \nThe custom container does not allow you to use a different one.
           \n
@@ -967,11 +981,12 @@ Synthetic Artifacts
     <string id="st_af_nk_syn_sparklercore_descr">
         <text>
             A Sparkler artifact that was dipped in fluoroantimonic acid (don't ask where the
-            Scientists got their hands on that), removing the dangerous outer shell completely
-            and letting the more durable core of the artifact be used to its full potential. All
-            of the negative properties have been removed and the positives have become stronger.
-            Not quite a synthetic artifact but it is impossible to find in the wilderness and is
-            unobtainable without some invasive modifications. Fairly expensive.
+            Scientists got their hands on that), removing the dangerous outer shell
+            completely and letting the more durable core of the artifact be used to its full
+            potential. All of the negative properties have been removed and the positives
+            have become stronger. Not quite a synthetic artifact but it is impossible to
+            find in the wilderness and is unobtainable without some invasive modifications.
+            Fairly expensive.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
@@ -984,12 +999,13 @@ Synthetic Artifacts
     </string>
     <string id="st_af_nk_syn_stonebloodcore_descr">
         <text>
-            A Stone Blood artifact that was left over night to cook in a Scientist's artifact
-            oven set to a steady 500 degrees Celcius. The outer radioactive shell was completely
-            burned off, alongside all of the negative aspects. The fireproof core's positive
-            properties have been strengthened and can now be utilized easier. Stalkers have tried
-            replicating this process with burner anomalies but their short bursts of flame are
-            not strong or stable enough for the protective layer to melt. Expensive.
+            A Stone Blood artifact that was left over night to cook in a Scientist's
+            artifact oven set to a steady 500 degrees Celcius. The outer radioactive shell
+            was completely burned off, alongside all of the negative aspects. The fireproof
+            core's positive properties have been strengthened and can now be utilized
+            easier. Stalkers have tried replicating this process with burner anomalies but
+            their short bursts of flame are not strong or stable enough for the protective
+            layer to melt. Expensive.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
@@ -1011,20 +1027,21 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_leviathan_descr">
         <text>
-            One of the first ever failed artifact transmutations and one with the most powerful
-            effects. It came about thanks to a stalker named Nimble. He was experimenting with
-            anti-gravity artifact transmutations, trying to create one that would greatly
-            increase carry weight since that would aid him in the various smuggling trips outside
-            the Zone. After a few failed attempts and nearly dying to a freshly formed gravity
-            anomaly, he succeeded in creating an artifact that was never seen before, with new
-            properties unlike the usual ones. He instinctively grabbed it by the thin middle
-            part, instantly activating it. The artifact's jaws bit his hand, injecting an unknown
-            substance into the bloodstream. Almost fainting due to the toxic effects on the body,
-            he afterwards felt a surge of inhuman energy that let him carry various heavy objects
-            with ease.
+            One of the first ever failed artifact transmutations and one with the most
+            powerful effects. It came about thanks to a stalker named Nimble. He was
+            experimenting with anti-gravity artifact transmutations, trying to create one
+            that would greatly increase carry weight since that would aid him in the various
+            smuggling trips outside the Zone. After a few failed attempts and nearly dying
+            to a freshly formed gravity anomaly, he succeeded in creating an artifact that
+            was never seen before, with new properties unlike the usual ones. He
+            instinctively grabbed it by the thin middle part, instantly activating it. The
+            artifact's jaws bit his hand, injecting an unknown substance into the
+            bloodstream. Almost fainting due to the toxic effects on the body, he afterwards
+            felt a surge of inhuman energy that let him carry various heavy objects with
+            ease.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1046,16 +1063,17 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_behemoth_descr">
         <text>
-            A bloody mess, another failed recipe that resulted in an unstable artifact which only
-            bestows temporary bonuses. The Behemoth gives the user inhuman strength which
-            increases stamina levels and grants the ability to carry more of various heavy
-            objects, useful for carrying a lot of loot. The activation procedure involves
-            sacrificing a few drops of blood onto the artifact. After that, it activates a
-            gravity field which makes it lash out at the user with incredible speed, causing
-            physical trauma and some unknown effects in the body during contact.
+            A bloody mess, another failed recipe that resulted in an unstable artifact which
+            only bestows temporary bonuses. The Behemoth gives the user inhuman strength
+            which increases stamina levels and grants the ability to carry more of various
+            heavy objects, useful for carrying a lot of loot. The activation procedure
+            involves sacrificing a few drops of blood onto the artifact. After that, it
+            activates a gravity field which makes it lash out at the user with incredible
+            speed, causing physical trauma and some unknown effects in the body during
+            contact.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1078,13 +1096,13 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_oasis_descr">
         <text>
-            Created by pouring various liquids on the Heart of the Oasis, it soaks all of them up
-            becoming a completely new, unstable artifact, losing all original properties. The
-            water becomes encapsulated within the thick membrane while the branches hold it. The
-            user can then rehydrate with whatever mixture was brewed inside by puncturing it and
-            sipping on what comes out. After a few seconds the membrane heals and closes back up.
-            When emptied though, the artifact shrivels up and dies due to dehydration. A very
-            portable source of water.
+            Created by pouring various liquids on the Heart of the Oasis, it soaks all of
+            them up becoming a completely new, unstable artifact, losing all original
+            properties. The water becomes encapsulated within the thick membrane while the
+            branches hold it. The user can then rehydrate with whatever mixture was brewed
+            inside by puncturing it and sipping on what comes out. After a few seconds the
+            membrane heals and closes back up. When emptied though, the artifact shrivels up
+            and dies due to dehydration. A very portable source of water.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1103,9 +1121,10 @@ Unstable Artifacts
     <string id="st_af_nk_un_dungpie_descr">
         <text>
             An unfortunate experiment to some, a source of nutrition to others in tough
-            situations. The Dung Pie is an edible artifact and also an amalgamation of multiple
-            different substances like dirt, wood, artifact shards, mutant crap, unknown fat and
-            proteins with some trace minerals and vitamins. Care to find out how it tastes?
+            situations. The Dung Pie is an edible artifact and also an amalgamation of
+            multiple different substances like dirt, wood, artifact shards, mutant crap,
+            unknown fat and proteins with some trace minerals and vitamins. Care to find out
+            how it tastes?
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1124,11 +1143,11 @@ Unstable Artifacts
     <string id="st_af_nk_un_scarab_descr">
         <text>
             A formation that looks like purple crystallized pincers. Licking the artifact
-            quenches thirst and hunger but also activates its defense mechanisms, hurting the
-            user physically and mentally.
+            quenches thirst and hunger but also activates its defense mechanisms, hurting
+            the user physically and mentally.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1149,14 +1168,14 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_lancelot_descr">
         <text>
-            A metallic object created in a transmutation involving artifact parts and a knife. It
-            allows the user to draw blood and alongside it all alcohol content. The process has
-            some minor drawbacks but this artifact allows using various unstable artifacts while
-            completely negating one of their effects, or drinking more alcohol without getting
-            drunk.
+            A metallic object created in a transmutation involving artifact parts and a
+            knife. It allows the user to draw blood and alongside it all alcohol content.
+            The process has some minor drawbacks but this artifact allows using various
+            unstable artifacts while completely negating one of their effects, or drinking
+            more alcohol without getting drunk.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1176,11 +1195,11 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_sunflower_descr">
         <text>
-            An edible artifact that resembles a sunflower. While slightly toxic, eating a single
-            leaf almost fully rejuvenates the user. Useful in tough situations where using a
-            medkit or a stimpack would simply be too slow for survival. The toxicity does make
-            further fighting difficult though, it is very easy to overdose on the leaves so one
-            has to be careful when eating them.
+            An edible artifact that resembles a sunflower. While slightly toxic, eating a
+            single leaf almost fully rejuvenates the user. Useful in tough situations where
+            using a medkit or a stimpack would simply be too slow for survival. The toxicity
+            does make further fighting difficult though, it is very easy to overdose on the
+            leaves so one has to be careful when eating them.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1199,10 +1218,10 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_bloodclover_descr">
         <text>
-            Instead of chlorophyll, blood runs through these little anomalous clovers. If you can
-            stand the slight toxicity and metallic taste, eating them will replace lost blood
-            very quickly. Easy to overdose, the user has to be careful not to eat too many at
-            once.
+            Instead of chlorophyll, blood runs through these little anomalous clovers. If
+            you can stand the slight toxicity and metallic taste, eating them will replace
+            lost blood very quickly. Easy to overdose, the user has to be careful not to eat
+            too many at once.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1222,10 +1241,10 @@ Unstable Artifacts
     <string id="st_af_nk_un_pseudogiantoil_descr">
         <text>
             A very concentrated oil obtained from pseudogiant's fat layers under the skin,
-            combined with an artifact in a transmutation process to yield a healing substance.
-            It's an acquired taste, similar to lard yet more liquidy, but the regenerative
-            properties are top notch. It also increases the user's strength momentarily. Quite
-            toxic.
+            combined with an artifact in a transmutation process to yield a healing
+            substance. It's an acquired taste, similar to lard yet more liquidy, but the
+            regenerative properties are top notch. It also increases the user's strength
+            momentarily. Quite toxic.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1268,8 +1287,9 @@ Unstable Artifacts
     <string id="st_af_nk_un_bloodsuckeroil_descr">
         <text>
             A bottle filled with bloodsucker fat and blood that went through a transmutation
-            process with an artifact to gain new, healing properties. The taste is metallic and
-            the thought of whose blood are you really drinking makes you shiver. Slightly toxic.
+            process with an artifact to gain new, healing properties. The taste is metallic
+            and the thought of whose blood are you really drinking makes you shiver.
+            Slightly toxic.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1290,11 +1310,11 @@ Unstable Artifacts
     <string id="st_af_nk_un_sandman_descr">
         <text>
             A small unstable artifact made out of mainly sand, held loosely together by some
-            metallic dust, most probably remains of an anti-gravity artifact. The method of usage
-            is incredibly uncomfortable, it involves breaking off a part of it, grinding it down
-            to dust in your hand and inhaling it to stave off drowsiness. You can guess that
-            inhaling sand and metal isn't very healthy but having an extra 8 hours a day thanks
-            to magical sands seems like a fair tradeoff.
+            metallic dust, most probably remains of an anti-gravity artifact. The method of
+            usage is incredibly uncomfortable, it involves breaking off a part of it,
+            grinding it down to dust in your hand and inhaling it to stave off drowsiness.
+            You can guess that inhaling sand and metal isn't very healthy but having an
+            extra 8 hours a day thanks to magical sands seems like a fair tradeoff.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1314,12 +1334,12 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_mummy_descr">
         <text>
-            2 colorful gemstones intertwined together by a tough, anomalous fiber. Its absorptive
-            properties can be used to manufacture a makeshift bandage by cutting up the artifact.
-            Fairly damp, the fiber is soaked wet with a slightly toxic, sticky fluid that you
-            might not want anywhere near your blood, but the alternative is losing all of it and
-            dying. Upon removing all of the filament, the gemstones turn into liquid and fall to
-            the ground.
+            2 colorful gemstones intertwined together by a tough, anomalous fiber. Its
+            absorptive properties can be used to manufacture a makeshift bandage by cutting
+            up the artifact. Fairly damp, the fiber is soaked wet with a slightly toxic,
+            sticky fluid that you might not want anywhere near your blood, but the
+            alternative is losing all of it and dying. Upon removing all of the filament,
+            the gemstones turn into liquid and fall to the ground.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1338,15 +1358,15 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_anubis_descr">
         <text>
-            A small unstable artifact with the power to magnetize all nearby blood, be it your
-            own, your enemies' or old blood on the ground, it brings it through the air back to
-            the user to close any wound. It cannot filter out impurities and toxins that could
-            have gotten into the blood that is being used. The artifact is activated by sticking
-            it to a wound, it then changes its color to blood red and starts sucking in blood,
-            repairing the damage.
+            A small unstable artifact with the power to magnetize all nearby blood, be it
+            your own, your enemies' or old blood on the ground, it brings it through the air
+            back to the user to close any wound. It cannot filter out impurities and toxins
+            that could have gotten into the blood that is being used. The artifact is
+            activated by sticking it to a wound, it then changes its color to blood red and
+            starts sucking in blood, repairing the damage.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1365,13 +1385,13 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_hermes_descr">
         <text>
-            A butterfly shaped artifact. It is activated by being stomped on by the user's foot,
-            it then creates a small azure colored explosion and slightly injures the legs but
-            also speeds up their metabolism, heavily increasing the user's running capabilities
-            and stamina.
+            A butterfly shaped artifact. It is activated by being stomped on by the user's
+            foot, it then creates a small azure colored explosion and slightly injures the
+            legs but also speeds up their metabolism, heavily increasing the user's running
+            capabilities and stamina.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1392,9 +1412,9 @@ Unstable Artifacts
     <string id="st_af_nk_un_acidmushroom_descr">
         <text>
             A mushroom that was growing in an acid anomaly. It somehow managed to form a
-            symbiotic relationship with the toxic environment, gaining anomalous properties. The
-            user can eat it to gain very high chemical protection at the price of some toxins
-            entering the body and doing some damage initially.
+            symbiotic relationship with the toxic environment, gaining anomalous properties.
+            The user can eat it to gain very high chemical protection at the price of some
+            toxins entering the body and doing some damage initially.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1414,9 +1434,9 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_psyshroom_descr">
         <text>
-            A mushroom harvested from dark tunnels filled with either psy fields or electras.
-            Rumors say Controllers eat these to strengthen their powers. The user can consume it
-            to raise their psy defense, at the cost of some toxicity.
+            A mushroom harvested from dark tunnels filled with either psy fields or
+            electras. Rumors say Controllers eat these to strengthen their powers. The user
+            can consume it to raise their psy defense, at the cost of some toxicity.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1436,9 +1456,9 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_slimeshroom_descr">
         <text>
-            An edible mushroom artifact that's covered with a layer of slime on the top. Upon
-            eating, it strengthens the user's skin against chemical damage and protects the brain
-            from psy waves but also intoxicates the user.
+            An edible mushroom artifact that's covered with a layer of slime on the top.
+            Upon eating, it strengthens the user's skin against chemical damage and protects
+            the brain from psy waves but also intoxicates the user.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1459,11 +1479,11 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_midnightamanita_descr">
         <text>
-            A very potent, psychedelic mushroom. Appears in areas of high psy activity, seems to
-            draw power from moonlight. When harvested at midnight, it keeps all of its properties
-            for a very long time without going stale. It can be eaten to completely nullify all
-            psy damage but the best use for it is upkeeping multiple belt artifacts that actively
-            send out harmful psy waves.
+            A very potent, psychedelic mushroom. Appears in areas of high psy activity,
+            seems to draw power from moonlight. When harvested at midnight, it keeps all of
+            its properties for a very long time without going stale. It can be eaten to
+            completely nullify all psy damage but the best use for it is upkeeping multiple
+            belt artifacts that actively send out harmful psy waves.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1483,9 +1503,9 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_giantjellyshroom_descr">
         <text>
-            Anomalous mushroom, usually harvested from flooded areas or swamps with high psy or
-            electra activity. Its cap is transparent and shines brightly. Eating a part of it
-            grants the user extra protection from psy waves but also intoxifies them.
+            Anomalous mushroom, usually harvested from flooded areas or swamps with high psy
+            or electra activity. Its cap is transparent and shines brightly. Eating a part
+            of it grants the user extra protection from psy waves but also intoxifies them.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1505,9 +1525,9 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_lionsagaricus_descr">
         <text>
-            A bright yellow anomalous mushroom with red spots. It usually shows up in areas with
-            high gravitational and psy activity. Upon eating, it boosts the user's psy protection
-            but also slightly intoxifies.
+            A bright yellow anomalous mushroom with red spots. It usually shows up in areas
+            with high gravitational and psy activity. Upon eating, it boosts the user's psy
+            protection but also slightly intoxifies.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1528,12 +1548,12 @@ Unstable Artifacts
     <string id="st_af_nk_un_monsoon_descr">
         <text>
             Wash away the radiation. Spinning the artifact rapidly will activate it. It then
-            floats in the air for a few seconds, releasing a toxic purple smoke that disrupts the
-            user's various body functions, resulting in internal trauma but also massively
-            increased radiation filtering.
+            floats in the air for a few seconds, releasing a toxic purple smoke that
+            disrupts the user's various body functions, resulting in internal trauma but
+            also massively increased radiation filtering.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1553,15 +1573,15 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_cube_descr">
         <text>
-            An unstable artifact made out of cubes that come in various shapes, held together by
-            a gravity field. Activating it involves moving around the pieces in a specific order.
-            Upon activation, the artifact's gravity field pulls radiation to itself and
-            dissipates it. The field itself also has other harmful effects on the body that use
-            mechanisms unknown to science. The initial few seconds of exposure are especially
-            painful.
+            An unstable artifact made out of cubes that come in various shapes, held
+            together by a gravity field. Activating it involves moving around the pieces in
+            a specific order. Upon activation, the artifact's gravity field pulls radiation
+            to itself and dissipates it. The field itself also has other harmful effects on
+            the body that use mechanisms unknown to science. The initial few seconds of
+            exposure are especially painful.
           \n
-          \nWith every activation the artifact loses gravitational energy and upon the final
-            use it falls apart.
+          \nWith every activation the artifact loses gravitational energy and upon the
+            final use it falls apart.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1581,13 +1601,13 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_coolingrods_descr">
         <text>
-            An unstable artifact that looks like a few rods stuck together in a black organic
-            mass. Fairly flexible, the rods can be moved around and upon touching two of them
-            together the artifact activates, instantly stealing body temperature and radiation
-            from the user.
+            An unstable artifact that looks like a few rods stuck together in a black
+            organic mass. Fairly flexible, the rods can be moved around and upon touching
+            two of them together the artifact activates, instantly stealing body temperature
+            and radiation from the user.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1606,13 +1626,13 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_hourglass_descr">
         <text>
-            An hourglass shaped artifact with a shiny red gem in the middle. It can be activated
-            by trying to pull it out. Every attempt causes the artifact to lash out at the user
-            with anomalous energy while making sounds resembling an owl. The effect causes some
-            bleeding but also short term radiation filtering.
+            An hourglass shaped artifact with a shiny red gem in the middle. It can be
+            activated by trying to pull it out. Every attempt causes the artifact to lash
+            out at the user with anomalous energy while making sounds resembling an owl. The
+            effect causes some bleeding but also short term radiation filtering.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1631,14 +1651,14 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_dawn_descr">
         <text>
-            Two pyramid shaped objects glued together by a strong gravity field. Pulling them
-            apart requires some strength and can only be done for a few seconds. Doing so
-            destabilizes the unusual gravity field, quickly pulling the pyramids together which
-            results in a lot of sharp artifact fragments flying off everywhere, harming the user,
-            but also granting several benefits for a few minutes.
+            Two pyramid shaped objects glued together by a strong gravity field. Pulling
+            them apart requires some strength and can only be done for a few seconds. Doing
+            so destabilizes the unusual gravity field, quickly pulling the pyramids together
+            which results in a lot of sharp artifact fragments flying off everywhere,
+            harming the user, but also granting several benefits for a few minutes.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1660,12 +1680,12 @@ Unstable Artifacts
         <text>
             A feather from an unknown bird, it has fallen into an anomalous zone, turned
             partially metallic and started rusting away. The user can crush up a part of the
-            feather and inhale the toxic dust to harness its anomalous power. The rust evaporates
-            a substantial amount of body fluids, removing all radiation but also disrupting most
-            life functions.
+            feather and inhale the toxic dust to harness its anomalous power. The rust
+            evaporates a substantial amount of body fluids, removing all radiation but also
+            disrupting most life functions.
           \n
-          \nWith every activation parts of the artifact break off and eventually it crumbles to
-            dust.
+          \nWith every activation parts of the artifact break off and eventually it
+            crumbles to dust.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1685,10 +1705,10 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_phoenix_descr">
         <text>
-            A feather with fiery colors, almost as if it was plucked from a phoenix. Activation
-            process involves burning a part of it with a fire source and inhaling the smoke. It's
-            so potent that it puts the user to sleep almost instantly. After sleeping you will
-            feel almost completely rejuvenated.
+            A feather with fiery colors, almost as if it was plucked from a phoenix.
+            Activation process involves burning a part of it with a fire source and inhaling
+            the smoke. It's so potent that it puts the user to sleep almost instantly. After
+            sleeping you will feel almost completely rejuvenated.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1712,10 +1732,10 @@ Unstable Artifacts
         <text>
             A star shaped artifact. Method of use involves removing one of its 8 arms. The
             central sphere crumbles to dust when all of them have been used. When an arm is
-            broken off, the artifact instantly generates a massive amount of new red blood cells
-            in the user, enough to heal all wounds and damage, while eating up a massive amount
-            of food and water. The process is so fast that the sudden shock the body goes through
-            can make you pass out due to dehydration.
+            broken off, the artifact instantly generates a massive amount of new red blood
+            cells in the user, enough to heal all wounds and damage, while eating up a
+            massive amount of food and water. The process is so fast that the sudden shock
+            the body goes through can make you pass out due to dehydration.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1734,10 +1754,11 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_snakeoil_descr">
         <text>
-            An extremely potent and toxic oil, the seller assures you it is made out of snakes
-            caught in the Zone. It's probably an unknown substance that has undergone an artifact
-            transmutation. The oil at first almost kills the user but very rapidly regenerates
-            all of the damage caused and continues to heal for some extra time.
+            An extremely potent and toxic oil, the seller assures you it is made out of
+            snakes caught in the Zone. It's probably an unknown substance that has undergone
+            an artifact transmutation. The oil at first almost kills the user but very
+            rapidly regenerates all of the damage caused and continues to heal for some
+            extra time.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1757,11 +1778,11 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_devilsheavendeath_descr">
         <text>
-            An incredibly toxic mushroom, named appropriately for how dangerous it is and how it
-            makes you feel. Stalkers that have consumed one and passed out never woke up again.
-            If you manage to survive eating a part of it and get your mind and body back in
-            shape, it actually does grant a lot of benefits. Only for the bravest, the stupidest
-            or the most suicidal Stalkers.
+            An incredibly toxic mushroom, named appropriately for how dangerous it is and
+            how it makes you feel. Stalkers that have consumed one and passed out never woke
+            up again. If you manage to survive eating a part of it and get your mind and
+            body back in shape, it actually does grant a lot of benefits. Only for the
+            bravest, the stupidest or the most suicidal Stalkers.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1791,9 +1812,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_slime_descr">
         <text>
-            It is certain that this artifact is created by the anomaly called "Fruit Punch". When
-            carried on the belt, the wounds bleed less, although the body of its owner becomes
-            vulnerable to various burns.
+            It is certain that this artifact is created by the anomaly called "Fruit Punch".
+            When carried on the belt, the wounds bleed less, although the body of its owner
+            becomes vulnerable to various burns.
           \n
           \n%c[0,200,100,50]Tier 1 Legacy Artifact
           \n
@@ -1807,8 +1828,8 @@ Legacy Artifacts
     <string id="st_af_nk_leg_slug_descr">
         <text>
             Formed by the "Fruit Punch" anomaly. The negative qualities of this artifact are
-            compensated by the fact that it heightens the coagulation quality of blood. It's not
-            often that one runs into such an artifact, and they pay well for it too.
+            compensated by the fact that it heightens the coagulation quality of blood. It's
+            not often that one runs into such an artifact, and they pay well for it too.
           \n
           \n%c[0,200,100,50]Tier 2 Legacy Artifact
           \n
@@ -1828,9 +1849,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_mica_descr">
         <text>
-            Anomaly "Fruit Punch" is able to create such an artifact at the rarest, most extreme
-            collection of physical conditions. The result is a semi-transparent, hard object. A
-            rare and expensive artifact.
+            Anomaly "Fruit Punch" is able to create such an artifact at the rarest, most
+            extreme collection of physical conditions. The result is a semi-transparent,
+            hard object. A rare and expensive artifact.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -1850,9 +1871,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_stoneblood_descr">
         <text>
-            You can find this artifact near the anomaly "Whirligig". It is quite an ugly reddish
-            object made out of pressed together and curiously bent polymerized remnants of
-            plants, soil, and bones. Quite widespread and not very effective.
+            You can find this artifact near the anomaly "Whirligig". It is quite an ugly
+            reddish object made out of pressed together and curiously bent polymerized
+            remnants of plants, soil, and bones. Quite widespread and not very effective.
           \n
           \n%c[0,200,100,50]Tier 1 Legacy Artifact
           \n
@@ -1868,9 +1889,10 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_meatchunk_descr">
         <text>
-            Manufactured by the Whirligig anomaly. Causes increased cell growth. On the other
-            hand, the newly formed cells are much more receptive to the effects of physical
-            uranium. The artifact doesn't show up very often, but it's hard to call it rare.
+            Manufactured by the Whirligig anomaly. Causes increased cell growth. On the
+            other hand, the newly formed cells are much more receptive to the effects of
+            physical uranium. The artifact doesn't show up very often, but it's hard to call
+            it rare.
           \n
           \n%c[0,200,100,50]Tier 2 Legacy Artifact
           \n
@@ -1887,8 +1909,8 @@ Legacy Artifacts
     <string id="st_af_nk_leg_soul_descr">
         <text>
             Very rarely found artifact, located near the Whirligig anomaly. Only a very few
-            manage to find this artifact, and few have even seen it. It has a nice shape and an
-            equally nice price.
+            manage to find this artifact, and few have even seen it. It has a nice shape and
+            an equally nice price.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -1904,8 +1926,8 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_droplets_descr">
         <text>
-            Formed in the anomaly "Burner" at high temperatures. From the exterior looks like a
-            tear-like shade compound with a glossy surface, covered in cracks.
+            Formed in the anomaly "Burner" at high temperatures. From the exterior looks
+            like a tear-like shade compound with a glossy surface, covered in cracks.
           \n
           \n%c[0,200,100,50]Tier 1 Legacy Artifact
           \n
@@ -1921,9 +1943,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_stoneflower_descr">
         <text>
-            Born in the Springboard anomaly. This artifact is found in only a few areas of the
-            Zone. The bits of metallic compounds create a beautiful light play. It is very
-            calming to study this artifact at night by the fire.
+            Born in the Springboard anomaly. This artifact is found in only a few areas of
+            the Zone. The bits of metallic compounds create a beautiful light play. It is
+            very calming to study this artifact at night by the fire.
           \n
           \n%c[0,200,100,50]Tier 2 Legacy Artifact
           \n
@@ -1939,10 +1961,10 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_nightstar_descr">
         <text>
-            This wonderful artifact is formed by the Springboard anomaly. The use of the artifact
-            demands the neutralization of deadly radiation. Expensive and rare, this artifact is
-            extremely interesting for scientific expeditions and other research activity in the
-            Zone.
+            This wonderful artifact is formed by the Springboard anomaly. The use of the
+            artifact demands the neutralization of deadly radiation. Expensive and rare,
+            this artifact is extremely interesting for scientific expeditions and other
+            research activity in the Zone.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -1959,8 +1981,9 @@ Legacy Artifacts
     <string id="st_af_nk_leg_thorn_descr">
         <text>
             The result of the interaction between the anomaly Burnt Fuzz and the body of a
-            careless stalker. The Thorn artifact pokes the body of its owner, no matter what. But
-            it also helps clean the body of radionucliodes. Quite widespread and cheap.
+            careless stalker. The Thorn artifact pokes the body of its owner, no matter
+            what. But it also helps clean the body of radionucliodes. Quite widespread and
+            cheap.
           \n
           \n%c[0,200,100,50]Tier 1 Legacy Artifact
           \n
@@ -1976,10 +1999,10 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_crystalthorn_descr">
         <text>
-            Crystallizes in the anomaly Burnt Fuzz. Naturally takes out the radiation from the
-            organism. That is, through the ears along with some amount of blood. Blood loss is
-            possible also through other openings. Widespread and quite effective, which is the
-            cause for the stable price in the artifact market.
+            Crystallizes in the anomaly Burnt Fuzz. Naturally takes out the radiation from
+            the organism. That is, through the ears along with some amount of blood. Blood
+            loss is possible also through other openings. Widespread and quite effective,
+            which is the cause for the stable price in the artifact market.
           \n
           \n%c[0,200,100,50]Tier 2 Legacy Artifact
           \n
@@ -1995,12 +2018,13 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_urchin_descr">
         <text>
-            The anomaly Burnt Fuzz very rarely gives rise to this artifact. Blood pressure rises,
-            the body gets rid of a large amount of red blood cells. But along with them the
-            stored radiation leaves the body as well. In his fundamental work titled "Ionization
-            and polarization of the components of rare artifacts", Sakharov noted that the
-            content of this formation has a critical stability, and it's not realistic to create
-            such an artifact in lab conditions in the next ten years.
+            The anomaly Burnt Fuzz very rarely gives rise to this artifact. Blood pressure
+            rises, the body gets rid of a large amount of red blood cells. But along with
+            them the stored radiation leaves the body as well. In his fundamental work
+            titled "Ionization and polarization of the components of rare artifacts",
+            Sakharov noted that the content of this formation has a critical stability, and
+            it's not realistic to create such an artifact in lab conditions in the next ten
+            years.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2016,9 +2040,10 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_wrenched_descr">
         <text>
-            Located in the anomaly called "Vortex". When it touches the body it disseminates the
-            direction of the radiation, protecting from scratches or wounds made by mutants. This
-            artifact isn't hard to find, that's why they don't pay much for it.
+            Located in the anomaly called "Vortex". When it touches the body it disseminates
+            the direction of the radiation, protecting from scratches or wounds made by
+            mutants. This artifact isn't hard to find, that's why they don't pay much for
+            it.
           \n
           \n%c[0,200,100,50]Tier 1 Legacy Artifact
           \n
@@ -2031,9 +2056,10 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_gravi_descr">
         <text>
-            Can spot it near anomalies such as "Vortex" or in the hands of another stalker. While
-            wearing it, a certain amount of radiation is stored in the body while the rest of it
-            is scattered in the radial direction away from the body. A good price.
+            Can spot it near anomalies such as "Vortex" or in the hands of another stalker.
+            While wearing it, a certain amount of radiation is stored in the body while the
+            rest of it is scattered in the radial direction away from the body. A good
+            price.
           \n
           \n%c[0,200,100,50]Tier 2 Legacy Artifact
           \n
@@ -2049,9 +2075,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_goldfish_descr">
         <text>
-            An artifact formed in the Vortex anomaly. It is activated by the heat of the body.
-            Decide what's worse: radiation or mutant wounds, and choose the lesser of the two
-            evils. In any case you can sell the artifact for good profit.
+            An artifact formed in the Vortex anomaly. It is activated by the heat of the
+            body. Decide what's worse: radiation or mutant wounds, and choose the lesser of
+            the two evils. In any case you can sell the artifact for good profit.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2067,9 +2093,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_kolobok_descr">
         <text>
-            When you hold this mystery of the Zone in your hands, you feel how your skin becomes
-            tougher and less sensitive. You can still shoot through it with a bullet, but it's
-            much more difficult to cut through
+            When you hold this mystery of the Zone in your hands, you feel how your skin
+            becomes tougher and less sensitive. You can still shoot through it with a
+            bullet, but it's much more difficult to cut through
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2082,9 +2108,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_shell_descr">
         <text>
-            When wearing this artifact the denaturalization of proteins happens slower. In other
-            words, the flesh is able to endure higher temperatures and burns less. In itself it
-            is an expensive and rare thing.
+            When wearing this artifact the denaturalization of proteins happens slower. In
+            other words, the flesh is able to endure higher temperatures and burns less. In
+            itself it is an expensive and rare thing.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2117,9 +2143,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_battery_descr">
         <text>
-            The origin of this object is shrouded in scientific mystery. It's clear that it's
-            made in part by di-electric elements, but science does not know the physical
-            conditions in which it is formed.
+            The origin of this object is shrouded in scientific mystery. It's clear that
+            it's made in part by di-electric elements, but science does not know the
+            physical conditions in which it is formed.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2135,8 +2161,8 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_spring_descr">
         <text>
-            According to the opinion of some researchers-theorists, this artifact is a hybrid
-            between Battery and Shell.
+            According to the opinion of some researchers-theorists, this artifact is a
+            hybrid between Battery and Shell.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
@@ -2152,9 +2178,9 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_mercuryball_descr">
         <text>
-            Resembling a large fluorescent ball overgrown with moss, the artifact's properties
-            are not well understood. What is known though is that it does provide some protection
-            from harmful psy-waves.
+            Resembling a large fluorescent ball overgrown with moss, the artifact's
+            properties are not well understood. What is known though is that it does provide
+            some protection from harmful psy-waves.
           \n
           \n%c[0,200,100,50]Tier 3 Legacy Artifact
           \n
