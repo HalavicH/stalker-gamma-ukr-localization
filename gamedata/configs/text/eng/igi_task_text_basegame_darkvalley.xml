@@ -5,33 +5,33 @@
     <!-- Sultan (Bandit Honcho) Mob Hit Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_kill_stalker_nearby_title">
         <text>
-            Mob Hit
+            Удар мафії
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_kill_stalker_nearby_descr">
         <text>
-            Sultan has sent me to eliminate some bum, then return for my payment.
+            Султан відправив мене ліквідувати якогось бомжа, а потім повернутися за платою.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_kill_stalker_nearby_job_descr">
         <text>
-            See this list? This is a list of rats I need exterminated.
+            Бачиш цей список? Це список щурів, яких потрібно знищити.
           \n
-          \n...Cheapskates who chose to cut and run rather than pay their debts.
+          \n...Скнари, які вирішили накивати п'ятами замість того, щоб сплатити свої
+            борги.
           \n
-          \n...Misers who answered with bullets when my boys begged them for bread.
+          \n...Скупих, які відповідали кулями, коли мої хлопці просили у них хліба.
           \n
-          \n...Bitches and traitors that left Dark Valley to kowtow to Rostok or
-            Sidorovich.
+          \n...Суки і зрадники, які покинули Темну Долину, щоб підлабузнюватися до Ростока
+            чи Сидоровича.
           \n
-          \nThey can all go fuck themselves. Here; a name off my list. I'd like you to let
-            me know when I can cross it out.
+          \nВсі вони можуть піти до біса. Ось, прізвище в списку. Дай знати, коли я
+            зможу його викреслити.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_kill_stalker_nearby_finish">
         <text>
-            Ah, cold satisfaction. I like it when shit goes down smoothly. Here, a token of
-            my gratitude.
+            Холодне задоволення. Люблю, коли все йде гладко. Ось, знак моєї вдячності.
         </text>
     </string>
 
@@ -39,27 +39,28 @@
     <!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_2_title">
         <text>
-            Eliminate the Military Presence
+            Ліквідувати військову присутність
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_2_descr">
         <text>
-            Sultan wants me to eliminate a nearby Military patrol before they do something
-            stupid.
+            Султан хоче, щоб я знищив військовий патруль поблизу, поки вони не накоїли
+            дурниць.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_2_job_descr">
         <text>
-            Those Military fucks are creeping around here again. Most likely to harass our
-            tenants, or take another crack at the nearby lab...
+            Ці військові виродки знову тут вештаються. Скоріш за все, щоб потурбувати наших
+            орендарів, або ще раз пограбувати сусідню лабораторію...
           \n
-          \n...morons. Those bitches are already dead men walking, but I'll pay you remove
-            them before their idiocy hurts anyone I know.
+          \n...дебіли. Ці суки - вже ходячі мерці, але я заплачу, щоб ти їх прибрав, поки
+            їхній ідіотизм не нашкодив комусь із моїх знайомих.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_2_finish">
         <text>
-            You've impressed me, stalker. Wish more of the boys around here had your spunk.
+            Ти мене вразив, сталкере. Хотів би я, щоб більше хлопців тут були такими ж
+            сміливими, як ти.
         </text>
     </string>
 
@@ -67,51 +68,51 @@
     <!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_3_title">
         <text>
-            Stalker Elimination
+            Усунення переслідувача
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_3_descr">
         <text>
-            Sultan has sent me to enact vengeance on some stalkers that harassed one of his
-            boys.
+            Султан відправив мене помститися переслідувачам, які переслідували одного з його
+            хлопців.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_3_job_descr">
         <text>
-            Alright, listen up. A group of stalkers tried to gang up on one of my boys not
-            too long ago. Luckily he escaped, and is busy recovering in the medical hangar,
-            but we can't let that kind of disrespect go.
+            Гаразд, слухайте. Нещодавно група сталкерів намагалася напасти на одного з моїх
+            хлопців. На щастя, йому вдалося втекти, і зараз він відновлюється в медичному
+            ангарі, але ми не можемо так просто залишити таку неповагу.
           \n
-          \nYou might need to round up your own posse before you take them on, but these
-            guys tried to massacre my boy. Show them what happens to chucklefucks who try
-            that.
+          \nМожливо, вам варто було б зібрати свою власну команду, перш ніж битися з ними,
+            але ці хлопці намагалися вбити мого хлопця. Покажіть їм, що буває з виродками,
+            які таке роблять.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_3_finish">
         <text>
-            Done? ...Good.
+            Готово? ...Добре.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_fetch_patches_title">
         <text>
-            Collect patches
+            Збирайте нашивки
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_fetch_patches_descr">
         <text>
-            Sultan asked me to collect patches
+            Султан попросив мене зібрати нашивки
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_fetch_patches_job_descr">
         <text>
-            It's time to remind those retards who the bandits really are. I've got a good
-            mind as to how we'll do this; just tear off their patches and bring them to me,
-            and I'll handle the rest.
+            Настав час нагадати цим дебілам, хто вони насправді бандити. У мене є ідея, як
+            ми це зробимо: просто зірвіть з них нашивки і принесіть мені, а з рештою я
+            розберуся.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_bs_fetch_patches_finish">
         <text>
-            Got them? Great work! Here's your payout.
+            Забрав? Чудова робота! Ось твоя винагорода.
         </text>
     </string>
 
@@ -119,25 +120,25 @@
     <!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_5_title">
         <text>
-            Eviction Notice
+            Повідомлення про виселення
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_5_descr">
         <text>
-            Sultan wants me to drive off the squatters on his farm.
+            Султан хоче, щоб я прогнав квартирантів з його ферми.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_5_job_descr">
         <text>
-            Here's a job for you; some squatters have moved into my farm down south. They
-            refuse to pay rent, and are even scaring prospective tenants away. This simply
-            won't do. Go take some guys and politely escort them out, won't you?
+            Ось тобі робота: на моїй фермі на півдні оселилися скватери. Вони відмовляються
+            платити орендну плату і навіть відлякують потенційних орендарів. Так не можна.
+            Візьми кількох хлопців і ввічливо випровадь їх звідси, добре?
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_5_finish">
         <text>
-            So they tried to pay you with bullets, huh? Typical free loaders. As for you,
-            here's your props.
+            То вони намагалися заплатити тобі кулями, так? Типові халявщики. Щодо тебе, то
+            ось твій реквізит.
         </text>
     </string>
 
@@ -145,25 +146,25 @@
     <!-- Sultan (Bandit Honcho) Night Terror Task -->
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_6_title">
         <text>
-            Night Terror
+            Нічний жах
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_6_descr">
         <text>
-            Sultan wants me to get rid of a dangerous monster.
+            Султан хоче, щоб я позбувся небезпечного монстра.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_6_job_descr">
         <text>
-            Another nightmare has managed to worm its way out of the local lab. Tore up of
-            the younger boys real good. I'll give you its last known location. Go find it
-            and kick its ass.
+            З місцевої лабораторії виповзло ще одне жахіття. Він добряче порвав молодих
+            хлопців. Я дам вам його останнє відоме місцезнаходження. Знайдіть його і надерти
+            йому дупу.
         </text>
     </string>
     <string id="igi_task_text_zat_b7_bandit_boss_sultan_6_finish">
         <text>
-            Maybe that'll teach those dumb mutants not to mess with us. Anyway, here's your
-            reward.
+            Може, це навчить тих тупих мутантів не зв'язуватися з нами. Так чи інакше, ось
+            твоя винагорода.
         </text>
     </string>
 
@@ -171,99 +172,96 @@
     <!-- Olivius (Bandit Trader) Eliminate Mutants Task# -->
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_monster_online_title">
         <text>
-            Eliminate Mutant Threat in Dark Valley
+            Усуньте загрозу мутантів у Темній Долині
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_monster_online_descr">
         <text>
-            Olivius has sent me to do some housecleaning. I should return to him for payment
-            once I've cleared the mutants off the marked area.
+            Олівій відправив мене прибрати в домі. Я маю повернутися до нього за оплатою, як
+            тільки очищу від мутантів позначену територію.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_monster_online_job_descr">
         <text>
-            Yeah, stalkers aren't moving in as often anymore. Why? Because they see the
-            mutants, shit themselves, then leave. If this keeps happening, we won't be able
-            to collect rent, borrow goods... you get the picture? It's time to give the
-            Valley a spring clean.
+            Так, сталкери вже не так часто переїжджають. Чому? Тому що вони бачать мутантів,
+            обсираються і йдуть геть. Якщо так буде продовжуватися, ми не зможемо збирати
+            орендну плату, позичати товари... ну, ви зрозуміли? Настав час провести в Долині
+            генеральне прибирання.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_monster_online_finish">
         <text>
-            Fantastic! Here is your payment. I'll make sure to put a good word in for you
-            with the boss.
+            Фантастика! Ось ваш гонорар. Я замовлю за вас слівце перед босом.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_stalker_online_title">
         <text>
-            Turf War
+            Війна за територію
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_stalker_online_descr">
         <text>
-            I've agreed to stick up a stalker camp for Olivius. He mentioned that I might
-            need to bring friends.
+            Я погодився розбити табір сталкерів для Олівія. Він згадав, що мені може
+            знадобитися привести друзів.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_stalker_online_job_descr">
         <text>
-            This one is a real cinch. Sultan's got a mind to shake down a nearby stalker
-            camp; shake things up, remind them who's in charge around here. You'll need to
-            get your own little gang together for this, but there's big props in it for you
-            if you can pull it off.
+            Це справжня знахідка. Султан хоче розгромити сусідній табір сталкерів; струснути
+            обстановку, нагадати їм, хто тут головний. Для цього вам доведеться зібрати
+            власну маленьку банду, але якщо ви впораєтесь, то отримаєте чималий реквізит.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_assault_stalker_online_finish">
         <text>
-            Ha! Well done! I hope you stripped off all the loot you could; here's a little
-            extra from me.
+            Ха! Молодець! Сподіваюся, ви забрали все, що змогли; ось вам трохи більше від
+            мене.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_3_title">
         <text>
-            Chiki-Briki i v Damke
+            Чікі-Брікі та Дамке
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_3_descr">
         <text>
-            I've been hired to guide a bandit gang around as they "borrow" from local
-            stalkers.
+            Мене найняли супроводжувати банду бандитів, які "позичають" у місцевих
+            сталкерів.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_3_job_descr">
         <text>
-            There are a few guys who've been needing someone to take them shopping, if you
-            catch my drift. Scout out some prime targets for them, and you'll get a nice cut
-            when the job is done.
+            Є кілька хлопців, які потребують когось, хто б взяв їх на шопінг, якщо ви
+            розумієте, про що я. Розвідай для них кілька першокласних цілей, і ти отримаєш
+            непогану частку, коли роботу буде виконано.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_3_finish">
         <text>
-            Nice take, eh? Here is your cut.
+            Гарний дубль, еге ж? Ось твоя частка.
         </text>
     </string>
 
     <!-- ASSASSINATION FOR OLIVIUS TASK -->
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_kill_stalker_nearby_title">
         <text>
-            Hit Man
+            Найманий вбивця.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_kill_stalker_nearby_descr">
         <text>
-            Olivius has contracted me to run a hit on some poor sucker, then return for
-            payment.
+            Олівій доручив мені знайти якогось бідолаху, а потім повернутися за платою.
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_kill_stalker_nearby_job_descr">
         <text>
-            I've got a list of people who've rubbed me the wrong way. I want you to rub one
-            of them out. What do you say?
+            У мене є список людей, які мене образили. Я хочу, щоб ти викреслив одного з них.
+            Що скажеш?
         </text>
     </string>
     <string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_bs_kill_stalker_nearby_finish">
         <text>
-            Good, you got rid of that asshole! Here is what I promised.
+            Добре, що ти позбувся того засранця! Ось те, що я обіцяв.
         </text>
     </string>
 
@@ -271,26 +269,26 @@
     <!-- (Bandit Medic) -->
     <string id="igi_task_text_bandit_main_base_medic_mlr_bs_fetch_drugkit_title">
         <text>
-            Find Drug-making kit for the Bandit medic in Dark Valley
+            Знайти аптечку для розбійницького медика в Темній Долині
         </text>
     </string>
     <string id="igi_task_text_bandit_main_base_medic_mlr_bs_fetch_drugkit_descr">
         <text>
-            Drug-making kit is required by the bandits medic to work on medical supplies. I
-            should bring them back to him if I find any.
+            Набір для виготовлення ліків потрібен бандитському медику для роботи з
+            медикаментами. Якщо знайду, віднесу йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_bandit_main_base_medic_mlr_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of
-            injuries I have to treat on daily basis is worrying. I'm gonna run out of
-            bandages and medkits soon or later. I need you to find me one of those old drug-
-            making kits. They will come in handy for sure.
+            Зберігати те, що залишилося на складах медикаментів, при такій кількості
+            поранень, які мені доводиться лікувати щодня, дуже складно. Рано чи пізно у мене
+            закінчаться бинти та аптечки. Мені потрібно, щоб ви знайшли мені один з тих
+            старих наборів для виготовлення ліків. Вони мені точно знадобляться.
         </text>
     </string>
     <string id="igi_task_text_bandit_main_base_medic_mlr_bs_fetch_drugkit_finish">
         <text>
-            Great job! I owe you big time.
+            Чудова робота! Я твій боржник.
         </text>
     </string>
 </string_table>
