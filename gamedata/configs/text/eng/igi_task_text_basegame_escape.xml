@@ -5,56 +5,55 @@
     <!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
     <string id="igi_task_text_esc_m_trader_1_title">
         <text>
-            Assault the Car Park
+            Штурм автостоянки
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_1_descr">
         <text>
-            Stage an assault on the car park and eliminate the bandits that occupy the
-            location.
+            Влаштуйте штурм автостоянки та ліквідуйте бандитів, які захопили локацію.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_1_job_descr">
         <text>
-            Bandits have taken up base in the old car park. Those assholes mug or kill
-            anyone who use the roads leading in and out of the camp. It's disrupting local
-            activities for my clients and the stalkers who take refuge in camp. It's hurting
-            business! I need you to 'take care' of them. Talk to Fanatic if you need any
-            help.
+            Бандити отаборилися на старій автостоянці. Ці виродки грабують або вбивають
+            всіх, хто користується дорогами, що ведуть до табору і з нього. Це перешкоджає
+            місцевій діяльності моїх клієнтів і сталкерів, які ховаються в таборі. Це
+            шкодить бізнесу! Мені потрібно, щоб ви "подбали" про них. Якщо потрібна
+            допомога, зверніться до Фанатика.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_1_finish">
         <text>
-            Great work, stalker! You and I will be best of friends if you keep this up! Here
-            is what I promised.
+            Молодець, сталкере! Ми з тобою станемо кращими друзями, якщо ти будеш
+            продовжувати в тому ж дусі! Ось те, що я обіцяв.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_bs_kill_stalker_nearby_title">
         <text>
-            Contract Killer
+            Найманий вбивця
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_bs_kill_stalker_nearby_descr">
         <text>
-            I've agreed to remove a thorn from Sidorovich's side. Once I'm done, I should
-            return for my reward.
+            Я погодився витягти колючку з боку Сидоровича. Як тільки я це зроблю, я повинен
+            повернутися за своєю винагородою.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_bs_kill_stalker_nearby_job_descr">
         <text>
-            I have a list of outstanding bounties that need taking care of. These people
-            tend to be unwanted plotters, frauds, slanderers... many of them have even
-            roughed up my couriers or harassed my tourists in the past. In other words,
-            they're all bad for business.
+            У мене є список невиконаних нагород, про які потрібно подбати. Ці люди, як
+            правило, небажані змовники, шахраї, наклепники... багато хто з них навіть бив
+            моїх кур'єрів або переслідував моїх туристів у минулому. Іншими словами, всі
+            вони шкідливі для бізнесу.
           \n
-          \nPut one of these scumbags out of my misery, won't you? I'll be happy, the Zone
-            will be a cleaner place, and you'll be well paid. Everyone wins!
+          \nПозбавте мене від одного з цих покидьків, добре? Я буду щасливий, Зона стане
+            чистішою, а ви добре заплатите. Всі у виграші!
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_bs_kill_stalker_nearby_finish">
         <text>
-            You got rid of that filthy freak? Good riddance! Here is what I promised, and
-            let it never be said that uncle Sidorovich doesn't reward good work.
+            Ви позбулися того брудного виродка? Позбувся! Ось те, що я обіцяв, і нехай
+            ніколи не кажуть, що дядько Сидорович не винагороджує за хорошу роботу.
         </text>
     </string>
 
@@ -62,40 +61,39 @@
     <!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
     <string id="igi_task_text_esc_m_trader_3_title">
         <text>
-            Mobbing the Mob
+            Мобінг проти мобів
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_3_descr">
         <text>
-            Sidorovich wants to send the bandit leaders a message. I've agreed to help him
-            out by collecting patches.
+            Сидорович хоче відправити ватажкам бандитів повідомлення. Я погодився допомогти
+            йому зібрати нашивки.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_3_job_descr">
         <text>
-            Listen, stalker. This is supposed to be a safe place for rookies to get to know
-            the Zone. What they do get to know are the business ends of some bandit guns
-            instead. The thugs disrupt our routes and steal our loot. Go teach them a
-            lesson, will ya?
+            Слухай, сталкере. Це має бути безпечне місце для новачків, щоб познайомитися з
+            Зоною. Натомість вони знайомляться з діловими сторонами бандитських рушниць.
+            Бандити зривають наші маршрути і крадуть нашу здобич. Провчи їх, гаразд?
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_3_fetch_job_descr">
         <text>
-            Recently, some dandy bandit lord, up in Dark Valley, has decided to make another
-            move on my business. He calls himself something stupid, like Sultana. What's
-            next? Riesling? Muscadine?
+            Нещодавно якийсь денді-бандитський лорд з Темної Долини вирішив зробити ще один
+            крок у моєму бізнесі. Він називає себе якимось дурнуватим ім'ям, на кшталт
+            Султана. І що далі? Рислінг? Мускат?
           \n
-          \nSo, let's send the bloated grape a message. Remind him who the real boss is. I
-            know his men are skulking about - they usually make their way down to the Cordon
-            through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd
-            like you to do me a favour and off a few of them. Then, bring me their patches,
-            and I'll sort out the rest.
+          \nТож, давайте надішлемо цьому роздутому винограду повідомлення. Нагадаймо йому,
+            хто тут справжній бос. Я знаю, що його люди десь тут швендяють - зазвичай вони
+            спускаються до Кордону через Даркскейп або Мідоу, щоб переслідувати новачків і
+            зривати мої маршрути. Я хочу, щоб ви зробили мені послугу і вбили кількох з них.
+            Потім принесіть мені їхні нашивки, а з рештою я розберуся.
         </text>
     </string>
     <string id="igi_task_text_esc_m_trader_3_fetch_finish">
         <text>
-            Finally, you're back. You've got the badges? All right, here is your reward.
-            I'll handle the rest.
+            Нарешті ти повернувся. У вас є значки? Гаразд, ось твоя винагорода. Я розберуся
+            з рештою.
         </text>
     </string>
 
@@ -103,30 +101,29 @@
     <!-- Wolf (Loner Honcho) -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_bs_assault_monster_online_title">
         <text>
-            Eliminate the Mutant Threat from Cordon
+            Усунути загрозу мутантів з Кордону
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_bs_assault_monster_online_descr">
         <text>
-            I've agreed to clear out a mutant lair for Wolf, which will no doubt make life
-            much easier for stalkers in Cordon. I'll need to return to him for payment once
-            the job is complete.
+            Я погодився зачистити лігво мутантів для Вовка, що, без сумніву, значно
+            полегшить життя сталкерам на Кордоні. Я повинен буду повернутися до нього за
+            оплатою, як тільки роботу буде завершено.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_bs_assault_monster_online_job_descr">
         <text>
-            Though this is the border of the Zone, newbies have it tough even here. The
-            bandits are only half the problem - they at least understand Russian. But the
-            mutants - it's really tough with them. If you're an able hunter, there's a
-            mutant lair not far from here that needs to be cleared out. If you manage to do
-            this, I'll owe you.
+            Хоча це кордон Зони, новачкам доводиться нелегко навіть тут. Бандити - це ще
+            півбіди, вони принаймні розуміють російську. А от мутанти - з ними справді
+            важко. Якщо ви вправний мисливець, то недалеко звідси є лігво мутантів, яке
+            потрібно зачистити. Якщо вам вдасться це зробити, я буду у вас у боргу.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_bs_assault_monster_online_finish">
         <text>
-            Thank you, stalker. Maybe the rookies around here will take this chance to learn
-            a thing or two before becoming pig food. Ah, right. I said I'd owe you. Here's
-            your payment.
+            Дякую, сталкере. Може, новачки скористаються цим шансом, щоб навчитися чомусь
+            новому, перш ніж стати свинячим кормом. А, точно. Я ж казав, що буду тобі винен.
+            Ось твоя плата.
         </text>
     </string>
 
@@ -134,29 +131,29 @@
     <!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_2_title">
         <text>
-            Rescue the Courier
+            Врятувати кур'єра
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_2_descr">
         <text>
-            One of Sidorovich's new couriers has been kidnapped by some brigands. I have
-            agreed to rescue him and escort him back to Wolf.
+            Одного з нових кур'єрів Сидоровича викрали якісь розбійники. Я погодився
+            визволити його і супроводжувати до Вольфа.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_2_job_descr">
         <text>
-            Another one of Sidorovich's new delivery men got caught up in some trouble, and
-            I've been asked to organize his retrieval. I know where he's being held, but I
-            need a competent fighter to free him from whatever band of scoundrels is holding
-            him, and bring him back to camp safely. Will you do this? Otherwise, I'll need
-            to go myself, and I don't want to leave the village only half-guarded.
+            Ще один з нових кур'єрів Сидоровича потрапив у якусь халепу, і мене попросили
+            організувати його визволення. Я знаю, де його тримають, але мені потрібен
+            компетентний боєць, щоб звільнити його від банди негідників, яка його утримує, і
+            безпечно доставити до табору. Зможеш це зробити? Інакше мені доведеться йти
+            самому, а я не хочу залишати село без охорони.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_2_finish">
         <text>
-            Good job, stalker. Sidorovich's man doesn't seem much worse for wear. Now it's
-            time for him to square off some business with his boss. As for you, your job is
-            done. Here's your reward.
+            Молодець, сталкере. Людина Сидоровича, здається, не сильно постраждала від
+            зносу. Тепер йому час з'ясовувати стосунки зі своїм босом. Щодо тебе, то твоя
+            робота виконана. Ось твоя винагорода.
         </text>
     </string>
 
@@ -164,31 +161,31 @@
     <!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_wolf_3_title">
         <text>
-            Tourist Safari
+            Туристичне сафарі
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_3_descr">
         <text>
-            Wolf has trusted me to guide some tourists on their mutant hunt.
+            Вовк довірив мені супроводжувати туристів у їхньому полюванні на мутантів.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_3_job_descr">
         <text>
-            Some foreign tourists have paid Sidorovich good money to go on a light hunting
-            trip through the Zone. They're actually not bad shots, but they don't know the
-            first thing about anomalies or the kind of monsters we have around here. As if I
-            wasn't babysitting enough people already.
+            Деякі іноземні туристи заплатили Сидоровичу непогані гроші, щоб відправитися на
+            легке полювання в Зону. Вони непогано стріляють, але нічого не знають про
+            аномалії і про те, які монстри у нас тут водяться. Ніби я і так мало з людьми
+            няньчився.
           \n
-          \nCould you be their guide? Nothing fancy - people like this are usually happy
-            with a short stroll through Cordon with some shooting at the end. Just make sure
-            they don't do anything stupid. It'd save me a little headache, and it's ample
-            pay for simple work.
+          \nВи могли б бути їхнім гідом? Нічого особливого - таких людей зазвичай
+            влаштовує коротка прогулянка Кордоном з невеликою стріляниною в кінці. Тільки
+            простеж, щоб вони не накоїли дурниць. Це позбавило б мене від головного болю, та
+            й платять непогано за просту роботу.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_wolf_3_finish">
         <text>
-            Okay, looks like the tourists got what they asked for. Sidorovich will be
-            pleased. As for you, here's your cut.
+            Гаразд, схоже, туристи отримали те, про що просили. Сидорович буде задоволений.
+            Щодо тебе, то ось твоя частка.
         </text>
     </string>
 
@@ -196,33 +193,34 @@
     <!-- Nimble (Loner Trader) Find Weapon Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_title">
         <text>
-            Find the gun
+            Знайди пістолет.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_descr">
         <text>
-            Nimble has asked you to find a specific firearm. It needs to be in mint
-            condition. Return to him when you find what he is looking for.
+            Компанія Nimble попросила вас знайти певну вогнепальну зброю. Вона повинна бути
+            в ідеальному стані. Поверніться до нього, коли знайдете те, що він шукає.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_job_descr">
         <text>
-            I have a client looking for a specific firearm and I need someone to help me
-            find it. If you are interested I will give you more details. What do you say?
+            У мене є клієнт, який шукає певну вогнепальну зброю, і мені потрібна людина, яка
+            допоможе її знайти. Якщо ви зацікавлені, я розповім вам більше деталей. Що
+            скажеш?
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_fetch_job_descr">
         <text>
-            I need to find specific firearm, but it must be in mint condition. The client is
-            paying top dollar, and he doesn't want a rusty piece of shit that will jam up in
-            a life or death situation. I'll give you most of the profit since you are doing
-            all the work. Come back when you find it, man.
+            Мені потрібно знайти конкретну зброю, але вона має бути в ідеальному стані.
+            Клієнт платить великі гроші, і йому не потрібен іржавий шматок лайна, який
+            заклинить в ситуації життя і смерті. Я віддам тобі більшу частину прибутку,
+            оскільки ти робиш всю роботу. Приходь, коли знайдеш, чувак.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_fetch_finish">
         <text>
-            This is a fine weapon. I think my client will be pleased when I deliver this to
-            him. Here is what I owe you.
+            Це прекрасна зброя. Думаю, мій клієнт буде задоволений, коли я передам його
+            йому. Ось, що я тобі винен.
         </text>
     </string>
 
@@ -230,23 +228,23 @@
     <!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_title">
         <text>
-            Retrieve PDA for Nimble
+            Отримати КПК для Nimble
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_descr">
         <text>
-            Nimble has a PDA he needs retrieved.
+            У Німбла є КПК, який йому потрібно повернути.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_job_descr">
         <text>
-            I need you to pick up a PDA for me. It's hidden in a spot a little while away
-            from here.
+            Мені потрібно, щоб ти знайшов для мене КПК. Він захований в одному місці трохи
+            далі звідси.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_finish">
         <text>
-            Thank you stalker!
+            Дякую, сталкере!
         </text>
     </string>
 
@@ -254,103 +252,101 @@
     <!-- (Military Trader # Southern Outpost) -->
     <string id="igi_task_text_esc_3_16_military_trader_bs_fetch_patches_title">
         <text>
-            Cordon Crackdown
+            Розгін кордону
         </text>
     </string>
     <string id="igi_task_text_esc_3_16_military_trader_bs_fetch_patches_descr">
         <text>
-            The checkpoint commander, Major Zhurov, has asked me to bring patches. It should
-            help remind stalkers who's in charge.
+            Командир блокпоста, майор Журов, попросив мене привезти нашивки. Це має
+            допомогти нагадати сталкерам, хто тут головний.
         </text>
     </string>
     <string id="igi_task_text_esc_3_16_military_trader_bs_fetch_patches_job_descr">
         <text>
-            The top brass has launched an unofficial program, you wanna take part? As proof,
-            I require patches from criminals in the Zone.
+            Начальство запустило неофіційну програму, хочеш взяти участь? Як доказ, я
+            вимагаю нашивки від злочинців із Зони.
         </text>
     </string>
     <string id="igi_task_text_esc_3_16_military_trader_bs_fetch_patches_finish">
         <text>
-            Your actions have gone above and beyond the call of duty. Here, take your
-            commendation and be proud today.
+            Ваші дії вийшли за рамки службового обов'язку. Ось, візьміть свою похвалу і
+            пишайтеся нею сьогодні.
         </text>
     </string>
 
     <!-- Fanatic -->
     <string id="igi_task_text_esc_2_12_stalker_fanat_bs_assault_monster_online_title">
         <text>
-            Destroy the Mutant Lair
+            Знищити лігво мутантів
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_bs_assault_monster_online_descr">
         <text>
-            I've agreed with Fanatic to destroy a mutant lair for the sake of the stalkers
-            in Cordon.
+            Я домовився з Фанатиком знищити лігво мутантів заради сталкерів на Кордоні.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_bs_assault_monster_online_job_descr">
         <text>
-            Yeah, there's a small issue that needs sorting out. Cordon is supposed to be one
-            of the safest places in the Zone, yet a new mutant lair has sprung up not too
-            far from here. It needs to be cleared before it gets too large - otherwise, the
-            rookies here will be in for a grave time. So, what do you say? Will you do it?
+            Так, є невеличка проблема, яку треба вирішити. Кордон вважається одним з
+            найбезпечніших місць у Зоні, але неподалік від нього з'явилося нове лігво
+            мутантів. Його потрібно зачистити, поки воно не стало надто великим - інакше
+            новачкам тут буде непереливки. Ну, що скажете? Візьметеся?
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_bs_assault_monster_online_finish">
         <text>
-            Great work. Thanks to you, the rookies will have more room to breathe without
-            being thrown into the deep end. Here's your payment - they all contributed a
-            little to it.
+            Чудова робота. Завдяки вам новачки матимуть більше простору для дихання і не
+            будуть кинуті в безвихідь. Ось ваша винагорода - всі вони зробили свій внесок.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_2_title">
         <text>
-            Find a Battery Artefact for Fanatic
+            Знайти артефакт батареї для Fanatic
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_2_descr">
         <text>
-            Fanatic needs a Battery to help some of his old friends bribe their way out of
-            the Zone.
+            Фанатику потрібна Акумуляторна батарея, щоб допомогти своїм старим друзям
+            підкупити вихід із Зони.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_2_fetch_job_descr">
         <text>
-            So, here's the deal. A lot of dirty work has to happen to keep this village
-            unmolested by the local soldiers. Sidorovich keeps the village itself safe in
-            this way, but I have a few friends who want to leave, and there isn't any real
-            way out for them.
+            Отже, справа ось у чому. Потрібно зробити багато брудної роботи, щоб утримати це
+            село від нападів місцевих солдатів. Сидорович таким чином утримує село в
+            безпеці, але у мене є кілька друзів, які хочуть виїхати, і для них немає ніякого
+            реального виходу.
           \n
-          \nThat's the thing with the military's border patrols - they're not too careful
-            about keeping people from getting in. But they'd rather kill you in cold blood
-            than let you get out. So, my friends are stuck here.
+          \nУ цьому вся проблема з військовими прикордонними патрулями - вони не надто
+            дбають про те, щоб люди не потрапляли всередину. Але вони радше холоднокровно
+            вб'ють вас, ніж дозволять вам вийти. Отже, мої друзі застрягли тут.
           \n
-          \nThe checkpoint guards won't let them through alive unless we bribe them with a
-            Battery artefact. Have you heard of it? They can be found in Electro anomalies.
+          \nПрикордонники не випустять їх живими, якщо ми не підкупимо їх артефактом
+            "Батарея". Чули про нього? Їх можна знайти в Електроаномаліях.
           \n
-          \nIt's incredibly rare. I've already sent every stalker I can to find one, but
-            no one has gotten back to me yet. Will you help out too?
+          \nЦе неймовірна рідкість. Я вже відправив усіх сталкерів на його пошуки, але
+            ніхто не повернувся. Ти теж допоможеш?
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_fanat_2_fetch_finish">
         <text>
-            Ah, you've found a Battery? Excellent! I'll let my comrades know the good news.
-            I'm going to miss them terribly, but I know they'll also get another chance at
-            an ordinary life out there. Thank you, stalker.
+            А, ти знайшов батарейку? Чудово! Я повідомлю моїм товаришам хорошу новину. Я
+            буду страшенно за ними сумувати, але я знаю, що вони отримають ще один шанс на
+            нормальне життя. Дякую, сталкере.
         </text>
     </string>
 
     <!-- Seryoga -->
     <string id="igi_task_text_army_south_mechan_mlr_4_job_descr">
         <text>
-            Some jackass keeps shooting at the speaker, I have no idea if it's some stalker
-            from the village or maybe even somebody in here. Anyway, I need some parts to
-            repair it. Can you look for them?
+            Якийсь придурок продовжує стріляти в динамік, я не знаю, чи це якийсь
+            переслідувач з села, чи, можливо, хтось із тутешніх. Так чи інакше, мені
+            потрібні деякі деталі, щоб полагодити його. Зможеш їх знайти?
         </text>
     </string>
     <string id="igi_task_text_army_south_mechan_mlr_4_title">
         <text>
-            Find the Repair Parts for Seryoga
+            Знайти запчастини для Серьоги
         </text>
     </string>
 </string_table>
