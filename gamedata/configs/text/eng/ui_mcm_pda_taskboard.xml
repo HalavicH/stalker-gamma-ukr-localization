@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_menu_pda_taskboard">
         <text>
-            PDA Taskboard
+            Дошка завдань КПК
         </text>
     </string>
     <string id="ui_mcm_pda_taskboard_banner">
         <text>
-            PDA Taskboard
+            Дошка завдань КПК
         </text>
     </string>
     <string id="ui_mcm_pda_taskboard_scanning_range">
