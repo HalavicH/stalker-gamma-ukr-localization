@@ -344,7 +344,6 @@
           \n%c[0,200,200,200]ХАРАКТЕРИСТИКИ:%c[ui_gray_2]
           \n
           \n%c[0,225,225,225] • %c[ui_gray_2] артефакт
-          \n%c[0]100,25
         </text>
     </string>
     <string id="encyclopedia_artifacts_eye">
@@ -506,7 +505,6 @@
             фізично, так і емоційно. n%c[0,200,200,200]ХАРАКТЕРИСТИКИ:%c[ui_gray_2]
           \n
           \n%c[0,225,225,225] • %c[ui_gray_2] артефакт
-          \n%c[0]
         </text>
     </string>
     <string id="encyclopedia_artifacts_medusa">
