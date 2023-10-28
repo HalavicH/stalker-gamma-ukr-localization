@@ -44,30 +44,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_aug_a3">
-        <text>
-            Steyr AUG A3
-        </text>
-    </string>
-    <string id="st_wpn_aug_a3_descr">
-        <text>
-            Steyr AUG A3 - це подальше вдосконалення гвинтівок A1 та A2, представлене у 2005
-            році. Вона також є стандартною гвинтівкою австрійської армії, яка замінила як
-            A1, так і A2. Гвинтівка має таку ж саму направляючу типу Picatinny Rail, як і
-            повнорозмірна A2, а також зовнішню затворну раму, розташовану над патронником,
-            що дозволяє легко встановлювати будь-які оптичні та оптико-електронні приціли, в
-            тому числі й оптичні. Це сучасна ітерація AUG, а отже, найпоширеніша гвинтівка,
-            але це не робить її товаром в Зоні.
-          \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor
-          \n %c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red
-            Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1
-            (low mount), Docter Sight, 1P76 Rakurs (low mount) and OKP-7.
-          \n
-          \n
-        </text>
-    </string>
     <string id="st_wpn_aug_thales">
         <text>
             Thales F90
