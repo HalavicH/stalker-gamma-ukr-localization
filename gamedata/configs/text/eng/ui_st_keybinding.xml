@@ -145,11 +145,11 @@
             Наблизити
         </text>
     </string>
-    <string id="kb_reload">
+    <!-- <string id="kb_reload">
         <text>
             Перезарядити
         </text>
-    </string>
+    </string> -->
     <string id="kb_func">
         <text>
             Підствольник

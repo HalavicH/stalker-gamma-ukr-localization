@@ -461,11 +461,6 @@
 	</string>
 
     <!-- Info -->
-    <string id="st_dot">
-        <text>
-            -
-        </text>
-    </string>
     <string id="st_damage_missing">
         <text>
             відсутній
