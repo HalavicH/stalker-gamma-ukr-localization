@@ -1692,11 +1692,6 @@
     </string>
 
     <!-- Messages -->
-    <string id="st_news_dis_items">
-        <text>
-            %c[d_red] Потрібно відповідний інструмент.
-        </text>
-    </string>
     <string id="st_ui_need_charger">
         <text>
             %s потрібно для проведення електрики
