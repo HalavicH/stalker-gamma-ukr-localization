@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-
-    <!--=========================================================-->
-    <!--Identical duplicated strings (safe to delete one of them)-->
-    <!--=========================================================-->
-    <string id="st_addon_scope">
-        <text>
-            Приціл ПСО-1М (BaS+Van)
-        </text>
-    </string>
-    <string id="st_addon_scope_ac10632">
-        <text>
-            Приціл Barska ELECTRO SIGHT AC10632 (BaS+Van)
-        </text>
-    </string>
-    <string id="st_addon_scope_e0t2">
-        <text>
-            Приціл EOTech XPS3-0 (BaS)
-        </text>
-    </string>
-    <string id="st_addon_scope_rmr">
-        <text>
-            Trijicon RMR Red Dot Sight (BaS)
-        </text>
-    </string>
-    <string id="st_addon_scope_specterDR">
-        <text>
-            Приціл ELCAN SpecterDR (BaS)
-        </text>
-    </string>
-    <string id="st_addon_sil_surfire">
-        <text>
-            Глушник Surefire SOCOM556-MONSTER (BaS)
-        </text>
-    </string>
-
     <!--==================================================================-->
     <!--Duplicated string IDs with different content (requires inspection)-->
     <!--==================================================================-->

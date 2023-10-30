@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-
-    <!--=========================================================-->
-    <!--Identical duplicated strings (safe to delete one of them)-->
-    <!--=========================================================-->
     <string id="st_wpn_fal_aus_kit_aus_tri">
         <text>
             DS Arms SA-58 AUS "Scout" (BaS)
@@ -36,22 +32,12 @@
     </string>
     <string id="st_wpn_k98_mod_silen98">
         <text>
-            Mauser 98k Forester (with silencer adapter) (BaS)
-        </text>
-    </string>
-    <string id="st_wpn_k98_mod_silen98">
-        <text>
             Mauser 98k Лісник (з адаптером для глушника) (BaS)
         </text>
     </string>
     <string id="st_wpn_ks23_ecolog">
         <text>
             КС-23 Еколог (BaS)
-        </text>
-    </string>
-    <string id="st_wpn_ks23_kaban_kab_up">
-        <text>
-            КС-23 Кабан (BaS)
         </text>
     </string>
     <string id="st_wpn_ks23_kaban_kab_up">

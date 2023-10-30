@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-
-    <!--=========================================================-->
-    <!--Identical duplicated strings (safe to delete one of them)-->
-    <!--=========================================================-->
     <string id="st_addon_scope">
         <text>
             Приціл ПСО-1М (BaS+Van)
