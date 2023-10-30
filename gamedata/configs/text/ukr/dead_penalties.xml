@@ -2,55 +2,55 @@
 <string_table>
     <string id="ui_mcm_menu_dead_penalties">
         <text>
-            Dead Penalties
+            Штраф смерті
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_money_percentage">
         <text>
-            Max percentage of money that can be lost.
+            Максимальний відсоток грошей, який можна втратити.
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_money_percentage_desc">
         <text>
-            This dictates the max pecentage of money that will be removed from your balance
+            Визначає максимальний відсоток грошей, який буде знято з вашого балансу
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_money_to_drop_percentage">
         <text>
-            Max percentage of money that can be dropped.
+            Максимальний відсоток грошей, який можна скинути.
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_money_to_drop_percentage_desc">
         <text>
-            Max percentage of money that will be added to the drop backpack from the lost
-            money.
+            Максимальний відсоток грошей, який буде додано до дроп-рюкзака від втрачених
+            грошей.
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_condition_lose">
         <text>
-            Max condition to lose on all equiped items
+            Максимальний відсоток пошкодження екіпіровкм
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_max_condition_lose_desc">
         <text>
-            Max condition to lose on all equiped items upon death. Cannot be equals or lower
-            than Min Condition
+            Максимальний відсоток, який буде втрачено на всіх екіпірованих предметах після
+            смерті. Не може дорівнювати або бути меншою за мінімальну умову
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_min_condition_lose">
         <text>
-            Min condition to lose on all equiped items
+            Мінімальний відсоток пошкодження екіпіровкм
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_min_condition_lose_desc">
         <text>
-            Min condition to lose on all equiped items upon death. Cannot be equals or
-            greater than Max Condition
+            Мінімальний відсоток пошкодження екіпіровки після смерті. Не може
+            дорівнювати або бути більшою за максимальну умову
         </text>
     </string>
     <string id="ui_mcm_dead_penalties_enable_time_forward">
         <text>
-            Enable the skip of time after death [BETA]
+            Увімкнути пропуск часу після смерті [BETA].
         </text>
     </string>
 </string_table>

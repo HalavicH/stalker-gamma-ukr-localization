@@ -14,47 +14,48 @@
     </string>
     <string id="ui_mcm_menu_speed_title">
         <text>
-            Outfits/weapons affect movespeed
+            Екіпірування/зброя впливають на швидкість пересування
         </text>
     </string>
     <string id="ui_mcm_speed_title">
         <text>
-            Outfits/weapons affect movespeed
+            Екіпірування/зброя впливають на швидкість пересування
         </text>
     </string>
     <string id="ui_mcm_speed_encumbrance">
         <text>
-            Encumbrance affects speed
+            Обтяження впливає на швидкість
         </text>
     </string>
     <string id="ui_mcm_speed_encumbrance_desc">
         <text>
-            Encumbrance features gives bonuses when lightly encumbered ( less than 25% total
-            encumbrance) and penalties when heavily encumbered. (more than 70%).
+            Особливості обтяження дають бонуси при легкому обтяженні (менше 25% від
+            загальної суми обтяження) і штрафи при сильному обтяженні (більше 70%). (більше
+            70%).
           \n
-          \n Be warned that enabling this option will result in ludicrous speed if you
-            travel lightly.
+          \n Зауважте, що ввімкнення цієї опції призведе до смішної швидкості, якщо ви
+            їдете з невеликим навантаженням.
         </text>
     </string>
     <string id="ui_mcm_speed_weapon">
         <text>
-            Weapon affects sprint speed
+            Зброя впливає на швидкість бігу
         </text>
     </string>
     <string id="ui_mcm_speed_weapon_desc">
         <text>
-            If enabled, weapons apply a modifier to sprint speed depending on type and
-            weight.
+            Якщо увімкнено, зброя застосовує модифікатор до швидкості спринту залежно від
+            типу та ваги.
         </text>
     </string>
     <string id="ui_mcm_speed_debug">
         <text>
-            (Developer) Additional console logging
+            (Розробник) Додаткове журналювання консолі
         </text>
     </string>
     <string id="ui_mcm_speed_debug_desc">
         <text>
-            Prints some useful crap to console.
+            Виводить у консоль деяку корисну фігню.
         </text>
     </string>
 </string_table>

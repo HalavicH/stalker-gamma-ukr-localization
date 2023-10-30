@@ -2,54 +2,56 @@
 <string_table>
     <string id="ui_mm_video_hud_bgacslide">
         <text>
-            B.G.A.C Options
+            Опції B.G.A.C.
         </text>
     </string>
     <string id="ui_mm_video_hud_bgac">
         <text>
-            Bart's Good Ammo Counters
+            Лічильники хороших набоїв від Барта
         </text>
     </string>
     <string id="ui_mm_video_hud_bgac_desc">
         <text>
-            Shows the total amount of ammo you have for all types of your actual weapon
-            availables in your inventory. (Traffic Signals Colors : Green --&gt; Good Ammo --
-            Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo)
+            Показує загальну кількість боєприпасів для всіх типів зброї, наявних у вашому
+            інвентарі. (Кольори сигналів світлофора: Зелений --&gt; хороші боєприпаси --
+            Помаранчевий --&gt; погані боєприпаси -- Червоний --&gt; дуже погані боєприпаси)
         </text>
     </string>
     <string id="ui_mm_video_hud_boac">
         <text>
-            Adds Old Ammo Counters(works only if B.G.A.C is actived)
+            Додає лічильники старих набоїв (працює тільки якщо активовано B.G.A.C.)
         </text>
     </string>
     <string id="ui_mm_video_hud_boac_desc">
         <text>
-            Makes the Old Ammo appear in ORANGE color(only when you have no good ammo in the
-            ammo type)
+            Робить старі боєприпаси ОРАНЖЕВИМ кольором (тільки коли у вас немає хороших
+            боєприпасів цього типу)
         </text>
     </string>
     <string id="ui_mm_video_hud_bvoac">
         <text>
-            Adds Very Old Ammo Counters(works only if B.G.A.C is actived)
+            Додає лічильники дуже старих боєприпасів (працює тільки якщо активовано
+            B.G.A.C.)
         </text>
     </string>
     <string id="ui_mm_video_hud_bvoac_desc">
         <text>
-            Makes the Very Old Ammo appear in RED color (only when you have no good ammo and
-            no bad ammo in the ammo type, so a RED zero will appear because Anomaly 1.5.1 do
-            not use very old ammo)
+            Робить дуже старі боєприпаси червоним кольором (тільки коли у вас немає хороших
+            і поганих боєприпасів у типі боєприпасів, тому з'являється червоний нуль, тому
+            що Аномалія 1.5.1 не використовує дуже старі боєприпаси).
         </text>
     </string>
     <string id="ui_mm_video_hud_color_mun_bgac">
         <text>
-            Orange default anomaly colors for ammo counters
+            Помаранчеві кольори аномалій за замовчуванням для лічильників боєприпасів
         </text>
     </string>
     <string id="ui_mm_video_hud_color_mun_bgac_desc">
         <text>
-            Deactivate the BGAC default colors (Traffic Signals Colors : Green --&gt; Good Ammo
-            -- Orange --&gt; Bad Ammo -- Red --&gt; Very Bad Ammo) to activate Default Anomaly
-            Orange colors from darker (Good Ammo) to lighter (Very Bad Ammo)
+            Деактивуйте кольори BGAC за замовчуванням (Traffic Signals Colors : Зелений --&gt;
+            Хороші боєприпаси -- Помаранчевий --&gt; Погані боєприпаси -- Червоний --&gt; Дуже
+            погані боєприпаси), щоб активувати стандартні кольори аномальних помаранчевих
+            сигналів від темніших (Хороші боєприпаси) до світліших (Дуже погані боєприпаси).
         </text>
     </string>
 </string_table>

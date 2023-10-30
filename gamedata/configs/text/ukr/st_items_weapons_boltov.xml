@@ -7,65 +7,66 @@
     </string>
     <string id="st_wpn_boltov_descr">
         <text>
-            Another marvelous feat of a zone engineer. Inspired by one of the zone's most
-            feared weapons, the Boltov uses artifact power to supercharge rusty old bolts.
-            Accelerated to supersonic speed the bolt head separates and is launched at the
-            targets face. The Zone has now its very own gopnik space program.
+            Ще один дивовижний подвиг інженера зони. Натхненний одним з найстрашніших видів
+            зброї Зони, Болтов використовує силу артефакту, щоб перезарядити іржаві старі
+            болти. Розганяючись до надзвукової швидкості, головка болта відокремлюється і
+            запускається в обличчя мішені. Тепер Зона має власну гопницьку космічну
+            програму.
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_operator">
         <text>
-            The Boltov "Gopnikool"
+            Болтов "Гопнікул"
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_operator_descr">
         <text>
-            This semi-auto Boltov has not only been gopnikoolized with a foregrip and an
-            aiming laser, no no no, it also has recoil dampeners and a magazine of 10 bolts!
+            Цей напівавтомат Болтова не тільки гопнікулізований з цілевказівником і лазером
+            прицілювання, ні-ні-ні, він також має гасителі віддачі і магазин на 10 болтів!
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_marksman">
         <text>
-            The Boltov "longer, harder, better"
+            Болтов "довше, важче, краще"
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_marksman_descr">
         <text>
-            Now who the hell thought it would be a good idea to strap a long hard pipe and a
-            bottle of beer as a scope on that thing?
+            Кому в біса спало на думку причепити до цієї штуки довгу тверду трубу і пляшку
+            пива в якості прицілу?
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_specialist">
         <text>
-            The Boltov "Smith &amp; Methson"
+            Болтов "Smith &amp; Methson"
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_specialist_descr">
         <text>
-            [in thick Alabama accent]: and this is the latest model from Smith &amp; Meth-Son!
-            "Silenced" through old cans of beans!
+            [з густим алабамським акцентом]: а це остання модель від Smith &amp; Meth-Son!
+            "Заглушена" за допомогою старих бляшанок з-під квасолі!
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_warmonger">
         <text>
-            The Boltov "Sholtgun"
+            Болтовський "Шолтган"
         </text>
     </string>
     <string id="st_wpn_boltov_kit_lewd_warmonger_descr">
         <text>
-            Bolt-gun, shot-gun... sholt-gun? who the fuck cares?! it shoots bolts and is
-            awesome!
+            Болт-пістолет, дробовик... шолт-пістолет? Яка різниця?! Він стріляє болтами і це
+            круто!
         </text>
     </string>
     <string id="st_boltwpn">
         <text>
-            Weaponized Bolt
+            Озброєний болт
         </text>
     </string>
     <string id="st_boltwpn_descr">
         <text>
-            How did Sakharov manage to weaponize bolts? nobody knows. How to kill monolith
-            fanatics with it? everybody knows.
+            Як Сахарову вдалося озброїти болти - ніхто не знає. Як ним вбивати фанатиків
+            моноліту - всі знають.
         </text>
     </string>
 </string_table>

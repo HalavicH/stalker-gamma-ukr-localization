@@ -2,29 +2,28 @@
 <string_table>
     <string id="ui_mm_video_hud_barthud_lightslide">
         <text>
-            BartHUD Options
+            Параметри BartHUD
         </text>
     </string>
     <string id="ui_mm_video_hud_radbar_show">
         <text>
-            Radiation Exposure Level Bar
+            Індикатор рівня радіаційного опромінення
         </text>
     </string>
     <string id="ui_mm_video_hud_radbar_show_desc">
         <text>
-            Shows the amount of Radiation you have, on the Stamina Bar, going from left-to-
-            right.
+            Показує кількість радіації, яку ви маєте, на шкалі витривалості, зліва направо.
         </text>
     </string>
     <string id="ui_mm_video_hud_bleeding_on_stamina_show">
         <text>
-            Bleeding Level Bar
+            Індикатор рівня кровотечі
         </text>
     </string>
     <string id="ui_mm_video_hud_bleeding_on_stamina_show_desc">
         <text>
-            Shows the amount of blood you're losing, on the Health Bar, going from left-to-
-            right.
+            Показує кількість крові, яку ви втрачаєте, на індикаторі здоров'я, зліва
+            направо.
         </text>
     </string>
 
@@ -36,23 +35,23 @@
     </string> -->
     <string id="ui_mm_video_hud_helmetbar">
         <text>
-            Helmet bar
+            Стан шолома
         </text>
     </string>
     <string id="ui_mm_video_hud_helmetbar_desc">
         <text>
-            Shows the Helmet Condition Bar.
+            Показує панель стану шолома.
         </text>
     </string>
     <string id="ui_mm_video_hud_helmettext">
         <text>
-            Helmet Condition Text
+            Текст стану шолома
         </text>
     </string>
     <string id="ui_mm_video_hud_helmettext_desc">
         <text>
-            Shows the Helmet Condition as a percentage in white cream text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан шолома у відсотках білим кремовим текстом.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
 </string_table>

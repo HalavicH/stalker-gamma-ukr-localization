@@ -19,14 +19,14 @@
     </string>
     <string id="ui_mcm_roguelite_debug">
         <text>
-            Debug
+            Налагодження
         </text>
     </string>
 
     <!--Player Stash Settings-->
     <string id="ui_mcm_roguelite_stashes_description">
         <text>
-            Player Stashes Persistence
+            Схованки гравця Персистентність
         </text>
     </string>
     <string id="ui_mcm_roguelite_is_stash_restore_enabled">
@@ -36,19 +36,19 @@
     </string>
     <string id="ui_mcm_roguelite_show_stashes_on_pda">
         <text>
-            Show restored player stashes on your PDA
+            Відображати відновлені схованки гравців на КПК
         </text>
     </string>
     <string id="ui_mcm_roguelite_stash_item_condition_loss_percent">
         <text>
-            Item condition degredation % between playthroughs
+            Погіршення стану предмета % між проходженнями
         </text>
     </string>
 
     <!--Trader Reputation Settings-->
     <string id="ui_mcm_roguelite_trader_rep_description">
         <text>
-            Trader Reputation Persistence
+            Стабільність репутації трейдера
         </text>
     </string>
     <string id="ui_mcm_roguelite_is_trader_rep_restore_enabled">
@@ -58,14 +58,14 @@
     </string>
     <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
         <text>
-            Trader repuation loss % between playthroughs
+            Втрата репатріації трейдера % між проходженнями
         </text>
     </string>
 
     <!--Charater Reputation Settings-->
     <string id="ui_mcm_roguelite_character_rep_description">
         <text>
-            Charater Reputation Persistence
+            Сталість репутації благодійника
         </text>
     </string>
     <string id="ui_mcm_roguelite_is_character_rep_restore_enabled">
@@ -75,12 +75,12 @@
     </string>
     <string id="ui_mcm_roguelite_character_rep_penalty_percent">
         <text>
-            Character repuation loss % between playthroughs
+            Втрата рекуперації персонажа % між проходженнями
         </text>
     </string>
     <string id="ui_mcm_roguelite_character_rank_penalty_percent">
         <text>
-            Character rank loss % between playthroughs
+            Втрата рангу персонажа % між проходженнями
         </text>
     </string>
 </string_table>
