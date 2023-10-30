@@ -1456,7 +1456,7 @@
     </string>
     <string id="ammo_23x75_shrapnel">
         <text>
-            "Шрапнель-25" 23х75 мм
+            Патрони 23x75 мм "Шрапнель-25" (BaS)
         </text>
     </string>
     <string id="ammo_23x75_shrapnel_descr">
@@ -1470,7 +1470,7 @@
     </string>
     <string id="ammo_23x75_barrikada">
         <text>
-            "Барикада" 23х75мм
+            Патрони 23x75 мм "Барикада" (BaS)
         </text>
     </string>
     <string id="ammo_23x75_barrikada_descr">
@@ -1483,7 +1483,7 @@
     </string>
     <string id="ammo_9x21_sp10">
         <text>
-            9x21 мм SP10
+            Патрони 9x21 СП-10 (BaS)
         </text>
     </string>
     <string id="ammo_9x21_sp10_descr">
@@ -1510,7 +1510,7 @@
           \n%c[d_purple] • %c[ui_gray_2] Рейтинг пошкодження тканин: %c[ui_gray_1]середній
             - високий
           \n
-          \n%c[ui_gray_1]СПЕЦІАЛЬНИЙ:
+          \n%c[ui_gray_1]ОСОБЛИВІСТЬ:
           \n
           \n%c[d_purple] • %c[ui_gray_2] розширювана хмара дробин, короткий ефект.
             діапазон
@@ -1518,7 +1518,7 @@
     </string>
     <string id="ammo_20x70_buck_s">
         <text>
-            Постріл 20х70
+            Постріл 20х70 (дріб)
         </text>
     </string>
     <string id="ammo_23_eco">
@@ -1533,14 +1533,13 @@
             дуже обережного поводження. Спосіб використання: дуже повільно вставляти у
             зброю.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Найвищий клас пробивання броні:
-            %c[ui_gray_1]немає
-          \n%c[d_purple] • %c[ui_gray_2] Оцінка пошкодження тканин: %c[ui_gray_1]немає
+          \n%c[d_purple] •%c[ui_gray_2] пробиває броню класу:%c[ui_gray_1] немає пробиття
+          \n%c[d_purple] •%c[ui_gray_2] ушкодження тканин :%c[ui_gray_1] немає
           \n
-          \n%c[ui_gray_1]СПЕЦІАЛЬНЕ:
+          \n%c[ui_gray_1] ОСОБЛИВІСТЬ:
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Використовуючи тонку вольфрамову голку, вона
-            проколює шкіру мутантів, щоб ввести розчин.
+          \n%c[d_purple] •%c[ui_gray_2] За допомогою тонкої вольфрамової голки пробиває
+            шкіру мутантів для вприскування розчину, що знаходиться в циліндрі.
         </text>
     </string>
     <string id="ammo_23_eco_s">
