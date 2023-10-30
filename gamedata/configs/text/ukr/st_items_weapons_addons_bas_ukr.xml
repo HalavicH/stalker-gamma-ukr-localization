@@ -886,7 +886,7 @@
           \n%c[ui_gray_1]Прилад безшумної стрільби для пістолета-кулемета FN P90 і
             пістолета FN Five-seveN.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]високе
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]високе
         </text>
     </string>
     <string id="st_addon_sil_9mm">
@@ -907,6 +907,8 @@
             сітки. У передній частині приладу розташований набір гумових діафрагм із
             отворами для проходу кулі. Глушник використовується в ближньому бою проти легко
             броньованих супротивників і для тихих вбивств.
+          \n
+          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]дуже висока
         </text>
     </string>
     <string id="st_addon_sil_aac762">
@@ -943,6 +945,8 @@
           \n
           \n%c[ui_gray_1]Прилад безшумної стрільби для пістолета АПС, покращеного за
             допомогою тактичного набору.
+          \n
+          \n %c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_atg">
@@ -984,7 +988,7 @@
     </string>
     <string id="st_addon_sil_black_box">
         <text>
-            ПБС BLACK BOX .45 (BaS)
+            Глушник BLACK BOX .45 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_black_box_descr">
@@ -993,7 +997,7 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] .45 калібр
+          \n%c[d_cyan] • %c[ui_gray_2] 9 мм, .45 кал.
           \n
           \n%c[ui_gray_1]Прилад безшумної стрільби моделі BLACK BOX .45 виробництва
             Advanced Armament Corp. Підходить для більшості пістолетів дев'ятого калібру та
@@ -1016,7 +1020,7 @@
           \n%c[ui_gray_1]Швидкознімний глушник, призначений для встановлення на Remington
             Model 700
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]високе
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]високе
         </text>
     </string>
     <string id="st_addon_sil_forester">
@@ -1032,7 +1036,7 @@
           \n
           \n%c[d_cyan] • %c[ui_gray_2] Mauser 98k Лісник
           \n
-          \n%c[ui_gray_1]Самодельний прилад безшумної стрільби, зроблений Лісником для
+          \n%c[ui_gray_1]Саморобний прилад безшумної стрільби, зроблений Лісником для
             власної моделі снайперської гвинтівки Mauser 98k. Для кріплення на ствол
             гвинтівки повинен бути встановлений спеціальний адаптер.
         </text>
@@ -1073,7 +1077,7 @@
     </string>
     <string id="st_addon_sil_hex23">
         <text>
-            Кнур 23 (BaS)
+            Глушник "Кнур" 23 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_hex23_descr">
@@ -1105,7 +1109,7 @@
           \n
           \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон для СКС.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]низьке
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]низьке
         </text>
     </string>
     <string id="st_addon_sil_kac4">
@@ -1123,12 +1127,12 @@
           \n
           \n%c[ui_gray_1]Глушник Knights Armament QDSS NT- 4 для патронів калібром 5.56х45
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушення звуку: %c[ui_gray_1]середнє
+          \n%c[d_purple] • %c[ui_gray_2] Загушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_kek12">
         <text>
-            Модератор звуку Гексагон 12К (BaS)
+            Глушник Гексагон 12К (BaS)
         </text>
     </string>
     <string id="st_addon_sil_kek12_descr">
@@ -1158,7 +1162,7 @@
           \n
           \n%c[ui_gray_1]Прилад для беззвучної та без полум'яної стрільби зі СВД.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Оглушення звуку: %c[ui_gray_1]середнє
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_lapu7">

@@ -836,7 +836,7 @@
     </string>
     <string id="st_addon_scope_usp1">
         <text>
-            1P29 "Тульпан" (Без окуляра) (BaS)
+            Приціл 1П29 "Тюльпан" (без наочника) (BaS)
         </text>
     </string>
     <string id="st_addon_scope_usp1_descr">
@@ -845,22 +845,22 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] всі гвинтівки Варшавського договору
+          \n%c[d_cyan] • %c[ui_gray_2] вся зброя Варшавського договору
           \n
-          \n%c[ui_gray_1]Приціл USP-1 (індекс 1P29 ) має оптичне розташування з системою
-            встановлення призм. Кути прицілу встановлюються механічно шляхом повороту
-            корпусу прицілу відносно кронштейна кріплення зброї. Не потребує батарейок,
-            оскільки освітлений тритієм. Шкала дальності на краю поля зору прицілу дає змогу
-            візуально знайти дальність до 1200 м від цілі висотою 1,5 м.
+          \n%c[ui_gray_1]Уніфікований стрілецький приціл УСП-1 призначений для ведення
+            прицільної стрільби з автомата АК-74Н, АК-74М, АН-94 і кулеметів РПК-74Н і ПКМН
+            у світлий час доби і вночі по цілях, що світяться і підсвічуються. 1П29 – індекс
+            прицілу УСП-1 Головного артилерійського управління МО СРСР. Створено в рамках
+            ДКР «Тюльпан», звідки й отримав свою назву.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Збільшення: % c[ui_gray_1]4.0x
-          \n %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]хороший
-          \n %c[d_purple] • %c[ui_gray_2] Візерунок сітки: %c[ui_gray_1]PSU- 1
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]4.0x
+          \n %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]добрий
+          \n %c[d_purple] • %c[ui_gray_2] Тип прицільної сітки: %c[ui_gray_1]УСП-1
         </text>
     </string>
     <string id="st_addon_sil_57">
         <text>
-            Глушитель 5,7x28 (BaS+Van)
+            Глушник 5,7x28мм (BaS+Van)
         </text>
     </string>
     <string id="st_addon_sil_57_descr">
@@ -869,16 +869,17 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] зброя калібру 5,7 мм
+          \n%c[d_cyan] • %c[ui_gray_2] 5.7 мм калібр
           \n
-          \n%c[ui_gray_1]Придушувач для FN-P90 PDW та Пістолет FN Five-seveN.
+          \n%c[ui_gray_1]Прилад безшумної стрільби для пістолета-кулемета FN P90 і
+            пістолета FN Five-seveN.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]високий
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]високе
         </text>
     </string>
     <string id="st_addon_sil_9mm">
         <text>
-            Глушитель 9 мм (BaS+Van)
+            Глушник 9мм (BaS+Van)
         </text>
     </string>
     <string id="st_addon_sil_9mm_descr">
@@ -887,39 +888,39 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] зброя калібру 9 мм
+          \n%c[d_cyan] • %c[ui_gray_2] 9 мм калібр
           \n
-          \n%c[ui_gray_1]Глушитель для 9-мм пістолетів і кулеметів. Ефективний шумоглушник
-            для зброї калібру 9х18. Це дуже архаїчно і водночас досить ефективне. Його
-            корпус містить щільно упакований рулон тонкої латунної сітки. Передня частина
-            блоку містить набір гумових серветок з отворами калібрового розміру для
-            проходження кулі. Зазвичай використовується для ближнього бою проти
-            легкоброньованих ворогів і для вбивств.
+          \n%c[ui_gray_1]Глушник для зброї калібру 9 мм. Архаїчний за конструкцією і
+            водночас досить ефективний. Містить усередині щільно запакований рулон латунної
+            сітки. У передній частині приладу розташований набір гумових діафрагм із
+            отворами для проходу кулі. Глушник використовується в ближньому бою проти легко
+            броньованих супротивників і для тихих вбивств.
           \n
           \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]дуже висока
         </text>
     </string>
     <string id="st_addon_sil_aac762">
         <text>
-            Приглушувач звуку AAC 7.62 SDN-6 (BaS)
+            Глушник AAC 7.62 SDN-6 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_aac762_descr">
         <text>
             
+          \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 7,62 Cal.
+          \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр
           \n
-          \n%c[ui_gray_1]Приглушувач звуку AAC 7.62 SDN-6, розроблений для використання з
-            7,62x51 NATO, але також функціонує як чудовий багатокаліберний глушник для
-            кількох хостів, забезпечуючи чудову продуктивність на 7.62 NATO, .300 AAC, 6.8
-            SPC, 6.5 і 5.56 мм NATO. можна встановити лише на пристроях, сумісних із "51T".
+          \n%c[ui_gray_1]Глушник AAC 762 SDN-6 призначений для використання з патроном
+            калібру 7.62x51 NATO, але також може використовуватися з патроном 300 AAC, 6.8
+            SPC, 6.5, і 5.56mm NATO. Може бути встановлений лише на сумісні дульні пристрої
+            з різьбленням типу "51T".
         </text>
     </string>
     <string id="st_addon_sil_apb">
         <text>
-            Придушувач APB (BaS)
+            Глушник АПБ (BaS)
         </text>
     </string>
     <string id="st_addon_sil_apb_descr">
@@ -928,31 +929,31 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 9 мм
+          \n%c[d_cyan] • %c[ui_gray_2] 9 мм калібр.
           \n
-          \n%c[ui_gray_1]Глушитель для оновленого пістолета APS.
+          \n%c[ui_gray_1]Прилад безшумної стрільби для пістолета АПС, покращеного за
+            допомогою тактичного набору.
           \n
           \n %c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_atg">
         <text>
-            Придушувач ATG (BaS+Van)
+            Глушник АТГ (BaS+Van)
         </text>
     </string>
     <string id="st_addon_sil_atg_descr">
         <text>
             
+          \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 5.45, 5.56, 7.62 Cal.
+          \n%c[d_cyan] • %c[ui_gray_2] 5.45, 5.56, 7.62 калібр
           \n
-          \n%c[ui_gray_1]Тактичний автоматичний глушник (ATG) призначений для зниження
-            звучності та вогняності пострілу при стрільбі з автоматів Калашникова калібру
-            5,45 мм АК74, АКС74, АК74М, АК105; Автомати Калашникова калібру 5,56 мм AK101 і
-            AK102, а також автомати Калашникова калібру 7,62 мм AK103 і AK104.
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c_[uimedium_gray
+          \n%c[ui_gray_1]Глушник тактичний автоматний (АТГ) призначений для зниження звуку
+            та полум'я пострілу при стрільбі з 5,45-мм автоматів Калашнікова АК74, АКС74,
+            АК74М, АК105; 5,56-мм автоматів Калашнікова АК101 і АК102, а також 7,62-мм
+            автоматів Калашнікова АК103 і АК104.
         </text>
     </string>
     <string id="st_addon_sil_auga">
@@ -976,24 +977,25 @@
     </string>
     <string id="st_addon_sil_black_box">
         <text>
-            Приглушувач звуку AAC Black Box (BaS)
+            Глушник BLACK BOX .45 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_black_box_descr">
         <text>
             
+          \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
           \n%c[d_cyan] • %c[ui_gray_2] 9 мм, .45 кал.
           \n
-          \n%c[ui_gray_1]Зроблено приглушувач звуку BLACK BOX .45 від Advanced Armament
-            Corp. Працює з більшістю пістолетів калібру 9 мм та 45ACP із різьбовими
-            стволами.
+          \n%c[ui_gray_1]Прилад безшумної стрільби моделі BLACK BOX .45 виробництва
+            Advanced Armament Corp. Підходить для більшості пістолетів дев'ятого калібру та
+            .45ACP, стовбур яких обладнаний спеціальним різьбленням.
         </text>
     </string>
     <string id="st_addon_sil_daniel">
         <text>
-            Приглушувач звуку Daniel Defense Wave QD (BaS)
+            Глушник Daniel Defence Wave QD (BaS)
         </text>
     </string>
     <string id="st_addon_sil_daniel_descr">
@@ -1004,15 +1006,15 @@
           \n
           \n%c[d_cyan] • %c[ui_gray_2] Remington Model 700
           \n
-          \n%c[ui_gray_1]Приглушувач звуку Daniel Defense Wave QD, який може встановити
-            поверх моделі Remington 700
+          \n%c[ui_gray_1]Швидкознімний глушник, призначений для встановлення на Remington
+            Model 700
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]Високий
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]високе
         </text>
     </string>
     <string id="st_addon_sil_forester">
         <text>
-            Приглушувач звуку "K98 Forester" (BaS)
+            ПБС K98 Лісник (BaS)
         </text>
     </string>
     <string id="st_addon_sil_forester_descr">
@@ -1021,34 +1023,33 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] Mauser 98k Forester
+          \n%c[d_cyan] • %c[ui_gray_2] Mauser 98k Лісник
           \n
-          \n%c[ui_gray_1]Саморобний приглушувач звуку, виготовлений Лісником для свого
-            власна модифікація снайперської гвинтівки Mauser 98k. Для кріплення до ствола
-            гвинтівки необхідно встановити спеціальний перехідник.
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]Високий
+          \n%c[ui_gray_1]Саморобний прилад безшумної стрільби, зроблений Лісником для
+            власної моделі снайперської гвинтівки Mauser 98k. Для кріплення на ствол
+            гвинтівки повинен бути встановлений спеціальний адаптер.
         </text>
     </string>
     <string id="st_addon_sil_geks545">
         <text>
-            5,45/7,62x39 Hexagon Sound Suppressor (BaS)
+            Гексагон 5.45/7.62x39 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_geks545_descr">
         <text>
             
+          \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 5.45, 7.62 Cal.
+          \n%c[d_cyan] • %c[ui_gray_2] 5.45, 7.62 калібр
           \n
-          \n%c[ui_gray_1]Приглушувач звуку від компанії Hexagon для 5.45x39 та Калібри
-            7,62x39.
+          \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон під калібри
+            5.45x39 та 7.62x39.
         </text>
     </string>
     <string id="st_addon_sil_gemtech">
         <text>
-            Приглушувач Gemtech (BaS+Van)
+            Глушник GemTech (BaS+Van)
         </text>
     </string>
     <string id="st_addon_sil_gemtech_descr">
@@ -1057,16 +1058,15 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] зброя 9 мм, калібр .45
+          \n%c[d_cyan] • %c[ui_gray_2] 9 мм, .45 калібр
           \n
-          \n%c[ui_gray_1]Глушитель для Glock, FN-FNP, Walther тощо
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]високе
+          \n%c[ui_gray_1]Прилад безшумної стрільби для пістолетів Glock , FN FNP, Walther
+            і т.д.
         </text>
     </string>
     <string id="st_addon_sil_hex23">
         <text>
-            Приглушувач звуку Swine 23 (BaS)
+            Глушник "Кнур" 23 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_hex23_descr">
@@ -1075,19 +1075,17 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 23 мм Cal.
+          \n%c[d_cyan] • %c[ui_gray_2] 23mm калібр
           \n
-          \n%c[ui_gray_1]«Домашній» пристрій для глушіння звуку постріл для КС-23 Кабан.
-            Зроблено деякими зброярами в Зоні. Призначення цього пристрою – хоча б трохи
-            зменшити рев пострілу Кабана, щоб не привертати зайвої уваги. Конструкція вийшла
-            громовою та важкою, що додає певних незручностей при використанні глушника.
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]низький
+          \n%c[ui_gray_1]Самодельний пристрій глушіння звуку пострілу для КС-23 Кабан .
+            Виготовляється деякими зброярами у ЧЗВ. Мета цього приладу хоча б трохи зменшити
+            гуркіт пострілу Кабана, щоб не привертати зайвої уваги. Конструкція вийшла
+            громостська і важка, що додає деякі незручності при використанні глушника.
         </text>
     </string>
     <string id="st_addon_sil_hexagon">
         <text>
-            Приглушувач звуку Hexagon SKS 7,62x39 (BaS)
+            Глушник Гексагон СКС 7.62x39 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_hexagon_descr">
@@ -1096,16 +1094,16 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 7,62 кал.
+          \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр
           \n
-          \n%c[ui_gray_1]Приглушувач звуку SKS від компанії Hexagon.
+          \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон для СКС.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]низький
+          \n%c[d_purple] • %c[ui_gray_2] Залушення звуку: %c[ui_gray_1]низьке
         </text>
     </string>
     <string id="st_addon_sil_kac4">
         <text>
-            Глушник KAC QDSS NT-4 5,56x45 (BaS)
+            Глушник KAC QDSS NT-4 5.56x45 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_kac4_descr">
@@ -1116,30 +1114,31 @@
           \n
           \n%c[d_cyan] • %c[ui_gray_2]Howa Type 20 (BaS)
           \n
-          \n%c[ui_gray_1]Лицарське озброєння QDSS NT-4 5,56x45 і глушник .223.
+          \n%c[ui_gray_1]Глушник Knights Armament QDSS NT- 4 для патронів калібром 5.56х45
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
+          \n%c[d_purple] • %c[ui_gray_2] Загушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_kek12">
         <text>
-            Приглушувач звуку Hexagon 12K (BaS)
+            Глушник Гексагон 12К (BaS)
         </text>
     </string>
     <string id="st_addon_sil_kek12_descr">
         <text>
             
+          \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] 12 Cal.
+          \n%c[d_cyan] • %c[ui_gray_2] 12-й калібр
           \n
-          \n%c[ui_gray_1]Модератор звуку від компанії Hexagon для рушниць і карабінів 12ga
-            .
+          \n%c[ui_gray_1]Модератор звуку пострілу від компанії Гексагон, призначений для
+            карабінів та рушниць 12 калібру.
         </text>
     </string>
     <string id="st_addon_sil_kzrzp">
         <text>
-            Глушитель КЗРЗП (BaS+Van)
+            Глушник КЗРЗП (BaS+Van)
         </text>
     </string>
     <string id="st_addon_sil_kzrzp_descr">
@@ -1148,16 +1147,16 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] зброя калібру 7,62
+          \n%c[d_cyan] • %c[ui_gray_2] 7.62 калібр
           \n
-          \n%c[ui_gray_1]Придушувач для снайперської гвинтівки СВД.
+          \n%c[ui_gray_1]Прилад для беззвучної та без полум'яної стрільби зі СВД.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_sil_lapu7">
         <text>
-            Приглушувач звуку M700 .338LM (BaS)
+            ПБС M700.338LM (BaS)
         </text>
     </string>
     <string id="st_addon_sil_lapu7_descr">
@@ -1168,15 +1167,13 @@
           \n
           \n%c[d_cyan] • %c[ui_gray_2] Remington M700 .338 Lapua Magnum.
           \n
-          \n%c[ui_gray_1]Приглушувач звуку з анти- нагрівальний корпус для Remington M700
-            .338 Lapua Magnum
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]Середнє
+          \n%c[ui_gray_1]Прилад безшумної стрільби з протимішками кожухом для снайперської
+            гвинтівки Remington M700 калібру.
         </text>
     </string>
     <string id="st_addon_sil_m42k">
         <text>
-            AAC M4-2000 (BaS)
+            Глушник AAC M4-2000 (BaS)
         </text>
     </string>
     <string id="st_addon_sil_m42k_descr">
@@ -1187,10 +1184,8 @@
           \n
           \n%c[d_cyan] • %c[ui_gray_2] M4A1 RAS (BaS), L85 (BaS)
           \n
-          \n%c[ui_gray_1]Надійний універсальний глушник від Advanced Armament Corp для
-            карабінів AR-15.
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
+          \n%c[ui_gray_1]Надійний універсальний глушник від компанії Advanced Armament
+            Corp для AR-15 карабінів.
         </text>
     </string>
     <string id="st_addon_sil_nato">
@@ -1204,11 +1199,8 @@
           \n
           \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] • %c[ui_gray_2] зброя калібру .45, 5.56, 7.62
-          \n
-          \n%c[ui_gray_1]Глушник для стандарту Гвинтівки НАТО калібру 5,56x45 мм.
-          \n
-          \n%c[d_purple] • %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]високе
+          \n%c[d_cyan] • %c[ui_gray_2]. стрільби для штурмових гвинтівок стандарту НАТО
+            калібру 5,56х45, а також для пістолетів і пістолетів-кулеметів калібру 11,43x23.
         </text>
     </string>
     <string id="st_addon_sil_osp9">
