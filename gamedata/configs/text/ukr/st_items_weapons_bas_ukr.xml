@@ -42,6 +42,20 @@
           \n
         </text>
     </string>
+    <string id="st_wpn_ak105_sp">
+        <text>
+            АК-105 Фахівець (BaS)
+        </text>
+    </string>
+    <string id="st_wpn_ak12_m1">
+        <text>
+            АК-12 (обр. 2016 р.)(BaS)
+        </text>
+    </string>
+
+    <!--==================================================================-->
+    <!--Duplicated string IDs with different content (requires inspection)-->
+    <!--==================================================================-->
     <string id="st_wpn_ak104_alfa_descr">
         <text>
             Кастомізований варіант автомата АК104 калібру 7,62 мм. Дуже схоже на слід
@@ -50,11 +64,6 @@
           \n %c[d_purple] • %c[ui_gray_2] приціли: Всі приціли для пікатінни
           \n %c[d_purple] • %c[ui_gray_2] глушник: Модератор звуку Гексагон 5.45/7.62x39
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak105_sp">
-        <text>
-            АК-105 Фахівець (BaS)
         </text>
     </string>
     <string id="st_wpn_ak105_sp_descr">
@@ -86,11 +95,6 @@
           \n %c[0,93,0,116] • %c[0,140,140,140] глушник: Модератор звуку Гексагон
             5.45/7.62
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak12_m1">
-        <text>
-            АК-12 (обр. 2016 р.)(BaS)
         </text>
     </string>
     <string id="st_wpn_ak12_m1_descr">
