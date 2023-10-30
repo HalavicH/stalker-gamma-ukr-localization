@@ -732,6 +732,11 @@
             Glock 17 (BaS)
         </text>
     </string>
+        <string id="st_wpn_glock17_short">
+        <text>
+            Glock 17
+        </text>
+    </string>
     <string id="st_wpn_glock17_descr">
         <text>
             Glock 17 - австрійський напівавтоматичний пістолет з полімерної рамою,

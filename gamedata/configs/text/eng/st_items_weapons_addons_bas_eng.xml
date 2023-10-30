@@ -2,7 +2,7 @@
 <string_table>
     <string id="st_addon_scope">
         <text>
-            Приціл PSO-1M (BaS+Van)
+            Приціл ПСО-1М (BaS+Van)
         </text>
     </string>
     <string id="st_addon_scope_descr">
@@ -27,7 +27,7 @@
           \n
           \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]4.0x
           \n %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]хороший
-          \n %c[d_purple] • %c[ui_gray_2] Візерунок сітки: %c[ui_gray_1]PSO-1
+          \n %c[d_purple] • %c[ui_gray_2] Тип прицільної сітки: %c[ui_gray_1] ПСО-1
         </text>
     </string>
     <string id="st_addon_scope_1p29">
