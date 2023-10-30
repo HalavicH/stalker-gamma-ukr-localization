@@ -2,42 +2,42 @@
 <string_table>
     <string id="st_tag_easy">
         <text>
-            Easy
+            Легко
         </text>
     </string>
     <string id="st_tag_medium">
         <text>
-            Medium
+            Середньо
         </text>
     </string>
     <string id="st_tag_hard">
         <text>
-            Hard
+            Важко
         </text>
     </string>
     <string id="st_tag_machine">
         <text>
-            Machine
+            Машина
         </text>
     </string>
     <string id="st_tag_anime">
         <text>
-            Anime
+            Аніме
         </text>
     </string>
     <string id="st_tag_movies">
         <text>
-            Movies
+            Фільми
         </text>
     </string>
     <string id="st_tag_games">
         <text>
-            Games
+            Ігри
         </text>
     </string>
     <string id="st_tag_classical">
         <text>
-            Classical
+            Класика
         </text>
     </string>
     <string id="st_tag_stalker">

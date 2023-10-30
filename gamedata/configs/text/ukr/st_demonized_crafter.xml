@@ -2,42 +2,42 @@
 <string_table>
     <string id="st_demonized_crafter">
         <text>
-            Craft
+            Ремесло / Створення
         </text>
     </string>
     <string id="st_demonized_crafter_craft_success">
         <text>
-            Crafted
+            Створено
         </text>
     </string>
     <string id="st_demonized_crafter_craft_spent_items">
         <text>
-            Used items
+            Використані предмети
         </text>
     </string>
     <string id="st_demonized_crafter_craft_fail">
         <text>
-            Failed to craft
+            Не вдалося створити
         </text>
     </string>
     <string id="st_demonized_crafter_craft_possible_combinations">
         <text>
-            Possible combinations
+            Можливі комбінації
         </text>
     </string>
     <string id="st_demonized_crafter_craft_or">
         <text>
-            OR
+            АБО
         </text>
     </string>
     <string id="st_demonized_crafter_craft_all">
         <text>
-            All
+            Усе
         </text>
     </string>
     <string id="st_demonized_crafter_craft_check_pda_news">
         <text>
-            Check recipes in PDA in "News" tab
+            Перевіряйте рецепти на КПК у вкладці "Новини"
         </text>
     </string>
 </string_table>

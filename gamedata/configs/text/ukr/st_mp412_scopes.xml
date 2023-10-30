@@ -2,28 +2,28 @@
 <string_table>
     <string id="st_integrated_docter">
         <text>
-            DOCTER sight
+            ѕриц≥л DOCTER
         </text>
     </string>
     <string id="st_integrated_docter_descr">
         <text>
             ƒоступно лише п≥сл€ модиф≥кац≥њ.
           \n
-          \n %c[d_purple] Х %c[ui_gray_2] Magnification: %c[ui_gray_1]none (collimator)
-          \n %c[d_purple] Х %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1]немаЇ (кол≥матор)
+          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_integrated_compact">
         <text>
-            Compact sight
+             омпактний приц≥л
         </text>
     </string>
     <string id="st_integrated_compact_descr">
         <text>
             ƒоступно лише п≥сл€ модиф≥кац≥њ.
           \n
-          \n %c[d_purple] Х %c[ui_gray_2] Magnification: %c[ui_gray_1]none (collimator)
-          \n %c[d_purple] Х %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1]немаЇ (кол≥матор)
+          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
 </string_table>

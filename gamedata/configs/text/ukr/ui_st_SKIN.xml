@@ -7,24 +7,24 @@
     </string>
     <string id="ui_mcm_SKIN_desc">
         <text>
-            S.k.I.n makes you able to skin mutants without pulling your knife out while
-            still retaining core functions, like durability loss.
-          \nCurrently requires FDDA mutant loot animations to be enabled.
+            S.k.I.n дозволяє вам здирати шкіру з мутантів, не виймаючи ножа, зберігаючи при
+            цьому основні функції, такі як втрата міцності.
+          \nНаразі вимагає увімкнення анімації здобичі мутантів FDDA.
         </text>
     </string>
     <string id="ui_mcm_SKIN_settings_enable">
         <text>
-            Enable S.k.I.n
+            Увімкнути S.k.I.n
         </text>
     </string>
     <string id="ui_mcm_SKIN_settings_space">
         <text>
-            Enable "Loot all" with Spacebar in addition to Enter
+            Увімкніть "Loot all" з пробілом на додаток до клавіші Enter
         </text>
     </string>
     <string id="ui_mcm_SKIN_settings_equipped">
         <text>
-            Require knife or axe to be equipped into a slot
+            Вимагати, щоб ніж або сокира були встановлені в гніздо
         </text>
     </string>
 </string_table>

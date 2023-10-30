@@ -7,15 +7,15 @@
     </string>
     <string id="st_wpn_beretta_stars_descr">
         <text>
-            The 92F is perhaps best known as the standard pistol of the US Military,
-            replacing the legendary M1911. It is a short-recoil operated, locked-breech
-            weapon with an aluminium frame and a hard chromed barrel bore. A popular sidearm
-            adopted by several countries, it is especially popular among criminals for its
-            high-powered rounds and high-capacity magazine.
+            Пістолет 92F, мабуть, найбільш відомий як стандартний пістолет збройних сил США,
+            що прийшов на зміну легендарному M1911. Це зброя з автоматикою з короткою
+            віддачею, із закритим затвором, алюмінієвою рамою та твердим хромованим стволом.
+            Популярна зброя, прийнята на озброєння кількома країнами, особливо популярна
+            серед злочинців завдяки своїм потужним патронам та магазину великої місткості.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] silencer 9 мм (after modification)
-          \n %c[d_purple] • %c[ui_gray_2] Scopes: Docter, RMR, DeltaPoint
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[ui_gray_2] глушник 9 мм (після модифікації)
+          \n %c[d_purple] • %c[ui_gray_2] Приціли: Docter, RMR, DeltaPoint
           \n
           \n
         </text>
