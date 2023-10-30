@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_menu_dii_custom_layers_barry">
         <text>
-            Barry Indicators
+            Індикатори Баррі
         </text>
     </string>
     <string id="ui_mcm_dii_barry_cortex_show">
         <text>
-            Toggle cortex sight indicator
+            Перемкнути індикатор прицілу 
         </text>
     </string>
 </string_table>

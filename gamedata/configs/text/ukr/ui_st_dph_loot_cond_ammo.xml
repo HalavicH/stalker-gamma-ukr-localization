@@ -2,24 +2,24 @@
 <string_table>
     <string id="ui_mcm_menu_ammo">
         <text>
-            Ammo
+            Боєприпаси
         </text>
     </string>
     <string id="ui_mcm_dph_loot_cond_ammo">
         <text>
-            Ammo
+            Боєприпаси
         </text>
     </string>
 
     <!-- //// -->
     <string id="ui_mcm_dph_loot_cond_ammo_factor">
         <text>
-            Amount
+            Сума
         </text>
     </string>
     <string id="ui_mcm_dph_loot_cond_ammo_disable_bad">
         <text>
-            Don't spawn old ammo
+            Не спавнити старі боєприпаси
         </text>
     </string>
 </string_table>

@@ -2,22 +2,22 @@
 <string_table>
     <string id="ui_mcm_menu_quick_melee">
         <text>
-            Quick Melee Reworked
+            Швидкий ближній бій
         </text>
     </string>
     <string id="ui_mcm_quick_melee_keybind">
         <text>
-            Keybind
+            Зв'язка клавіш
         </text>
     </string>
     <string id="ui_mcm_quick_melee_normal_dmg">
         <text>
-            Normal damage multiplier
+            Звичайний множник шкоди
         </text>
     </string>
     <string id="ui_mcm_quick_melee_critical_dmg">
         <text>
-            Critical damage multiplier
+            Множник критичної шкоди
         </text>
     </string>
 </string_table>

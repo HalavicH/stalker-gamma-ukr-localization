@@ -2,27 +2,27 @@
 <string_table>
     <string id="st_electric_piano_name">
         <text>
-            Electric Piano
+            Електричне піаніно
         </text>
     </string>
     <string id="st_flute_name">
         <text>
-            Flute
+            Флейта
         </text>
     </string>
     <string id="st_piano_name">
         <text>
-            Piano
+            Фортепіано
         </text>
     </string>
     <string id="st_saxophone_name">
         <text>
-            Saxophone
+            Саксофон
         </text>
     </string>
     <string id="st_strings_name">
         <text>
-            Strings
+            Струнні
         </text>
     </string>
 </string_table>

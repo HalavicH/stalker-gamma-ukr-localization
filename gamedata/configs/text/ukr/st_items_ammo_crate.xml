@@ -2,28 +2,28 @@
 <string_table>
     <string id="st_ac_open">
         <text>
-            Open
+            ¬≥дкрито
         </text>
     </string>
     <string id="st_ac_ammo_crate">
         <text>
-            Ammunition crate
+            ящик дл€ боЇприпас≥в
         </text>
     </string>
     <string id="st_ac_ammo_crate_s">
         <text>
-            Ammo crate
+            ящик з боЇприпасами
         </text>
     </string>
     <string id="st_ac_ammo_crate_descr">
         <text>
-            An old military ammo crate. It's completely empty. That being said, it would
-            make for the perfect storage for keeping your ammo dry and safe. It also will
-            prevent your backpack from getting to cluttered.
+            —тарий в≥йськовий €щик з боЇприпасами. јбсолютно порожн≥й. “им не менш, це
+            ≥деальне м≥сце дл€ збер≥ганн€ набоњв, де вони будуть сухими та безпечними. ¬≥н
+            також не дасть вашому рюкзаку захаращуватис€.
           \n
-          \n %c[ui_gray_1]PROPERTIES:
-          \n %c[d_blue] Х %c[ui_gray_2] everyday item
-          \n %c[d_blue] Х %c[ui_gray_2] military item
+          \n %c[ui_gray_1]¬Ћј—“»¬ќ—“≤:
+          \n %c[d_blue] Х %c[ui_gray_2] повс€кденна р≥ч
+          \n %c[d_blue] Х %c[ui_gray_2] в≥йськова р≥ч
           \n
         </text>
     </string>
