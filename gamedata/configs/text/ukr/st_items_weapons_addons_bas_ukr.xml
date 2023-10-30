@@ -1551,10 +1551,6 @@
           \n
         </text>
     </string>
-
-    <!--===============================-->
-    <!--Unique string IDs (keeping as is)-->
-    <!--===============================-->
     <string id="st_addon_sil_aps">
         <text>
             Глушник АПС (BaS+Van)
