@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <string id="st_not_in_use">
-        <text>
-            Предмет не використовується/The Item is not in use (BaS)
-        </text>
-    </string>
-    <string id="st_not_in_use_descr">
-        <text>
-            Предмет не використовується/The Item is not in use
-        </text>
-    </string>
-    <string id="st_knifebf4">
-        <text>
-            Бойовий ніж «ОЦ-04» (BaS)
-        </text>
-    </string>
-    <string id="st_knifebf4_descr">
-        <text>
-            Ніж ОЦ-04 був розроблений в Тульському центральному конструкторському дослідному
-            бюро (ЦКІБ) в кінці 80-х - початку 90-х і призначався для спецпідрозділів
-            внутрішніх військ МВС.
-        </text>
-    </string>
     <string id="st_kukri">
         <text>
             Кукри (BaS)
@@ -33,11 +11,6 @@
             автобуса, багато років простояв в аномальному поле, в зв'язку з чим володіє
             чудовими ріжучими та стинають свойствми. Ідеальний як для оброблення мутантів
             всіх мастей, так і для захисту від них.
-        </text>
-    </string>
-    <string id="st_wpn_ak12_custom">
-        <text>
-            AK-12 Моноліт (BaS)
         </text>
     </string>
     <string id="st_wpn_ak12_custom_descr">
@@ -139,18 +112,6 @@
           \n
         </text>
     </string>
-    <string id="st_tactical_knife">
-        <text>
-            Клинок Моноліту (BaS)
-        </text>
-    </string>
-    <string id="st_tactical_knife_descr">
-        <text>
-            Ходять чутки що ці клініки виробляються в дуже малій кількості майстрами з
-            угруповання Моноліт. Склад сплаву метала не відомий - кажуть добути його можна
-            тільки в самому серці саркофага.
-        </text>
-    </string>
     <string id="st_wpn_saiga12s_m1">
         <text>
             Сайга-12 "науковці" (BaS)
@@ -215,11 +176,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_ak74m_beard">
-        <text>
-            АК-74М Борода (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak74m_beard_descr">
         <text>
             Цей АК, свого роду отрута Бороди (не плутати з його чаєм). Полегшений і
@@ -254,11 +210,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_akm_isg">
-        <text>
-            Rifle Dynamics RD-47 ISG (BaS)
-        </text>
-    </string>
     <string id="st_wpn_akm_isg_descr">
         <text>
             Кастомними модель, розроблена на базі АКМ американською компанією Rifle
@@ -275,11 +226,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_ak74u_isg">
-        <text>
-            Rifle Dynamics RD-74U ISG (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak74u_isg_descr">
         <text>
             Кастомними модель, розроблена на базі АКСУ американською компанією Rifle
@@ -290,11 +236,6 @@
           \n%c[d_purple] •%c[ui_gray_2] Приціли: Всі приціли для пікатінні
           \n%c[d_purple] •%c[ui_gray_2] глушник: ПБС Rifle Dynamics
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak74u_m1_isg">
-        <text>
-            Rifle Dynamics RD-74U ISG Тактичний (BaS)
         </text>
     </string>
     <string id="st_wpn_ak74u_m1_isg_descr">
@@ -311,11 +252,6 @@
           \n%c[d_purple] •%c[ui_gray_2] Приціли: Всі приціли для пікатінні
           \n%c[d_purple] •%c[ui_gray_2] глушник: ПБС Rifle Dynamics
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak74_isg">
-        <text>
-            Rifle Dynamics RD-74M ISG (BaS)
         </text>
     </string>
     <string id="st_wpn_ak74_isg_descr">
@@ -597,11 +533,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_ak74u_n1">
-        <text>
-            АКС-74У (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak74u_n1_descr">
         <text>
             Скорочений автомат АКС-74У був розроблений в якості основного зброї сил
@@ -616,11 +547,6 @@
             прицілів ПСО з наочником і 1П59 Гіперон.
           \n%c[d_purple] •%c[ui_gray_2] глушник: ПБС-4
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak74u_tac">
-        <text>
-            АКС-74У Тактичний (BaS)
         </text>
     </string>
     <string id="st_wpn_ak74u_tac_descr">
@@ -780,11 +706,6 @@
           \n
           \n %c[d_purple] • %c[ui_gray_2] Глушник: Ні
           \n
-        </text>
-    </string>
-    <string id="st_wpn_fal_aus">
-        <text>
-            DS Arms SA-58 AUS "Австрійський стиль" (BaS)
         </text>
     </string>
     <string id="st_wpn_fal_aus_descr">
@@ -1017,11 +938,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_ak104_alfa">
-        <text>
-            AK-104 Alpha (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak104_alfa_descr">
         <text>
             Кастомізованих варіант автомата АК104 калібру 7,62 мм. Дуже похожe на слід
@@ -1032,11 +948,6 @@
           \n%c[d_purple] •%c[ui_gray_2] приціли: Всі приціли для пікатінні
           \n%c[d_purple] •%c[ui_gray_2] глушник: Модератор звуку Гексагон 5.45/7.62x39
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak74_n">
-        <text>
-            АК-74 (BaS)
         </text>
     </string>
     <string id="st_wpn_ak74_n_descr">
@@ -1112,11 +1023,6 @@
           \n%c[d_purple] •%c[ui_gray_2] приціл: ПГО-7В ,
         </text>
     </string>
-    <string id="st_wpn_ak74m_n">
-        <text>
-            АК-74М (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak74m_n_descr">
         <text>
             В середині 1980-х років конструктори Іжевського машинобудівного заводу розробили
@@ -1135,11 +1041,6 @@
             прицілів ПСО з наочником через не зручності застосування і 1П59 Гіперон.
           \n%c[d_purple] •%c[ui_gray_2] глушник ТГП-А
           \n
-        </text>
-    </string>
-    <string id="st_wpn_colt1911_n">
-        <text>
-            Colt M1911 (BaS)
         </text>
     </string>
     <string id="st_wpn_colt1911_n_descr">
@@ -1312,11 +1213,6 @@
             кріпленні, Trijicon RMR, Leupold DeltaPoint PRO.
           \n%c[d_purple] •%c[ui_gray_2] глушник: Глушник 5,7x28мм
           \n
-        </text>
-    </string>
-    <string id="st_wpn_abakan_n">
-        <text>
-            АН-94 Абакан (BaS)
         </text>
     </string>
     <string id="st_wpn_abakan_n_descr">
@@ -1739,11 +1635,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_aps_bas">
-        <text>
-            АПС (BaS)
-        </text>
-    </string>
     <string id="st_wpn_aps_bas_descr">
         <text>
             Пістолет, розроблений в кінці 1940-х - початку 1950-х років конструктором І. Я.
@@ -1871,11 +1762,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_akm_alfa">
-        <text>
-            CAA АК-Альфа (BaS)
-        </text>
-    </string>
     <string id="st_wpn_akm_alfa_descr">
         <text>
             Розроблена в Ізраїлі командною зброєю та аксесуарами (CAA), штурмова гвинтівка
@@ -1952,11 +1838,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_aug_a1_bas">
-        <text>
-            Steyr AUG A1 (BaS)
-        </text>
-    </string>
     <string id="st_wpn_aug_a1_bas_descr">
         <text>
             Гвинтівка Steyr AUG A1 в стандартній конфігурації з незнімним оптичним
@@ -1974,11 +1855,6 @@
           \n%c[d_purple] •%c[ui_gray_2] Приціл 1.5x (інтегрований).
           \n%c[d_purple] •%c[ui_gray_2] Глушник: Steyr UMS.
           \n
-        </text>
-    </string>
-    <string id="st_wpn_aug_a3_bas">
-        <text>
-            Steyr AUG A3 (BaS)
         </text>
     </string>
     <string id="st_wpn_aug_a3_bas_descr">
@@ -2003,11 +1879,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_aug_a1_custom_bas">
-        <text>
-            Steyr AUG A1 CQB (BaS)
-        </text>
-    </string>
     <string id="st_wpn_aug_a1_custom_bas_descr">
         <text>
             Гвинтівка Steyr AUG A1 в стандартній конфігурації з незнімним оптичним
@@ -2026,11 +1897,6 @@
           \n%c[d_purple] •%c[ui_gray_2] Приціл 1.5x (інтегрований).
           \n%c[d_purple] •%c[ui_gray_2] Глушник: Steyr UMS.
           \n
-        </text>
-    </string>
-    <string id="st_wpn_aug_a3_custom_bas">
-        <text>
-            Steyr AUG A3 Commando (BaS)
         </text>
     </string>
     <string id="st_wpn_aug_a3_custom_bas_descr">
@@ -2054,11 +1920,6 @@
           \n
         </text>
     </string>
-    <string id="st_wpn_ak5c_bas">
-        <text>
-            AK 5C (BaS)
-        </text>
-    </string>
     <string id="st_wpn_ak5c_bas_descr">
         <text>
             Ak5 (Automatkarbin 5 - автоматичний карабін 5) або CGA5 (Carl Gustav Automatic
@@ -2076,11 +1937,6 @@
           \n%c[d_purple] •%c[ui_gray_2] приціли: Все для пікатінні.
           \n%c[d_purple] •%c[ui_gray_2] Глушник: NATO.
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak5c_bas_5c_tik">
-        <text>
-            AK 5C ISG Special (BaS)
         </text>
     </string>
     <string id="st_wpn_ak5c_bas_5c_tik_descr">
@@ -2103,11 +1959,6 @@
             ЛЦВ.
           \n%c[d_purple] •%c[ui_gray_2] Глушник: ПБС Rifle Dynamics.
           \n
-        </text>
-    </string>
-    <string id="st_wpn_ak5c_isg">
-        <text>
-            AK 5C ISG (BaS)
         </text>
     </string>
     <string id="st_wpn_ak5c_isg_descr">
