@@ -971,8 +971,8 @@
           \n%c[ui_gray_2] - %c[ui_gray_2] Сила вибуху: %c[ui_gray_1]висока
           \n%c[ui_gray_2] - %c[ui_gray_2] Радіус вибуху: %c[ui_gray_1]5,6 м
           \n%c[ui_gray_2] - %c[ui_gray_2] Радіус уламків: %c[ui_gray_1]41 м
-          \n%c[ui_gray_2] - %c[ui_gray_2] Пр. кількість осколків: %c[ui_gray_1]153
-            (дрібні осколки)
+          \n%c[ui_gray_2] - %c[ui_gray_2] Пр. кількість осколків: %c[ui_gray_1]153 (дрібні
+            осколки)
           \n%c[ui_gray_2] - %c[ui_gray_2] Затримка вибуху: %c[ui_gray_1]немає (вибухає при
             ударі)
         </text>
