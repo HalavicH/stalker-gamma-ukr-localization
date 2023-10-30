@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <!--==================================================================-->
-    <!--Duplicated string IDs with different content (requires inspection)-->
-    <!--==================================================================-->
     <string id="st_kukri">
         <text>
             Кукри (BaS)
@@ -1457,6 +1454,9 @@
         </text>
     </string>
 
+    <!--===============================-->
+    <!--Unique string IDs (keeping as is)-->
+    <!--===============================-->
     <!--===============================-->
     <!--Unique string IDs (keeping as is)-->
     <!--===============================-->
