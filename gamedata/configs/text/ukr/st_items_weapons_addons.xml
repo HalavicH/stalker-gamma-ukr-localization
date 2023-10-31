@@ -128,7 +128,7 @@
           \n
           \n%c[ui_gray_1] Прилад безшумної стрільби для пістолетів 45-го калібру.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] дуже висока
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] дуже висока
             (пістолет)
         </text>
     </string>
@@ -147,7 +147,7 @@
           \n
           \n%c[ui_gray_1] Прилад безшумної стрільби для пістолета ПБ (6П9).
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] відмінне
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] відмінне
         </text>
     </string>
     <string id="st_addon_sil_9a91">
@@ -165,7 +165,7 @@
           \n
           \n%c[ui_gray_1] Прилад безшумної стрільби для автоматів 9A-91 і ВСК-94.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] дуже висока
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] дуже висока
         </text>
     </string>
     <string id="st_addon_sil_sr25">
@@ -184,7 +184,7 @@
           \n%c[ui_gray_1] Прилад для беззвучної і безполуменевої стрільби з самозарядною
             снайперської гвинтівки SR- 25.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] високе
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] високе
         </text>
     </string>
     <string id="st_addon_sil_vihr">
@@ -202,7 +202,7 @@
           \n
           \n%c[ui_gray_1] Прилад безшумної стрільби для автомата СР-3М.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] дуже висока
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] дуже висока
         </text>
     </string>
     <string id="st_addon_silencer_svu">
@@ -226,7 +226,7 @@
             такі можливості досягаються ціною зменшеною початковою швидкістю кулі, значно
             знижуючи потенційна втрата зброї.
           \n
-          \n%c[d_purple] • %c[ui_gray_2] Глушіння звуку: %c[ui_gray_1] низьке
+          \n%c[d_purple] • %c[ui_gray_2] Заглушення звуку: %c[ui_gray_1] низьке
           \n
           \n%c[ui_gray_1] ОСОБЛИВІСТЬ :
           \n
