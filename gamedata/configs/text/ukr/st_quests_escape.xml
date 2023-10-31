@@ -451,7 +451,7 @@
     </string>
 
     <!-- # -->
-    <!--\nimble (Loner Trader) Find Weapon Task -->
+    <!--\Спритник (Loner Trader) Find Weapon Task -->
     <string id="esc_2_12_stalker_nimble_task_1_name">
         <text>
             Постачальник зброї
@@ -491,10 +491,10 @@
     </string>
 
     <!-- # -->
-    <!--\nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+    <!--\Спритник (Loner Trader) Retrieve PDA Dynamic Task -->
     <string id="esc_2_12_stalker_nimble_task_2_name">
         <text>
-            Доставити КПК Спритному
+            Доставити КПК Спритнику
         </text>
     </string>
     <string id="esc_2_12_stalker_nimble_task_2_text">

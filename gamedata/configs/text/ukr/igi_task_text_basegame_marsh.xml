@@ -197,12 +197,12 @@
     <!-- Spore (Clear Sky Trader) Deliver PDA Task -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_title">
         <text>
-            Доставити КПК до Nimble
+            Доставити КПК Спритнику
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_descr">
         <text>
-            Spore потребує, щоб ви доставили зашифрований КПК до Nimble у Затоні.
+            Спора хоче, щоб ви доставили зашифрований КПК Спритнику на Затоні.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_job_descr">

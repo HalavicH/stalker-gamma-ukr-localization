@@ -190,7 +190,7 @@
     </string>
 
     <!-- ========================================================================================= -->
-    <!-- Nimble (Loner Trader) Find Weapon Task -->
+    <!-- Спритник (Loner Trader) Find Weapon Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_title">
         <text>
             Знайди пістолет.
@@ -198,7 +198,7 @@
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_1_descr">
         <text>
-            Компанія Nimble попросила вас знайти певну вогнепальну зброю. Вона повинна бути
+            Спритник попросив вас знайти певну вогнепальну зброю. Вона повинна бути
             в ідеальному стані. Поверніться до нього, коли знайдете те, що він шукає.
         </text>
     </string>
@@ -225,15 +225,15 @@
     </string>
 
     <!-- ========================================================================================= -->
-    <!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+    <!-- Спритник (Loner Trader) Retrieve PDA Dynamic Task -->
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_title">
         <text>
-            Отримати КПК для Nimble
+            Отримати КПК для Спритника
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_descr">
         <text>
-            У Німбла є КПК, який йому потрібно повернути.
+            У Спритника є КПК, який йому потрібно повернути.
         </text>
     </string>
     <string id="igi_task_text_esc_2_12_stalker_nimble_bs_return_pda_from_stash_job_descr">
