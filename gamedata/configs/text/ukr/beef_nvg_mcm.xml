@@ -12,12 +12,12 @@
     </string>
     <string id="ui_mcm_menu_beef_nvg">
         <text>
-            NVG яловичини
+            ПНБ Beef'а
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
         <text>
-            Максимальний коефіцієнт підсилення, який можна застосувати до NVG.
+            Максимальний коефіцієнт підсилення, який можна застосувати до ПНБ.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
@@ -28,13 +28,13 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
         <text>
-            Мінімальний коефіцієнт підсилення, який можна застосувати до NVG.
+            Мінімальний коефіцієнт підсилення, який можна застосувати до ПНБ.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
         <text>
-            Нижчі значення дозволяють зменшити потужність NVG - дуже низькі значення
-            дозволять вам використовувати NVG навіть у денний час.
+            Нижчі значення дозволяють зменшити потужність ПНБ - дуже низькі значення
+            дозволять вам використовувати ПНБ навіть у денний час.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
@@ -44,7 +44,7 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
         <text>
-            1.0 залишає світлову яскравість без змін, більші значення множать світлову
+            1.0 залишає яскравість без змін, більші значення множать світлову
             яскравість (але не джерела світла).
         </text>
     </string>
@@ -57,13 +57,13 @@
         <text>
             Зазвичай рекомендується залишати значення 0.1, але його можна збільшити, щоб
             трохи зменшити розмиття на джерелах світла. Це значення змінюється залежно від
-            коефіцієнта підсилення nvg так, що більший коефіцієнт підсилення призводить до
+            коефіцієнта підсилення ПНБ так, що більший коефіцієнт підсилення призводить до
             більшого розмиття, а менший - до меншого розмиття.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
         <text>
-            Може використовувати NVG під час наведення прицілу:
+            Може використовувати ПНБ під час наведення прицілу:
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
@@ -75,23 +75,23 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
         <text>
-            NVG залишаються увімкненими під час перегляду PDA:
+            ПНБ залишаються увімкненими під час перегляду КПК:
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
         <text>
-            Якщо цей прапорець знято, ваші мережеві відеореєстратори автоматично
+            Якщо цей прапорець знято, ваш ПНБ автоматично
             вимикаються, коли ви дивитеся на КПК.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
         <text>
-            Налаштування пробірки покоління 1: (за замовчуванням одна пробірка по центру)
+            Налаштування ПНБ Gen 1: (за замовчуванням одна трубка по центру)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
         <text>
-            Виберіть кількість трубок для NVG 1-го покоління.
+            Виберіть кількість трубок для ПНБ 1-го покоління.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
@@ -101,7 +101,7 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
         <text>
-            Виберіть кількість трубок для NVG покоління 2.
+            Виберіть кількість трубок для ПНБ покоління 2.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
@@ -112,7 +112,7 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
         <text>
-            Виберіть кількість трубок для NVG покоління 3.
+            Виберіть кількість трубок для ПНБ 3-го покоління.
         </text>
     </string>
     <string id="ui_mcm_lst_single_centered">
@@ -137,12 +137,12 @@
     </string>
     <string id="ui_mcm_lst_quad_centered">
         <text>
-            Чотири трубчасті, центровані
+            Чотири трубки, центровані
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
         <text>
-            Тло накладання Gen 1: (за замовчуванням - без накладання)
+            Накладений фон Gen 1: (за замовчуванням - без накладання)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
@@ -152,7 +152,7 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
         <text>
-            Тло накладання Gen 2: (за замовчуванням - розмите накладання)
+            Накладений фон Gen 2: (за замовчуванням - розмите накладання)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
