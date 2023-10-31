@@ -26,7 +26,7 @@
     <!--Player Stash Settings-->
     <string id="ui_mcm_roguelite_stashes_description">
         <text>
-            Схованки гравця Персистентність
+            Персистентність схованок гравця 
         </text>
     </string>
     <string id="ui_mcm_roguelite_is_stash_restore_enabled">
@@ -58,7 +58,7 @@
     </string>
     <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
         <text>
-            Втрата репатріації трейдера % між проходженнями
+            Втрата репутації трейдера % між проходженнями
         </text>
     </string>
 
@@ -75,7 +75,7 @@
     </string>
     <string id="ui_mcm_roguelite_character_rep_penalty_percent">
         <text>
-            Втрата рекуперації персонажа % між проходженнями
+            Втрата репутації персонажа % між проходженнями
         </text>
     </string>
     <string id="ui_mcm_roguelite_character_rank_penalty_percent">

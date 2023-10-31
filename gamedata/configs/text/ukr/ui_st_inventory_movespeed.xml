@@ -24,7 +24,7 @@
     </string>
     <string id="ui_mcm_speed_encumbrance">
         <text>
-            Обтяження впливає на швидкість
+            Перевантаження впливає на швидкість
         </text>
     </string>
     <string id="ui_mcm_speed_encumbrance_desc">
@@ -50,7 +50,7 @@
     </string>
     <string id="ui_mcm_speed_debug">
         <text>
-            (Розробник) Додаткове журналювання консолі
+            (Розробник) Додаткове логування в консоль
         </text>
     </string>
     <string id="ui_mcm_speed_debug_desc">
