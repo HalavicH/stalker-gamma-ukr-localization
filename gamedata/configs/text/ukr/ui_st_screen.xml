@@ -337,7 +337,7 @@
     </string>
     <string id="st_psy_danger">
         <text>
-            Критичний рівень пси-випромінювання. Потрібно негайно залишити небезпечну зону.
+            Критичний рівень псі-випромінювання. Потрібно негайно залишити небезпечну зону.
         </text>
     </string>
     <string id="st_helmet_countdown">
@@ -523,7 +523,7 @@
     </string>
     <string id="tips_labx16switcher_press">
         <text>
-            Вимкнути пси-налаштування ($$ACTION_USE$$)
+            Вимкнути псі-налаштування ($$ACTION_USE$$)
         </text>
     </string>
     <string id="tips_rad_switcher_press">

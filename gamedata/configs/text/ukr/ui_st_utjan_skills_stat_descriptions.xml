@@ -42,7 +42,7 @@
     <string id="st_skills_stats_psy_regen_positive">
         <text>
             
-          \n%c[255,138,43,226]-%c[ui_6] Регенерацію пси-здоров'я збільшено на:
+          \n%c[255,138,43,226]-%c[ui_6] Регенерацію псі-здоров'я збільшено на:
             %c[d_green]$stat%/сек
         </text>
     </string>

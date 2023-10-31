@@ -1917,7 +1917,7 @@
     </string>
     <string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
         <text>
-            Аномальні поля народжують артефакти під час викидів і рідше - пси-штормів.
+            Аномальні поля народжують артефакти під час викидів і рідше - псі-штормів.
             NДанная опція відповідає за вірогідність народження артефактів в аномаліях в
             цілому.
         </text>
@@ -2505,7 +2505,7 @@
     </string>
     <string id="ui_mm_alife_event_psi_storm_state">
         <text>
-            Включити пси-шторми
+            Включити псі-шторми
         </text>
     </string>
     <string id="ui_mm_alife_event_psi_storm_frequency">

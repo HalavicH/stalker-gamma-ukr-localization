@@ -149,7 +149,7 @@
     </string>
     <string id="ui_mcm_drx_da_save_after_cleanup_desc">
         <text>
-            Зберігає гру після викиду або пси-шторму після видалення аномалій
+            Зберігає гру після викиду або псі-шторму після видалення аномалій
         </text>
     </string>
     <string id="ui_mcm_drx_da_disable_new_anomalies">
@@ -160,7 +160,7 @@
     <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
         <text>
             Забороняє появу нових видів аномалій. Опція набуде чинності після наступного
-            викиду або пси-шторму або в новій грі.
+            викиду або псі-шторму або в новій грі.
         </text>
     </string>
     <string id="ui_mcm_drx_da_choose_help">
