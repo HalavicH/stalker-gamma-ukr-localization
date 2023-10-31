@@ -86,15 +86,15 @@
 	<!== ========================================================================================= -->
 
     <!-- ========================================================================================= -->
-    <!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+    <!-- Хоґ (Merc Mechanic) Find Level 1 Toolkit Task -->
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_title">
         <text>
-            Знайти основні інструменти для Hog
+            Знайти основні інструменти для Хоґa
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_descr">
         <text>
-            Основні інструменти потрібні Хогу для встановлення базової модернізації
+            Основні інструменти потрібні Хоґу для встановлення базової модернізації
             обладнання. Якщо знайду, віднесу йому, якщо знайду.
         </text>
     </string>
@@ -118,12 +118,12 @@
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_title">
         <text>
-            Знайти розширені інструменти для Hog
+            Знайти розширені інструменти для Хоґa
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_descr">
         <text>
-            Хог потребує вдосконалених інструментів для встановлення передових модернізацій
+            Хоґ потребує вдосконалених інструментів для встановлення передових модернізацій
             обладнання, я маю принести їх йому, якщо знайду.
         </text>
     </string>
@@ -147,12 +147,12 @@
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_title">
         <text>
-            Знайти експертні інструменти для Hog
+            Знайти експертні інструменти для Хоґa
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_descr">
         <text>
-            Експертні інструменти потрібні Хогу для встановлення експертних модернізацій
+            Експертні інструменти потрібні Хоґу для встановлення експертних модернізацій
             обладнання. Я повинен принести їх йому, якщо знайду.
         </text>
     </string>
