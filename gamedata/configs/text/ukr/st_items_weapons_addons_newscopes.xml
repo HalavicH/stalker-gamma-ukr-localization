@@ -14,7 +14,7 @@
             поле зору та регульовану д≥оптр≥ю дл€ покращеного, точного фокусуванн€.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1]1.0x - 3.0x
-          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_razor_amg">
@@ -35,7 +35,7 @@
             п≥дозрювали.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1]немаЇ
-          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_hamr">
@@ -57,7 +57,7 @@
             захопленн€ ц≥л≥ за необх≥дност≥.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] немаЇ
-          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_sig_bravo4">
@@ -74,7 +74,7 @@
             краю до краю.
           \n
           \n %c[d_purple] Х %c[ui_gray_2] «б≥льшенн€: %c[ui_gray_1] ф≥ксоване 4.0x
-          \n %c[d_purple] Х %c[ui_gray_2] ”мова: %c[ui_gray_1]дуже добрий
+          \n %c[d_purple] Х %c[ui_gray_2] —тан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_pinty">
