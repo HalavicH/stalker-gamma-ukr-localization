@@ -5052,12 +5052,12 @@
     </string>
     <string id="hide_from_psi_storm_name_1">
         <text>
-            Пси-шторм: знайти укриття
+            Псі-шторм: знайти укриття
         </text>
     </string>
     <string id="hide_from_psi_storm_name_2">
         <text>
-            Пси-шторм: перечекати в укритті
+            Псі-шторм: перечекати в укритті
         </text>
     </string>
     <string id="end_psi_storm_caption">
@@ -5067,7 +5067,7 @@
     </string>
     <string id="end_psi_storm_message">
         <text>
-            Пси-шторм закінчився.
+            Псі-шторм закінчився.
         </text>
     </string>
 
