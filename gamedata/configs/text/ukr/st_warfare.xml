@@ -2,152 +2,152 @@
 <string_table>
     <string id="st_wrfr_request_squad_1">
         <text>
-            Base, requesting a squad at %s, do you copy?
+            Base, запитуючи загін за адресою %s, ви чуєте?
         </text>
     </string>
     <string id="st_wrfr_request_squad_2">
         <text>
-            Come in base, we need a squad at %s, copy?
+            Виходьте на зв'язок, нам потрібен загін за адресою %s, чуєте?
         </text>
     </string>
     <string id="st_wrfr_request_squad_3">
         <text>
-            Come in base, requesting a squad at %s, over.
+            Заходьте на базу, запитуємо загін за адресою %s, прийом.
         </text>
     </string>
     <string id="st_wrfr_request_squad_4">
         <text>
-            Base, do you copy? I need a squad at %s, over.
+            База, прийом? Мені потрібен загін на %s, прийом.
         </text>
     </string>
     <string id="st_wrfr_request_squad_5">
         <text>
-            Base, we need a squad at %s asap, over.
+            База, нам потрібен загін на %s, якнайшвидше, прийом.
         </text>
     </string>
     <string id="st_wrfr_respond_affirmative_1">
         <text>
-            Copy that, we're sending a squad from %s to your location.
+            Зрозуміло, ми відправляємо загін з %s до вас.
         </text>
     </string>
     <string id="st_wrfr_respond_affirmative_2">
         <text>
-            We hear you, sending a squad from %s to your location now.
+            Ми чуємо вас, відправляємо загін з %s до вашого місцезнаходження.
         </text>
     </string>
     <string id="st_wrfr_respond_affirmative_3">
         <text>
-            Roger, we're sending a squad your way from %s now.
+            Вас зрозумів, ми висилаємо загін з %s.
         </text>
     </string>
     <string id="st_wrfr_respond_affirmative_4">
         <text>
-            Affirmative, squad is being deployed to your location from %s.
+            Підтверджую, загін розгортається до вашої локації з %s.
         </text>
     </string>
     <string id="st_wrfr_respond_affirmative_5">
         <text>
-            Roger that, a squad from %s is now moving out to your location.
+            Вас зрозумів, загін з %s зараз рухається до вашої локації.
         </text>
     </string>
     <string id="st_wrfr_respond_ontheway_1">
         <text>
-            Sit tight, we're already headed to %s.
+            Зачекайте, ми вже переходимо до %s.
         </text>
     </string>
     <string id="st_wrfr_respond_ontheway_2">
         <text>
-            Hey, we're already on the way to %s, over.
+            Привіт, ми вже на шляху до %s, прийом.
         </text>
     </string>
     <string id="st_wrfr_respond_ontheway_3">
         <text>
-            Base already sent us to your location at %s.
+            База вже відправила нас до вас за адресою %s.
         </text>
     </string>
     <string id="st_wrfr_respond_ontheway_4">
         <text>
-            We're heading to %s already, don't worry.
+            Ми вже переходимо до %s, не хвилюйтеся.
         </text>
     </string>
     <string id="st_wrfr_respond_ontheway_5">
         <text>
-            Heads up, we're already headed to %s.
+            Увага, ми вже переходимо до %s.
         </text>
     </string>
     <string id="st_wrfr_respond_negative_1">
         <text>
-            Negative, there are no bases in your vicinity to reinforce, over.
+            Негативно, поблизу вас немає баз для підкріплення, кінець зв'язку.
         </text>
     </string>
     <string id="st_wrfr_respond_negative_2">
         <text>
-            No can do, there are no bases in range of your area.
+            Нічого не вийде, у вашому регіоні немає баз у зоні досяжності.
         </text>
     </string>
     <string id="st_wrfr_respond_negative_3">
         <text>
-            Negative, there are no bases in range of your area, over.
+            Негативно, в зоні досяжності немає жодної бази, кінець зв'язку.
         </text>
     </string>
     <string id="st_wrfr_respond_negative_4">
         <text>
-            Not possible, we have no bases in range of your area.
+            Неможливо, у нас немає баз у вашому регіоні.
         </text>
     </string>
     <string id="st_wrfr_respond_negative_5">
         <text>
-            Not possible, we have no bases in your vicinity to reinforce.
+            Неможливо, у нас немає баз у вашій місцевості для підкріплення.
         </text>
     </string>
     <string id="st_wrfr_invasion_attack">
         <text>
-            An allied attack force from %s is launching an assault on %s.
+            Атакуючий загін союзників з %s починає атаку на %s.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_incoming">
         <text>
-            Enemy forces are approaching %s.
+            Ворожі сили наближаються до %s.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_clear_1">
         <text>
-            Base, enemy forces targeting %s have been eliminated, over.
+            База, ворожі сили, що націлилися на %s, знищено, прийом.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_clear_2">
         <text>
-            Great job, boys - we wiped them out! Everybody at %s can rest now.
+            Молодці, хлопці - ми їх знищили! Тепер всі в %s можуть відпочити.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_clear_3">
         <text>
-            Good job, guys. Looks like there aren't any more hostiles headed to %s.
+            Молодці, хлопці. Схоже, до %s більше немає ворогів, які прямують до %s.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_clear_4">
         <text>
-            Looks like we're clear - %s is secure.
+            Здається, все зрозуміло - %s безпечний.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_clear_5">
         <text>
-            Come in base, we repelled the forces attacking %s, over.
+            Виходьте на зв'язок, ми відбили атаку на %s, прийом.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_fullyreinforced">
         <text>
-            Enemy forces are approaching %s. Reinforcements have been sent.
+            Ворожі сили наближаються до %s. Вислано підкріплення.
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_partlyreinforced">
         <text>
-            Enemy forces are approaching %s. More reinforcements are needed!
+            Ворожі сили наближаються до %s. Потрібне підкріплення!
         </text>
     </string>
     <string id="st_wrfr_invasion_defense_notreinforced">
         <text>
-            Enemy forces are approaching %s. Reinforcements needed!
+            Ворожі сили наближаються до %s. Потрібне підкріплення!
         </text>
     </string>
 </string_table>

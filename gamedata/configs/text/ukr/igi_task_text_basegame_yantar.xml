@@ -5,28 +5,28 @@
     <!-- Semenov (Ecog Honcho) Research Hunt Task -->
     <string id="igi_task_text_yan_ecolog_semenov_1_title">
         <text>
-            Semenov Research Hunt
+            Семеновське дослідницьке полювання
         </text>
     </string>
     <string id="igi_task_text_yan_ecolog_semenov_1_descr">
         <text>
-            Assistant Semenov has requested that I escort him around the local area so that
-            he can retrieve fresh mutant tissue samples and analyse their corpses with his
-            scanning equipment.
+            Асистент Семенов попросив мене супроводжувати його по місцевості, щоб він міг
+            знайти свіжі зразки тканин мутантів і проаналізувати їхні трупи за допомогою
+            свого скануючого обладнання.
         </text>
     </string>
     <string id="igi_task_text_yan_ecolog_semenov_1_job_descr">
         <text>
-            Would you mind helping me eliminate a few mutants so that I can take readings
-            and tissue samples? Let's say... about five different mutants. I'll be putting
-            my life in your hands, and you would need to ensure my safety. I will compensate
-            you for your efforts.
+            Чи не могли б ви допомогти мені знищити кілька мутантів, щоб я міг зняти
+            показники і взяти зразки тканин? Скажімо... близько п'яти різних мутантів. Я
+            довіряю вам своє життя, а ви повинні забезпечити мою безпеку. Я винагороджу вас
+            за ваші зусилля.
         </text>
     </string>
     <string id="igi_task_text_yan_ecolog_semenov_1_finish">
         <text>
-            Thank you for your assistance, friend. I have all the tissue samples I need.
-            Here is your payment. Come back and see me again some time.
+            Дякую за допомогу, друже. У мене є всі зразки тканин, які мені потрібні. Ось
+            ваша оплата. Приходьте до мене ще колись.
         </text>
     </string>
 
@@ -34,123 +34,124 @@
     <!-- Sakharov (Ecog Trader) -->
     <string id="igi_task_text_yan_stalker_sakharov_1_title">
         <text>
-            Procure mutant samples for the Yantar Bunker
+            Закупити зразки мутантів для бункера "Янтар
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_1_descr">
         <text>
-            Professor Sakharov's latest experiments require a fresh tissue sample from a
-            mutants. I should bring him one as soon as I find it.
+            Для останніх експериментів професора Сахарова потрібен свіжий зразок тканини
+            мутанта. Я повинен принести йому один, як тільки знайду його.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_1_job_descr">
         <text>
-            I need an experienced stalker or a mutant hunter. Is that somebody you?
+            Мені потрібен досвідчений сталкер або мисливець на мутантів. Це ти?
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_1_fetch_job_descr">
         <text>
-            I need to collect fresh cells from mutants tissue samples. To do this, I'll need
-            you to, eh, procure the sample and bring it back to my bunker here. I know
-            zoologists won't favour this, but this place is not a zoo, one has to admit. In
-            any case, make sure you return to me as soon as you have the required sample -
-            it could provide valuable insight into the biology of mutant wildlife!
+            Мені потрібно зібрати свіжі клітини зі зразків тканин мутантів. Для цього мені
+            потрібно, щоб ви взяли зразок і принесли його до мого бункера. Я знаю, що
+            зоологам це не сподобається, але це місце - не зоопарк, треба визнати. У будь-
+            якому випадку, обов'язково поверніться до мене, як тільки матимете необхідний
+            зразок - він може дати цінну інформацію про біологію мутантів дикої природи!
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_1_fetch_finish">
         <text>
-            Thank you, dear colleague. This will help immensely in my research.
+            Дякую, шановний колего. Це дуже допоможе в моєму дослідженні.
         </text>
     </string>
 
     <!-- Collect New Artefact Task -->
     <string id="igi_task_text_yan_stalker_sakharov_2_title">
         <text>
-            Anomalous Research
+            Аномальні дослідження
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_2_descr">
         <text>
-            Professor Sakharov has asked me to find an artefact to help fund his research.
+            Професор Сахаров попросив мене знайти артефакт, щоб допомогти фінансувати його
+            дослідження.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_2_job_descr">
         <text>
-            Would you like to assist me with some research? I will pay you for your efforts.
+            Ви хотіли б допомогти мені з деякими дослідженнями? Я заплачу вам за ваші
+            зусилля.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_2_fetch_job_descr">
         <text>
-            Our research team is near the brink of another significant discovery, but
-            desperately needs more materials to maintain our funding and continue
-            experimentation! Please, locate and deliver us one artefact. We'll need to take
-            samples from it if we hope to continue our investigations and provide raw
-            material for our suppliers.
+            Наша дослідницька група стоїть на порозі чергового важливого відкриття, але нам
+            вкрай необхідно більше матеріалів, щоб підтримувати фінансування і продовжувати
+            експерименти! Будь ласка, знайдіть і доставте нам один артефакт. Нам потрібно
+            взяти з нього зразки, якщо ми сподіваємося продовжити наші дослідження і
+            забезпечити сировиною наших постачальників.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_2_fetch_finish">
         <text>
-            On behalf of the scientific community, I thank you. Here is your reward, as
-            promised.
+            Від імені наукової спільноти я дякую вам. Ось ваша винагорода, як я і обіцяв.
         </text>
     </string>
 
     <!-- Classified Information Task -->
     <string id="igi_task_text_yan_stalker_sakharov_bs_return_document_from_stash_title">
         <text>
-            Classified Information
+            Інформація з обмеженим доступом
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_bs_return_document_from_stash_descr">
         <text>
-            The professor has asked me to obtain some sensitive research documents for him.
+            Професор попросив мене дістати для нього деякі секретні дослідницькі документи.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_bs_return_document_from_stash_job_descr">
         <text>
-            Unknown brigands have accosted one of our research teams. Fortunately, part of
-            the expedition came back alive and well. Unfortunately, they had to leave
-            somewhat sensitive research behind during their escape.
+            Невідомі розбійники напали на одну з наших дослідницьких груп. На щастя, частина
+            експедиції повернулася жива і здорова. На жаль, під час втечі їм довелося
+            залишити дещо чутливі дослідження.
           \n
-          \nFor the sake of scientific progress, as well as the future wellbeing of my
-            colleagues, I do not wish this data to remain lost - or worse, find their way
-            into the hands of whatever mysterious group attacked my researchers. Please, go
-            to the cache at these coordinates: if you hurry, the documents I wish to recover
-            should still be there. For your discretion, as well as the delivery of these
-            documents to my office here, I offer a reasonable payment. As a further token of
-            my gratitude, you may also help yourself to whatever supplies my team may have
-            left behind in that cache.
+          \nЗаради наукового прогресу, а також майбутнього благополуччя моїх колег, я не
+            хочу, щоб ці дані залишилися загубленими - або, що ще гірше, потрапили до рук
+            тієї таємничої групи, яка напала на моїх дослідників. Будь ласка, вирушайте до
+            сховища за цими координатами: якщо ви поквапитеся, документи, які я хочу
+            повернути, все ще повинні бути там. За ваш розсуд, а також за доставку цих
+            документів до мого офісу тут, я пропоную розумну плату. На знак моєї вдячності
+            ви також можете скористатися будь-якими припасами, які моя команда могла
+            залишити в цьому сховищі.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_bs_return_document_from_stash_finish">
         <text>
-            Thank you, dear stalker. Or should I say colleague? Research can now continue
-            smoothly - hopefully without any additional hiccups coming around the corner.
+            Дякую, дорогий сталкере. Чи краще сказати колега? Тепер дослідження може
+            продовжуватися безперешкодно - сподіваємося, без додаткових заминок, що
+            підстерігають нас з-за рогу.
         </text>
     </string>
 
     <!-- yan_stalker_sakharov -->
     <string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_title">
         <text>
-            Collect the Psy-Helmet
+            Збери психошолом
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_descr">
         <text>
-            Professor Sakharov has agreed to fully calibrate your psy-protection helmet. He
-            has asked you to return to pick it up after about two days.
+            Професор Сахаров погодився повністю відкалібрувати ваш шолом психозахисту. Він
+            попросив вас повернутися і забрати його приблизно через два дні.
         </text>
     </string>
     <string id="igi_task_text_brain_machine_deactivate_title">
         <text>
-            Disable the Miracle Machine
+            Вимкніть Чудо-машину
         </text>
     </string>
     <string id="igi_task_text_brain_machine_deactivate_descr">
         <text>
-            The Miracle Machine may cause issues for the scientists at Yantar if left
-            unchecked for too long. Professor Sakharov would surely appreciate its
-            deactivation.
+            Диво-машина може створити проблеми для вчених на Янтарі, якщо залишити її без
+            нагляду надовго. Професор Сахаров був би вдячний, якби її деактивували.
         </text>
     </string>
 
@@ -158,145 +159,145 @@
     <!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
     <string id="igi_task_text_mechanic_army_yan_mlr_1_title">
         <text>
-            Find Basic tools for Peregrine
+            Знайти основні інструменти для Peregrine
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_1_descr">
         <text>
-            Basic tools are required by Peregrine to install basic equipment upgrades, I
-            should bring them back to him if I find any.
+            Базові інструменти потрібні Peregrine для встановлення базової модернізації
+            обладнання, я маю привезти їх йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_1_job_descr">
         <text>
-            Oh, sure. HQ notified us of tools arriving at our bunker via the Cordon, but the
-            package never made it. And where did this delivery end up? Only the Zone knows.
-            However, the situation hasn't changed, and we still need more tools. HQ is real
-            obstinate about organising more for us right now, so I'll tell you what. If you
-            manage to find some tools out in the wild - even some basic ones - I'll
-            personally pay you to bring them back here.
+            А, так, звісно. Штаб повідомляв нас про інструменти, що прибули до нашого
+            бункера через кордон, але пакунок так і не дійшов. І куди ж вона потрапила? Це
+            знає тільки Зона. Однак ситуація не змінилася, і нам все ще потрібно більше
+            інструментів. Штаб зараз дуже вперто не хоче організовувати для нас більше, тож
+            ось що я вам скажу. Якщо вам вдасться знайти якісь інструменти в дикій природі -
+            навіть найпростіші - я особисто заплачу вам, щоб ви привезли їх сюди.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_1_fetch_job_descr">
         <text>
-            Brilliant. Just focus on bringing back a set of basic tools for now - more
-            advanced stuff is useless without them. Good hunting out there, stalker.
+            Чудово. Просто зосередьтеся на поверненні набору базових інструментів - більш
+            просунуті речі без них марні. Вдалого полювання, сталкере.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_1_fetch_finish">
         <text>
-            Alright, let's take a look. Yeah, these'll do. Now maybe I can do something
-            other than maintenance. Here's your bounty. Thanks for your help.
+            Гаразд, давай подивимося. Так, це підійде. Тепер, можливо, я зможу займатися
+            чимось іншим, окрім обслуговування. Ось твоя винагорода. Дякую за допомогу.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_2_title">
         <text>
-            Find Advanced tools for Peregrine
+            Знайти розширені інструменти для Peregrine
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_2_descr">
         <text>
-            Advanced tools are required by Peregrine to install advanced equipment upgrades,
-            I should bring them back to him if I find any.
+            Передові інструменти потрібні Peregrine для встановлення передових модернізацій
+            обладнання, я маю принести їх йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_2_job_descr">
         <text>
-            Well, you're certainly more enterprising than my usual suppliers, so tell you
-            what - get me a more advanced set of tools. Do this, and there'll be money in
-            your pocket.
+            Що ж, ви, безумовно, більш підприємливі, ніж мої звичайні постачальники, тому
+            ось що я вам скажу - дайте мені більш просунутий набір інструментів. Зробіть це,
+            і гроші будуть у вашій кишені.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_2_fetch_job_descr">
         <text>
-            Fantastic. I'm sure Sakharov will appreciate this too. I'm sure that, once you
-            bring me these tools, my technical work will be helping him fund his bunker
-            before you can blink.
+            Фантастика. Я впевнений, що Сахаров теж це оцінить. Я впевнений, що як тільки ви
+            принесете мені ці інструменти, моя технічна робота допоможе йому фінансувати
+            його бункер, ви й оком не встигнете моргнути.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_2_fetch_finish">
         <text>
-            Great! Come back any time if you need me to take a look at your gear. I'll be
-            able to do some half-decent modifications now, thanks to you.
+            Чудово! Приходьте в будь-який час, якщо захочете, щоб я подивився на ваше
+            спорядження. Завдяки вам я зможу зробити кілька напівпристойних модифікацій.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_3_title">
         <text>
-            Find Expert tools for Peregrine
+            Знайти експертні інструменти для Peregrine
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_3_descr">
         <text>
-            Expert tools are required by Peregrine to install expert equipment upgrades, I
-            should bring them back to him if I find any.
+            Експертні інструменти потрібні Peregrine для встановлення експертної
+            модернізації обладнання, я повинен принести їх йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_3_job_descr">
         <text>
-            I'm not sure if he's told you, but Sakharov is quite pleased that you're helping
-            me out like this. He wanted me to tell you he's set aside a healthy sum of
-            roubles for the stalker who can bring me a set of expert tools. It should let us
-            get the most out of the scientific gear we keep here - particularly our hazmat
-            suits and exoskeletons. So, are you willing to go toolkit hunting for me one
-            last time?
+            Не знаю, чи казав він вам, але Сахаров дуже задоволений, що ви мені так
+            допомагаєте. Він просив передати вам, що виділив чималу суму рублів для
+            сталкера, який принесе мені набір спеціальних інструментів. Це дозволить нам
+            отримати максимум користі від наукового обладнання, яке ми тут зберігаємо -
+            зокрема, від наших захисних костюмів та екзоскелетів. Тож, чи готові ви востаннє
+            вийти на полювання за інструментами для мене?
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_3_fetch_job_descr">
         <text>
-            I'm honestly grateful for this. When you get back with the tools, I'll also show
-            you a trick or two on how to do proper field maintenance - unless another
-            technician has taught you already, of course. It'll be my way of saying thanks.
-            Good luck out there.
+            Я щиро вдячний за це. Коли ви повернетеся з інструментами, я також покажу вам
+            пару трюків, як правильно проводити технічне обслуговування в польових умовах -
+            якщо, звісно, інший технік вас вже не навчив. Це буде мій спосіб сказати
+            "дякую". Щасти вам там.
         </text>
     </string>
     <string id="igi_task_text_mechanic_army_yan_mlr_3_fetch_finish">
         <text>
-            Hm. Pity you don't work in the Supply Corps. Maybe now I can finally get that
-            damn receiver fixed. As for you, you've earned my gratitude. On behalf of this
-            bunker, here is your payment.
+            Хм. Шкода, що ти не працюєш у службі постачання. Може, тепер я нарешті зможу
+            полагодити цей клятий приймач. Що стосується вас, ви заслужили мою подяку. Від
+            імені цього бункера, ось твоя винагорода.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_4_title">
         <text>
-            Recover the Tracking Device
+            Відновлення пристрою стеження
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_4_job_descr">
         <text>
-            We have implanted several devices on mutants to measure various data - heart
-            rate, feeding habits, sleep cycles, travel times and the like. However, since
-            the last blowout, one of the devices has started malfunctioning - it still
-            tracks movement but has otherwise ceased to transmit any other useful data. As
-            these trackers are of an especially advanced design, we must retrieve the faulty
-            one for inspection and possible repairs. Obtain the device from the mutant by
-            any means available to you, then bring it back to us.
+            Ми імплантували мутантам кілька пристроїв для вимірювання різних даних - частоти
+            серцевих скорочень, харчових звичок, циклів сну, часу пересування тощо. Однак
+            після останнього вибуху один з пристроїв почав давати збої - він все ще
+            відстежує рух, але перестав передавати будь-які інші корисні дані. Оскільки ці
+            трекери мають особливо складну конструкцію, ми повинні вилучити несправний
+            пристрій для перевірки та можливого ремонту. Заберіть пристрій у мутанта будь-
+            яким доступним вам способом, а потім принесіть його нам.
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_4_stage_0">
         <text>
-            Stop the mutant with the tracking device
+            Зупиніть мутанта за допомогою пристрою стеження
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_4_stage_1">
         <text>
-            Recover the tracking device
+            Відновлення пристрою стеження
         </text>
     </string>
     <string id="igi_task_text_yan_stalker_sakharov_4_stage_2">
         <text>
-            Return the device
+            Поверніть пристрій
         </text>
     </string>
     <string id="igi_task_text_recover_mutant_data_device_desc">
         <text>
-            A sturdy device that was planted on a mutant to monitor its movements, habits
-            and vital signs. Shows signs of corrosion, and is covered in numerous bite and
-            scratch marks.
+            Міцний пристрій, який встановили на мутанта, щоб стежити за його рухами,
+            звичками та життєвими показниками. Має ознаки корозії та вкритий численними
+            слідами укусів і подряпин.
         </text>
     </string>
     <string id="igi_task_text_recover_mutant_data_device_title">
         <text>
-            Tracking device
+            Пристрій для відстеження
         </text>
     </string>
 </string_table>

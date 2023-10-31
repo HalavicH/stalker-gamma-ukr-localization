@@ -2,139 +2,140 @@
 <string_table>
     <string id="ui_mcm_better_stats_bars_title">
         <text>
-            Better Stats Bars
+            Краща статистика
         </text>
     </string>
     <string id="ui_mcm_menu_better_stats_bars">
         <text>
-            Better Stats
+            Краща статистика
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_positive_color_help">
         <text>
-            Color of increased stats bar
+            Колір збільшеного рядка статистики
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_positive_color_a">
         <text>
-            Opacity
+            Непрозорість
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_positive_color_r">
         <text>
-            Red
+            Червоний
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_positive_color_g">
         <text>
-            Green
+            Зелений
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_positive_color_b">
         <text>
-            Blue
+            Синій
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_negative_color_help">
         <text>
-            Color of decreased stats bar
+            Колір зменшеного рядка статистики
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_negative_color_a">
         <text>
-            Opacity
+            Непрозорість
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_negative_color_r">
         <text>
-            Red
+            Червоний
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_negative_color_g">
         <text>
-            Green
+            Зелений
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_negative_color_b">
         <text>
-            Blue
+            Синій
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_neutral_color_help">
         <text>
-            Color of unchanged stats bar
+            Колір незмінного рядка статистики
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_neutral_color_a">
         <text>
-            Opacity
+            Непрозорість
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_neutral_color_r">
         <text>
-            Red
+            Червоний
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_neutral_color_g">
         <text>
-            Green
+            Зелений
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_neutral_color_b">
         <text>
-            Blue
+            Синій
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_position">
         <text>
-            Position
+            Посада
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_position">
         <text>
-            The position of extra bars relative to base ones
+            Розташування додаткових смуг відносно базових
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_bottom">
         <text>
-            Bottom
+            Дно.
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_top">
         <text>
-            Top
+            Верхня частина
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_justify">
         <text>
-            Fill all height
+            Заповніть всю висоту
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_use_game_values">
         <text>
-            Use Game Values
+            Використовуйте ігрові цінності
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_use_game_values_desc">
         <text>
-            Enabling this option will make bars represent protection against actual game
-            threats (npcs, mutants, anomalies), based on their damage values, elemental
-            types, and also includes corrected behaviour of outfit and helmet protection.
-            You can choose these options
+            Увімкнувши цю опцію, смужки відображатимуть захист від реальних ігрових загроз
+            (нпс, мутантів, аномалій), базуючись на їхніх значеннях шкоди, типах елементів,
+            а також включатимуть виправлену поведінку захисту екіпіровки та шолома. Ви
+            можете вибрати такі опції
           \n
-          \n None: disabling the option
+          \n Ні: вимкнення опції
           \n
-          \n Max: maximum of the bar represents maximum damage possible to receive. For
-            this case, the 1/3 of the bar usually represents fire, acid and psy fields, weak
-            mutants and pistol caliber firearms. 2/3 of the bar represents anomaly mines
-            such as electric, gravitational anomalies, burners and acid pools, psy dog
-            attacks, average strength mutants and intermediate firearms. Full bar represents
-            protection against strongest mines, fields, controller attacks, strongest
-            mutants and high caliber firearms.
+          \n Максимальний: максимальне значення стовпчика показує максимальну шкоду, яку
+            можна отримати. У цьому випадку 1/3 смужки зазвичай позначає вогневі, кислотні
+            та психологічні поля, слабких мутантів і вогнепальну зброю пістолетного калібру.
+            2/3 смужки - аномальні міни, такі як електричні, гравітаційні аномалії, пальники
+            і кислотні басейни, атаки пси-собак, мутанти середньої сили і вогнепальна зброя
+            середнього калібру. Повна смуга - захист від найсильніших мін, полів, атак
+            контролерів, найсильніших мутантів і вогнепальної зброї високого калібру.
           \n
-          \n Max (No Mines): Same as Max but anomaly mines are not taken into results.
-            Useful if you want to know exact protection against fields and plan to evade
-            mines rather than knowing how much damage you take from them.
+          \n Максимальний (без мін): Те ж саме, що і Макс, але аномальні міни не
+            враховуються в результатах. Корисно, якщо ви хочете знати точний захист від
+            полів і плануєте ухилятися від мін, а не знати, скільки шкоди ви отримаєте від
+            них.
         </text>
 
         <!--
@@ -151,93 +152,95 @@
     </string>
     <string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
         <text>
-            None
+            Ні.
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_use_game_values_max">
         <text>
-            Max
+            Максе.
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
         <text>
-            Max (No Mines)
+            Макс (без мін)
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_position">
         <text>
-            The position of extra bars relative to base ones
+            Розташування додаткових смуг відносно базових
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_bottom">
         <text>
-            Bottom
+            Дно.
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_top">
         <text>
-            Top
+            Верхня частина
         </text>
     </string>
     <string id="ui_mcm_lst_better_stats_bars_position_justify">
         <text>
-            Fill all height
+            Заповніть всю висоту
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
         <text>
-            EFP UI (Modern UI) compatibilty
+            Сумісність з EFP UI (сучасним інтерфейсом користувача)
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
         <text>
-            Better display of bars when using Escape From Pripyat (EFP) modpack. Also
-            setting position to "Fill all height" and lowering opacity of all kinds of bars
-            is recommended
+            Краще відображення смуг при використанні модпаку Escape From Pripyat (EFP).
+            Також рекомендується встановити позицію "Заповнити всю висоту" та зменшити
+            непрозорість усіх видів смуг
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
         <text>
-            G.A.M.M.A. UI compatibility (also applies to old Hunger, Thirst and Sleep bars
-            mod)
+            Сумісність з інтерфейсом G.A.M.M.A. (також стосується старих модулів "Голод,
+            спрага і сон")
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
         <text>
-            Better display of bars when using G.A.M.M.A. modpack or old version of Hunger,
-            Thirst and Sleep bars mod
+            Краще відображення смужок при використанні модпаку G.A.M.M.A. або старої версії
+            мода Hunger, Thirst and Sleep bars
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_arx_compatibility">
         <text>
-            ARX compatibilty
+            Сумісність з ARX
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
         <text>
-            More correct display of stats when using ARX mod (Artefact Restoration
-            eXperiment)
+            Більш коректне відображення статистики при використанні ARX-моду (Artefact
+            Restoration eXperiment)
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_abf_compatibility">
         <text>
-            ABF compatibilty
+            Сумісність з ABF
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
         <text>
-            More correct display of stats when using ABF mod (Anomalous Balance Fix)
+            Коректніше відображення статистики при використанні ABF-моду (Anomalous Balance
+            Fix)
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_acid_bar_fix">
         <text>
-            Alternative Acid Bar Display
+            Альтернативний індикатор кислотності
         </text>
     </string>
     <string id="ui_mcm_better_stats_bars_acid_bar_fix_desc">
         <text>
-            In "Use Game Values Max" mode makes acid bar more usable with more coverage by
-            artifically reducing mines hit power at the cost of precision of display
+            У режимі "Use Game Values Max" робить кислотну смугу більш корисною з більшим
+            покриттям, штучно зменшуючи потужність ураження мін за рахунок точності
+            відображення.
         </text>
     </string>
 </string_table>

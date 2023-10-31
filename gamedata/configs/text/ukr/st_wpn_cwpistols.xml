@@ -2,20 +2,21 @@
 <string_table>
     <string id="st_wpn_aps_cw">
         <text>
-            APS - Freedom
+            APS - Свобода
         </text>
     </string>
     <string id="st_wpn_aps_cw_descr">
         <text>
-            The Stechkin or APS (Avtomaticheskiy Pistolet Stechkina) is a Soviet selective
-            fire machine pistol chambered in 9x18mm Makarov and 9x19mm Parabellum introduced
-            into service in 1951 for use with artillery and mortar crews, tank crews and
-            aircraft personnel, where a cumbersome assault rifle was deemed unnecessary.
-            Seeing service in a number of wars such as the Vietnam War, Russo-Ukrainian War
-            and Syrian Civil War.
+            Пістолет Стєчкіна або АПС (Автоматичний пістолет Стєчкіна) - радянський
+            автоматичний пістолет вибіркової дії під набої 9х18 мм Макарова та 9х19 мм
+            Парабелум, прийнятий на озброєння у 1951 році для артилерійських та мінометних
+            розрахунків, танкових екіпажів та льотного складу, де громіздкі штурмові
+            гвинтівки вважалися непотрібними. Гвинтівка брала участь у багатьох війнах,
+            таких як В'єтнамська війна, російсько-українська війна та громадянська війна в
+            Сирії.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] APS Silencer
+          \n %c[ui_gray_2]Додатки:
+          \n %c[d_purple] - %c[ui_gray_2] Глушник APS
           \n
           \n
         </text>
@@ -27,52 +28,52 @@
     </string>
     <string id="st_wpn_beretta_cw_descr">
         <text>
-            The 92FS is a double/single-action semiauto pistol that employs an open-slide,
-            short- recoil delayed locking-block system, which yields a faster cycle time and
-            delivers exceptional accuracy and reliability. In particular, the open-slide
-            design practically eliminates stove-piping and helps flawless cycling and
-            feeding even after thousands and thousands of rounds.
+            92FS - це самозарядний пістолет подвійної/позарядної дії з відкритим затвором і
+            системою затримки відбою з короткою віддачею, що дозволяє скоротити час циклу
+            стрільби та забезпечує виняткову точність і надійність. Зокрема, затворна рама з
+            відкритим затвором практично виключає заклинювання ствола і забезпечує
+            бездоганну стрільбу навіть після тисяч і тисяч пострілів.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 9mm Silencer.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] 9-мм глушник.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_beretta_cw_alt">
         <text>
-            Beretta 92fs Tactical - Freedom
+            Beretta 92fs Tactical - Свобода
         </text>
     </string>
     <string id="st_wpn_beretta_cw_enforcer">
         <text>
-            Beretta 92fs 'Enforcer' - Freedom
+            Beretta 92fs 'Enforcer' - Свобода
         </text>
     </string>
     <string id="st_wpn_1911_cw">
         <text>
-            Colt 1911 - Freedom
+            Кольт 1911 - Свобода
         </text>
     </string>
     <string id="st_wpn_1911_cw_descr">
         <text>
-            The M1911 (Colt 1911 or Colt Government) is a single-action, recoil-operated,
-            semi- automatic pistol chambered for the .45 ACP cartridge.The pistol's formal
-            U.S. military designation as of 1940 was Automatic Pistol, Caliber .45, M1911
-            for the original model adopted in March 1911, and Automatic Pistol, Caliber .45,
-            M1911A1 for the improved M1911A1 model which entered service in 1926. The
-            designation changed to Pistol, Caliber .45, Automatic, M1911A1 in the Vietnam
-            War era.
+            M1911 (Colt 1911 або Colt Government) - це самозарядний напівавтоматичний
+            пістолет однозарядної дії під патрон .45 ACP. 1940 року пістолет мав офіційне
+            військове позначення в США - Automatic Pistol, Caliber .45, M1911 для
+            оригінальної моделі, прийнятої на озброєння в березні 1911 року, та Automatic
+            Pistol, Caliber .45, M1911A1 для вдосконаленої моделі M1911A1, яка була прийнята
+            на озброєння в 1926 році. Під час війни у В'єтнамі позначення змінилося на
+            Pistol, Caliber .45, Automatic, M1911A1.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] .45 Silencer.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] .45 Глушник.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_1911_cw_custom">
         <text>
-            Colt 1911 'Custom 'Operator' - Freedom
+            Кольт 1911 'Custom 'Operator' - Freedom
         </text>
     </string>
     <string id="st_wpn_1911_cw_modern">
@@ -82,71 +83,71 @@
     </string>
     <string id="st_wpn_1911_cw_new">
         <text>
-            Colt 1911 Long Barrel - Freedom
+            Кольт 1911 Long Barrel - Свобода
         </text>
     </string>
     <string id="st_wpn_cz75_cw">
         <text>
-            CZ-75 - Freedom
+            CZ-75 - Свобода
         </text>
     </string>
     <string id="st_wpn_cz75_cw_auto">
         <text>
-            CZ-75 Auto - Freedom
+            CZ-75 Auto - Свобода
         </text>
     </string>
     <string id="st_wpn_cz75_cw_descr">
         <text>
-            The CZ-75 is a semi-automatic pistol made by Czech firearm manufacturer CZUB.
-            First introduced in 1975, it is one of the original "wonder nines" and features
-            a staggered-column magazine, all-steel construction, and a hammer forged barrel.
-            It is widely distributed throughout the world and is the most common handgun in
-            the Czech Republic.
+            CZ-75 - це напівавтоматичний пістолет чеського виробника зброї CZUB. Вперше
+            представлений у 1975 році, він є однією з оригінальних "чудо-дев'яток" і має
+            магазин з шаховим розташуванням стовпчиків, суцільносталеву конструкцію та
+            ствол, викуваний молотком. Він широко розповсюджений по всьому світу і є
+            найпоширенішим пістолетом у Чеській Республіці.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] .45 Silencer.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] .45 Глушник.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_deagle_cw">
         <text>
-            Desert Eagle - Freedom
+            Пустельний орел - Свобода
         </text>
     </string>
     <string id="st_wpn_deagle_cw_custom">
         <text>
-            Desert Eagle Custom - Freedom
+            Звичай пустельного орла - свобода
         </text>
     </string>
     <string id="st_wpn_deagle_cw_modern">
         <text>
-            Desert Eagle Modern - Freedom
+            Desert Eagle Modern - Свобода
         </text>
     </string>
     <string id="st_wpn_deagle_cw_nimble">
         <text>
-            Desert Eagle "Bald Eagle" - Freedom
+            Пустельний орел "Лисий орел" - Свобода
         </text>
     </string>
     <string id="st_wpn_deagle_cw_descr">
         <text>
-            The IMI Desert Eagle is a semi-automatic handgun notable for chambering the
-            largest centrefire cartridge of any magazine fed, self-loading pistol and also
-            being the heaviest and blockiest gun of its type. No one knows why IMI thought
-            shooting a calibre of this size out of a handgun was a good idea, even though
-            there are plenty of rounds out there that can do the job without breaking your
-            wrist; this one assumes because of a pissing contest between the .44 and .50 AE.
-            Not only is it heavy and harsh in recoil, you can also use it to bludgeon your
-            enemies to death because of its blockiness and weight. Although militaries and
-            law enforcement around the world, in their moment of sanity, never adopted this
-            brick; Hollywood did, mostly because of its "cool factor" and now is the poster
-            child for gangsters and pimps and a status symbol for those who reached a
-            certain rank in a certain console shooter. Rumour is that there's a stalker with
-            a crowbar wandering around the Zone with a rechambered version of this gun, but
-            it's just a rumour.
+            IMI Desert Eagle - це напівавтоматичний пістолет, що відрізняється тим, що в
+            нього можна зарядити найбільший набій з центральним розташуванням ствола серед
+            самозарядних пістолетів з магазинним живленням, а також він є найважчим і
+            найтовстішим пістолетом у своєму класі. Ніхто не знає, чому IMI вирішив, що
+            стрільба з пістолета такого калібру - це гарна ідея, хоча існує безліч набоїв,
+            які можуть виконати цю роботу, не зламавши вам зап'ястя; припускають, що це
+            сталося через змагання між .44 і .50 AE. Мало того, що він важкий і має різку
+            віддачу, ви також можете використовувати його, щоб забити своїх ворогів до
+            смерті через його щільність і вагу. Хоча військові та правоохоронці по всьому
+            світу, в момент розсудливості, ніколи не брали цю цеглину на озброєння, Голлівуд
+            взяв, в основному через її "крутість", і тепер вона є взірцем для гангстерів та
+            сутенерів, а також символом статусу для тих, хто досягнув певного рангу в
+            певному консольному шутері. Подейкують, що в Зоні блукає сталкер з ломом і
+            переробленою версією цього пістолета, але це лише чутки.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
+          \n %c[ui_gray_3]Додатки:
           \n %c[d_purple] - %c[ui_gray_2] KZRZP Supressor.
           \n
           \n
@@ -154,68 +155,72 @@
     </string>
     <string id="st_wpn_deagle_cw_nimble_descr">
         <text>
-            The IMI Desert Eagle is a semi-automatic handgun notable for chambering the
-            largest centrefire cartridge of any magazine fed, self-loading pistol and also
-            being the heaviest and blockiest gun of its type. No one knows why IMI thought
-            shooting a calibre of this size out of a handgun was a good idea, even though
-            there are plenty of rounds out there that can do the job without breaking your
-            wrist; this one assumes because of a pissing contest between the .44 and .50 AE.
-            This weapon was brought to the Zone by a stalker named Logan Williams. Disguised
-            as a TIME photographer he managed to single-handedly enter the centre of
-            Pripyat. His current whereabouts are unknown, but he is rumoured to work as an
-            information broker specializing in all matters related to the Zone.
+            IMI Desert Eagle - це напівавтоматичний пістолет, який відрізняється тим, що в
+            нього можна зарядити найбільший набій з центральним розташуванням ствола серед
+            самозарядних пістолетів з магазинним живленням, а також тим, що він є найважчим
+            і найтовстішим пістолетом у своєму класі. Ніхто не знає, чому IMI вирішив, що
+            стрільба з пістолета такого калібру - це гарна ідея, хоча існує безліч набоїв,
+            які можуть зробити цю роботу, не зламавши вам зап'ястя; припускають, що це було
+            зроблено через змагання між .44 і .50 AE. Цю зброю приніс у Зону сталкер на ім'я
+            Логан Вільямс. Під виглядом фотографа журналу "Тайм" йому вдалося самотужки
+            проникнути в центр Прип'яті. Його нинішнє місцезнаходження невідоме, але, за
+            чутками, він працює інформаційним брокером, що спеціалізується на всіх питаннях,
+            пов'язаних із Зоною.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] вЂў %c[ui_gray_2] DOCTER sight (integrated)
+          \n %c[ui_gray_2] ДОДАТКИ:
+          \n %c[d_purple] вЂў %c[ui_gray_2] приціл DOCTER (інтегрований)
         </text>
     </string>
     <string id="st_wpn_fn57_cw">
         <text>
-            FN-57 - Freedom
+            FN-57 - Свобода
         </text>
     </string>
     <string id="st_wpn_fn57_cw_descr">
         <text>
-            The original FN Five-seveN, often imitated but hardly duplicated, has two
-            decades of trusted service with allied armies, global law enforcement and
-            civilians. Extending its groundbreaking design is a new, all flat dark earth
-            frame and slide. With improved range and accuracy over common pistol cartridges,
-            the NATO standardized 5.7x28mm developed by FN Herstal is fired from the chrome-
-            lined cold hammer-forged barrel. Pinpoint accuracy and minimal felt recoil is
-            standard issue. Equipped with an internal hammer, the smooth trigger with a
-            predictable break further enhances accuracy. Four new models include all black,
-            and all FDE, with 10-rd or 20-rd magazines included. Two existing California-
-            compliant Five-seveN models with 10-rd magazines remain unchanged.
+            Оригінальний FN Five-seveN, який часто імітують, але майже не копіюють, вже два
+            десятиліття надійно служить арміям союзників, правоохоронним органам світу та
+            цивільним особам. Нова революційна конструкція має нову, повністю пласку
+            темноземельну раму та затворну раму. З хромованого ствола холодного кування,
+            викуваного методом холодного молоткового кування, стрільба ведеться з патрона
+            5,7х28 мм, розробленого компанією FN Herstal, який має більшу дальність і
+            точність, ніж звичайні пістолетні патрони, що відповідають стандартам НАТО.
+            Точна точність пострілу та мінімальна відчутна віддача є стандартними
+            характеристиками. Плавний спусковий гачок з внутрішнім ударником і
+            передбачуваним зламом ще більше підвищує точність. Чотири нові моделі
+            представлені у чорному кольорі та у виконанні FDE, з магазинами на 10 або 20
+            набоїв у комплекті. Дві існуючі моделі Five-seveN з магазинами на 10 набоїв, що
+            відповідають вимогам штату Каліфорнія, залишаються незмінними.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 5.7 Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] 5.7 Супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_fnp45_cw">
         <text>
-            FNP-45 - Freedom
+            FNP-45 - Свобода
         </text>
     </string>
     <string id="st_wpn_fnp45_custom_cw">
         <text>
-            FNP-45 Custom - Freedom
+            FNP-45 Митниця - Свобода
         </text>
     </string>
     <string id="st_wpn_fnp45_cw_descr">
         <text>
-            The FN FNP pistol is a series of semi-automatic, polymer-framed pistols
-            manufactured in Columbia, South Carolina, by FNH USA, a division of Fabrique
-            Nationale de Herstal. The handgun debuted in early 2006 and is variously
-            chambered for the 9Г—19mm, .40 S&amp;W, .357 SIG and .45 ACP cartridges. According
-            to FNH USA, the FNP line of pistols is the only polymer-framed autoloading
-            pistol on the market (as of its introduction) with fully replaceable frame
-            rails; this allows the pistol to be rebuilt after extensive firing, thereby
-            extending service life. (Steyr M Series pistols also have this feature, and were
-            released in 1999.)
+            Пістолет FN FNP - серія напівавтоматичних пістолетів з полімерною рамкою, що
+            виготовляються в Колумбії, штат Південна Кароліна, компанією FNH USA,
+            підрозділом Fabrique Nationale de Herstal. Пістолет дебютував на початку 2006
+            року і випускається під набої 9Г-19мм, .40 S&amp;W, .357 SIG та .45 ACP. За даними
+            компанії FNH USA, лінійка пістолетів FNP є єдиним на ринку пістолетом з
+            полімерною рамкою (на момент представлення) з повністю змінними направляючими
+            рамки, що дозволяє переробляти пістолет після інтенсивної стрільби, тим самим
+            збільшуючи термін його служби. (Пістолети Steyr серії M також мають цю
+            особливість і були випущені в 1999 році).
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
+          \n %c[ui_gray_3]ДОДАТКИ:
           \n %c[d_purple] - %c[ui_gray_2] Gemtech Supressor.
           \n
           \n
@@ -223,33 +228,34 @@
     </string>
     <string id="st_wpn_fnx45_cw">
         <text>
-            FNX-45 - Freedom
+            FNX-45 - Свобода
         </text>
     </string>
     <string id="st_wpn_fnx45_cw_alt">
         <text>
-            FNX-45 Alternate - Freedom
+            FNX-45 Альтернатива - Свобода
         </text>
     </string>
     <string id="st_wpn_fnx45_cw_custom">
         <text>
-            FNX-45 Custom - Freedom
+            FNX-45 Custom - Свобода
         </text>
     </string>
     <string id="st_wpn_fnx45_cw_descr">
         <text>
-            The FN FNX pistol is a series of semi-automatic, polymer-framed pistols
-            manufactured in Columbia, South Carolina, by FN America (branded FNH USA), a
-            division of Fabrique Nationale d'Herstal. The pistol is chambered for the
-            9Г—19mm Parabellum, .40 S&amp;W, and .45 ACP cartridges. It was introduced in 2009
-            as the successor to the FN FNP. All variations of the pistols (save some law
-            enforcement models that are decock only) include ambidextrous safety/decocking
-            levers, magazine releases, and slide stop release levers. All variations also
-            include a Picatinny rail, tritium night sights, and a loaded chamber indicator
-            on the right side. New models are sold in a plastic hard case with three
-            magazines, and two interchangeable backstraps.
+            Пістолет FN FNX - серія самозарядних пістолетів з полімерною рамкою, що
+            виробляються в Колумбії, штат Південна Кароліна, компанією FN America (бренд FNH
+            USA), підрозділом Fabrique Nationale d'Herstal. Пістолет під набої 9Г-19мм
+            Parabellum, .40 S&amp;W та .45 ACP. Він був представлений у 2009 році як наступник
+            FN FNP. Всі модифікації пістолетів (за винятком деяких моделей для
+            правоохоронних органів, які мають лише автоматичне зведення затвора) мають
+            двосторонні важелі запобіжника/зведення затвора, важелі для від'єднання магазина
+            та важелі для від'єднання затворної рами. Всі модифікації також мають планку
+            Пікатіні, тритієві нічні прицільні пристосування та індикатор зарядженого набою
+            на правій стороні ствольної коробки. Нові моделі продаються у пластиковому
+            жорсткому кейсі з трьома магазинами та двома змінними ременями.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
+          \n %c[ui_gray_3]ДОДАТКИ:
           \n %c[d_purple] - %c[ui_gray_2] Gemtech Supressor.
           \n
           \n
@@ -257,32 +263,32 @@
     </string>
     <string id="st_wpn_glock_cw">
         <text>
-            Glock 17 - Freedom
+            Glock 17 - Свобода
         </text>
     </string>
     <string id="st_wpn_glock_cw_custom">
         <text>
-            Glock-18 - Freedom
+            Glock-18 - Свобода
         </text>
     </string>
     <string id="st_wpn_glock_cw_modern">
         <text>
-            Glock-19 Modern - Freedom
+            Glock-19 Modern - Свобода
         </text>
     </string>
     <string id="st_wpn_glock_cw_descr">
         <text>
-            He Glock 17 is a polymer-frame, short recoil-operated, locked-breech semi-
-            automatic pistol chambered in 9x19mm Parabellum. It the first pistol in a
-            massive lineup of polymer handguns produced by Glock Ges.m.b.H. in Deutsch-
-            Wagram, Austria. The manufacturer refers to them as the Glock "Safe Action"
-            Pistol. The company's founder, head engineer Gaston Glock, had no experience
-            with firearms design or manufacture at the time their first pistol was being
-            prototyped. Glock did, however, have extensive experience in advanced synthetic
-            polymers, which was instrumental in the company's design of the first
-            commercially successful line of polymer frame handguns.
+            Glock 17 - це самозарядний пістолет з полімерною рамкою, з короткою віддачею, із
+            закритим затвором, під набій 9х19мм Parabellum. Це перший пістолет у великій
+            лінійці полімерних пістолетів, що виробляються компанією Glock Ges.m.b.H. у
+            Дойч-Ваграмі, Австрія. Виробник називає їх пістолетами Glock "Safe Action".
+            Засновник компанії, головний інженер Гастон Глок (Gaston Glock), не мав жодного
+            досвіду в розробці та виробництві вогнепальної зброї на момент створення першого
+            прототипу пістолета. Однак Глок мав великий досвід роботи з сучасними
+            синтетичними полімерами, що зіграло важливу роль у створенні першої комерційно
+            успішної лінійки пістолетів з полімерною рамкою.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
+          \n %c[ui_gray_3]ДОДАТКИ:
           \n %c[d_purple] - %c[ui_gray_2] Gemtech Supressor.
           \n
           \n
@@ -290,201 +296,202 @@
     </string>
     <string id="st_wpn_mp443_cw">
         <text>
-            MP-443 Grach - Freedom
+            MP-443 Грач - Свобода
         </text>
     </string>
     <string id="st_wpn_mp443_cw_descr">
         <text>
-            The MP-443 Grach (" Pistolet Yarygina " ("Yarygin Pistol"), following
-            traditional Russian naming procedure, is the Russian standard military-issue
-            side arm .The development was headed by the designer Vladimir Alexandrovich
-            Yarygin . It was developed under designation " Grach " in response to Russian
-            military trials, which began in 1993. In 2003, it was adopted as a standard
-            sidearm for all branches of Russian military and law enforcement , alongside the
-            Makarov PM , GSh-18 , and SPS .
+            Пістолет-кулемет МР-443 "Грач" ("Пістолет Яригіна"), за традиційною російською
+            процедурою найменування, є російським стандартним пістолетом-кулеметом
+            військового зразка. Розробку очолював конструктор Володимир Олександрович
+            Яригін. Він був розроблений під позначенням "Грач" у відповідь на російські
+            військові випробування, які почалися в 1993 році. У 2003 році він був прийнятий
+            на озброєння як стандартна зброя для всіх родів військ і правоохоронних органів
+            Росії, поряд з пістолетами Макарова ПМ, ГШ-18 і СПС.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 9mm Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] 9мм Супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_gsh18_cw">
         <text>
-            GSH-18 - Freedom
+            GSH-18 - Свобода
         </text>
     </string>
     <string id="st_wpn_gsh18_cw_descr">
         <text>
-            The GSH-18 is a 9 mm semi-automatic pistol developed by the KBP Instrument
-            Design Bureau in Tula during the 1990s. The pistol's name is derived from its
-            designersвЂ”Gryazev and ShipunovвЂ”and its magazine capacity of 18 rounds. The
-            GSh-18 is a rotating-barrel, short recoil , locked-breech pistol with 10 locking
-            lugs spaced equally around the barrel, the large locking surface area resulting
-            in a strong lockup, making it suitable for high-velocity ammunition loads. The
-            GSh-18 may be employed using standard 9Г—19mm Parabellum rounds, but was
-            designed for the high velocity, Russian armour-piercing 9Г—19mm 7N31 round. The
-            pistol incorporates a pre- set striker. The slide and working parts are steel,
-            and the weapon has a polymer frame.
+            ГШ-18 - це 9-мм самозарядний пістолет, розроблений тульським конструкторським
+            бюро "КБП" у 1990-х роках. Назва пістолета походить від прізвищ його розробників
+            - Грязєва та Шипунова - та ємності магазину на 18 набоїв. ГШ-18 - це пістолет з
+            поворотним стволом, короткою віддачею, запиранням затвора на 10 бойових упорів,
+            розташованих рівномірно по всій довжині ствола, з великою площею затворної рами,
+            що забезпечує надійне запирання, що робить його придатним для стрільби
+            високошвидкісними боєприпасами. ГШ-18 може використовувати стандартні патрони
+            9Г-19мм "Парабелум", але був розроблений під високошвидкісний російський
+            бронебійний патрон 9Г-19мм 7Н31. Пістолет оснащений попередньо встановленим
+            ударником. Затвор і робочі органи виготовлені зі сталі, а рамка - з полімеру.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 9mm Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] 9мм Супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_oc33_cw">
         <text>
-            OTs-33 'Pernach' - Freedom
+            ОТС-33 "Пернач" - Свобода
         </text>
     </string>
     <string id="st_wpn_oc33_cw_descr">
         <text>
-            The OTs-33 Pernach is a Russian 9x18 Makarov machine pistol, derived from the
-            5.45 mm OTs-23 Drotik machine pistol. The Pernach is an automatic pistol
-            designed to replace the Stechkin APS in various special OMON units within the
-            Russian police, the Russian Ministry of Internal Affairs (MVD) and other
-            paramilitary units. The OTs-33 was developed in 1995 by Igor Stechkin at the
-            TsKIB SOO design bureau, and it went into limited production at the KBP
-            Instrument Design Bureau. It is also known as the SBZ-2, derived from the names
-            of the KBP team responsible for the pistol, namely Stechkin, Baltser and
-            Zinchenko.The designers were tasked with resolving the difficulty of controlling
-            recoil in full-auto mode present in the Stechkin APS pistol and simplifying it
-            for combat deployment. The new pistol has a "square" shape, which is simpler
-            (and less expensive) to manufacture and has a novel operating principle that
-            increases controllability and reduces recoil.
+            ОТС-33 "Пернач" - російський пістолет-кулемет Макарова під патрон 9х18,
+            створений на основі 5,45-мм пістолета-кулемета ОТС-23 "Дротик". Пернач є
+            автоматичним пістолетом, призначеним для заміни АПС Стєчкіна в різних
+            спеціальних підрозділах ОМОНу в складі російської поліції, Міністерства
+            внутрішніх справ (МВС) Росії та інших воєнізованих підрозділів. ОЦ-33 був
+            розроблений в 1995 році Ігорем Стєчкіним в конструкторському бюро ЦКИБ СОО, і
+            був запущений в обмежене виробництво на КБП "Прилад". Він також відомий під
+            назвою СБЗ-2, що походить від прізвищ співробітників КБП, відповідальних за
+            розробку пістолета, а саме: Стєчкіна, Бальцера та Зінченка. Перед конструкторами
+            було поставлено завдання вирішити складність контролю віддачі в автоматичному
+            режимі, притаманну пістолету АПС Стєчкіна, і спростити його для бойового
+            застосування. Новий пістолет має "квадратну" форму, яка є простішою (і дешевшою)
+            у виготовленні та має новий принцип дії, що підвищує керованість та зменшує
+            віддачу.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 9mm Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] 9-мм супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_sig220_cw">
         <text>
-            Sig Sauer 220 - Freedom
+            Sig Sauer 220 - Свобода
         </text>
     </string>
     <string id="st_wpn_sig220_cw_custom">
         <text>
-            Sig Sauer 220 Custom - Freedom
+            Sig Sauer 220 Custom - Свобода
         </text>
     </string>
     <string id="st_wpn_sig220_cw_nimble">
         <text>
-            Sig Sauer 220 "Landfill" - Freedom
+            Sig Sauer 220 "Landfill" - Свобода
         </text>
     </string>
     <string id="st_wpn_sig220_cw_descr">
         <text>
-            The SIG Sauer P220 is a semi-automatic pistol. Designed in 1975 by the SIG Arms
-            AG division of Schweizerische Industrie Gesellschaft (now SIG Holding AG), and
-            produced by J. P. Sauer &amp; Sohn, in Eckernforde; it is currently manufactured by
-            both SIG Sauer companies: SIG Sauer GMBH, of Eckernforde, Germany; and SIG
-            Sauer, Inc., of New Hampshire, United States. The P220 was developed in 1975 by
-            SIG and produced and distributed by J.P. Sauer &amp; Sohn. A new locking system
-            which is known as the SIG Sauer system was introduced as well as a number of
-            other innovations. This nomenclature is found on the Browning BDA version of the
-            P220 sold from 1975.
+            SIG Sauer P220 - самозарядний пістолет. Розроблений у 1975 році підрозділом SIG
+            Arms AG швейцарського концерну Schweizerische Industrie Gesellschaft (нині SIG
+            Holding AG) і виробляється компанією J. P. Sauer &amp; Sohn у місті Еккернфорде;
+            зараз його випускають обидві компанії SIG Sauer: SIG Sauer GMBH в Еккернфорді,
+            Німеччина, та SIG Sauer, Inc. в Нью-Гемпширі, США. Пістолет P220 був розроблений
+            у 1975 році компанією SIG, а його виробництвом та розповсюдженням займалася
+            компанія J.P. Sauer &amp; Sohn. Було запроваджено нову систему замикання, відому як
+            система SIG Sauer, а також низку інших інновацій. Ця номенклатура зустрічається
+            на версії P220 BDA компанії Browning, що продається з 1975 року.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] .45 Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] .45 Супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_tt33_cw">
         <text>
-            TT-33 Tokarev - Freedom
+            ТТ-33 Токарєв - Свобода
         </text>
     </string>
     <string id="st_wpn_tt333_cw_descr">
         <text>
-            The TT-30, commonly known simply as the Tokarev, is an out-of-production Soviet
-            semi- automatic pistol. It was developed in 1930 by Fedor Tokarev as a service
-            pistol for the Soviet military to replace the Nagant M1895 revolver that had
-            been in use since the Russian Empire, though it ended up being used in
-            conjunction with, rather than replacing, the M1895. It served until 1952, when
-            it was replaced by the Makarov pistol. Externally, the TT-33 is very similar to
-            John Browning's blowback operated FN Model 1903 semiautomatic pistol, and
-            internally it uses Browning's short recoil tilting-barrel system from the M1911
-            pistol. In other areas the TT-33 differs more from Browning designsвЂ”it employs
-            a much simpler hammer/sear assembly than the M1911.
+            ТТ-30, широко відомий як "Токарєв", є знятим з виробництва радянським
+            напівавтоматичним пістолетом. Він був розроблений у 1930 році Федором Токарєвим
+            як службовий пістолет для радянських військових на заміну револьверу Нагана
+            М1895, що перебував на озброєнні ще з часів Російської імперії, хоча в кінцевому
+            підсумку він використовувався разом з М1895, а не замість нього. Він проіснував
+            до 1952 року, коли був замінений пістолетом Макарова. Зовні ТТ-33 дуже схожий на
+            самозарядний пістолет Джона Браунінга FN моделі 1903 року, а всередині він
+            використовує систему з коротким відкатом ствола з нахилом ствола від пістолета
+            М1911. В інших аспектах ТТ-33 більше відрізняється від Браунінга, наприклад, в
+            ньому використовується набагато простіший ударно-спусковий механізм, ніж у
+            М1911.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] APS Supressor.
+          \n %c[ui_gray_3]ДОДАТКИ:
+          \n %c[d_purple] - %c[ui_gray_2] АПС Супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_pm_cw">
         <text>
-            PM Makarov - Freedom
+            Прем'єр-міністр Макаров - Свобода
         </text>
     </string>
     <string id="st_wpn_pm_cw_actor">
         <text>
-            PM Makarov 'Drum Mag' - Freedom
+            ПМ Макаров "Барабанний бій" - Свобода
         </text>
     </string>
     <string id="st_wpn_pmm_cw">
         <text>
-            PMM Makarov - Freedom
+            ПММ Макаров - Свобода
         </text>
     </string>
     <string id="st_wpn_pm_cw_descr">
         <text>
-            The Makarov pistol or PM (Pistolet Makarova, lit. 'Makarov's Pistol') is a
-            Soviet semi-automatic pistol. Under the project leadership of Nikolay
-            Fyodorovich Makarov, it became the Soviet Union's standard military and
-            Militsiya side arm in 1951. The PM is a medium-size, straight-blowback-action,
-            all-steel construction, frame-fixed barrel handgun. In blowback designs, the
-            only force holding the slide closed is that of the recoil spring; upon firing,
-            the barrel and slide do not have to unlock, as do locked-breech-design pistols.
-            Blowback designs are simple and more accurate than designs using a recoiling,
-            tilting, or articulated barrel, but they are limited practically by the weight
-            of the slide.
+            Пістолет Макарова або ПМ (Пістолет Макарова, букв. "Пістолет Макарова") -
+            радянський напівавтоматичний пістолет. Під керівництвом Миколи Федоровича
+            Макарова він став стандартною зброєю армії та міліції Радянського Союзу в 1951
+            році. ПМ - це суцільносталевий пістолет середнього розміру, зі стволом, що
+            фіксується на рамці, з прямим затвором і зворотним відведенням. У пістолетах зі
+            зворотним затвором єдиною силою, що утримує затвор у закритому положенні, є сила
+            зворотної пружини; при пострілі ствол і затвор не повинні розблоковуватися, як у
+            пістолетах із закритим затвором. Ударно-спускові механізми простіші і точніші,
+            ніж пістолети з відкидним, нахиленим або шарнірним стволом, але їхні можливості
+            практично обмежені вагою затвора.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
-          \n %c[d_purple] - %c[ui_gray_2] 9mm Supressor.
+          \n %c[ui_gray_3]Додатки:
+          \n %c[d_purple] - %c[ui_gray_2] 9-мм супресор.
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_usp45_cw">
         <text>
-            USP-45 - Freedom
+            USP-45 - Свобода
         </text>
     </string>
     <string id="st_wpn_usp45_cw_custom">
         <text>
-            USP-45 Custom - Freedom
+            USP-45 Митниця - свобода
         </text>
     </string>
     <string id="st_wpn_usp45_cw_match">
         <text>
-            USP Match - Freedom
+            USP Match - Свобода
         </text>
     </string>
     <string id="st_wpn_usp45_cw_nimble">
         <text>
-            USP Match "Protest" - Freedom
+            USP Match "Протест" - Свобода
         </text>
     </string>
     <string id="st_wpn_usp45_cw_descr">
         <text>
-            The USP (Universelle Selbstladepistole or "universal self-loading pistol") is a
-            semi- automatic pistol developed in Germany by Heckler &amp; Koch GmbH (H&amp;K) as a
-            replacement for the P7 series of handguns. The USP is a semi-automatic pistol
-            with a mechanically locked breech using the short recoil method of operation.
-            This rather conventional lock-up system has a large rectangular lug over the
-            barrel's chamber that rides into and engages the ejection port cut-out in the
-            slide. When a cartridge is fired, pressures generated by the ignited powder
-            drive the cartridge casing back against the breech face on the slide, driving
-            back both the barrel and slide as they remain locked together in the manner
-            described above.
+            USP (нім. Universelle Selbstladepistole або "універсальний самозарядний
+            пістолет") - самозарядний пістолет, розроблений у Німеччині компанією Heckler &amp;
+            Koch GmbH (H&amp;K) як заміна пістолетів серії P7. USP - це напівавтоматичний
+            пістолет з механічним запиранням затвора, що працює за принципом відбою з
+            короткою віддачею. Ця досить традиційна система запирання має великий
+            прямокутний виступ над патронником ствола, який заходить у виріз для викидання
+            гільз у затворі і фіксується ним. Під час пострілу тиск, створюваний запаленим
+            порохом, притискає гільзу до казенної частини затвора, відкидаючи назад ствол і
+            затвор, які залишаються заблокованими разом, як описано вище.
           \n
-          \n %c[ui_gray_3]ATTACHMENTS:
+          \n %c[ui_gray_3]ДОДАТКИ:
           \n %c[d_purple] - %c[ui_gray_2] .45 Supressor.
           \n
           \n
@@ -492,18 +499,18 @@
     </string>
     <string id="st_wpn_usp45_cw_match_descr">
         <text>
-            The USP Match (9 mm Parabellum, .40 S&amp;W, .45 ACP) has the same features offered
-            on the Expert, except for a barrel weight that replaces the elongated slide
-            found on the Expert. This weight is said to provide a recoil counterbalance to
-            aid in target tracking.It was discontinued in 1999. The USP was originally built
-            around the .40 S&amp;W cartridge, but a 9Г—19mm Parabellum was introduced at the
-            same time. In May 1995, Heckler &amp; Koch introduced a .45 ACP variant. The USP
-            Compact series was introduced in 1996 and is available in 9 mm Parabellum, .40
-            S&amp;W, .45 ACP, and, exclusively to the Compact model, .357 SIG. Other variants of
-            the standard USP include the USP Tactical, USP Expert, USP Match, USP Elite and
-            the standard sidearm of the German Armed Forces (Bundeswehr)вЂ”the P8. The USP
-            Tactical .45 ACP variant is also in limited use by the Bundeswehr, designated as
-            the P12.
+            USP Match (9 мм Parabellum, .40 S&amp;W, .45 ACP) має ті ж характеристики, що і
+            Expert, за винятком ваги ствола, яка замінює подовжений затвор, що стоїть на
+            Expert. Вважається, що цей вантаж забезпечує противагу віддачі для полегшення
+            відстеження цілі. 1999 року виробництво було припинено. Спочатку USP був
+            створений під набій .40 S&amp;W, але в той же час був представлений набій 9Г-19мм
+            Parabellum. У травні 1995 року компанія Heckler &amp; Koch представила варіант під
+            набій .45 ACP. Серія USP Compact була представлена в 1996 році і випускалася під
+            набої 9 мм Parabellum, .40 S&amp;W, .45 ACP, а також, ексклюзивно для моделі
+            Compact, під набій .357 SIG. Серед інших модифікацій стандартного USP - USP
+            Tactical, USP Expert, USP Match, USP Elite та стандартна зброя Збройних сил
+            Німеччини (Бундесверу) - P8. Варіант USP Tactical під набій .45 ACP також
+            знаходиться на обмеженому озброєнні Бундесверу і позначається як P12.
           \n
           \n
         </text>

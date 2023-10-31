@@ -2,120 +2,124 @@
 <string_table>
     <string id="ui_mcm_body_health_system_title">
         <text>
-            Body Health System
+            Система здоров'я тіла
         </text>
     </string>
     <string id="ui_mcm_menu_body_health_system">
         <text>
-            Body Health System
+            Система здоров'я тіла
         </text>
     </string>
     <string id="ui_mcm_body_health_system_TEXT_BASED_PATCH">
         <text>
-            Text HUD Replacer
+            Замінник текстового HUD
         </text>
     </string>
     <string id="ui_mcm_body_health_system_TEXT_BASED_PATCH_desc">
         <text>
-            (Reloading required) Text version of HUD.
+            (Потрібне перезавантаження) Текстова версія HUD.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE">
         <text>
-            New Limb Penalties feature
+            Нова функція "Штрафи за кінцівки
         </text>
     </string>
     <string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE_desc">
         <text>
-            (Reloading required) Enabling this activates new penalties feature. Disabling
-            returns old BHS penalties.
+            (Потрібне перезавантаження) Увімкнення цієї опції активує функцію нових штрафів.
+            Вимкнення повертає старі штрафи BHS.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_new_voice_sounds">
         <text>
-            New voice for penalties
+            Новий голос для штрафів
         </text>
     </string>
     <string id="ui_mcm_body_health_system_new_voice_sounds_desc">
         <text>
-            Enabling this activates new voice during sprint with damaged legs. Disabling
-            returns voice from original mod.
+            Увімкнення цієї опції активує новий голос під час спринту з пошкодженими ногами.
+            Вимкнення повертає голос з оригінального мода.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
         <text>
-            Minimum Leg HP for camera sway penalty
+            Мінімальний показник ноги для штрафу за хитання камери
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
         <text>
-            HP of at least one leg must be below this value to play effects. Default slider
-            value of 5 means that effects will play at 4 or less HP. (Movement speed penalty
-            will still be there, for now)
+            Для того, щоб ефекти почали відтворюватися, рівень здоров'я хоча б однієї ноги
+            має бути нижчим за це значення. Значення повзунка за замовчуванням 5 означає, що
+            ефекти будуть відтворюватися при 4 або менше HP. (Штраф за швидкість пересування
+            поки що зберігатиметься)
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
         <text>
-            Minimum Leg HP for damage during sprint
+            Мінімальний рівень здоров'я ніг за пошкодження під час спринту
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
         <text>
-            Sprint with damaged leg has a chance to deal damage. This slider sets the
-            minimum amount of leg HP needed to play this effect, i.e. if slider is 4 and leg
-            HP is 4 then effect will be active. (Value of -1 disables the feature)
+            Спринт з пошкодженою ногою має шанс завдати шкоди. Цей повзунок встановлює
+            мінімальну кількість HP ніг, необхідну для використання цього ефекту, тобто якщо
+            повзунок дорівнює 4 і HP ніг дорівнює 4, то ефект буде активний. (Значення -1
+            вимикає цю функцію)
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_animation_power">
         <text>
-            Legs Camera Effects Power
+            Ефекти камери для ніг Потужність
         </text>
     </string>
     <string id="ui_mcm_body_health_system_leg_animation_power_desc">
         <text>
-            Multiplier of legs penalty for camera effect. Default: 1.0.
+            Множник штрафу за ноги для ефекту камери. За замовчуванням: 1.0.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_arm_penalty_minimum_hp">
         <text>
-            Minimum Arms HP for penalties
+            Мінімальний рівень зброї для штрафів
         </text>
     </string>
     <string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
         <text>
-            Summary Arms HP must be below this value to play effects. Default slider value
-            of 10 means that effects will play if both arms have 9 or less HP.
+            Підсумок Для того, щоб ефекти були відтворені, рівень здоров'я обох рук має бути
+            нижчим за це значення. Значення повзунка за замовчуванням 10 означає, що ефекти
+            спрацюють, якщо обидві руки мають 9 або менше HP.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_arm_animation_power">
         <text>
-            Arms Effects Power
+            Зброя впливає на владу
         </text>
     </string>
     <string id="ui_mcm_body_health_system_arm_animation_power_desc">
         <text>
-            Multiplier for arms penalty effect power. Default: 1.0.
+            Множник для сили ефекту штрафу за зброю. Значення за замовчуванням: 1.0.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_head_penalty_minimum_hp">
         <text>
-            Minimum Head Damage for penalties
+            Мінімальна травма голови для штрафних санкцій
         </text>
     </string>
     <string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
         <text>
-            Damage needed to play effects. For example, default slider value of 2 means that
-            each headshot damage must be for 2 or more HP.
+            Шкода, необхідна для відтворення ефектів. Наприклад, значення повзунка за
+            замовчуванням 2 означає, що кожен постріл в голову повинен завдавати шкоди на 2
+            або більше HP.
         </text>
     </string>
     <string id="ui_mcm_body_health_system_head_animation_power">
         <text>
-            Head Effects Power
+            Сила впливу на голову
         </text>
     </string>
     <string id="ui_mcm_body_health_system_head_animation_power_desc">
         <text>
-            Multiplier for head penalty effect power. Default: 1.0.
+            Множник для сили ефекту пенальті. За замовчуванням: 1.0.
         </text>
     </string>
 </string_table>

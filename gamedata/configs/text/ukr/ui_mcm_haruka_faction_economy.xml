@@ -17,116 +17,119 @@
     </string>
     <string id="ui_mcm_faction_economy_use_faction_discounts_desc">
         <text>
-            Enables multiplier based on the relations of factions.
+            Вмикає мультиплікатор, заснований на відносинах фракцій.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_goodwill_mul">
         <text>
-            Goodwill multiplier
+            Мультиплікатор гудвілу
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_goodwill_mul_desc">
         <text>
-            Enables multiplier based goodwill. (by default applies only for your faction)
+            Вмикає гудвіл на основі мультиплікатора. (за замовчуванням застосовується тільки
+            для вашої фракції)
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_ignore_faction_goodwill">
         <text>
-            Ignore faction for goodwill multiplier
+            Ігнорувати фракцію для мультиплікатора доброї волі
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_ignore_faction_goodwill_desc">
         <text>
-            Makes it so goodwill multiplier works for all factions.
+            Таким чином, мультиплікатор доброї волі працює для всіх фракцій.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_reputation_mul">
         <text>
-            Reputation multiplier
+            Мультиплікатор репутації
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_reputation_mul_desc">
         <text>
-            Enables multiplier based on actor reputation.
+            Вмикає множник на основі репутації актора.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_north_level_mul">
         <text>
-            Higher prices at north
+            Вищі ціни на півночі
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_north_level_mul_desc">
         <text>
-            Makes it so prices at north are higher because of deficit.
+            Тому ціни на півночі вищі через дефіцит.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_chance_for_extra_item">
         <text>
-            Chance for extra item at player faction trader
+            Шанс отримати додатковий предмет у торговця фракції гравця
         </text>
     </string>
     <string id="ui_mcm_faction_economy_required_supply_level">
         <text>
-            Required goodwill level for other factions
+            Необхідний рівень доброзичливості для інших фракцій
         </text>
     </string>
     <string id="ui_mcm_faction_economy_required_supply_level_desc">
         <text>
-            Goodwill level at which traders from other factions begin selling faction gear.
+            Рівень доброзичливості, при якому торговці з інших фракцій починають продавати
+            фракційне спорядження.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_goodwill_mul">
         <text>
-            Goodwill price multiplier factor
+            Коефіцієнт мультиплікатора ціни гудвілу
         </text>
     </string>
     <string id="ui_mcm_faction_economy_rep_mul">
         <text>
-            Reputation price multiplier factor
+            Коефіцієнт мультиплікатора ціни репутації
         </text>
     </string>
     <string id="ui_mcm_faction_economy_ammo_amount_special">
         <text>
-            Amount of special ammo
+            Кількість спеціальних боєприпасів
         </text>
     </string>
     <string id="ui_mcm_faction_economy_ammo_amount">
         <text>
-            Amount of normal ammo
+            Кількість звичайних боєприпасів
         </text>
     </string>
     <string id="ui_mcm_faction_economy_ammo_amount_special_desc">
         <text>
-            Amount of special (AP, HP, slugs, darts etc.) ammo, that would be spawned in
-            stock based on weapons sold by trader.
+            Кількість спеціальних боєприпасів (AP, HP, кулі, дротики і т.д.), які будуть
+            створені на складі на основі зброї, проданої трейдером.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_ammo_amount_desc">
         <text>
-            Amount of normal ammo, that would be spawned in stock based on weapons sold by
-            trader.
+            Кількість нормальних боєприпасів, яка може з'явитися на складі на основі зброї,
+            проданої торговцем.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_trade_GUI">
         <text>
-            Enable additional info in trade menu
+            Увімкнути додаткову інформацію в торговому меню
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_special_ammo_spawns">
         <text>
-            Use special ammo spawns
+            Використовуйте спеціальні спавни боєприпасів
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_trade_GUI_desc">
         <text>
-            Enables additonal info next to the trader portrait with info about current
-            multiplier and supply lvl.
+            Вмикає додаткову інформацію поруч з портретом трейдера з інформацією про
+            поточний мультиплікатор та рівень пропозиції.
         </text>
     </string>
     <string id="ui_mcm_faction_economy_use_special_ammo_spawns_desc">
         <text>
-            Enables special ammo spawn rules for traders. Instead of using trader files,
-            ammo instead gets spawned based on sold weapons.
+            Вмикає спеціальні правила створення боєприпасів для трейдерів. Замість того, щоб
+            використовувати файли торговців, боєприпаси генеруються на основі проданої
+            зброї.
         </text>
     </string>
     <string id="st_haruka_sulpplies_level">

@@ -2,19 +2,19 @@
 <string_table>
     <string id="st_addon_scope_eotech_g33">
         <text>
-            EOTECH Magnifier G33 (LEWD)
+            EOTECH Лупа G33 (LEWD)
         </text>
     </string>
     <string id="st_addon_scope_eotech_g33_descr">
         <text>
             
-          \n The G33 Magnifier is the selected magnifier of USSOCOM, and is compact and
-            lightweight. The mount provides fast transitioning from 3X to 1X, and the optic
-            offers tool-free vertical and horizontal adjustments, larger field-of-view and
-            an adjustable diopter for improved, precise focusing.
+          \n G33 Magnifier - це обрана лупа USSOCOM, компактна і легка. Кріплення
+            забезпечує швидкий перехід від 3-кратного до 1-кратного збільшення, а оптика
+            пропонує вертикальне та горизонтальне регулювання без інструментів, збільшене
+            поле зору та регульовану діоптрію для покращеного, точного фокусування.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]1.0x - 3.0x
-          \n %c[d_purple] • %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]1.0x - 3.0x
+          \n %c[d_purple] • %c[ui_gray_2] Умова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_razor_amg">
@@ -25,16 +25,17 @@
     <string id="st_addon_scope_razor_amg_descr">
         <text>
             
-          \n The Razor AMG UH-1 is fast, intuitive and technologically advanced for close-
-            quarters and lightning-fast engagement. A revolutionary type of holographic
-            system gives you the impressive sight picture and distortion-free image of a
-            holographic sight, with the energy efficiency and durability of a traditional
-            red dot. With an ultra-clean sight picture and the incredibly fast EBR-CQB
-            reticle, the UH-1 is sure to uncover a level of speed and accuracy in close-
-            quarters you never knew existed.
+          \n Приціл Razor AMG UH-1 - швидкий, інтуїтивно зрозумілий і технологічно
+            вдосконалений для ведення вогню з близької відстані та блискавичного відкриття
+            вогню. Революційний тип голографічної системи забезпечує вражаючу картинку
+            прицілу та зображення без спотворень голографічного прицілу, з
+            енергоефективністю та довговічністю традиційної червоної точки. Завдяки
+            надчистому прицілу та неймовірно швидкому прицілу EBR-CQB, UH-1 демонструє
+            рівень швидкості та точності стрільби в ближньому бою, про який ви навіть не
+            підозрювали.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]none
-          \n %c[d_purple] • %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]немає
+          \n %c[d_purple] • %c[ui_gray_2] Умова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_hamr">
@@ -45,56 +46,59 @@
     <string id="st_addon_scope_hamr_descr">
         <text>
             
-          \n "Tough" doesn't begin to describe the Leupold Mark 4 HAMR, a scope that is as
-            devastatingly effective as ruggedly constructed. Compact and combat-ready, the
-            HAMR (High Accuracy Multi-Range Riflescope) is designed for precise mid-range
-            distance marksmanship and fast target acquisition in bright daylight, low light,
-            and at night. The HAMR will give you the upper hand in any Close Quarter and
-            Mid-Range tactical scenario. The HAMR comes coupled with a 7.5 MOA DeltaPoint
-            red dot sight for immediate target acquisition when needed.
+          \n "Міцний" - це ще не все, що можна сказати про приціл Leupold Mark 4 HAMR,
+            який є настільки ж нищівно ефективним, наскільки і міцно сконструйованим.
+            Компактний і боєздатний, високоточний багатокаліберний приціл HAMR (High
+            Accuracy Multi-Range Riflescope) призначений для точної стрільби на середніх
+            дистанціях і швидкого захоплення цілей при яскравому денному світлі, низькій
+            освітленості і вночі. HAMR дасть вам перевагу в будь-якому тактичному сценарії
+            стрільби в ближньому бою та на середніх дистанціях. Приціл HAMR поставляється в
+            комплекті з прицілом DeltaPoint з червоною крапкою 7,5 МОА для миттєвого
+            захоплення цілі за необхідності.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]none
-          \n %c[d_purple] • %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1] немає
+          \n %c[d_purple] • %c[ui_gray_2] Умова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_sig_bravo4">
         <text>
-            SIG Bravo4 4x30mm (LEWD)
+            SIG Bravo4 4x30мм (LEWD)
         </text>
     </string>
     <string id="st_addon_scope_sig_bravo4_descr">
         <text>
             
-          \n SIG Bravo4 4x30 - delivers an industry leading 42% wider field of view than
-            current battle sights. The notably flat, distortion-free image boasts an
-            unprecedented edge-to-edge clarity by means of a combination of Low Dispersion
-            glass and aspherical lens design.
+          \n SIG Bravo4 4x30 - забезпечує найкраще в галузі поле зору на 42% ширше, ніж у
+            сучасних бойових прицілів. Завдяки поєднанню скла з низьким ступенем дисперсії
+            та асферичної лінзи, зображення без спотворень має безпрецедентну чіткість від
+            краю до краю.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]fixed 4.0x
-          \n %c[d_purple] • %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1] фіксоване 4.0x
+          \n %c[d_purple] • %c[ui_gray_2] Умова: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_pinty">
         <text>
-            Pinty 3-9x32EB Rifle Scope (LEWD)
+            Приціл Pinty 3-9x32EB (LEWD)
         </text>
     </string>
     <string id="st_addon_scope_pinty_descr">
         <text>
             
-          \n Magnifications from 3x to 9x, green/red illumination with 5 brightness
-            settings, both for the scope and electronic unlimited brightness control for the
-            dot sight. Red-green dot reflex sight with unlimited eye coverage and wide field
-            of view.
-          \n The Picatinny mount easily mounts to any 22mm rail; Multi-coated optics with
-            O-ring sealing and nitrogen filling ensure 100% water and fog proof. Unmatched
-            light transmission, uncompromising mechanical performance and clarity - exactly
-            what you need in the Zone.
+          \n Збільшення від 3х до 9х, зелене/червоне підсвічування з 5 налаштуваннями
+            яскравості, як для прицілу, так і для електронного необмеженого регулювання
+            яскравості для точкового прицілу. Червоно-зелений точковий приціл з необмеженим
+            покриттям очей і широким полем зору.
+          \n Кріплення Picatinny легко встановлюється на будь-яку 22-міліметрову планку;
+            багатошарове просвітлення з кільцевим ущільненням та заповненням азотом
+            забезпечує 100% захист від води та туману. Неперевершене світлопропускання,
+            безкомпромісні механічні характеристики та чіткість - саме те, що вам потрібно в
+            зоні.
           \n
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]3.0x - 9.0x
-          \n %c[d_purple] • %c[ui_gray_2] Pre-installed: a range finder scope, a green
-            laser sight and a red and green dot sight %c[d_purple] • %c[ui_gray_2]
-            Condition: %c[ui_gray_1]very good
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]3.0x - 9.0x
+          \n %c[d_purple] • %c[ui_gray_2] Попередньо встановлено: далекомірний приціл,
+            зелений лазерний приціл та червоно-зелений точковий приціл %c[d_purple] •
+            %c[ui_gray_2] Стан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_lco">
@@ -105,13 +109,14 @@
     <string id="st_addon_scope_lco_descr">
         <text>
             
-          \n An open field of view keeps the peripheral vision free of knobs, dials, or
-            the scope housing, which can mask targets. The LCO's crisp 1-MOA dot stands out
-            in blinding sun or heavy rain, and quickly adjust between its 16 brightness
-            settings to match any condition. The LCO is waterproof to 66 feet and can take a
-            beating thanks to its aircraft-grade aluminum housing.
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]none
-          \n %c[d_purple] • %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n Відкрите поле зору звільняє периферійний зір від ручок, циферблатів або
+            корпусу прицілу, які можуть маскувати цілі. Чітка точка 1 МОА прицілу LCO
+            виділяється під сліпучим сонцем або проливним дощем і швидко налаштовується за
+            допомогою 16 налаштувань яскравості, щоб відповідати будь-яким умовам. Приціл
+            LCO є водонепроникним на глибині до 66 футів і витримує удари завдяки корпусу з
+            авіаційного алюмінію.
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]немає
+          \n %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_d-evo">
@@ -122,13 +127,13 @@
     <string id="st_addon_scope_d-evo_descr">
         <text>
             
-          \n The D-EVO's unique design allows for a quick move between a 1x red dot sight
-            and the 6x magnification D-EVO by simply shifting the eye line – not the head.
-            This enables to quickly move between close-quarter shots and mid-range shots
-            with speed and accuracy.
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]6.0x
-          \n %c[d_purple] • %c[ui_gray_2] Pre-installed: a 1x red dot sight %c[d_purple] •
-            %c[ui_gray_2] Condition: %c[ui_gray_1]very good
+          \n Унікальна конструкція прицілу D-EVO дозволяє швидко переключатися з прицілу з
+            1х кратним збільшенням на приціл D-EVO з 6х збільшенням, просто переміщуючи
+            лінію очей, а не голову. Це дозволяє швидко і точно перемикатися між пострілами
+            впритул і пострілами з середньої дистанції.
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]6.0x
+          \n %c[d_purple] • %c[ui_gray_2] Попередньо встановлено: приціл з червоною точкою
+            1х %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]дуже добрий
         </text>
     </string>
     <string id="st_addon_scope_burris-ar332">
@@ -139,14 +144,14 @@
     <string id="st_addon_scope_burris-ar332_descr">
         <text>
             
-          \n The AR-332 is designed and rugged for harsh environments and changing weather
-            conditions. The Ballistic CQ reticle features holdover dots good out to 600
-            yards. They work best with 5.56 or 7.62 ammunition. Picatinny rails allow
-            piggybacking of additional sights, lasers or lights. The perfect AR Scope for
-            quick target acquistion, coupled with a bit more range.
-          \n %c[d_purple] • %c[ui_gray_2] Magnification: %c[ui_gray_1]3.0x
-          \n %c[d_purple] • %c[ui_gray_2] Pre-installed: a 1x red dot sight %c[d_purple] •
-            %c[ui_gray_2] Condition: %c[ui_gray_1]excellent
+          \n Приціл AR-332 розроблений для використання в суворих умовах та за мінливих
+            погодних умов. Прицільна сітка Ballistic CQ має точки утримання на відстані до
+            600 ярдів. Він найкраще працює з набоями калібру 5.56 або 7.62. Планка Пікатіні
+            дозволяє встановлювати додаткові приціли, лазери або ліхтарі. Ідеальний оптичний
+            приціл для швидкого захоплення цілі в поєднанні з великою дальністю стрільби.
+          \n %c[d_purple] • %c[ui_gray_2] Збільшення: %c[ui_gray_1]3.0x
+          \n %c[d_purple] • %c[ui_gray_2] Попередньо встановлено: приціл з червоною точкою
+            1х %c[d_purple] • %c[ui_gray_2] Стан: %c[ui_gray_1]відмінний
         </text>
     </string>
 </string_table>

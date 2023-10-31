@@ -2,119 +2,119 @@
 <string_table>
     <string id="ui_mcm_menu_ptp_camera">
         <text>
-            PTP Camera
+            PTP-камера
         </text>
     </string>
     <string id="ui_ptp_camera_title">
         <text>
-            Playable Third Person Camera [v1.13]
+            Грабельна камера від третьої особи [v1.13]
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_fdda_backpacks_anim">
         <text>
-            First person backpack animations (Requires FDDA addon)
+            Анімація рюкзака від першої особи (Потрібен аддон FDDA)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_fdda_backpacks_anim_desc">
         <text>
-            Attention! Mandatory installation of a patch on FDDA is required for the correct
-            operation of the addon!
+            Увага! Для коректної роботи аддона потрібне обов'язкове встановлення патча на
+            FDDA!
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_fpd_cam">
         <text>
-            Third person instant death (Requires AyyKyu FPD addon)
+            Миттєва смерть від третьої особи (Потрібен аддон AyyKyu FPD)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_fpd_cam_desc">
         <text>
-            On death, instantly turns off the camera and loads the last save.
+            При смерті миттєво вимикає камеру і завантажує останнє збереження.
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_hide_hud_option">
         <text>
-            Enable hidden HUD? (Hold TAB)
+            Увімкнути прихований HUD? (Утримуйте TAB)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_hide_hud_option_desc">
         <text>
-            Why so serious? :)
+            Чому так серйозно? :)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_fast_mind_option">
         <text>
-            Enable time slowdown when using inventory?
+            Увімкнути уповільнення часу при використанні інвентарю?
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_focus_option">
         <text>
-            Enable dynamic motion camera?
+            Увімкнути динамічну камеру руху?
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_focus_option_inverted">
         <text>
-            Invert dynamic camera?
+            Інверторна динамічна камера?
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_zoom_option">
         <text>
-            Enable optional zoom? (Hold Walk)
+            Увімкнути додатковий зум? (Утримуйте Walk)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_third_person_fov">
         <text>
-            Third Person FOV
+            FOV від третьої особи
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_third_person_fov_desc">
         <text>
-            Default value: 80
+            Значення за замовчуванням: 80
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_warning">
         <text>
-            INSTRUCTIONS:
-          \nLoad into the game, make a quick save, go to settings and setup camera
-            position.
-          \nOnce you choosed a camera position, be sure to check the "Reload system
-            configs" checkbox.
-          \nAfter that, immediately quick load, without leaving the main menu to avoid
-            crash, and enjoy!
-          \nIf you do not follow these instructions, changes to the camera position will
-            not be applied or will lead to crash!
+            ІНСТРУКЦІЯ:
+          \nЗавантажте гру, зробіть швидке збереження, перейдіть до налаштувань і
+            встановіть положення камери.
+          \nПісля того, як ви вибрали положення камери, обов'язково поставте галочку
+            "Перезавантажити системні конфіги".
+          \nПісля цього одразу ж швидке завантаження, не виходячи з головного меню, щоб
+            уникнути вильоту, і насолоджуйтеся!
+          \nЯкщо ви не виконаєте цю інструкцію, зміни положення камери не будуть
+            застосовані або призведуть до аварійного завершення роботи!
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_style">
         <text>
-            Camera position (hover for hint)
+            Положення камери (наведіть курсор для підказки)
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_style_desc">
         <text>
-            Style1: Close Shoulder Camera
-          \nStyle2: Regular Shoulder Camera
-          \nStyle3: Back Camera
-          \nCustom: Your Customization
+            Style1: Закрита наплічна камера
+          \nСтиль2: Звичайна наплічна камера
+          \nСтиль3: Камера ззаду
+          \nНалаштувати: Ваші налаштування
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_custom_x">
         <text>
-            Left or Right
+            Ліворуч або праворуч
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_custom_y">
         <text>
-            Lower or Higher
+            Нижчий або вищий
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_cam_custom_z">
         <text>
-            Further or closer
+            Далі чи ближче
         </text>
     </string>
     <string id="ui_mcm_ptp_camera_enable_ini_reset">
         <text>
-            Reload system configs
+            Перезавантажити конфігурацію системи
         </text>
     </string>
 </string_table>

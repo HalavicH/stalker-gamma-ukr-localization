@@ -5,164 +5,164 @@
     <!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_title">
         <text>
-            Clear area of mutants
+            Чиста зона мутантів
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_descr">
         <text>
-            Mutants are about. Hunt them down and clear the area.
+            Мутанти десь поруч. Вистежте їх і очистіть територію.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_job_descr">
         <text>
-            Shh... Listen, hear that? Some mutants howling. Still gives me the chills after
-            all this time. How about you go out there and take care of them? I'll make it
-            worth your while.
+            Шшш... Слухай, чуєш це? Якісь мутанти виють. У мене й досі мурашки по шкірі
+            після стількох років. Як щодо того, щоб піти туди і подбати про них? Це буде
+            варте того, щоб ти витратив свій час.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_bs_assault_monster_online_finish">
         <text>
-            Haha! Well done, stalker! Have a drink on Beard!
+            Ха-ха! Молодець, сталкере! Випий за Бороду!
         </text>
     </string>
 
     <!-- FIND ARTEFACT FOR BEARD TASK -->
     <string id="igi_task_text_zat_a2_stalker_barmen_2_title">
         <text>
-            Find the Artefact for Beard
+            Знайти артефакт для Бороди
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_descr">
         <text>
-            Beard wants you to find the artefact for him.
+            Борода хоче, щоб ви знайшли артефакт для нього.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_job_descr">
         <text>
-            I deal in artefacts. I usually don't buy them from stalkers, but there is one in
-            particular I would like to get my hands on. Do you want to try to get it for me?
+            Я торгую артефактами. Зазвичай я не купую їх у сталкерів, але є один особливий,
+            який я хотів би отримати в свої руки. Хочеш спробувати дістати його для мене?
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_fetch_job_descr">
         <text>
-            I'm looking for the artefact. You ever seen one? If you can find it, I'll make
-            sure you're well paid.
+            Я шукаю артефакт. Ви коли-небудь бачили такий? Якщо знайдеш його, я тобі добре
+            заплачу.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_2_fetch_finish">
         <text>
-            Good hunting, stalker! Have a drink on the house!
+            Вдалого полювання, сталкере! Випивка за рахунок закладу!
         </text>
     </string>
 
     <!-- ASSASSINATION FOR BEARD TASK -->
     <string id="igi_task_text_zat_a2_stalker_barmen_3_title">
         <text>
-            My Brother's Keeper
+            Вартовий мого брата
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_3_descr">
         <text>
-            Kill the Military Stalker
+            Вбити військового сталкера
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_3_job_descr">
         <text>
-            There's a guy; used to be a regular stalker just like anyone else on this ship.
-            One day, some Military officers came and offered him a commission. The next
-            thing we knew, he's found murdering his former brothers in cold blood! We cannot
-            stand for that! Find this traitor and avenge the men he shot in the back.
+            Один хлопець був звичайним сталкером, як і всі на цьому кораблі. Одного дня
+            прийшли якісь військові і запропонували йому посаду. Наступне, що ми дізналися,
+            це те, що він холоднокровно вбиває своїх колишніх братів! Ми не можемо з цим
+            миритися! Знайдіть цього зрадника і помстіться за тих, кому він стріляв у спину.
         </text>
     </string>
     <string id="igi_task_text_zat_a2_stalker_barmen_3_finish">
         <text>
-            Ah, you killed him? Help yourself to a drink. I'm sure we could all do with
-            one...
+            Ти його вбив? Пригощайтеся. Впевнений, нам усім не завадило б...
         </text>
     </string>
 
     <!-- Noah -->
     <string id="igi_task_text_noah_2_1">
         <text>
-            Benefactor: get in the teleporter anomaly on the hill
+            Благодійник: потрапити в телепортаційну аномалію на пагорбі
         </text>
     </string>
     <string id="igi_task_text_noah_2_2">
         <text>
-            Benefactor: clear out the mutant lair
+            Благодійник: зачистити лігво мутантів
         </text>
     </string>
     <string id="igi_task_text_noah_2_3">
         <text>
-            Benefactor: tell Noah about the successful mission
+            Благодійник: розкажіть Ною про успішну місію
         </text>
     </string>
     <string id="igi_task_text_noah_2_descr">
         <text>
-            Snorks have been threatening Noah for a while. He wants me to clear out a lair
-            at the southern plateau.
+            Снорки вже давно погрожують Ною. Він хоче, щоб я зачистив лігво на південному
+            плато.
         </text>
     </string>
     <string id="igi_task_text_noah_1_1">
         <text>
-            Benefactor: help Noah get a new rifle
+            Благодійник: допоможіть Ною придбати нову гвинтівку
         </text>
     </string>
     <string id="igi_task_text_noah_1_2">
         <text>
-            Benefactor: bring Noah an Armsel Protecta
+            Благодійник: принесіть Ною Armsel Protecta
         </text>
     </string>
     <string id="igi_task_text_noah_1_descr">
         <text>
-            Noah wants my help getting an Armsel Protecta so that he can rest easy at night.
+            Ноа хоче, щоб я допоміг йому отримати Armsel Protecta, щоб він міг спокійно
+            спати вночі.
         </text>
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_title">
         <text>
-            Collect patches
+            Збирайте латки
         </text>
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_descr">
         <text>
-            A mercenary has asked me to collect patches.
+            Найманець попросив мене зібрати латки.
         </text>
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_job_descr">
         <text>
-            You feel like arranging a real safari? You will hunt people and bring their
-            patches. We will be raising the standards of the faction.
+            Хочете влаштувати справжнє сафарі? Ви будете полювати на людей і приносити їхні
+            нашивки. Будемо піднімати стандарти фракції.
         </text>
     </string>
     <string id="igi_task_text_zat_stancia_trader_merc_bs_fetch_patches_finish">
         <text>
-            That's what I'm talking about! Here's your money.
+            Ось про що я говорю! Ось твої гроші.
         </text>
     </string>
 
     <!-- Axel (Loner Medic) -->
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_title">
         <text>
-            Find drug-making kit for Axel
+            Знайти набір для виготовлення ліків для Акселя
         </text>
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_descr">
         <text>
-            Drug-making kit is required by Axel to work on medical supplies. You should
-            bring them back to him if you find any.
+            Набір для виготовлення ліків потрібен Акселю для роботи над медикаментами. Якщо
+            ви їх знайдете, принесіть йому, будь ласка.
         </text>
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of
-            injuries I have to treat on daily basis is worrying. I'm gonna run out of
-            bandages and medkits soon or later. I need you to find me one of those old drug-
-            making kits. They will come in handy for sure.
+            Зберігати те, що залишилося на складах медикаментів, при такій кількості
+            поранень, які мені доводиться лікувати щодня, дуже складно. Рано чи пізно у мене
+            закінчаться бинти та аптечки. Мені потрібно, щоб ви знайшли мені один з тих
+            старих наборів для виготовлення ліків. Вони мені точно знадобляться.
         </text>
     </string>
     <string id="igi_task_text_zat_b22_stalker_medic_bs_fetch_drugkit_finish">
         <text>
-            Great job! I own you big time.
+            Чудова робота! Ти тепер мій.
         </text>
     </string>
 </string_table>

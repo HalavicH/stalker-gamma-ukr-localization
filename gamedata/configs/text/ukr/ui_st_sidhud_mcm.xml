@@ -7,115 +7,114 @@
     </string>
     <string id="ui_mm_video_hud_sidslide">
         <text>
-            SidHUD Options
+            Параметри SidHUD
         </text>
     </string>
     <string id="ui_mcm_sidhud_armorbar">
         <text>
-            Armor Condition Bar
+            Індикатор стану броні
         </text>
     </string>
     <string id="ui_mcm_sidhud_armorbar_desc">
         <text>
-            Shows the Armor Condition Bar.
+            Показує панель стану броні.
         </text>
     </string>
     <string id="ui_mcm_sidhud_armortext">
         <text>
-            Armor Condition Text
+            Текст стану броні
         </text>
     </string>
     <string id="ui_mcm_sidhud_armortext_desc">
         <text>
-            Shows the Armor Condition as a percentage in cyan text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан броні у відсотках блакитним кольором.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_sidhud_weaponshow">
         <text>
-            Weapon Condition Bar
+            Індикатор стану зброї
         </text>
     </string>
     <string id="ui_mcm_sidhud_weaponshow_desc">
         <text>
-            Shows the Weapon Condition Bar.
+            Показує панель стану зброї.
         </text>
     </string>
     <string id="ui_mcm_sidhud_weapontext">
         <text>
-            Weapon Condition Text
+            Текст про стан зброї
         </text>
     </string>
     <string id="ui_mcm_sidhud_weapontext_desc">
         <text>
-            Shows the Weapon Condition as a percentage in orange text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан зброї у відсотках помаранчевим текстом.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_sidhud_weaponbarhide">
         <text>
-            Hide on Unequip
+            Приховати на Unequip
         </text>
     </string>
     <string id="ui_mcm_sidhud_weaponbarhide_desc">
         <text>
-            Makes the Weapon Condition Bar disappear when you unequip.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Знімає панель стану зброї, коли ви знімаєте спорядження.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_sidhud_ammoshow">
         <text>
-            Total Ammo Counter
+            Лічильник боєприпасів
         </text>
     </string>
     <string id="ui_mcm_sidhud_ammoshow_desc">
         <text>
-            Shows the TOTAL amount of ammo you have for each 3 types available in the
-            inventory.
+            Показує ЗАГАЛЬНУ кількість боєприпасів для кожного з 3 типів, наявних в
+            інвентарі.
         </text>
     </string>
     <string id="ui_mcm_sidhud_oldammoshow">
         <text>
-            Old Ammo
+            Старі набої
         </text>
     </string>
     <string id="ui_mcm_sidhud_oldammoshow_desc">
         <text>
-            Makes the Old Ammo appear where relevant (Such as not having its "good"
-            counterparts)
+            Змушує старі боєприпаси з'являтися там, де це доречно (наприклад, коли вони не
+            мають "хороших" аналогів)
         </text>
     </string>
     <string id="ui_mcm_sidhud_radhealthshow">
         <text>
-            Radiation Exposure Bar
+            Індикатор радіаційного опромінення
         </text>
     </string>
     <string id="ui_mcm_sidhud_radhealthshow_desc">
         <text>
-            Shows the amount of Radiation you have, on the Health Bar, going from left-to-
-            right.
+            Показує кількість радіації, яку ви маєте, на індикаторі здоров'я, зліва направо.
         </text>
     </string>
     <string id="ui_mcm_sidhud_bleedingbarshow">
         <text>
-            Bleeding Bar
+            Кровоспинна планка
         </text>
     </string>
     <string id="ui_mcm_sidhud_bleedingbarshow_desc">
         <text>
-            Shows the amount of blood you're losing, on the Stamina Bar, going from left-to-
-            right.
+            Показує кількість крові, яку ви втрачаєте, на смужці витривалості, зліва
+            направо.
         </text>
     </string>
     <string id="ui_mcm_sidhud_healingbar">
         <text>
-            Health Prediction Bar
+            Панель прогнозування здоров'я
         </text>
     </string>
     <string id="ui_mcm_sidhud_healingbar_desc">
         <text>
-            Enables a subtle bar on the HP Bar that will show the exact amount of healing
-            you will get when using a healing item.
+            Вмикає тоненьку смужку на панелі HP, яка показуватиме точну кількість зцілення,
+            яку ви отримаєте при використанні предмета зцілення.
         </text>
     </string>
 </string_table>

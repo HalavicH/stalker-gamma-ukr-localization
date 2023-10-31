@@ -2,89 +2,91 @@
 <string_table>
     <string id="st_mil_car">
         <text>
-            Military Car Radio
+            Військове автомобільне радіо
         </text>
     </string>
     <string id="st_mil_car_descr">
         <text>
-            A Military Spec Radio Sometimes Found Around Broken Down Vehicles. Junk To Most,
-            But Maybe Someone Out There Would Pay Handsomely For It.
+            Військові радіостанції іноді знаходять у розбитих автомобілях. Для більшості -
+            мотлох, але, можливо, хтось за нього добре заплатить.
         </text>
     </string>
     <string id="st_mil_amp">
         <text>
-            Radio Amplification Module
+            Модуль радіопідсилення
         </text>
     </string>
     <string id="st_mil_amp_descr">
         <text>
-            A Burnt-Out Military Signal Amplification Unit That Has Been Torn From An
-            Abandoned Vehicle. Junk To Most But Maybe Valuable To The Right People.
+            Згорілий військовий підсилювач сигналу, який вирвали з покинутої машини. Мотлох
+            для більшості, але може бути цінним для потрібних людей.
         </text>
     </string>
     <string id="ui_mcm_kit_rework_title">
         <text>
-            oops
+            Упс.
         </text>
     </string>
     <string id="ui_mcm_menu_kit_rework">
         <text>
-            World-Spawns Rework
+            Переробка світових спавнів
         </text>
     </string>
     <string id="ui_mcm_kit_rework_reset_kits">
         <text>
-            Check The Box and Click Apply At The Bottom To Reset Kits.
+            Поставте галочку і натисніть "Застосувати" внизу, щоб скинути набори.
         </text>
     </string>
     <string id="ui_mcm_kitspawn_min">
         <text>
-            Minimum Toolkits Per Zone
+            Мінімальний набір інструментів на зону
         </text>
     </string>
     <string id="ui_mcm_kitspawn_max">
         <text>
-            Maximum Toolkits Per Zone
+            Максимальний набір інструментів на зону
         </text>
     </string>
     <string id="ui_mcm_kitspawn_min_desc">
         <text>
-            Minimum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along
-            with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair
-            kits. Not all kits can be found in all zones. Expert tools can not be found in
-            the most southern zones for example.
+            Мінімальний набір інструментів на зону. Сюди входять Базовий, Просунутий та
+            Експертний інструменти, а також зброярські інструменти, набори для виготовлення
+            ліків, легкі, середні, важкі набори та набори для ремонту шоломів. Не всі набори
+            можна знайти в усіх зонах. Наприклад, експертні інструменти не можна знайти в
+            найпівденніших зонах.
         </text>
     </string>
     <string id="ui_mcm_kitspawn_max_desc">
         <text>
-            Maximum Toolkits Per Zone. This include Basic, Advanced and Expert Tools along
-            with gunsmithing tools, drugmaking kits, light, medium, heavy and helmet repair
-            kits. Not all kits can be found in all zones. Expert tools can not be found in
-            the most southern zones for example.
+            Максимальний набір інструментів на зону. Сюди входять Базовий, Просунутий та
+            Експертний інструменти, а також зброярські інструменти, набори для виготовлення
+            ліків, легкі, середні, важкі набори та набори для ремонту шоломів. Не всі набори
+            можна знайти в усіх зонах. Наприклад, експертні інструменти не можна знайти в
+            найпівденніших зонах.
         </text>
     </string>
     <string id="ui_mcm_kitspawn_valuables_min">
         <text>
-            Minimum Other Valuable Items
+            Мінімум інших цінних речей
         </text>
     </string>
     <string id="ui_mcm_kitspawn_valuables_max">
         <text>
-            Maximum Other Valuable Items
+            Максимум інших цінних речей
         </text>
     </string>
     <string id="ui_mcm_kitspawn_valuables_min_desc">
         <text>
-            Minimum other non-toolkit valuables per zone such as upgrade kits(previously
-            only found on dead bodies), various cleaning kits, LLMCs, even a working
-            headlamp, echo- detector or multitool if youre really lucky
+            Мінімум інших цінностей, що не належать до інструментарію, таких як набори для
+            покращення (раніше їх знаходили лише на трупах), різні набори для чищення, LLMC,
+            навіть робоча фара, ехолот або мультитул, якщо вам дійсно пощастило.
         </text>
     </string>
     <string id="ui_mcm_kitspawn_valuables_max_desc">
         <text>
-            Maximum other non-toolkit valuables per zone such as upgrade kits(previously
-            only found on dead bodies), various cleaning kits, LLMCs, even a working
-            headlamp, echo- detector or multitool if youre really lucky
+            Максимум інших цінностей, що не належать до інструментарію, таких як набори для
+            апгрейду (раніше їх знаходили лише на трупах), різні набори для чищення, LLMC,
+            навіть робоча фара, ехолот або мультитул, якщо вам дійсно пощастило.
         </text>
     </string>
 </string_table>

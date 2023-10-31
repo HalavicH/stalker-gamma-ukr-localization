@@ -5,183 +5,177 @@
     <!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_title">
         <text>
-            Destroy the Enemy Detachment
+            Знищення ворожого загону
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_descr">
         <text>
-            A detachment of stalkers has been causing problems for Freedom's friends. Lukash
-            is offering a bounty to whoever takes these punks out.
+            Загін сталкерів створює проблеми друзям Свободи. Лукаш пропонує винагороду тому,
+            хто знищить цих панків.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_job_descr">
         <text>
-            Do you feel like helping Freedom for a reward? We've got some damn punks who
-            won't settle down, and it's time to teach them a lesson. These rascals have been
-            sneaking into our territory. They have been shooting at our friends. And, to top
-            it all off, they have the gall to gaslight my men! It's time to give them a
-            lethal education on personal space. Can you do it?
+            Ви хочете допомогти "Свободі" за винагороду? У нас є кілька клятих панків, які
+            ніяк не заспокояться, і прийшов час їх провчити. Ці негідники проникали на нашу
+            територію. Вони стріляли в наших друзів. І, на довершення всього, вони мають
+            нахабство труїти газовими балончиками моїх людей! Настав час дати їм смертельний
+            урок поваги до особистого простору. Зможеш це зробити?
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_1_finish">
         <text>
-            Ah, great! Maybe now we'll get some goddamn peace and quiet around here, eh?
+            Чудово! Може, тепер тут настане клята тиша і спокій, га?
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_2_title">
         <text>
-            Raid the Enemy
+            Рейд на ворога
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_2_descr">
         <text>
-            I have been tasked to raid enemy territory for Freedom. I should report back to
-            Lukash after the job is done.
+            Мені доручено здійснити рейд на ворожу територію в ім'я "Свободи". Після
+            виконання завдання я маю доповісти Лукашу.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_2_job_descr">
         <text>
-            I have a dangerous but important mission if you are willing. With Monolith to
-            the north and Duty to the south, things are getting a little claustrophobic for
-            my liking. I need a certified badass to raid an enemy camp and give us more
-            breathing room. Do you dare to be that badass?
+            У мене є небезпечна, але важлива місія, якщо ви згодні. З Монолітом на півночі
+            та Обов'язком на півдні, ситуація стає трохи клаустрофобною, як на мене. Мені
+            потрібен сертифікований задирака, який здійснить набіг на ворожий табір і дасть
+            нам більше простору для дихання. Чи наважишся ти бути таким крутим?
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_2_finish">
         <text>
-            Ha! You actually did it, you mad man! Here, you've earned this, along with my
-            respect.
+            Ха! Ти справді зробив це, божевільний! Ось, ти заслужив це, разом з моєю
+            повагою.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_3_title">
         <text>
-            Eliminate the Monolith Convert
+            Усунути монолітну конвертацію
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_3_descr">
         <text>
-            A Freedom member has converted to the Monolith. Lukash has tasked me with
-            finding and killing him.
+            Один свободівець перейшов на бік Моноліту. Лукаш доручив мені знайти і вбити
+            його.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_3_job_descr">
         <text>
-            I've got some real heavy news, man. One of our Freedom fighters has fallen under
-            the influence of the Monolith. He was a good man, and I know he wouldn't have
-            wanted to continue living as some alien crystal's brainwashed killer. Please,
-            find him and take him down. Otherwise, his old friends are going to have to do
-            it.
+            У мене дуже важкі новини, друже. Один з наших бійців "Свободи" потрапив під
+            вплив Моноліту. Він був хорошою людиною, і я знаю, що він не хотів би
+            продовжувати жити, як вбивця з промитими мізками з чужорідного кристалу. Будь
+            ласка, знайдіть його і знищіть. Інакше це зроблять його старі друзі.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_3_finish">
         <text>
-            It's done? Good. I know this was rough. Our brothers at the Barrier will drink
-            to their fallen comrade. As for you, here's your payment.
+            Готово? Добре. Я знаю, це було важко. Наші брати з Бар'єру вип'ють за свого
+            загиблого товариша. Що стосується тебе, ось твоя плата.
         </text>
     </string>
 
     <!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_4_title">
         <text>
-            Deal with the Problematic Stalker
+            Розберіться з проблемним сталкером
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_4_descr">
         <text>
-            Lukash will reward me for capping a troublesome stalker.
+            Лукаш винагородить мене за те, що я впіймав надокучливого переслідувача.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_4_job_descr">
         <text>
-            There's a fellow who's walking around not far from here. He shot one of ours
-            down once. And something like that cannot be forgiven. Will you take the job to
-            whack him? We'll pay, don't worry.
+            Недалеко звідси ходить один хлопець. Одного разу він збив одного з наших. Такого
+            не можна пробачити. Візьметеся його прибити? Ми заплатимо, не хвилюйся.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_4_finish">
         <text>
-            Hell yeah! That'll teach 'em to mess with us. Here's your reward, as I promised.
-            Good job, stalker.
+            Так, чорт забирай! Це навчить їх, як з нами зв'язуватися. Ось твоя нагорода, як
+            я і обіцяв. Гарна робота, сталкере.
         </text>
     </string>
 
     <!-- FIND WEAPON FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_title">
         <text>
-            Bring Lukash a Reliable gun
+            Принесіть Лукашу надійну зброю
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_descr">
         <text>
-            Lukash has asked me to find a specific firearm in mint condition. I should
-            return to him as soon as I find what he wants.
+            Лукаш попросив мене знайти певну вогнепальну зброю в ідеальному стані. Я повинен
+            повернутися до нього, як тільки знайду те, що він хоче.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_job_descr">
         <text>
-            While Freedom's benefactors keep the lads supplied with the weaponry they need,
-            I could really do with a new weapon for personal reasons. If you happen to find
-            one in excellent condition, I would be willing to give you a substantial payment
-            for it.
+            Хоча благодійники "Свободи" забезпечують хлопців необхідною зброєю, мені б не
+            завадила нова зброя з особистих міркувань. Якщо ви знайдете зброю у відмінному
+            стані, я готовий заплатити вам за неї значну суму.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_fetch_job_descr">
         <text>
-            While Freedom's benefactors keep the lads supplied with the weaponry they need,
-            I could really do with a new weapon for personal reasons. If you happen to find
-            one in excellent condition, I would be willing to give you a substantial payment
-            for it.
+            Хоча благодійники "Свободи" забезпечують хлопців необхідною зброєю, мені б не
+            завадила нова зброя з особистих міркувань. Якщо ви знайдете зброю у відмінному
+            стані, я готовий заплатити вам за неї значну суму.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_5_fetch_finish">
         <text>
-            Well done. This new shooter will make an enormous difference should the worst
-            come to pass. Here is the payment I promised.
+            Молодець. Цей новий шутер матиме величезне значення, якщо станеться найгірше.
+            Ось гроші, які я обіцяв.
         </text>
     </string>
 
     <!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_bs_fetch_patches_title">
         <text>
-            Trigger Happy
+            Тригер Щастя
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_bs_fetch_patches_descr">
         <text>
-            Lukash is promoting aggression against some of Freedom's enemies. I can bring
-            patches to him for a sweet bounty.
+            Лукаш пропагує агресію проти деяких ворогів "Свободи". Я можу принести йому
+            нашивки за солодку винагороду.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_bs_fetch_patches_job_descr">
         <text>
-            Well, right now, we're stuck in a hammer and anvil situation. Y'know, zealots to
-            the north, extremists to the south, and sprinkle in some military goons for good
-            measure. How about you explain to them what we think of their edicts and
-            commands the old- fashioned way? There'll be a sweet reward at the end for you,
-            don't worry.
+            Ну, зараз ми застрягли в ситуації молота і ковадла. Знаєте, фанатики на півночі,
+            екстремісти на півдні, та ще й військові головорізи для повноти картини. Як щодо
+            того, щоб пояснити їм, що ми думаємо про їхні укази і накази старим добрим
+            способом? В кінці вас чекає солодка винагорода, не хвилюйтеся.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_bs_fetch_patches_finish">
         <text>
-            Hey, nice job, man. Here's your money.
+            Гей, гарна робота, чувак. Ось твої гроші.
         </text>
     </string>
 
     <!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_7_job_descr">
         <text>
-            Hey man. Here's a thing. Remember those Sin folks? They didn't get the memo the
-            last time you kicked their collective asses, so I think it's high time for an
-            encore. Loki said they've been spotted being unruly in Zaton, especially around
-            the area of abandoned substation workshops. Go put them down.
+            Привіт, чувак. Тут таке діло. Пам'ятаєш тих хлопців із "Гріха"? Вони не
+            зрозуміли, коли ти востаннє надер їхні колективні дупи, тож, гадаю, настав час
+            повторити на біс. Локі сказав, що їх помітили в Затоні, особливо в районі
+            покинутих майстерень підстанції. Вгамуй їх.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_7_finish">
         <text>
-            Some of the newer stalkers among Freedom are starting to think you're the Second
-            Coming of Rambo. That you keep coming back alive and well from jobs like this
-            makes me think they may be onto something. So here. A little something for our
-            Rambo.
+            Дехто з нових сталкерів "Свободи" починає думати, що ти - друге пришестя Рембо.
+            Те, що ти продовжуєш повертатися живим і здоровим з подібних завдань, змушує
+            мене думати, що вони можуть бути на щось схожі. Тож ось. Дещо для нашого Рембо.
         </text>
     </string>
 
@@ -193,63 +187,63 @@
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_descr">
         <text>
-            A Freedom spy needs to be extracted from an enemy faction. I'll need to kill the
-            other members of the squad, then escort him back to the base. The spy has an
-            SVD.
+            Шпигуна "Свободи" потрібно витягти з ворожої фракції. Мені потрібно буде вбити
+            інших членів загону, а потім супроводити його на базу. Шпигун має СВД.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_job_descr">
         <text>
-            One of my best men is currently hiding out among the enemy, trying to learn
-            their secrets. He's usually a solid guy, so when he begins missing our contact
-            times, I begin to worry. I have a hunch he's been ratted out, and that the squad
-            he's with is now quietly waiting for the perfect opportunity to silence him
-            permanently. We need to get him home. He left me a location ping, but he's with
-            other stalkers. You need to take care of them and bring my man back in one
-            piece. You will recognize him by his rifle, an SVD. He will have to shoot at you
-            to maintain his deception when you attack the group, but he won't be aiming too
-            well, so don't hold a grudge.
+            Один з моїх найкращих людей зараз ховається серед ворогів, намагаючись вивідати
+            їхні секрети. Зазвичай він надійний хлопець, тож коли він починає пропускати
+            наші виходи на зв'язок, я починаю хвилюватися. У мене є підозра, що його здали,
+            і що загін, з яким він зараз перебуває, спокійно чекає на ідеальну нагоду, щоб
+            змусити його замовкнути назавжди. Треба відвезти його додому. Він залишив мені
+            пінг-повідомлення про своє місцезнаходження, але він з іншими переслідувачами.
+            Ви повинні подбати про них і повернути мою людину додому цілою і неушкодженою.
+            Ви впізнаєте його по гвинтівці, СВД. Йому доведеться стріляти в вас, щоб
+            зберегти свій обман, коли ви нападете на групу, але він буде не дуже добре
+            цілитися, тому не тримайте на нього зла.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_finish">
         <text>
-            Fine work. Time to grease this guy's nuts for his knowledge.
+            Чудова робота. Час змастити яйця цього хлопця за його знання.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_msg_join">
         <text>
-            Hey man, stop! I'm the Freedom spy! Sorry for taking potshots at you. I had to
-            keep my cover just in case...luckily you made it. If you bring me to Army
-            Warehouses safely, Lukash will reward you well. Lead the way, I'll follow!
+            Гей, чувак, стій! Я шпигун "Свободи"! Вибач, що стріляв у тебе. Я мусив зберегти
+            своє прикриття про всяк випадок... На щастя, ти врятувався. Якщо ви приведете
+            мене до армійських складів у безпеці, Лукаш добре винагородить вас. Веди, я за
+            тобою!
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_8_msg_leave">
         <text>
-            Thanks for pulling my nuts out of the fire, stalker! See you around!
+            Дякую, що витягнув мої яйця з вогню, сталкере! Ще побачимося!
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_9_title">
         <text>
-            Why We Can't Have Nice Things
+            Чому ми не можемо мати гарних речей
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_9_descr">
         <text>
-            Lukash has asked me to destroy the military vehicles in Cordon before they do
-            any damage in the Zone. I'll need to bring explosives.
+            Лукаш попросив мене знищити військову техніку на Кордоні, поки вона не наробила
+            шкоди в Зоні. Мені потрібно привезти вибухівку.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_9_job_descr">
         <text>
-            Do you have explosives? If so, I've got a big job for you. Right now, the
-            military is bringing armoured vehicles into the Zone to reinforce their troops.
-            I ask you, is this fair? Look at the rusty, dysfunctional pieces of junk we have
-            rotting in our warehouses! If we can't have tanks that work in the Zone, then
-            neither can the government! My spies say these vehicles are arriving to be
-            stationed at the Cordon checkpoint as we speak. Don't worry, they'll make sure
-            the vehicles are unmanned when you pay your visit, so you can destroy them
-            without being turned into swiss cheese. You want in? Then pack your pineapples
-            and get going!
+            У вас є вибухівка? Якщо так, то у мене є для вас велика робота. Зараз військові
+            завозять в зону бронетехніку для посилення своїх військ. Я запитую вас, чи
+            справедливо це? Подивіться, який іржавий, неробочий мотлох гниє у нас на
+            складах! Якщо ми не можемо мати танки, які працюють в Зоні, то і уряд не може!
+            Мої розвідники кажуть, що ці машини прибувають, щоб розміститися на блокпосту
+            Кордону, поки ми говоримо. Не хвилюйся, вони подбають про те, щоб машини були
+            безпілотними, коли ти приїдеш, тож ти зможеш знищити їх, не перетворившись на
+            швейцарський сир. Хочете взяти участь? Тоді пакуйте ананаси і вперед!
         </text>
     </string>
 
@@ -258,32 +252,33 @@
     <!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_title">
         <text>
-            Bring Wild Game for Freedom
+            Принесіть дичину для свободи
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_descr">
         <text>
-            Skinflint said he'd pay me to bring him mutants parts. Time to go hunting.
+            Скінфлінт сказав, що заплатить мені, якщо я принесу йому частини мутантів. Пора
+            на полювання.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_job_descr">
         <text>
-            I have just the job for you, man, if you are not afraid of a few mutants. Are
-            you interested?
+            У мене є робота для тебе, якщо ти не боїшся кількох мутантів. Зацікавлений?
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_fetch_job_descr">
         <text>
-            So, some of the guys are planning a dinner party to celebrate Bob Marley's
-            birthday. Better late than never, right? Anyways, the more meat we can get for
-            the feast, the better - so if you are out and about, bring me enough meat, and
-            I'll make it worth your while. Jah will never forget you!
+            Отже, деякі хлопці планують звану вечерю, щоб відсвяткувати день народження Боба
+            Марлі. Краще пізно, ніж ніколи, чи не так? Так чи інакше, чим більше м'яса ми
+            зможемо дістати для бенкету, тим краще - тож якщо ви десь поблизу, принесіть
+            мені достатньо м'яса, і я зроблю так, щоб ваш час був витрачений недаремно. Джа
+            ніколи вас не забуде!
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_1_fetch_finish">
         <text>
-            Ah, this'll make for a fine meal once the chef gets his hands on it. Here's your
-            payment. Why not buy some vodka and celebrate?
+            З цього вийде чудова страва, коли шеф-кухар добереться до неї. Ось ваша оплата.
+            Чому б не купити горілки і не відсвяткувати?
         </text>
     </string>
 
@@ -291,27 +286,26 @@
     <!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_title">
         <text>
-            Deliver Locked Case to Skinflint
+            Доставити заблокований футляр до Skinflint
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_descr">
         <text>
-            Skinflint has a delivery that needs to be picked up.
+            У Skinflint є доставка, яку потрібно забрати.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_job_descr">
         <text>
-            One of our couriers was supposed to bring a package through today. Sadly, they
-            had to hide it somewhere safe when a Duty patrol caught wind of them. They sent
-            me the stash coordinates before going invisible on the network, so if you're
-            willing to walk on over and finish the job by fetching the goods, I'll give you
-            a cut of their pay.
+            Сьогодні один з наших кур'єрів мав привезти пакунок. На жаль, їм довелося
+            сховати його в надійному місці, коли їх викрив черговий патруль. Вони надіслали
+            мені координати схованки, перш ніж стати невидимими в мережі, тож якщо ви хочете
+            піти туди і завершити роботу, забравши товар, я дам вам частину їхньої зарплати.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_bs_return_box_from_stash_finish">
         <text>
-            Let's take a look-see...ah yes. Just what we needed. Thank you stalker, here's
-            your cut of the pay.
+            Давайте подивимось... о так. Саме те, що нам потрібно. Дякую, сталкере, ось твоя
+            частка.
         </text>
     </string>
 
@@ -319,37 +313,38 @@
     <!-- Skinflint (Freedom Trader) Night Terror Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_title">
         <text>
-            Phantoms in the Dark
+            Привиди в темряві
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_descr">
         <text>
-            Skinflint will pay me to stop a terrible mutant that haunts the Bloodsucker
-            Village. I'll need to keep myself alert.
+            Скінфлінт заплатить мені, щоб я зупинив жахливого мутанта, який переслідує Село
+            Кровопивць. Мені треба бути напоготові.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_job_descr">
         <text>
-            Sleep has been a little harder around camp lately. Each night we hear screaming,
-            but before we can do anything about it, yet another one of our men on the road
-            gets swallowed by the darkness. We find their mangled remains strewn about the
-            Bloodsucker Village the next day.
+            Останнім часом у таборі стало трохи важче спати. Щоночі ми чуємо крики, але перш
+            ніж ми встигаємо щось зробити, ще одного з наших людей на дорозі поглинає
+            темрява. Наступного дня ми знаходимо їхні понівечені останки, розкидані по Селу
+            Кровопивць.
           \n
-          \nLukash thinks a rare breed of bloodsucker may be in town. A darker, stronger,
-            more vicious motherfucker that only comes out at night. A few of our war-dogs
-            think we should cease night hikes until it migrates and hopefully starts messing
-            up Duty instead, believing it's too risky for us to go after it directly.
+          \nЛукаш вважає, що в місті може бути рідкісна порода кровопивць. Темніший,
+            сильніший, зліший вилупок, який вилазить тільки вночі. Дехто з наших бойових
+            псів вважає, що нам слід припинити нічні вилазки, доки він не мігрує і,
+            сподіваємося, не почне псувати "Обов'язок", вважаючи, що йти на нього напряму
+            надто ризиковано.
           \n
-          \nWell, I say if you've got the stones to wait for it in the Village after
-            nightfall, I'd be thrilled to shower you in roubles for killing the bastard, and
-            the rest of the lads around here will be grateful to get a good night's sleep
-            again. Or at least as good as sleep gets this close to the Brain Scorcher.
+          \nЩо ж, якщо у вас вистачить духу дочекатися його в Селищі після настання
+            темряви, я буду радий обсипати вас рублями за вбивство виродка, а решта хлопців
+            будуть вдячні за те, що знову зможуть добре виспатися. Або принаймні так добре,
+            як спиться, коли знаходишся так близько до Випалювача Мізків.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_3_finish">
         <text>
-            Wow, you actually did it! You lunatic. I'll let the camp know the good news.
-            Glad we have a hunter like you around.
+            Ого, ти справді це зробив! Ти божевільний. Я повідомлю в таборі хороші новини.
+            Радий, що у нас є такий мисливець, як ти.
         </text>
     </string>
 
@@ -357,81 +352,82 @@
     <!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_title">
         <text>
-            Scarce Supplies
+            Дефіцитні запаси
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_descr">
         <text>
-            Skinflint needs medical supplies to help keep Freedom's medic stocked. I've
-            agreed to help him.
+            Скінфлінт потребує медикаментів, які допоможуть утримувати медичний пункт
+            "Свободи". Я погодився допомогти йому.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_job_descr">
         <text>
-            Hey man. Some of our guys can get a bit too adventurous from time to time. We
-            haven't got enough supplies to treat all of 'em.
+            Привіт, друже. Деякі з наших хлопців час від часу стають занадто авантюрними. У
+            нас не вистачає медикаментів, щоб вилікувати всіх.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_fetch_job_descr">
         <text>
-            Yeah. You know how rough and tumble life can be in Freedom, right? Dodging
-            bullets and fighting fanatics is just part of the daily life around here. As
-            badass as it makes Freedom's fighters feel, it also means we're getting short on
-            meds. Since Solid is too high off his ass to organize medical supplies, that
-            responsibility now falls to me. If you can help out by bringing in some medical
-            supplies, you'd have Freedom's gratitude. And some of my roubles.
+            Так. Ви ж знаєте, яким неспокійним може бути життя на Свободі? Ухилятися від
+            куль і боротися з фанатиками - це лише частина повсякденного життя тут. Хоч
+            якими б крутими не почувалися бійці "Свободи", це також означає, що у нас не
+            вистачає ліків. Оскільки Солід занадто високо над своєю дупою, щоб організувати
+            медикаменти, ця відповідальність тепер лягає на мене. Якщо ви можете допомогти,
+            привізши медикаменти, я буду вам дуже вдячний. І трохи моїх рублів.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_4_fetch_finish">
         <text>
-            Ah, brilliant. I'll make sure these stay out of Solid's sight until his patients
-            need it. Thanks a lot, stalker.
+            Чудово. Я простежу, щоб це не потрапило на очі Соліду, поки його пацієнтам не
+            знадобиться. Велике спасибі, сталкере.
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_5_title">
         <text>
-            Amass Artefact Hunting Equipment
+            Зберіть спорядження для полювання на артефакти
         </text>
     </string>
     <string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_5_job_descr">
         <text>
-            Well, there is something important that needs looking at. Here's the thing:
-            short of risking our luck in Belarus, there are precisely two scientific bunkers
-            that Freedom can contact for anomaly-diving supplies. No more, no less. One is
-            sandwiched between Duty thugs, military goons, and who knows what else. The
-            other is a light jog away from Pripyat. And both...are sponsored by the very
-            government we fight against. We need to start stockpiling new artefact hunting
-            equipment NOW in case either of those places suddenly becomes cut off from our
-            runners. I need you to begin gathering Bear detectors and artefact containers
-            wholesale. I understand everything I'm requesting will take a while to obtain.
-            Don't fret, your payment will be adequate. If you go the extra mile and get some
-            batteries, you'll even get a bonus, too. So, you in?
+            Що ж, є дещо важливе, на що варто звернути увагу. Справа ось у чому: якщо не
+            ризикувати удачею в Білорусі, є рівно два наукових бункери, до яких "Свобода"
+            може звернутися за матеріалами для занурення в аномалії. Не більше, не менше.
+            Один з них затиснутий між головорізами, військовими і хтозна-ким ще. Інший - на
+            відстані легкої пробіжки від Прип'яті. І обидва... спонсоруються тим самим
+            урядом, проти якого ми боремося. Нам потрібно почати запасатися новим
+            спорядженням для полювання на артефакти вже ЗАРАЗ, на випадок, якщо одне з цих
+            місць раптом виявиться відрізаним від наших бігунів. Мені потрібно, щоб ви
+            почали збирати детектори ведмедя і контейнери для артефактів оптом. Я розумію,
+            що все, що я прошу, займе деякий час. Не хвилюйтеся, оплата буде адекватною. А
+            якщо докладете зусиль і дістанете кілька батарейок, то навіть отримаєте бонус.
+            То ти з нами?
         </text>
     </string>
 
     <!-- Solid (Freedom Medic) -->
     <string id="igi_task_text_mil_freedom_medic_bs_fetch_drugkit_title">
         <text>
-            Find drug-makin kit for Solid
+            Знайти набір для виготовлення лікарського засобу для Соліду
         </text>
     </string>
     <string id="igi_task_text_mil_freedom_medic_bs_fetch_drugkit_descr">
         <text>
-            A drug-making kit is required by Solid for his work on medical supplies. I
-            should bring it back to him if I find one.
+            Соліду для роботи над медикаментами потрібен набір для виготовлення ліків. Якщо
+            знайду, то принесу йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_mil_freedom_medic_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of
-            injuries I have to treat on daily basis is worrying. I'm gonna run out of
-            bandages and medkits soon or later. I need you to find me one of those old drug-
-            making kits. They will come in handy for sure.
+            Зберігати те, що залишилося на складах медикаментів, при такій кількості
+            поранень, які мені доводиться лікувати щодня, дуже складно. Рано чи пізно у мене
+            закінчаться бинти та аптечки. Мені потрібно, щоб ви знайшли мені один з тих
+            старих наборів для виготовлення ліків. Вони мені точно знадобляться.
         </text>
     </string>
     <string id="igi_task_text_mil_freedom_medic_bs_fetch_drugkit_finish">
         <text>
-            Great job! I owe you big time.
+            Чудова робота! Я твій боржник.
         </text>
     </string>
 </string_table>

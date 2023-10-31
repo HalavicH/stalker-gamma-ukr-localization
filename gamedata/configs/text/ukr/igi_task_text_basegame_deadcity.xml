@@ -5,48 +5,48 @@
     <!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_title">
         <text>
-            Contract killer
+            Найманий вбивця
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_descr">
         <text>
-            I have been contracted to find and eliminate a target. I should return for
-            payment once I am done.
+            Я уклав контракт на пошук і ліквідацію мішені. Я повинен повернутися за оплатою,
+            коли закінчу роботу.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_job_descr">
         <text>
-            Our contractor has a list of outstanding bounties. We need volunteers to carry
-            out these hits discretely, which will allow us to fulfil our obligations to our
-            contractor. Are you interested?
+            Наш підрядник має список невиконаних нагород. Нам потрібні волонтери, які будуть
+            виконувати ці удари дискретно, що дозволить нам виконати наші зобов'язання перед
+            підрядником. Ви зацікавлені?
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_kill_stalker_nearby_finish">
         <text>
-            It is done? Great. Here's your percentage.
+            Готово? Чудово. Ось твій відсоток.
         </text>
     </string>
 
     <!-- ASSAULT TERRITORY FOR MERCS TASK -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_2_title">
         <text>
-            Assault territory
+            Територія штурму
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_2_descr">
         <text>
-            I've been contracted to clear an area of any hostile forces present.
+            Я отримав контракт на зачистку території від будь-яких ворожих сил.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_2_job_descr">
         <text>
-            I need you to be the point man on an assault. Clear the target area of any and
-            all hostile forces.
+            Я хочу, щоб ти був головним під час штурму. Очистити цільову зону від усіх
+            ворожих сил.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_2_finish">
         <text>
-            Excellent work. Here's your paycheck.
+            Чудова робота. Ось твоя зарплата.
         </text>
     </string>
 
@@ -54,23 +54,23 @@
     <!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_title">
         <text>
-            Capture enemy documents
+            Захоплення ворожих документів
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_descr">
         <text>
-            Capture the enemy documents and return them to Dushman.
+            Захопити ворожі документи та повернути їх Душману.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_job_descr">
         <text>
-            Our employer has notified us of a document he needs us to capture from the
-            enemy. Bring it here and I will deliver your payment.
+            Наш роботодавець повідомив нам про документ, який він хоче, щоб ми захопили у
+            ворога. Принесіть його сюди, і я передам вам гроші.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_trader_stalker_bs_return_document_from_stash_finish">
         <text>
-            Good job.
+            Молодець.
         </text>
     </string>
 
@@ -89,237 +89,240 @@
     <!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_title">
         <text>
-            Find Basic tools for Hog
+            Знайти основні інструменти для Hog
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_descr">
         <text>
-            Basic tools are required by Hog to install basic equipment upgrades. I should
-            bring them back to him if I find any.
+            Основні інструменти потрібні Хогу для встановлення базової модернізації
+            обладнання. Якщо знайду, віднесу йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_job_descr">
         <text>
-            I have a proposition for you. If you can bring me some new tools, you will
-            receive payment. Are you up for it?
+            Я маю до вас пропозицію. Якщо ви принесете мені нові інструменти, то отримаєте
+            гроші. Ти згоден?
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_fetch_job_descr">
         <text>
-            I've been looking all over for a set of Basic tools. It should contain some oil
-            and tools I need to do work on firearms. I'll pay you for one of those toolkits
-            if you can bring a full set back to me.
+            Я всюди шукаю набір основних інструментів. У ньому має бути мастило та
+            інструменти, необхідні для роботи зі зброєю. Я заплачу тобі за один з цих
+            наборів, якщо ти принесеш мені повний набір.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_1_fetch_finish">
         <text>
-            Brilliant! This is what I've been looking for. Thanks!
+            Чудово! Це те, що я шукав. Дякую!
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_title">
         <text>
-            Find Advanced tools for Hog
+            Знайти розширені інструменти для Hog
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_descr">
         <text>
-            Advanced tools are required by Hog to install advanced equipment upgrades, I
-            should bring them back to him if I find any.
+            Хог потребує вдосконалених інструментів для встановлення передових модернізацій
+            обладнання, я маю принести їх йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_job_descr">
         <text>
-            I have another proposition. The toolkit you brought me is working out good, but
-            it doesn't have everything I need. Do you think you can find me a better set?
+            У мене є ще одна пропозиція. Інструментарій, який ви мені принесли, працює
+            добре, але в ньому немає всього, що мені потрібно. Чи не могли б ви знайти мені
+            кращий набір?
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_fetch_job_descr">
         <text>
-            I need an Advanced tools. I'm not sure where you can get one of those, but if
-            you can find one, I need it.
+            Мені потрібен просунутий інструмент. Я не знаю, де ви можете їх дістати, але
+            якщо знайдете, то вони мені потрібні.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_2_fetch_finish">
         <text>
-            It's got everything I need. Thank you.
+            Тут є все, що мені потрібно. Дякую.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_title">
         <text>
-            Find Expert tools for Hog
+            Знайти експертні інструменти для Hog
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_descr">
         <text>
-            Expert tools are required by Hog to install expert equipment upgrades. I should
-            bring them back to him if I find any.
+            Експертні інструменти потрібні Хогу для встановлення експертних модернізацій
+            обладнання. Я повинен принести їх йому, якщо знайду.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_job_descr">
         <text>
-            I have another proposition. The toolkit you brought me is working out good, but
-            it doesn't have everything I need. Do you think you can find me a better set?
+            У мене є ще одна пропозиція. Інструментарій, який ви мені принесли, працює
+            добре, але в ньому немає всього, що мені потрібно. Чи не могли б ви знайти мені
+            кращий набір?
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_fetch_job_descr">
         <text>
-            I need an Expert tools. I'm not sure where you can get one of those, but if you
-            can find one, I need it.
+            Мені потрібен експертний інструмент. Я не знаю, де ви можете його дістати, але
+            якщо знайдете, він мені потрібен.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_mechanic_stalker_3_fetch_finish">
         <text>
-            It's got everything I need. Thank you.
+            Тут є все, що мені потрібно. Дякую.
         </text>
     </string>
 
     <!-- Aslan (Barman) -->
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_title">
         <text>
-            Eliminate the target
+            Усунути ціль
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_descr">
         <text>
-            Aslan will pay me to eliminate a target for him.
+            Аслан заплатить мені за те, що я ліквідую мішень для нього.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_job_descr">
         <text>
-            Yes, we always have work. I'll give you the coordinates, you kill the target.
+            Так, у нас завжди є робота. Я дам тобі координати, а ти вб'єш мішень.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_stalker_nearby_finish">
         <text>
-            Well done, here's the cash.
+            Молодець, ось гроші.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_title">
         <text>
-            Incentivised targets
+            Стимульовані цілі
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_descr">
         <text>
-            Aslan has asked me to bring patches to him for a reward.
+            Аслан попросив мене приносити йому латки за винагороду.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_job_descr">
         <text>
-            Feel like hunting a few people? I'll tell you how many patches you have to
-            strip, you bring them to me and get a reward.
+            Хочеш пополювати на кількох людей? Я скажу тобі, скільки латок ти маєш зняти, ти
+            принесеш їх мені і отримаєш винагороду.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_fetch_patches_finish">
         <text>
-            Well done. Here's your money.
+            Молодець. Ось твої гроші.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_3_title">
         <text>
-            Poacher
+            Браконьєр.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_3_descr">
         <text>
-            There is demand for a mutant part.
+            Є попит на мутантну частину.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_3_job_descr">
         <text>
-            Yes, I've always got some work for you. A wealthy client's interested in a rare
-            mutant part. Bring it to me and I'll make it worth your effort.
+            Так, я завжди маю для тебе роботу. Багатий клієнт цікавиться рідкісною мутантною
+            деталлю. Принеси її мені, і я зроблю так, щоб вона коштувала твоїх зусиль.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_3_fetch_job_descr">
         <text>
-            Yes, I've always got some work for you. A wealthy client's interested in a rare
-            mutant part. Bring this part to me and I'll make it worth your effort.
+            Так, я завжди маю для тебе роботу. Багатий клієнт цікавиться рідкісною мутантною
+            частиною. Принеси мені цю частину, і я зроблю так, щоб вона коштувала твоїх
+            зусиль.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_3_fetch_finish">
         <text>
-            Well done, here's your reward.
+            Молодець, ось твоя нагорода.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_4_title">
         <text>
-            The Parent of Fear
+            Батько страху
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_4_descr">
         <text>
-            Aslan wants me to eliminate a dangerous mutant which haunts the Red Forest.
+            Аслан хоче, щоб я знищив небезпечного мутанта, який переслідує Рудий ліс.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_4_job_descr">
         <text>
-            Listen. There've been rumours that a particularly nasty specimen of chimera
-            haunts the Red Forest. Not even whole teams of stalkers are safe. Survivors say
-            it blends into the night, with skin like pitch. Survivors from our recon teams
-            have said the same thing.
+            Послухайте. Ходять чутки, що в Рудому лісі мешкає особливо жахливий екземпляр
+            химери. Навіть цілі команди сталкерів не в безпеці. Ті, що вижили, кажуть, що
+            вона зливається з ніччю, а шкіра у неї, як смола. Вцілілі з наших розвідувальних
+            команд говорять те ж саме.
           \n
-          \nBusiness cannot go on like this. So, I want it dead, all right? I don't care
-            who does it or how. The first person to make that bastard disappear gets a bonus
-            from me.
+          \nТак далі не може тривати. Тому я хочу, щоб він здох, ясно? Мені байдуже, хто і
+            як це зробить. Перший, хто змусить цього виродка зникнути, отримає від мене
+            премію.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_4_finish">
         <text>
-            Excellent job. You've accomplished something I'd have had to hire entire teams
-            for. If you ever leave the Zone, stay in touch. I know a few employers who could
-            use someone like you.
+            Чудова робота. Ви зробили те, для чого мені довелося б наймати цілі команди.
+            Якщо коли-небудь покинеш Зону, залишайся на зв'язку. Я знаю кількох
+            роботодавців, яким би знадобився такий, як ти.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_title">
         <text>
-            Secure the base
+            Закріпіть основу
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_descr">
         <text>
-            Aslan asked me to clear all the mutants in the area near the base.
+            Аслан попросив мене зачистити всіх мутантів у районі бази.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_job_descr">
         <text>
-            It's time to give the base a good Spring clean. Mutants are getting a little too
-            comfortable in the local ruins. They're starting to give our contractors some
-            restless nights. I need someone to sweep the area - to drive the vicious
-            creatures away from this place. It's a dirty job, but someone has to do it. That
-            someone would be well compensated, too. So, do we have a deal?
+            Настав час влаштувати на базі гарне весняне прибирання. Мутанти почуваються
+            надто комфортно в тутешніх руїнах. Вони починають влаштовувати нашим підрядникам
+            неспокійні ночі. Мені потрібен хтось, щоб прочистити територію - прогнати
+            злісних тварюк звідси. Це брудна робота, але хтось повинен її виконувати. І цей
+            хтось отримає хорошу винагороду. Ну що, домовилися?
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_barman_mlr_bs_kill_all_mutants_on_map_finish">
         <text>
-            Here's the payment, keep up the good work.
+            Ось оплата, продовжуйте в тому ж дусі.
         </text>
     </string>
 
     <!-- Surgeon (Mercenary Medic) -->
     <string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_title">
         <text>
-            Find a Drug-making kit for Surgeon
+            Знайти набір для виготовлення ліків для хірурга
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_descr">
         <text>
-            A Drug-making kit is required by Surgeon to work on medical supplies. If I find
-            one, he's sure to pay well for it.
+            Хірургу потрібен набір для виготовлення ліків, щоб працювати над медичними
+            препаратами. Якщо я його знайду, він добре за нього заплатить.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of
-            injuries I have to treat on daily basis is worrying. I'm gonna run out of
-            bandages and medkits soon or later. I need you to find me one of those old drug-
-            making kits. They will come in handy for sure.
+            Зберігати те, що залишилося на складах медикаментів, при такій кількості
+            поранень, які мені доводиться лікувати щодня, дуже складно. Рано чи пізно у мене
+            закінчаться бинти та аптечки. Мені потрібно, щоб ви знайшли мені один з тих
+            старих наборів для виготовлення ліків. Вони мені точно знадобляться.
         </text>
     </string>
     <string id="igi_task_text_cit_killers_merc_medic_stalker_bs_fetch_drugkit_finish">
         <text>
-            Let me see... okay, this should do. Thank you very much for your services.
-            Here's your compensation.
+            Дай подивлюся... так, це підійде. Дуже дякую за ваші послуги. Ось ваша
+            компенсація.
         </text>
     </string>
 </string_table>

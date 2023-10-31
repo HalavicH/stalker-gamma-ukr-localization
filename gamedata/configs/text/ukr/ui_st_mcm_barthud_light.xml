@@ -2,108 +2,108 @@
 <string_table>
     <string id="ui_mcm_menu_barthud_light">
         <text>
-            Barthud Light
+            Бартуд Лайт
         </text>
     </string>
     <string id="ui_mcm_barthud_light_barthud_lightslide">
         <text>
-            BartHUD Light Options
+            Варіанти освітлення BartHUD
         </text>
     </string>
     <string id="ui_mcm_barthud_light_radbar_show">
         <text>
-            Radiation Exposure Level Bar
+            Індикатор рівня радіаційного опромінення
         </text>
     </string>
     <string id="ui_mcm_barthud_light_radbar_show_desc">
         <text>
-            Shows the amount of Radiation you have, above the Stamina Bar, going from left-
-            to- right.
+            Показує кількість радіації, яку ви маєте, над індикатором витривалості, зліва
+            направо.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_bleeding_on_stamina_show">
         <text>
-            Bleeding Level Bar
+            Індикатор рівня кровотечі
         </text>
     </string>
     <string id="ui_mcm_barthud_light_bleeding_on_stamina_show_desc">
         <text>
-            Shows the amount of blood you're losing, on the Stamina Bar, going from left-to-
-            right.
+            Показує кількість крові, яку ви втрачаєте, на смужці витривалості, зліва
+            направо.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_armorbar">
         <text>
-            Armor bar
+            Броньоване полотно
         </text>
     </string>
     <string id="ui_mcm_barthud_light_armorbar_desc">
         <text>
-            Shows the Armor Condition Bar.
+            Показує панель стану броні.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_armortext">
         <text>
-            Armor Condition Text
+            Текст стану броні
         </text>
     </string>
     <string id="ui_mcm_barthud_light_armortext_desc">
         <text>
-            Shows the Armor Condition as a percentage in white cream text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан броні у відсотках білим кремовим текстом.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weaponshow">
         <text>
-            Weapon Condition Bar
+            Індикатор стану зброї
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weaponshow_desc">
         <text>
-            Shows the Weapon Condition Bar.
+            Показує панель стану зброї.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weapontext">
         <text>
-            Weapon Condition Text
+            Текст про стан зброї
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weapontext_desc">
         <text>
-            Shows the Weapon Condition as a percentage in white cream text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан зброї у відсотках білим кремовим текстом.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weaponbarhide">
         <text>
-            Hide on Unequip
+            Приховати на Unequip
         </text>
     </string>
     <string id="ui_mcm_barthud_light_weaponbarhide_desc">
         <text>
-            Makes the Weapon Condition Bar disappear when you unequip.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Знімає панель стану зброї, коли ви знімаєте спорядження.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_helmetbar">
         <text>
-            Helmet bar
+            Заглушка для шолома
         </text>
     </string>
     <string id="ui_mcm_barthud_light_helmetbar_desc">
         <text>
-            Shows the Helmet Condition Bar.
+            Показує панель стану шолома.
         </text>
     </string>
     <string id="ui_mcm_barthud_light_helmettext">
         <text>
-            Helmet Condition Text
+            Текст про стан шолома
         </text>
     </string>
     <string id="ui_mcm_barthud_light_helmettext_desc">
         <text>
-            Shows the Helmet Condition as a percentage in white cream text.
-          \n%c[ui_gray_2]Has no effect if the bar is disabled.
+            Показує стан шолома у відсотках білим кремовим текстом.
+          \n%c[ui_gray_2]Не має ефекту, якщо панель вимкнено.
         </text>
     </string>
 </string_table>

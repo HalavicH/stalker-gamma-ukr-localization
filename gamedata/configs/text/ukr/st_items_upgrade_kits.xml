@@ -2,73 +2,76 @@
 <string_table>
     <string id="st_addon_kit_lewd_operator">
         <text>
-            Rifle Kit "Operator" (LEWD)
+            Комплект гвинтівки "Оператор" (LEWD)
         </text>
     </string>
     <string id="st_addon_kit_lewd_operator_descr">
         <text>
-            This tacticool weapon kit will upgrade a base weapon (rifle size) with
-            performance parts and scopes, enhancing it's battle readiness for special
-            operations.
+            Цей комплект зброї tacticool модернізує базову зброю (гвинтівку) за допомогою
+            якісних деталей та оптичних прицілів, підвищуючи її боєздатність для проведення
+            спеціальних операцій.
         </text>
     </string>
     <string id="st_addon_kit_lewd_specialist">
         <text>
-            Rifle Kit "Specialist" (LEWD)
+            Комплект гвинтівки "Спеціаліст" (LEWD)
         </text>
     </string>
     <string id="st_addon_kit_lewd_specialist_descr">
         <text>
-            This specialized weapon kit will upgrade a base weapon with selected parts and
-            scopes, to perform with excellence in a specialist role, such as an infiltrator.
+            Цей спеціалізований комплект озброєння модернізує базову зброю за допомогою
+            окремих деталей та прицілів, щоб забезпечити відмінне виконання спеціалізованої
+            ролі, наприклад, розвідника.
         </text>
     </string>
     <string id="st_addon_kit_lewd_marksman">
         <text>
-            Rifle Kit "marksman" (LEWD)
+            Комплект гвинтівки "Стрілець" (LEWD)
         </text>
     </string>
     <string id="st_addon_kit_lewd_marksman_descr">
         <text>
-            This precision weapon kit will upgrade a base weapon with fine-tuned parts and
-            scopes, to significantly raise its long-range engagement and sniper capabilites.
+            Цей комплект високоточної зброї дозволить модернізувати базову зброю за
+            допомогою доопрацьованих деталей та прицілів, що значно підвищить її
+            дальнобійність та снайперські можливості.
         </text>
     </string>
     <string id="st_addon_kit_lewd_warmonger">
         <text>
-            Rifle Kit "Warmonger" (LEWD)
+            Комплект гвинтівки "Розпалювач війни" (LEWD)
         </text>
     </string>
     <string id="st_addon_kit_lewd_warmonger_descr">
         <text>
-            This brutal weapon kit will upgrade a base weapon with hardened parts and
-            scopes, to enhance sustained high-RPM fire and maximize the kill-ratio in close
-            quarter.
+            Цей брутальний комплект озброєння модернізує базову зброю, додаючи до неї
+            загартовані деталі та приціли, щоб посилити безперервний високошвидкісний вогонь
+            та максимізувати коефіцієнт ураження в ближньому бою.
         </text>
     </string>
     <string id="st_addon_kit_g33_flipup">
         <text>
-            Scope kit Aimpoint PRO and EOTech G33 (flipped up)
+            Комплект прицілів Aimpoint PRO та EOTech G33 (перевернутий)
         </text>
     </string>
     <string id="st_addon_kit_g33_flipup_descr">
         <text>
-            This scope kit mounts a combined Aimpoint PRO reddot sight with an EOTech G33
-            magnifier scope (switched up) to the rifle. If it's already mounted with the G33
-            switched to the side, then this kit can be used to flip the G33 up.
+            Цей комплект прицілу дозволяє встановити на гвинтівку комбінований приціл
+            Aimpoint PRO зі збільшувальним прицілом EOTech G33 (перевернутий догори). Якщо
+            приціл вже встановлений на гвинтівці з боковим перемикачем G33, цей комплект
+            можна використати, щоб перевернути G33 вгору.
         </text>
     </string>
     <string id="st_addon_kit_g33_flipdown">
         <text>
-            Scope kit Aimpoint PRO and EOTech G33 (flipped down)
+            Комплект прицілів Aimpoint PRO та EOTech G33 (перевернутий)
         </text>
     </string>
     <string id="st_addon_kit_g33_flipdown_descr">
         <text>
-            This scope kit mounts a combined Aimpoint PRO reddot sight with an EOTech G33
-            magnifier scope (switched to the side) to the rifle. If it's already mounted
-            with the G33 flipped up, then this kit can be used to switch the G33 to the
-            side.
+            Цей комплект прицілу дозволяє встановити на гвинтівку комбінований приціл
+            Aimpoint PRO зі збільшувальним прицілом EOTech G33 (перевернутий на бік). Якщо
+            приціл вже встановлений з перевернутим прицілом G33, то цей комплект можна
+            використати для перемикання прицілу G33 в бік.
         </text>
     </string>
 </string_table>

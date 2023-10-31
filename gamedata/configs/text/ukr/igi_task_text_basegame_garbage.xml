@@ -4,86 +4,86 @@
     <!-- Butcher -->
     <string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_title">
         <text>
-            Cull Hunting
+            Полювання на вибракування
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_descr">
         <text>
-            Butcher tracked down a mutant lair that needs clearing. I've agreed to do the
-            dirty work of flushing it out.
+            М'ясник вистежив лігво мутантів, яке потрібно зачистити. Я погодився виконати
+            брудну роботу і вичистити його.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_job_descr">
         <text>
-            Hmm. I've scouted out a mutant den that could do with clearing. It's starting to
-            give local stalkers some trouble, but a well-prepared hunter shouldn't have any
-            issue flushing it out. So, feel like some hunting today? I'll pay you for your
-            skill, and you can sell me any meats or trophies you've collected once you get
-            back.
+            Я розвідав лігво мутантів. Я розвідав лігво мутантів, яке можна було б
+            зачистити. Воно починає створювати місцевим сталкерам деякі проблеми, але добре
+            підготовлений мисливець не повинен мати жодних проблем з його змиванням. Ну що,
+            хочеш сьогодні пополювати? Я заплачу тобі за твою майстерність, а ти зможеш
+            продати мені м'ясо чи трофеї, які здобудеш, коли повернешся.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_bs_assault_monster_online_finish">
         <text>
-            Once again the local ecosystem is in balance... hehe. Here's your reward for a
-            job well done.
+            Знову місцева екосистема в рівновазі... хе-хе. Ось ваша нагорода за добре
+            виконану роботу.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_2_title">
         <text>
-            Find trophy for Butcher
+            Знайти трофей для М'ясника
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_2_descr">
         <text>
-            The Butcher needs mutant part and has asked me to bring him some.
+            М'ясникові потрібна мутантна частина, і він попросив мене привезти йому її.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_2_job_descr">
         <text>
-            Some people pay good money for mutant meat.
+            Деякі люди платять хороші гроші за м'ясо мутантів.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_2_fetch_job_descr">
         <text>
-            On occasion, I cure mutant meats and send them off to Barkeep and other traders
-            to help them supplement their imported food. Right now, I'm looking to prepare
-            meat to send off wholesale. If you can bring me the raw goods for this, it'll
-            mean some good cash in your pocket.
+            Іноді я виліковую м'ясо мутантів і відправляю його Бармену та іншим торговцям,
+            щоб допомогти їм доповнити їхні імпортні продукти. Зараз я хочу приготувати
+            м'ясо, щоб відправити його оптом. Якщо ви зможете принести мені сировину для
+            цього, це буде означати, що ви отримаєте хороші гроші в кишеню.
         </text>
     </string>
     <string id="igi_task_text_hunter_gar_trader_2_fetch_finish">
         <text>
-            Ah, brilliant! These meats may look disgusting now, but just you wait until
-            they're prepared. They'll be delicious!
+            Чудово! Це м'ясо може виглядати огидно зараз, але зачекайте, поки воно
+            приготується. Це буде смакота!
         </text>
     </string>
 
     <!-- Flea Market -->
     <string id="igi_task_text_baraholka_trader_night_1_title">
         <text>
-            Find the artefact
+            Знайдіть артефакт
         </text>
     </string>
     <string id="igi_task_text_baraholka_trader_night_1_descr">
         <text>
-            The trader at the flea market wants me to find an artefact.
+            Торговець на блошиному ринку хоче, щоб я знайшов артефакт.
         </text>
     </string>
     <string id="igi_task_text_baraholka_trader_night_1_job_descr">
         <text>
-            You want to earn some loot looking for artefacts of the less common variety? I
-            can offer you some good equipment.
+            Хочеш заробити трохи здобичі, шукаючи артефакти менш поширених різновидів? Можу
+            запропонувати тобі непогане спорядження.
         </text>
     </string>
     <string id="igi_task_text_baraholka_trader_night_1_fetch_job_descr">
         <text>
-            Feel like earning some loot while looking for rare artefacts? I can offer you
-            some more stuff.
+            Хочете заробити трохи лута, шукаючи рідкісні артефакти? Можу запропонувати тобі
+            ще дещо.
         </text>
     </string>
     <string id="igi_task_text_baraholka_trader_night_1_fetch_finish">
         <text>
-            Ah, great work, stalker. Here, for you.
+            Відмінна робота, сталкере. Ось, це тобі.
         </text>
     </string>
 </string_table>

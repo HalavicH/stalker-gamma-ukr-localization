@@ -2,32 +2,32 @@
 <string_table>
     <string id="ui_mcm_menu_zml_npcloot">
         <text>
-            NPC Loot
+            Здобич NPC
         </text>
     </string>
 
     <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_npcloot_general_info">
         <text>
-            The options below add a chance to find extra items on dead NPCs. Hovering your
-            cursor on settings gives additionnal informations for the settings.
+            Наведені нижче опції додають шанс знайти додаткові предмети на мертвих NPC.
+            Наведення курсору на налаштування дає додаткову інформацію про налаштування.
         </text>
     </string>
 
     <!-- NPC LOOT -->
     <string id="ui_mcm_ZML_zml_npcloot_npc_spawn">
         <text>
-            Find extra items on NPCs (main)
+            Знайти додаткові предмети на NPC (основне)
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_npc_chance">
         <text>
-            NPC item spawn chance
+            Ймовірність появи предмета NPC
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_npc_chance_desc">
         <text>
-            Chance to find extra items on NPCs.
+            Шанс знайти додаткові предмети на NPC.
         </text>
     </string>
 
@@ -35,252 +35,254 @@
     <!-- REPAIR KIT -->
     <string id="ui_mcm_ZML_zml_npcloot_repair_spawn">
         <text>
-            Spawn repair kits
+            Набори для ремонту ікри
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_spawn_desc">
         <text>
-            Adds a chance to find repair kits. Any items to clean or repair parts, major
-            repair kits in rarer tier.
+            Додає шанс знайти ремонтні набори. Будь-які предмети для чищення або ремонту
+            деталей, набори для капітального ремонту в більш рідкісних рівнях.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_chance">
         <text>
-            Repair kits chance
+            Шанс на ремонтні комплекти
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_repair_chance_desc">
         <text>
-            Chance to find repair kits.
+            Шанс знайти ремонтні комплекти.
         </text>
     </string>
 
     <!-- AMMO -->
     <string id="ui_mcm_ZML_zml_npcloot_ammo_spawn">
         <text>
-            Spawn extra ammo
+            Створюйте додаткові боєприпаси
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_spawn_desc">
         <text>
-            Adds a chance to find ammo.
+            Додає шанс знайти боєприпаси.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_chance">
         <text>
-            Ammo chance
+            Шанс на боєприпаси
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_chance_desc">
         <text>
-            Chance to find ammo.
+            Шанс знайти боєприпаси.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_spawn">
         <text>
-            Spawn old ammo
+            Відтворення старих боєприпасів
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_chance">
         <text>
-            Old ammo chance
+            Шанс на старі боєприпаси
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_bad_chance_desc">
         <text>
-            Chance that the found ammo is old.
+            Є ймовірність, що знайдені боєприпаси старі.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_amount">
         <text>
-            Ammo amount
+            Кількість боєприпасів
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_ammo_amount_desc">
         <text>
-            Amount multiplier of ammo found.
+            Знайдено множник кількості боєприпасів.
         </text>
     </string>
 
     <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_npcloot_meds_spawn">
         <text>
-            Spawn medical items
+            Створювати медичні предмети
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_spawn_desc">
         <text>
-            Adds a chance to find medical items. To keep you alive. Not covered by your
-            insurance.
+            Додає шанс знайти медичні предмети. Щоб зберегти вам життя. Не покривається
+            вашою страховкою.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_chance">
         <text>
-            Medical items chance
+            Шанс на медикаменти
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_meds_chance_desc">
         <text>
-            Chance to find medical items.
+            Шанс знайти медичні препарати.
         </text>
     </string>
 
     <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_npcloot_drug_spawn">
         <text>
-            Spawn drug items.
+            Породити наркотики.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_spawn_desc">
         <text>
-            Adds a chance to find drug items. Items to help mainly with stamina and carry
-            weight. Obviously includes *real* drugs. Drugs are bad, m'kay.
+            Додає шанс знайти наркотичні предмети. Предмети, які допомагають переважно з
+            витривалістю та вагою. Очевидно, включає в себе *справжні* наркотики. Наркотики
+            - це погано.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_chance">
         <text>
-            Drug items chance
+            Шанс на наркотики
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drug_chance_desc">
         <text>
-            Chance to find drug items.
+            Шанс знайти наркотичні речовини.
         </text>
     </string>
 
     <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_npcloot_food_spawn">
         <text>
-            Spawn food items
+            Предмети харчування для нересту
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_spawn_desc">
         <text>
-            Adds a chance to find food items. Food is food. No delivery fees.
+            Додає шанс знайти продукти харчування. Їжа є їжа. Без плати за доставку.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_chance">
         <text>
-            Food items chance
+            Шанс на продукти харчування
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_food_chance_desc">
         <text>
-            Chance to find food items.
+            Шанс знайти продукти харчування.
         </text>
     </string>
 
     <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_npcloot_drink_spawn">
         <text>
-            Spawn drink items
+            Предмети для напоїв для відтворення
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_spawn_desc">
         <text>
-            Adds a chance to find drink items. Liquid food, thirst sustenance, energy
-            drinks.
+            Додає можливість знайти предмети для пиття. Рідка їжа, втамування спраги,
+            енергетичні напої.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_chance">
         <text>
-            Drink items chance
+            Шанс для напоїв
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_drink_chance_desc">
         <text>
-            Chance to find drink items.
+            Шанс знайти предмети для пиття.
         </text>
     </string>
 
     <!-- DEVICE  -->
     <string id="ui_mcm_ZML_zml_npcloot_device_spawn">
         <text>
-            Spawn device items
+            Створювати елементи пристрою
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_spawn_desc">
         <text>
-            Adds a chance to find device items. Any handheld devices that makes beeps and
-            boops, headgear such as nightvision goggles and flashlights.
+            Додає можливість знайти елементи пристроїв. Будь-які ручні пристрої, що видають
+            звукові сигнали, головні убори, такі як окуляри нічного бачення та ліхтарики.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_chance">
         <text>
-            Device items chance
+            Шанс предметів пристрою
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_device_chance_desc">
         <text>
-            Chance to find device items.
+            Шанс знайти елементи пристрою.
         </text>
     </string>
 
     <!-- TOOL  -->
     <string id="ui_mcm_ZML_zml_npcloot_tool_spawn">
         <text>
-            Spawn tool items
+            Створювати елементи інструментів
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_spawn_desc">
         <text>
-            Adds a chance to find tool items. Various useful items, such as batteries,
-            dissassembling tools and camping gear.
+            Додає можливість знайти інструменти. Різні корисні предмети, такі як батарейки,
+            інструменти для розбирання та спорядження для кемпінгу.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_chance">
         <text>
-            Tool items chance
+            Шанс предметів інструменту
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_tool_chance_desc">
         <text>
-            Chance to find tool items.
+            Шанс знайти інструменти.
         </text>
     </string>
 
     <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_npcloot_container_spawn">
         <text>
-            Spawn container items
+            Елементи контейнера для нересту
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_spawn_desc">
         <text>
-            Adds a chance to find container items. Items to put items into, like backpacks
-            and artefact containers. Itemception.
+            Додає можливість знаходити предмети в контейнерах. Предмети, в які можна
+            покласти предмети, наприклад, рюкзаки та контейнери для артефактів. Сприйняття
+            предметів.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_chance">
         <text>
-            Container items chance
+            Шанс для контейнерних товарів
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_container_chance_desc">
         <text>
-            Chance to find container items.
+            Шанс знайти контейнерні предмети.
         </text>
     </string>
 
     <!-- LOOTBOXES -->
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_spawn">
         <text>
-            Anomaly Lootboxes (toggle spawn in integration)
+            Аномальні лутбокси (перемикання спавну в інтеграції)
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_spawn_desc">
         <text>
-            Adds a chance to find lootboxes.
+            Додає шанс знайти лутбокси.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_chance">
         <text>
-            Lootbox items chance
+            Шанс на предмети з лутбоксу
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_zzlootbox_chance_desc">
         <text>
-            Chance to find lootboxes.
+            Шанс знайти лутбокси.
         </text>
     </string>
 
@@ -309,23 +311,24 @@
     <!-- FACTION -->
     <string id="ui_mcm_ZML_zml_npcloot_faction_spawn">
         <text>
-            Spawn faction-specific items
+            Створювати специфічні для фракції предмети
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_spawn_desc">
         <text>
-            Adds a chance to find faction-specific items. Only spawns factions patches for
-            now cause I'm lazy (untrue, I just have no idea for factions droptables yet).
+            Додає шанс знайти специфічні для фракції предмети. Наразі генерує лише фракційні
+            патчі, бо я лінивий (неправда, я просто ще не придумав, як зробити дроптабли для
+            фракцій).
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_chance">
         <text>
-            Faction items chance
+            Шанс на предмети фракції
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npcloot_faction_chance_desc">
         <text>
-            Chance to find faction-specific items.
+            Шанс знайти специфічні для фракції предмети.
         </text>
     </string>
 </string_table>

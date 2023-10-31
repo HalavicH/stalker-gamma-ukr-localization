@@ -4,10 +4,10 @@
     <!-- Medicine -->
     <string id="st_player_skills_hint_medicine">
         <text>
-            Grants a short burst of improved health and radiation restoration based on
-            medical item used.
+            Надає короткий сплеск покращення здоров'я та відновлення радіації на основі
+            використаного медичного виробу.
           \n
-          \nLevels are gained by using medicine and drugs.
+          \nРівні отримуються за використання медикаментів і ліків.
           \n
           \n
         </text>
@@ -15,23 +15,26 @@
     <string id="st_skills_stats_restore_boost_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Restoration gained as boost: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Відновлення отримано як прискорення:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_restore_boost_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Restoration lost as boost: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Відновлення втрачено як boost: %c[d_red]$stat%
         </text>
     </string>
 
     <!-- Insanity -->
     <string id="st_player_skills_hint_insanity">
         <text>
-            You lose your sanity... but gain psy regen and psy damage resistance.
-          \nPsy regen bonus doubled when playing an instrument.
+            Ви втрачаєте здоровий глузд... але отримуєте регенерацію психіки та стійкість до
+            психічних ушкоджень.
+          \nБонус до регенерації психіки подвоюється під час гри на інструменті.
           \n
-          \nLevels are gained by taking psy damage and by playing an instrument in combat.
+          \nРівні отримуються, коли ви отримуєте психічну шкоду та граєте на інструменті в
+            бою.
           \n
           \n
         </text>
@@ -39,29 +42,32 @@
     <string id="st_skills_stats_psy_regen_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Psy health regeneration increased by:
-            %c[d_green]$stat%/sec
+          \n%c[255,138,43,226]-%c[ui_6] Регенерацію пси-здоров'я збільшено на:
+            %c[d_green]$stat%/сек
         </text>
     </string>
     <string id="st_skills_stats_psy_hit_resistance_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Psy damage taken reduced by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Отриману психічну шкоду зменшено на:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_psy_hit_resistance_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Psy damage taken increased by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Отриману психічну шкоду збільшено на:
+            %c[d_red]$stat%
         </text>
     </string>
 
     <!-- Tinkering -->
     <string id="st_player_skills_hint_tinkering">
         <text>
-            Grants a chance to not spend a use of your repair kit.
+            Дає можливість не витрачати ваш ремонтний комплект.
           \n
-          \nLevels are gained by repairing gear using repair kits.
+          \nРівні отримуються, коли ви ремонтуєте спорядження за допомогою ремонтних
+            наборів.
           \n
           \n
         </text>
@@ -69,16 +75,17 @@
     <string id="st_skills_stats_refund_chance_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Repair kit free use chance: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Можливість безкоштовного використання ремонтного
+            комплекту: %c[d_green]$stat%
         </text>
     </string>
 
     <!-- Bartering -->
     <string id="st_player_skills_hint_bartering">
         <text>
-            Grants better prices when trading.
+            Забезпечує кращі ціни при торгівлі.
           \n
-          \nLevels are gained by selling and buying items.
+          \nРівні можна отримати, продаючи та купуючи предмети.
           \n
           \n
         </text>
@@ -86,35 +93,35 @@
     <string id="st_skills_stats_discount_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Trader prices reduced by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Трейдерські ціни знижено на: %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_discount_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Trader prices increased by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Ціни трейдерів зросли на: %c[d_red]$stat%
         </text>
     </string>
     <string id="st_skills_stats_sell_bonus_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Selling value increased by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Вартість продажу збільшилася на: %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_sell_bonus_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Selling value reduced by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Ціна продажу зменшена на: %c[d_red]$stat%
         </text>
     </string>
 
     <!-- Magloading -->
     <string id="st_player_skills_hint_magloading">
         <text>
-            Grants faster magazine loading and unloading speed.
+            Забезпечує швидке завантаження та розвантаження магазинів.
           \n
-          \nLevels are gained by loading and unloading magazines.
-          \n(Maximum level is limited by your Strength and Endurance)
+          \nРівні отримуються при завантаженні та розвантаженні магазинів.
+          \n(Максимальний рівень обмежений вашими силою та витривалістю)
           \n
           \n
         </text>
@@ -122,23 +129,25 @@
     <string id="st_skills_stats_loadspeed_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Mag loading speed increased by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість заряджання магазина збільшено на:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_loadspeed_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Mag loading speed reduced by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість заряджання магазина зменшено на:
+            %c[d_red]$stat%
         </text>
     </string>
 
     <!-- Lockpicking -->
     <string id="st_player_skills_hint_lockpicking">
         <text>
-            Grants: Lootboxes lock difficulty are reduced.
+            Гранти: Зменшено складність блокування лутбоксів.
           \n
-          \nLevels are gained by opening lootboxes.
-          \n(Using Skeleton Key gives no experience)
+          \nРівні отримуються за відкриття лутбоксів.
+          \n(Використання скелетного ключа не дає досвіду)
           \n
           \n
         </text>
@@ -146,23 +155,23 @@
     <string id="st_skills_stats_lockpick_diff_reduc_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Lootbox difficulty reduced by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Складність лутбоксу зменшено на: %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_lockpick_diff_reduc_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Lootbox difficulty increased by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Складність лутбоксу збільшено на: %c[d_red]$stat%
         </text>
     </string>
 
     <!-- Reloading -->
     <string id="st_player_skills_hint_reloading">
         <text>
-            Grants faster gun reloading and raise/holster speed.
+            Забезпечує швидке перезаряджання зброї та швидкість підняття/опускання кобури.
           \n
-          \nLevels are gained from general usage of guns.
-          \n(Maximum level is limited by your Endurance and Survival)
+          \nРівні отримуються від загального використання зброї.
+          \n(Максимальний рівень обмежений витривалістю та виживанням)
           \n
           \n
         </text>
@@ -170,26 +179,29 @@
     <string id="st_skills_stats_reload_speed_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Reload speed increased by: %c[d_green]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість перезавантаження збільшено на:
+            %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_reload_speed_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Reload speed reduced by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість перезавантаження зменшено на:
+            %c[d_red]$stat%
         </text>
     </string>
     <string id="st_skills_stats_equip_speed_positive">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Raise/holster speed increased by:
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість підняття/закриття збільшено на:
             %c[d_green]$stat%
         </text>
     </string>
     <string id="st_skills_stats_equip_speed_negative">
         <text>
             
-          \n%c[255,138,43,226]•%c[ui_6] Raise/holster speed reduced by: %c[d_red]$stat%
+          \n%c[255,138,43,226]-%c[ui_6] Швидкість підняття/опускання зменшено на:
+            %c[d_red]$stat%
         </text>
     </string>
 </string_table>

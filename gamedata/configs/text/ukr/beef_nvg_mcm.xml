@@ -12,190 +12,194 @@
     </string>
     <string id="ui_mcm_menu_beef_nvg">
         <text>
-            Beef's NVG
+            NVG яловичини
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
         <text>
-            The max gain that can be applied to NVGs.
+            Максимальний коефіцієнт підсилення, який можна застосувати до NVG.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
         <text>
-            Higher values allow you more 'brightness', although it will eventually cap out.
-            Recommend to set this based cloudy_dark_2 weather at midnight.
+            Вищі значення дають вам більше "яскравості", хоча з часом вона вичерпується.
+            Рекомендуємо встановлювати цей параметр опівночі для погоди cloudy_dark_2.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
         <text>
-            The min gain that can be applied to NVGs.
+            Мінімальний коефіцієнт підсилення, який можна застосувати до NVG.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
         <text>
-            Lower values allow you to turn down the NVGs more - very low values will even
-            enable you to use the NVGs during daylight.
+            Нижчі значення дозволяють зменшити потужність NVG - дуже низькі значення
+            дозволять вам використовувати NVG навіть у денний час.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
         <text>
-            An offset applied to world brightness.
+            Зсув, застосований до світлової яскравості.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
         <text>
-            1.0 leaves world brightness as-is, larger values multiply world brightness (but
-            not light sources).
+            1.0 залишає світлову яскравість без змін, більші значення множать світлову
+            яскравість (але не джерела світла).
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
         <text>
-            The threshold for light source washout.
+            Поріг розмивання джерела світла.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
         <text>
-            Generally recommended to keep at 0.1, but can be increased to reduce washout on
-            light sources slightly. This value scales with the nvg gain so that higher gains
-            have more washout and lower gains have less washout.
+            Зазвичай рекомендується залишати значення 0.1, але його можна збільшити, щоб
+            трохи зменшити розмиття на джерелах світла. Це значення змінюється залежно від
+            коефіцієнта підсилення nvg так, що більший коефіцієнт підсилення призводить до
+            більшого розмиття, а менший - до меншого розмиття.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
         <text>
-            Can use NVG while Aiming Down Sights:
+            Може використовувати NVG під час наведення прицілу:
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
         <text>
-            If this box is checked, you can keep your NVGs on while ADS. If its is
-            unchecked, your character will disable their NVGs while raising their weapon.
+            Якщо цей прапорець увімкнено, ви можете тримати навушники увімкненими під час
+            використання ADS. Якщо галочку знято, ваш персонаж вимкне ПНВ під час підняття
+            зброї.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
         <text>
-            NVGs stay on when viewing PDA:
+            NVG залишаються увімкненими під час перегляду PDA:
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
         <text>
-            If this box is unchecked, your NVGs automatically disable when looking at your
-            PDA.
+            Якщо цей прапорець знято, ваші мережеві відеореєстратори автоматично
+            вимикаються, коли ви дивитеся на КПК.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
         <text>
-            Gen 1 Tube Setup: (Default single tube centered)
+            Налаштування пробірки покоління 1: (за замовчуванням одна пробірка по центру)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
         <text>
-            Choose the number of tubes for Gen 1 NVGs.
+            Виберіть кількість трубок для NVG 1-го покоління.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
         <text>
-            Gen 2 Tube Setup: (Default dual tubes centered)
+            Налаштування трубок Gen 2: (за замовчуванням дві трубки по центру)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
         <text>
-            Choose the number of tubes for Gen 2 NVGs.
+            Виберіть кількість трубок для NVG покоління 2.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
         <text>
-            Gen 3 Tube Setup: (Default quad tubes centered)
+            Налаштування трубок Gen 3: (за замовчуванням чотири трубки розташовані по
+            центру)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
         <text>
-            Choose the number of tubes for Gen 3 NVGs.
+            Виберіть кількість трубок для NVG покоління 3.
         </text>
     </string>
     <string id="ui_mcm_lst_single_centered">
         <text>
-            Single Tube, Centered
+            Однотрубний, центрований
         </text>
     </string>
     <string id="ui_mcm_lst_single_left">
         <text>
-            Single Tube, Left Side
+            Одинарна трубка, ліва сторона
         </text>
     </string>
     <string id="ui_mcm_lst_single_right">
         <text>
-            Single Tube, Right Side
+            Одинарна трубка, правий бік
         </text>
     </string>
     <string id="ui_mcm_lst_dual_centered">
         <text>
-            Dual Tubes, Centered
+            Подвійні трубки, центровані
         </text>
     </string>
     <string id="ui_mcm_lst_quad_centered">
         <text>
-            Quad Tubes, Centered
+            Чотири трубчасті, центровані
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
         <text>
-            Gen 1 Overlay Background: (Default is No Overlay)
+            Тло накладання Gen 1: (за замовчуванням - без накладання)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
         <text>
-            Choose what background overlay you want
+            Виберіть, яке фонове накладання ви хочете
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
         <text>
-            Gen 2 Overlay Background: (Default is Blurred Overlay)
+            Тло накладання Gen 2: (за замовчуванням - розмите накладання)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
         <text>
-            Choose what background overlay you want
+            Виберіть, яке фонове накладання ви хочете
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
         <text>
-            Gen 3 Overlay Background: (Default is Blurred Overlay)
+            Тло накладання Gen 3: (за замовчуванням - розмите накладання)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
         <text>
-            Choose what background overlay you want
+            Виберіть, яке фонове накладання ви хочете
         </text>
     </string>
     <string id="ui_mcm_lst_blurred_background">
         <text>
-            Blurred Overlay
+            Розмите накладання
         </text>
     </string>
     <string id="ui_mcm_lst_black_background">
         <text>
-            Black Overlay
+            Чорне накладання
         </text>
     </string>
     <string id="ui_mcm_lst_image_overlay">
         <text>
-            (Not implemented) Image Overlay
+            (Не реалізовано) Накладання зображень
         </text>
     </string>
     <string id="ui_mcm_lst_clear_vision">
         <text>
-            No Overlay (clear vision)
+            Без накладання (чітке бачення)
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_shader_scope_compat">
         <text>
-            If you have Shader Based 2d Scope, check this box
+            Якщо ви використовуєте 2d Scope на основі шейдерів, встановіть цей прапорець
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
         <text>
-            Basically, due to shadering magic, if you have Shader Based 2d Scopes, you need
-            to check this box. Otherwise, don't check this box.
+            В основному, через магію шейдингу, якщо у вас є 2d-області видимості на основі
+            шейдерів, вам потрібно позначити цей прапорець. В іншому випадку, не
+            встановлюйте цей прапорець.
         </text>
     </string>
 </string_table>

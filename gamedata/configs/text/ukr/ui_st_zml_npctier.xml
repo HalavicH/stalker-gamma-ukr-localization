@@ -2,483 +2,484 @@
 <string_table>
     <string id="ui_mcm_menu_zml_npctier">
         <text>
-            NPC Tier
+            Рівень NPC
         </text>
     </string>
 
     <!-- GENERAL -->
     <string id="ui_mcm_ZML_zml_npctier_general_info">
         <text>
-            The options below allow to edit each threshold for each tier of loot found on
-            dead NPCs. Tier 1 being the most common and Tier 4 being the rarest. The higher
-            the gap between two thresholds, the higher is the chance that the former gets
-            picked. A tier threshold should not be set higher than its superior.
+            Наведені нижче опції дозволяють редагувати кожен поріг для кожного рівня
+            здобичі, знайденої на мертвих NPC. Рівень 1 є найпоширенішим, а рівень 4 -
+            найрідкіснішим. Чим більша різниця між двома порогами, тим більша ймовірність
+            того, що буде обрано перший. Не слід встановлювати поріг рівня вище, ніж вищий
+            за нього.
         </text>
     </string>
 
     <!-- REPAIR -->
     <string id="ui_mcm_ZML_zml_npctier_repair_info">
         <text>
-            Repair kits
+            Ремонтні комплекти
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_repair_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- MEDS -->
     <string id="ui_mcm_ZML_zml_npctier_meds_info">
         <text>
-            Medical items
+            Вироби медичного призначення
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_meds_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- DRUG -->
     <string id="ui_mcm_ZML_zml_npctier_drug_info">
         <text>
-            Drug items
+            Наркотичні засоби
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drug_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- FOOD -->
     <string id="ui_mcm_ZML_zml_npctier_food_info">
         <text>
-            Food items
+            Продукти харчування
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_food_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- DRINK -->
     <string id="ui_mcm_ZML_zml_npctier_drink_info">
         <text>
-            Drink items
+            Напої
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_drink_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- TOOL -->
     <string id="ui_mcm_ZML_zml_npctier_tool_info">
         <text>
-            Tool items
+            Елементи інструментів
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_tool_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- DEVICE -->
     <string id="ui_mcm_ZML_zml_npctier_device_info">
         <text>
-            Device items
+            Елементи пристрою
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_device_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- CONTAINER -->
     <string id="ui_mcm_ZML_zml_npctier_container_info">
         <text>
-            Container items
+            Контейнерні вироби
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_container_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- LOOTBOX -->
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_info">
         <text>
-            Lootboxes
+            Лутбокси
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_zzlootbox_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- FACTION#SPECIFIC TIER -->
     <string id="ui_mcm_menu_zml_npcfaction_tier">
         <text>
-            NPC Faction tier
+            Рівень NPC Фракції
         </text>
     </string>
 
     <!-- MILITARY -->
     <string id="ui_mcm_ZML_zml_npctier_army_info">
         <text>
-            Military
+            Військові
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_army_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- BANDIT -->
     <string id="ui_mcm_ZML_zml_npctier_bandit_info">
         <text>
-            Bandit
+            Бандит.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_bandit_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- CLEAR SKY -->
     <string id="ui_mcm_ZML_zml_npctier_csky_info">
         <text>
-            Clear Sky
+            Чисте небо
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_csky_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- DUTY -->
     <string id="ui_mcm_ZML_zml_npctier_dolg_info">
         <text>
-            Duty
+            Обов'язок
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_dolg_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- ECOLOGIST -->
     <string id="ui_mcm_ZML_zml_npctier_ecolog_info">
         <text>
-            Ecologist
+            Еколог
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_ecolog_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- FREEDOM -->
     <string id="ui_mcm_ZML_zml_npctier_freedom_info">
         <text>
-            Freedom
+            Свобода
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_freedom_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- SIN -->
     <string id="ui_mcm_ZML_zml_npctier_greh_info">
         <text>
-            Sin
+            Гріх
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_greh_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- MERCENARY -->
     <string id="ui_mcm_ZML_zml_npctier_killer_info">
         <text>
-            Mercenary
+            Найманець
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_killer_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
@@ -490,130 +491,130 @@
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_isg_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- MONOLITH -->
     <string id="ui_mcm_ZML_zml_npctier_monolith_info">
         <text>
-            Monolith
+            Моноліт
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_monolith_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- LONER -->
     <string id="ui_mcm_ZML_zml_npctier_stalker_info">
         <text>
-            Loner
+            Одинак.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_stalker_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- RENEGADE -->
     <string id="ui_mcm_ZML_zml_npctier_renegade_info">
         <text>
-            Renegade
+            Ренегат.
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_renegade_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 
     <!-- MAGUS -->
     <string id="ui_mcm_ZML_zml_npctier_magus_info">
         <text>
-            Magus
+            Маг
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier1">
         <text>
-            Tier1 threshold
+            Поріг Tier1
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier2">
         <text>
-            Tier2 threshold
+            Поріг Tier2
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier3">
         <text>
-            Tier3 threshold
+            Поріг Tier3
         </text>
     </string>
     <string id="ui_mcm_ZML_zml_npctier_magus_tier4">
         <text>
-            Tier4 threshold
+            Поріг Tier4
         </text>
     </string>
 </string_table>

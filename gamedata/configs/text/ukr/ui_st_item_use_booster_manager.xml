@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_st_booster_manager_boosters_header">
         <text>
-            ADDITIONAL EFFECTS:
+            ДОДАТКОВІ ЕФЕКТИ:
         </text>
     </string>
     <string id="ui_st_booster_manager_dot">
@@ -12,99 +12,100 @@
     </string>
     <string id="ui_st_booster_manager_boost_max_speed_name">
         <text>
-            Movement speed
+            Швидкість пересування
         </text>
     </string>
     <string id="ui_st_booster_manager_boost_psy_restore_name">
         <text>
-            Psychic restoration
+            Відновлення психіки
         </text>
     </string>
     <string id="ui_st_booster_manager_boost_psy_restore_unit">
         <text>
-            %/Sec
+            %/сек
         </text>
     </string>
 
     <!-- MCM -->
     <string id="ui_mcm_menu_item_use_booster_manager">
         <text>
-            Booster Manager
+            Бустер-менеджер
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_main">
         <text>
-            Main
+            Головна
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_drink">
         <text>
-            Drinks
+            Напої
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_food">
         <text>
-            Foods
+            Продукти харчування
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_medical">
         <text>
-            Medicines
+            Медикаменти
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_mutant_food">
         <text>
-            Cooked meat
+            Варене м'ясо
         </text>
     </string>
     <string id="ui_mcm_menu_booster_manager_mutant_raw_food">
         <text>
-            Raw meat
+            Сире м'ясо
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_main_title">
         <text>
-            Main Settings
+            Основні налаштування
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_drink_title">
         <text>
-            Drinks and Cigarettes
+            Напої та сигарети
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_food_title">
         <text>
-            Imported Food
+            Імпортні продукти харчування
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_medical_title">
         <text>
-            Medicines
+            Медикаменти
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_mutant_food_title">
         <text>
-            Cooked Mutants Meat
+            Приготоване м'ясо мутантів
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_option_mutant_raw_food_title">
         <text>
-            Raw Mutants Meat
+            Сире м'ясо мутантів
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_booster_manager_main_show_indicators">
         <text>
-            Enable indicators
+            Увімкнути індикатори
         </text>
     </string>
     <string id="ui_mcm_item_use_booster_manager_booster_manager_main_show_indicators_desc">
         <text>
-            (Save reload required!) Display indicators for additional effects in HUD
+            (Потрібно зберегти перезавантаження!) Відображення індикаторів для додаткових
+            ефектів у HUD
         </text>
     </string>
     <string id="ui_mcm_booster_manager_boost_time_item_opt">
         <text>
-            Duration of additional effects (sec.)
+            Тривалість додаткових ефектів (сек.)
         </text>
     </string>
 </string_table>

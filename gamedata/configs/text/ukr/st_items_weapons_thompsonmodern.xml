@@ -7,26 +7,28 @@
     </string>
     <string id="st_wpn_thompsonmodern_descr">
         <text>
-            The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier
-            general John T. Thompson in 1918. It was originally designed to break the
-            stalemate of trench warfare of World War I, but was not finished until after the
-            war ended. The Thompson was then widely adopted by the U.S. armed forces and
-            their allies during World War II.
+            Пістолет-кулемет Томпсона - це пістолет-кулемет з відбоєм, повітряним
+            охолодженням і магазинним живленням, винайдений бригадним генералом армії США
+            Джоном Т. Томпсоном у 1918 році. Спочатку він був розроблений для виходу з
+            глухого кута окопної війни часів Першої світової війни, але не був завершений до
+            кінця війни. Потім "Томпсон" був широко прийнятий на озброєння збройними силами
+            США та їхніми союзниками під час Другої світової війни.
           \n
-          \n It is the first weapon to be labelled and marketed as a "submachine gun".
+          \n Це перша зброя, яку почали маркувати і продавати як "пістолет-кулемет".
           \n
-          \n This modernized tacticool version features an ergonomic stock, a foregrip,
-            rails, 45° iron sights and a tactical green Laser Aiming Module.
+          \n Ця модернізована версія tacticool має ергономічну ложу, цілик, направляючі,
+            залізні прицільні пристосування під кутом 45° та тактичний лазерний прицільний
+            модуль зеленого кольору.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] Installed: 45° iron sights, tactical green Laser
-            Aiming Module
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] Optional (BaS): all colimators, scopes: Trijicon
-            ACOG and ELCAN SpecterDR Sight, no sniper scopes
-          \n %c[d_purple] • %c[ui_gray_2] Optional (LEWD): Leupold Carbine Optic - LCO,
-            Razor AMG UH-1, LEWD rifle kits: Specialist, Operator and Warmonger
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[ui_gray_2] Встановлено: Залізний приціл 45°, тактичний
+            зелений лазерний модуль прицілювання
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: глушник .45 ACP
+          \n %c[d_purple] • %c[ui_gray_2] Додатково (BaS): всі коліматори, приціли:
+            Trijicon ACOG та ELCAN SpecterDR Sight, без снайперських прицілів
+          \n %c[d_purple] • %c[ui_gray_2] Додатково (LEWD): Карабін Leupold Carbine Optic
+            - LCO, Razor AMG UH-1, комплекти гвинтівок LEWD: Спеціаліст, Оператор та
+            Розпалювач війни
           \n
         </text>
     </string>
@@ -37,25 +39,26 @@
     </string>
     <string id="st_wpn_thompsonmodern_specialist_descr">
         <text>
-            The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier
-            general John T. Thompson in 1918. It was originally designed to break the
-            stalemate of trench warfare of World War I, but was not finished until after the
-            war ended. The Thompson was then widely adopted by the U.S. armed forces and
-            their allies during World War II.
+            Пістолет-кулемет Томпсона - це пістолет-кулемет з відбоєм, повітряним
+            охолодженням і магазинним живленням, винайдений бригадним генералом армії США
+            Джоном Т. Томпсоном у 1918 році. Спочатку він був розроблений для виходу з
+            глухого кута окопної війни часів Першої світової війни, але не був завершений до
+            кінця війни. Потім "Томпсон" був широко прийнятий на озброєння збройними силами
+            США та їхніми союзниками під час Другої світової війни.
           \n
-          \n It is the first weapon to be labelled and marketed as a "submachine gun".
+          \n Це перша зброя, яку почали маркувати і продавати як "пістолет-кулемет".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45°
-            iron sights and a tactical green Laser Aiming Module. The "Specialist" rifle kit
-            features a TacPoint red dot sight from SightmarkTactical with a red reticle and
-            a permanently installed advanced silencer.
+          \n Модернізована версія tacticool має ергономічну ложу, направляючі, залізні
+            прицільні пристосування під кутом 45° та тактичний лазерний прицільний модуль
+            зеленого кольору. Комплект гвинтівки "Specialist" включає в себе приціл TacPoint
+            з червоною міткою від SightmarkTactical та стаціонарно встановлений
+            вдосконалений глушник.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Specialist"
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: Permanent
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
-            this kit
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[ui_gray_2] Встановлений комплект гвинтівки: "Спеціаліст"
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: Постійний
+          \n %c[d_purple] • %c[ui_gray_2] додавання інших прицілів або комплектів
+            гвинтівок призведе до видалення цього комплекту
           \n
         </text>
     </string>
@@ -66,54 +69,57 @@
     </string>
     <string id="st_wpn_thompsonmodern_operator_descr">
         <text>
-            The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier
-            general John T. Thompson in 1918. It was originally designed to break the
-            stalemate of trench warfare of World War I, but was not finished until after the
-            war ended. The Thompson was then widely adopted by the U.S. armed forces and
-            their allies during World War II.
+            Пістолет-кулемет Томпсона - це пістолет-кулемет з відбоєм, повітряним
+            охолодженням і магазинним живленням, винайдений бригадним генералом армії США
+            Джоном Т. Томпсоном у 1918 році. Спочатку він був розроблений для виходу з
+            глухого кута окопної війни часів Першої світової війни, але не був завершений до
+            кінця війни. Потім "Томпсон" був широко прийнятий на озброєння збройними силами
+            США та їхніми союзниками під час Другої світової війни.
           \n
-          \n It is the first weapon to be labelled and marketed as a "submachine gun".
+          \n Це перша зброя, яку почали маркувати і продавати як "пістолет-кулемет".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45°
-            iron sights and a quick-release sling. The "Operator" rifle kit features a
-            Strikefire II red dot sight from Vortex Optics with a red reticle and a tactical
-            grip with integrated flashlight and a green Laser Aiming Module.
+          \n Модернізована версія від Tacticool має ергономічну ложу, направляючі, залізні
+            прицільні пристосування під кутом 45° та швидкознімний ремінь. Гвинтівка
+            "Оператор" комплектується прицілом Strikefire II від Vortex Optics з червоною
+            сіткою та тактичною рукояткою з вбудованим ліхтариком і зеленим лазерним
+            прицільним модулем.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Opeartor"
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
-            this kit
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[ui_gray_2] Встановлений комплект гвинтівки: "Opeartor"
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: глушник .45 ACP
+          \n %c[d_purple] • %c[ui_gray_2] додавання інших прицілів або комплектів
+            гвинтівок призведе до видалення цього комплекту
           \n
         </text>
     </string>
     <string id="st_wpn_thompsonmodern_warmonger">
         <text>
-            Thompson M1A1 mk2 "Annihilator" (LEWD)
+            Thompson M1A1 mk2 "Анігілятор" (LEWD)
         </text>
     </string>
     <string id="st_wpn_thompsonmodern_warmonger_descr">
         <text>
-            The Thompson submachine gun is a blowback-operated, air-cooled, magazine-fed
-            selective-fire submachine gun, invented by the United States Army Brigadier
-            general John T. Thompson in 1918. It was originally designed to break the
-            stalemate of trench warfare of World War I, but was not finished until after the
-            war ended. The Thompson was then widely adopted by the U.S. armed forces and
-            their allies during World War II.
+            Пістолет-кулемет Томпсона - це пістолет-кулемет з відбоєм, повітряним
+            охолодженням і магазинним живленням, винайдений бригадним генералом армії США
+            Джоном Т. Томпсоном у 1918 році. Спочатку він був розроблений для виходу з
+            глухого кута окопної війни часів Першої світової війни, але не був завершений до
+            кінця війни. Потім "Томпсон" був широко прийнятий на озброєння збройними силами
+            США та їхніми союзниками під час Другої світової війни.
           \n
-          \n It is the first weapon to be labelled and marketed as a "submachine gun".
+          \n Це перша зброя, яку почали маркувати і продавати як "пістолет-кулемет".
           \n
-          \n This modernized tacticool version features an ergonomic stock, rails, 45°
-            iron sights and a tactical green Laser Aiming Module. The "Warmonger" rifle kit
-            features a Micro T-2 red dot sight from Aimpoint with a red reticle, a hardenned
-            foregrip and a bayonette. It cannot mount a silencer.
+          \n Модернізована версія tacticool має ергономічну ложу, направляючі, залізні
+            прицільні пристосування під кутом 45° та тактичний зелений лазерний прицільний
+            модуль. Комплект гвинтівки "Warmonger" включає в себе приціл Micro T-2 від
+            Aimpoint з червоним прицільним пристосуванням, загартоване цілеспрямоване
+            руків'я та багнет. Глушник не встановлюється.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] Installed rifle kit: "Warmonger"
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: .45 ACP suppressor
-          \n %c[d_purple] • %c[ui_gray_2] adding other scopes or rifle kits will uninstall
-            this kit
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[ui_gray_2] Встановлений комплект гвинтівки: "Розпалювач
+            війни"
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: глушник .45 ACP
+          \n %c[d_purple] • %c[ui_gray_2] додавання інших прицілів або комплектів
+            гвинтівок призведе до видалення цього комплекту
           \n
         </text>
     </string>

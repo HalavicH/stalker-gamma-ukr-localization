@@ -2,27 +2,27 @@
 <string_table>
     <string id="ui_mcm_menu_igi_tasks">
         <text>
-            Igi Tasks
+            Завдання Igi
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_title">
         <text>
-            Igi Tasks
+            Завдання Igi
         </text>
     </string>
     <string id="ui_mcm_menu_Options">
         <text>
-            Options
+            Параметри
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_autocomplete">
         <text>
-            Autocomplete
+            Автозаповнення
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_wtf_task_mark">
         <text>
-            Mark WTF quests
+            Позначте WTF-квести
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_utjan_fetch_thing">
@@ -32,118 +32,118 @@
     </string>
     <string id="igi_tasks_utjan_fetch_done">
         <text>
-            (You already have enough)
+            (Ви вже маєте достатньо)
         </text>
     </string>
     <string id="igi_tasks_utjan_fetch_need">
         <text>
-            (You need %s more)
+            (Вам потрібно більше %s)
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_realistic_assassinations">
         <text>
-            (Arszi's) Realistic Assassinations
+            Реалістичні вбивства (Arszi's)
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_debug">
         <text>
-            Debug mode (May cause fps drops)
+            Режим налагодження (може спричинити падіння fps)
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_autosave_before">
         <text>
-            Save on taking task
+            Заощаджуйте на прийнятті завдань
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_autosave_after">
         <text>
-            Save on completing task
+            Заощаджуйте на виконанні завдань
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_reset_all">
         <text>
-            Reset all task pack settings
+            Скинути всі налаштування пакета завдань
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_disable_task">
         <text>
-            Disable
+            Вимкнути
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_cancel_all">
         <text>
-            Finish all active tasks
+            Завершити всі активні завдання
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_task_pack_general_title">
         <text>
-            General
+            Генерал
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_static_rewards_title">
         <text>
-            Static rewards
+            Статичні винагороди
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_static_rewards_desc">
         <text>
-            &gt;&gt;&gt; These values will replace framework's own dynamic rewards.
+            &gt;&gt;&gt; Ці значення замінять власні динамічні винагороди фреймворку.
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_rewards_modifiers_title">
         <text>
-            Reward modifiers
+            Модифікатори винагороди
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_rewards_modifiers_desc">
         <text>
-            &gt;&gt;&gt; These modifiers work alongside static as well as dynamic rewards. Change
-            these if you want to change rewards without making them static.
+            &gt;&gt;&gt; Ці модифікатори працюють як зі статичними, так і з динамічними винагородами.
+            Змініть їх, якщо хочете змінити винагороду, не роблячи її статичною.
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_money_reward_coeff">
         <text>
-            Reward multiplier
+            Множник винагороди
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_reward_spread_min">
         <text>
-            Reward spread (lower bound)
+            Спред винагороди (нижня межа)
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_Options_reward_spread_max">
         <text>
-            Reward spread (higher bound)
+            Спред винагороди (верхня межа)
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_reward_money">
         <text>
-            Money
+            Гроші
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_reward_goodwill">
         <text>
-            Goodwill
+            Гудвіл
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_add_money">
         <text>
-            Additional money
+            Додаткові гроші
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_mult_money">
         <text>
-            Money multiplier
+            Грошовий мультиплікатор
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_add_goodwill">
         <text>
-            Additional goodwill
+            Додатковий гудвіл
         </text>
     </string>
     <string id="ui_mcm_igi_tasks_mult_goodwill">
         <text>
-            Goodwill multiplier
+            Мультиплікатор гудвілу
         </text>
     </string>
 </string_table>

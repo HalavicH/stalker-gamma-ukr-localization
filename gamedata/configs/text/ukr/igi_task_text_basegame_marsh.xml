@@ -5,28 +5,28 @@
     <!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_title">
         <text>
-            Great Swamp Clean-up
+            Велике прибирання боліт
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_descr">
         <text>
-            Cold wants to root out Clear Sky's enemies from the Great Swamp. Collect
-            patches.
+            Холод хоче викорінити ворогів Чистого Неба з Великого Болота. Збирайте нашивки.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_job_descr">
         <text>
-            At first we were almost grateful that the military barged in on our bandit
-            clean-up. Sadly, later they set up a few permanent outposts to the north. Their
-            patrols aren't exactly friendly to our guys either, not to mention they did a
-            shoddy job and there's a constant trickle of bandits harassing our outposts.
-            Show them what we're made of.
+            Спочатку ми були майже вдячні, що військові втрутилися в нашу зачистку від
+            бандитів. На жаль, пізніше вони створили кілька постійних застав на півночі.
+            Їхні патрулі теж не надто дружелюбні до наших хлопців, не кажучи вже про те, що
+            вони погано виконують свою роботу, і бандити постійно нападають на наші застави.
+            Покажемо їм, з чого ми зроблені.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_bs_fetch_patches_finish">
         <text>
-            Here you are, our professional hitman. I suppose those bastards will think twice
-            before they dare visit our Swamp again. I hope. Here's your reward, by the way.
+            Ось ти де, наш професійний кілер. Гадаю, ці виродки двічі подумають, перш ніж
+            знову наважаться відвідати наше Болото. Сподіваюся. До речі, ось твоя
+            винагорода.
         </text>
     </string>
 
@@ -34,28 +34,29 @@
     <!-- Cold (Clear Sky Honcho) Night Terror Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_title">
         <text>
-            Night Terror
+            Нічний жах
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_descr">
         <text>
-            Cold wants to eliminate a dangerous mutant which roams not far away from the
-            Hidden Base.
+            Колд хоче ліквідувати небезпечного мутанта, який блукає неподалік від Прихованої
+            бази.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_job_descr">
         <text>
-            Mutants rarely stray close to our base. But our guys reported that the previous
-            night some giant beast tore apart the whole team that manned the lookout tower
-            to the north west. Four well-armed people just smeared all over the perimeter.
-            Those weren't dogs for sure. I know you're a tough guy, so maybe you could visit
-            the place and get rid of that nasty fucker?
+            Мутанти рідко блукають поблизу нашої бази. Але наші хлопці повідомили, що
+            минулої ночі якась гігантська тварюка розірвала на шматки всю команду, що сиділа
+            на спостережній вежі на північному заході. Чотирьох добре озброєних людей просто
+            розмазало по всьому периметру. Це точно були не собаки. Я знаю, що ти крутий
+            хлопець, тож, можливо, ти міг би відвідати це місце і позбутися цього огидного
+            виродка?
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_2_finish">
         <text>
-            Hey, great job, man! I hope this reward's good enough for you. That and the
-            stories people'll tell.
+            Чудова робота, друже! Сподіваюся, цієї нагороди тобі вистачить. Це і історії,
+            які люди будуть розповідати.
         </text>
     </string>
 
@@ -63,15 +64,15 @@
     <!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_4_title">
         <text>
-            Defend the pump station
+            Захистити насосну станцію
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_4_descr">
         <text>
-            One of our patrols captured some bandits fucking around the pump station, after
-            a good beating they confessed they're preparing an assault. We don't know when
-            they'll hit, I already sent some guys over there but any help is welcome... and
-            rewarded of course.
+            Один з наших патрулів спіймав кількох бандитів, які трахалися біля насосної
+            станції, після гарного побиття вони зізналися, що готують штурм. Ми не знаємо,
+            коли вони нападуть, я вже відправив туди кількох хлопців, але будь-яка допомога
+            вітається... і винагороджується, звичайно.
         </text>
     </string>
 
@@ -79,118 +80,116 @@
     <!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_title">
         <text>
-            Unnatural Selection
+            Неприродний відбір
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_descr">
         <text>
-            Collect mutant parts samples for Professor Kalancha.
+            Зберіть зразки мутантних частин для професора Каланчі.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_job_descr">
         <text>
-            Mutants of the Zone have displayed numerous peculiar adaptations to its
-            anomalous conditions. Please, collect some tissue samples for my research. They
-            might help us persevere in this environment as well.
+            Мутанти Зони продемонстрували численні своєрідні адаптації до її аномальних
+            умов. Будь ласка, візьміть зразки тканин для моїх досліджень. Можливо, вони
+            допоможуть нам вижити і в цьому середовищі.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_fetch_job_descr">
         <text>
-            Mutants of the Zone have displayed numerous peculiar adaptations to its
-            anomalous conditions. Please, collect some tissue samples for my research. They
-            might help us persevere in this environment as well. Collect mutant parts
-            samples.
+            Мутанти Зони продемонстрували численні своєрідні адаптації до її аномальних
+            умов. Будь ласка, візьміть зразки тканин для моїх досліджень. Можливо, вони
+            допоможуть нам вижити і в цьому середовищі. Зберіть зразки мутантів.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_1_fetch_finish">
         <text>
-            The samples are in good condition. Very well, I will get to research
-            immediately. Thank you.
+            Зразки в хорошому стані. Дуже добре, я негайно приступлю до дослідження. Дякую.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_2_title">
         <text>
-            Scientific Progress
+            Науковий прогрес
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_2_descr">
         <text>
-            Find one artefact for Professor Kalancha.
+            Знайдіть один артефакт для професора Каланчі.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_2_job_descr">
         <text>
-            Artefacts may provide invaluable data for our research. However, with the many
-            threats we face our men cannot really afford to collect them for me all that
-            often. Could you help me?
+            Артефакти можуть надати безцінні дані для наших досліджень. Однак, зважаючи на
+            численні загрози, з якими ми стикаємося, наші люди не можуть дозволити собі
+            збирати їх для мене так часто. Чи могли б ви мені допомогти?
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_2_fetch_job_descr">
         <text>
-            Artefacts may provide invaluable data for our research. However, with the many
-            threats we face our men cannot really afford to collect them for me all that
-            often. Could you help me? Find one artefact.
+            Артефакти можуть надати безцінні дані для наших досліджень. Однак, зважаючи на
+            численні загрози, з якими ми стикаємося, наші люди не можуть дозволити собі
+            збирати їх для мене так часто. Можеш мені допомогти? Знайдіть один артефакт.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_2_fetch_finish">
         <text>
-            Even after all these years they never cease to amaze me. What a wonderful
-            specimen. Thank you for your assistance.
+            Навіть через стільки років вони не перестають мене дивувати. Який чудовий
+            екземпляр. Дякую за вашу допомогу.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_3_title">
         <text>
-            Scarce Supplies
+            Дефіцитні запаси
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_3_descr">
         <text>
-            Professor Kalancha requires a medical supplies
+            Професор Каланча потребує медикаментів
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_3_job_descr">
         <text>
-            You see, Spore does his best to provide supplies for us. But even after all
-            these years we are still in a difficult situation. There is no shortage of
-            injuries to treat but our medical supplies are limited. Please, help me
-            supplement our stock.
+            Розумієте, Spore робить все можливе, щоб забезпечити нас усім необхідним. Але
+            навіть після всіх цих років ми все ще перебуваємо у складній ситуації. Поранень
+            не бракує, але наші медикаменти обмежені. Будь ласка, допоможіть мені поповнити
+            наші запаси.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_3_fetch_job_descr">
         <text>
-            You see, Spore does his best to provide supplies for us. But even after all
-            these years we are still in a difficult situation. There is no shortage of
-            injuries to treat but our medical supplies are limited. Please, help me
-            supplement our stock. Procure some medical supplies, please.
+            Розумієте, Spore робить все можливе, щоб забезпечити нас усім необхідним. Але
+            навіть після всіх цих років ми все ще перебуваємо у складній ситуації. Поранень
+            не бракує, але наші медикаменти обмежені. Будь ласка, допоможіть мені поповнити
+            наші запаси. Придбайте медикаменти, будь ласка.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_3_fetch_finish">
         <text>
-            We are all deeply indebted for your help.
+            Ми всі глибоко вдячні за вашу допомогу.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_bs_fetch_drugkit_title">
         <text>
-            Find medical supplies for Professor Kalancha
+            Знайти медикаменти для професора Каланчі
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_bs_fetch_drugkit_descr">
         <text>
-            %s is required by Professor Kalancha to work on medical supplies. You should
-            bring them back to him if you find any.
+            %s потрібен професору Каланчі для роботи з медичними матеріалами. Якщо ви їх
+            знайдете, принесіть йому, будь ласка.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_bs_fetch_drugkit_job_descr">
         <text>
-            Maintaining what's left from medical supplies storage with this number of
-            injuries I have to treat on daily basis is worrying. I'm gonna run out of
-            bandages and medkits soon or later. I need you to find me one of those old drug-
-            making kits. They will come in handy for sure.
+            Зберігати те, що залишилося на складах медикаментів, при такій кількості
+            поранень, які мені доводиться лікувати щодня, дуже складно. Рано чи пізно у мене
+            закінчаться бинти та аптечки. Мені потрібно, щоб ви знайшли мені один з тих
+            старих наборів для виготовлення ліків. Вони мені точно знадобляться.
         </text>
     </string>
     <string id="igi_task_text_mar_smart_terrain_base_doctor_bs_fetch_drugkit_finish">
         <text>
-            Great job! I own you big time.
+            Чудова робота! Ти тепер мій.
         </text>
     </string>
 
@@ -198,183 +197,182 @@
     <!-- Spore (Clear Sky Trader) Deliver PDA Task -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_title">
         <text>
-            Deliver PDA to Nimble
+            Доставити КПК до Nimble
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_descr">
         <text>
-            Spore needs you to deliver an encrypted PDA to Nimble in Zaton.
+            Spore потребує, щоб ви доставили зашифрований КПК до Nimble у Затоні.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_1_job_descr">
         <text>
-            Okay, hotshot. Need a job? This PDA needs delivered to a dude who hangs out in
-            Zaton; his name is Nimble. He will compensate you on delivery. Don't drop it in
-            a puddle or some dumb shit like that... or I'll have your ass. While you're
-            there, check out what he has to offer; he can get his hands on some nice
-            equipment... for a price.
+            Гаразд, розумнику. Потрібна робота? Цей КПК потрібно доставити чуваку, який
+            тусується на Затоні, його звуть Спритний. Він тобі заплатить, коли доставиш.
+            Тільки не кидай його в калюжу чи ще якусь дурницю... а то я тобі дупу надеру.
+            Поки будете там, поцікавтеся, що він може запропонувати; він може роздобути
+            непогане обладнання... за певну ціну.
         </text>
     </string>
 
     <!-- DESTROY HELICOPTER FOR SPORE TASK -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_2_title">
         <text>
-            Destroy the helicopter
+            Знищити гелікоптер.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_2_descr">
         <text>
-            Spore is fed up and wants you to destroy the helicopter. He will offer you a
-            discount if you follow through.
+            Спору набридло і він хоче, щоб ви знищили гелікоптер. Він запропонує вам знижку,
+            якщо ви виконаєте завдання.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_2_job_descr">
         <text>
-            That damn chopper is driving me nuts. I have bad tinnitus, and every time that
-            fucking thing is patrolling the southern border, it makes my ears scream! Makes
-            me want to bludgeon a baby flesh! Down the fucking thing and I'll give you a
-            discount, please, before I get somebody killed.
+            Цей клятий гелікоптер зводить мене з розуму. У мене сильний шум у вухах, і
+            кожного разу, коли ця клята штука патрулює південний кордон, у мене від неї аж
+            вуха закладає! Мені хочеться зарізати немовля! Опустіть цю довбану штуку, і я
+            зроблю вам знижку, будь ласка, поки я когось не вбив.
         </text>
     </string>
 
     <!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_owl_stalker_trader_3_title">
         <text>
-            Escort the Ecologists
+            Супровід екологів
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_3_descr">
         <text>
-            Clear Sky scientists have hired you to guide them to a specific location for
-            study. Once their research has been successfully conducted, return them safely
-            to camp; where you will be compensated.
+            Вчені "Чистого неба" найняли вас, щоб ви провели їх до певного місця для
+            проведення досліджень. Після того, як дослідження буде успішно проведено,
+            поверніть їх у безпеці до табору, де ви отримаєте компенсацію.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_3_job_descr">
         <text>
-            Scientists here in camp need an experienced stalker to lead them out into the
-            field for study. Are you up for it? Your job is to keep them alive and guide
-            them to their destination. Failure will give you a bad reputation around here.
+            Вченим у таборі потрібен досвідчений сталкер, щоб вивести їх у поле для
+            досліджень. Ви готові до цього? Твоє завдання - зберегти їм життя і привести їх
+            до місця призначення. Невдача принесе вам погану репутацію.
         </text>
     </string>
     <string id="igi_task_text_mar_base_owl_stalker_trader_3_finish">
         <text>
-            Thank you, stalker. You may have this as payment for your services.
+            Дякую, сталкере. Можеш взяти це як плату за свої послуги.
         </text>
     </string>
 
     <!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_bs_assault_monster_online_title">
         <text>
-            Clear area of mutants
+            Чиста зона мутантів
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_bs_assault_monster_online_descr">
         <text>
-            Mutants have been spotted near this location making the area dangerous for some
-            of the locals. You have been tasked to eliminate the mutant threat within the
-            area. Report back to Librarian after the job is done.
+            Поблизу цієї локації були помічені мутанти, що робить місцевість небезпечною для
+            деяких місцевих жителів. Ви отримали завдання ліквідувати загрозу мутантів у цій
+            місцевості. Після виконання завдання поверніться до Бібліотекаря.
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_bs_assault_monster_online_job_descr">
         <text>
-            Are you an avid hunter? We've been looking for someone to keep the marshes a bit
-            safer by clearing out mutants in areas that our faction frequents. Would you
-            like the job?
+            Ви завзятий мисливець? Ми шукаємо когось, хто міг би зробити болота трохи
+            безпечнішими, винищуючи мутантів у місцях, які часто відвідує наша фракція.
+            Хочеш цю роботу?
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_bs_assault_monster_online_finish">
         <text>
-            Fantastic! Here is your payment. I'll make sure to pass the word around that
-            it's safe there once again. Thank you, stalker.
+            Фантастика! Ось ваша оплата. Я подбаю про те, щоб ще раз передати, що тут
+            безпечно. Дякую, сталкере.
         </text>
     </string>
 
     <!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_2_title">
         <text>
-            Assault the bandit camp
+            Штурм табору бандитів
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_2_descr">
         <text>
-            You have been tasked to eliminate the bandit threat within the area. Report back
-            to Librarian after the job is done.
+            Ви отримали завдання ліквідувати бандитську загрозу в цьому районі. Після
+            виконання завдання повідомте про це Бібліотекарю.
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_2_job_descr">
         <text>
-            We have a big problem with bandits in the area. Those murderous thugs have been
-            ambushing our camps outside the main base, trying to take the territory over.
-            It'll deny us passage through many safe routes through the marshes as long as
-            they're in the area. We need an experienced stalker who is not afraid to get his
-            hands dirty. Will you help us out?
+            У нас велика проблема з бандитами в цьому районі. Ці кровожерливі головорізи
+            влаштовують засідки на наші табори за межами головної бази, намагаючись захопити
+            територію. Поки вони в цьому районі, ми не зможемо пройти багатьма безпечними
+            маршрутами через болота. Нам потрібен досвідчений сталкер, який не боїться
+            забруднити руки. Ви нам допоможете?
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_2_finish">
         <text>
-            Fantastic! Here is your payment. I'll make sure to pass the word around that
-            it's safe there once again. Thank you, stalker.
+            Фантастика! Ось ваша оплата. Я подбаю про те, щоб ще раз передати, що тут
+            безпечно. Дякую, сталкере.
         </text>
     </string>
 
     <!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
     <string id="igi_task_text_mar_base_stalker_barmen_3_title">
         <text>
-            Procure mutant parts
+            Закупити мутантні частини
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_3_descr">
         <text>
-            Field dress freshly dead mutants to collect game meat. Then deliver some mutant
-            meat to Librarian in the Clear Sky base camp.
+            У польових умовах одягніть щойно вбитих мутантів, щоб зібрати м'ясо дичини.
+            Потім доставте м'ясо мутантів Бібліотекарю в базовий табір "Чисте небо".
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_3_job_descr">
         <text>
-            If you are good with a rifle and not afraid of a few mutants, then I have a job
-            for you. Are you interested?
+            Якщо ти добре володієш гвинтівкою і не боїшся кількох мутантів, то у мене є
+            робота для тебе. Зацікавлений?
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_3_fetch_job_descr">
         <text>
-            Rations are running low, and I need to keep everyone in camp's bellies full.
-            Some of the guys bring me back a kill or two every now and again. But it's been
-            slow lately... So if you aren't too busy and you are out and about, I need meat.
-            I kill and process the meat, right here in my kitchen. Keep in mind that getting
-            the mutants all riled up makes the meat tough because of the adrenaline. Also,
-            the lesser the bleeding, the better the meat tastes. So, just be careful with
-            your shots, okay?
+            Пайки закінчуються, а мені потрібно, щоб усі в таборі були ситі. Дехто з хлопців
+            час від часу приносить мені одну-дві туші. Але останнім часом це відбувається
+            повільно... Тож якщо ви не надто зайняті і можете принести мені м'яса, мені
+            потрібне м'ясо. Я вбиваю і обробляю м'ясо прямо тут, на своїй кухні. Майте на
+            увазі, що коли мутанти розлючені, м'ясо стає жорстким через адреналін. Крім
+            того, чим менше крові, тим м'ясо смачніше. Тож будьте обережні з пострілами,
+            гаразд?
         </text>
     </string>
     <string id="igi_task_text_mar_base_stalker_barmen_3_fetch_finish">
         <text>
-            Great, you are a good hunter after all! I have payment for you.
+            Чудово, ти таки добрий мисливець! У мене є гроші для тебе.
         </text>
     </string>
 
     <!-- ESCORT SCIENTISTS DIALOGS -->
     <string id="igi_task_text_ecolog_companion_1_start_dialog_1">
         <text>
-            You are our guide? I will mark the location on your PDA. Lead the way, and we
-            will follow. After we complete our analysis escort us back safely. Speak to me
-            again when we return to camp.
+            Ви наш провідник? Я відмічатиму місцезнаходження на вашому КПК. Ведіть нас, а ми
+            підемо за вами. Після того, як ми завершимо наш аналіз, супроводьте нас назад у
+            безпеці. Поговоріть зі мною знову, коли ми повернемося до табору.
         </text>
     </string>
     <string id="igi_task_text_ecolog_companion_1_start_dialog_2">
         <text>
-            Yes? We should get moving. The longer we wait around, the more dangerous it
-            gets.
+            Так? Треба йти. Чим довше ми чекаємо, тим небезпечніше стає.
         </text>
     </string>
     <string id="igi_task_text_ecolog_companion_1_complete">
         <text>
-            Thank you, stalker. You did your job well. Here is your payment.
+            Дякую, сталкере. Ти добре виконав свою роботу. Ось твоя оплата.
         </text>
     </string>
     <string id="igi_task_text_ecolog_companion_1_actor_reply">
         <text>
-            Okay.
+            Гаразд.
         </text>
     </string>
 </string_table>

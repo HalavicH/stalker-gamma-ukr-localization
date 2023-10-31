@@ -2,364 +2,366 @@
 <string_table>
     <string id="st_fs_green">
         <text>
-            Fairbarn-Sykes fighting knife
+            Бойовий ніж Fairbarn-Sykes
         </text>
     </string>
     <string id="st_fs_black">
         <text>
-            Fairbarn-Sykes fighting knife
+            Бойовий ніж Fairbarn-Sykes
         </text>
     </string>
     <string id="st_fs_green_descr">
         <text>
             
           \n
-          \n%c[ui_gray_1]The Fairbairn-Sykes Combat Knife is a double-edged combat knife
-            that resembles a dagger or tip with a foil handle. This sample of melee weapons
-            by William Ewart Fairbairn and Eric Anthony Sykes. The F-S Combat Knife was
-            designed exclusively for surprise attack and close range combat. One of the
-            advantages of this knife with such a thin blade is that it can easily pierce the
-            ribcage. The ceramic handle guarantees a comfortable grip, and the sharpened
-            blade design is especially suitable for use in a combat knife. This weapon is
-            one of the most effective melee weapons available, and a well executed heart
-            strike can cause an enemy to bleed out in about 2-5 seconds.
+          \n%c[ui_gray_1]Бойовий ніж Fairbairn-Sykes - двосічний бойовий ніж, що нагадує
+            кинджал або вістря з руків'ям з фольги. Це зразок зброї для ближнього бою
+            авторства Вільяма Юарта Фейрберна та Еріка Ентоні Сайкса. F-S Combat Knife був
+            розроблений виключно для раптового нападу та бою на близькій відстані. Однією з
+            переваг цього ножа з таким тонким лезом є те, що він може легко пробити грудну
+            клітку. Керамічне руків'я гарантує зручний хват, а гостро заточений дизайн леза
+            особливо підходить для використання в якості бойового ножа. Ця зброя є одним з
+            найефективніших видів зброї для ближнього бою, а добре виконаний удар в серце
+            може призвести до того, що ворог стікатиме кров'ю приблизно за 2-5 секунд.
           \n
-          \n %c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants
+          \n %c[d_red] • %c[d_red] непридатний для рубання товстошкірих мутантів
         </text>
     </string>
     <string id="st_bar">
         <text>
-            Crowbar
+            Лом
         </text>
     </string>
     <string id="st_bar_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]A very reliable and indestructible tool. Ideal for
-            disassembling weapons, some helmets and various electronic devices. It can also
-            be useful in gear repairs and weapon maintenance. Due to its versatility, some
-            stalkers prefer to keep it in their backpack despite its heavy weight. Common
-            find in industrial and urban areas of the Zone.
+          \n&lt;0_170_170_170_170_color_num&gt;Дуже надійний та незламний інструмент. Ідеально
+            підходить для розбирання зброї, деяких шоломів та різних електронних пристроїв.
+            Також може бути корисним при ремонті спорядження та обслуговуванні зброї.
+            Завдяки своїй універсальності, деякі сталкери вважають за краще тримати його в
+            рюкзаку, незважаючи на його велику вагу. Часто зустрічається в промислових і
+            міських районах Зони.
           \n
           \n%c[0,140,140,140]CHARACTERISTICS:
-          \n%c[0,93,0,116] • %c[0,140,140,140] сold weapon
-          \n%c[255,238,153,26] • %c[0,140,140,140] is used for:%c[0,170,170,170] equipment
-            repair, weapon maintenance (+3%)
-          \n%c[255,238,153,26] • %c[0,140,140,140] multiple use.
+          \n%c[0,93,0,116] • %c[0,140,140,140] продана зброя
+          \n%c[255,238,153,26] • %c[0,140,140,140] використовується для:%c[0,170,170,170]
+            ремонту техніки, обслуговування зброї (+3%)
+          \n%c[255,238,153,26] • %c[0,140,140,140] багаторазове використання.
         </text>
     </string>
     <string id="st_shovel">
         <text>
-            Shovel
+            Лопата.
         </text>
     </string>
     <string id="st_shovel_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]Shovels are used as a useful tool in gardening or in
-            trenches, but they can also be very dangerous when the blade is sharpened. The
-            Russian army was famous for using military shovels, sharp as knives, against
-            trench raiders.
+          \n&lt;0_170_170_170_170_color_num&gt; Лопати використовуються як корисний інструмент в
+            садівництві або в окопах, але вони також можуть бути дуже небезпечними, коли
+            лезо загострене. Російська армія була відома тим, що використовувала військові
+            лопати, гострі як ножі, проти окопних мародерів.
           \n
           \n%c[0,140,140,140]CHARACTERISTICS:
-          \n%c[0,93,0,116] • %c[0,140,140,140] сold weapon
-          \n%c[255,238,153,26] • %c[0,140,140,140] is used for:%c[0,170,170,170] equipment
-            repair, weapon maintenance (+3%)
-          \n%c[255,238,153,26] • %c[0,140,140,140] multiple use.
+          \n%c[0,93,0,116] • %c[0,140,140,140] продана зброя
+          \n%c[255,238,153,26] • %c[0,140,140,140] використовується для:%c[0,170,170,170]
+            ремонту техніки, обслуговування зброї (+3%)
+          \n%c[255,238,153,26] • %c[0,140,140,140] багаторазове використання.
         </text>
     </string>
     <string id="st_machete">
         <text>
-            Machete
+            Мачете.
         </text>
     </string>
     <string id="st_machete_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]Machete from unknown manufacturer. Large and heavy, but very
-            effective for survival and inflicts massive chopping wounds.
+          \n&lt;0_170_170_170_170_color_num&gt;Мачете від невідомого виробника. Великий і
+            важкий, але дуже ефективний для виживання і завдає масивних рубаних ран.
         </text>
     </string>
     <string id="st_knife_bayo">
         <text>
-            OKC-3S Knife-bayonet
+            Штик-ніж OKC-3S
         </text>
     </string>
     <string id="st_knife_bayo_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]OKC-3S - This is a knife developed by the United States
-            Marine Corps. This specimen participated in the Multipurpose Butterfly program,
-            which evaluated 33 different knives. OKC-3S has shown itself to be one of the
-            best among the results in almost all test categories.
+          \n&lt;0_170_170_170_170_color_num&gt;OKC-3S - це ніж, розроблений морською піхотою
+            США. Цей екземпляр брав участь у програмі Multipurpose Butterfly, в рамках якої
+            оцінювалися 33 різних ножа. OKC-3S показав себе одним з найкращих серед
+            результатів майже у всіх категоріях тесту.
         </text>
     </string>
     <string id="st_kabar">
         <text>
-            Ka-Bar knife
+            Ніж Ka-Bar
         </text>
     </string>
     <string id="st_kabar_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]Ka-Bar is the modern popular name for the combat knife, first
-            adopted by the United States Marine Corps in November 1942. As a melee weapon,
-            it has proven to be very versatile and effective and loved by all users.
-            Although Ka-Bar Knives, Inc currently manufactures a wide variety of knives and
-            cutlery, they are best known for their Ka-Bar combat / utility knife, which
-            traditionally used a 7-inch carbon steel clip blade and a leather washer handle.
+          \n&lt;0_170_170_170_170_color_num&gt;Ка-Бар - сучасна популярна назва бойового ножа,
+            вперше прийнятого на озброєння морською піхотою США в листопаді 1942 року. Як
+            зброя ближнього бою, він виявився дуже універсальним та ефективним і полюбився
+            всім користувачам. Хоча Ka-Bar Knives, Inc наразі виготовляє широкий спектр
+            ножів та столових приборів, вони найбільш відомі своїм бойовим/утилітарним ножем
+            Ka-Bar, який традиційно має 7-дюймовий клинок з вуглецевої сталі та руків'я зі
+            шкіряної шайби.
         </text>
     </string>
     <string id="st_knife_support">
         <text>
-            Support knife
+            Опорний ніж
         </text>
     </string>
     <string id="st_knife_support_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170] Bol'shoy boyevoy nozh s prochnoy rezinovoy rukoyat'yu.
-            Ostryy i ukhozhennyy. Vozmozhno, on ne ochen' khorosh dlya probivaniya boyevoy
-            broni, no iz-za zubchatogo klinka on ideal'no podkhodit dlya naneseniya
-            massivnykh krovotochashchikh ran na otkrytoye telo. Eto delayet yego ideal'nym
-            vyborom dlya bor'by s zhivotnymi, osobenno dlya dobivaniya uzhe ranenykh osobey
-            A large combat knife with a durable rubber handle. Sharp and well-groomed. It
-            may not be very good at penetrating combat armor, but due to its serrated blade,
-            it is ideal for inflicting massive bleeding wounds on an open body. This makes
-            it an ideal choice for fighting animals, especially for finishing off already
-            injured individuals.
+          \n&lt;0_170_170_170_170_color_num&gt; Великий бойовий ніж з простою резиновою рукою.
+            Острий і зручний. Можливо, на не дуже великий хід для дослідження бойової
+            бронзи, але із-за зубчастого клинка на ідеально підходить для нанесення масивних
+            кровоточащих бігунів на відкрите тіло. Це робить його ідеальним вибором для
+            боротьби з животними, особливо для виконання важких завдань Великий бойовий ніж
+            з міцною гумовою рукояткою. Гострий і доглянутий. Можливо, не дуже добре
+            пробиває бойову броню, але завдяки своєму зазубреному лезу ідеально підходить
+            для нанесення масивних кровоточивих ран на відкритому тілі. Це робить його
+            ідеальним вибором для боротьби з тваринами, особливо для добивання вже
+            поранених.
         </text>
     </string>
     <string id="st_knife_boot">
         <text>
-            Boot knife Smith and Wesson HRT
+            Ніж для черевиків Smith and Wesson HRT
         </text>
     </string>
     <string id="st_knife_boot_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]With a sleek black frame, this durable Smith and Wesson
-            product is the perfect choice for knife enthusiasts. The stationary blade is
-            made from hardened 440C stainless steel that will withstand daily use. The knife
-            is coated with black powder paint, which gives it a militaristic look. The
-            length of the blade is 10.16 cm, and the length of the handle is 10.16 cm.The
-            total length of the knife is 22.86 cm. Also, the weapon has a weight of only 204
-            grams, which allows you to quickly remove it from the scabbard and use it as
-            intended.
+          \n&lt;0_170_170_170_170_color_num&gt;Цей міцний виріб Smith and Wesson з чорною
+            гладкою рамою - ідеальний вибір для любителів ножів. Стаціонарний клинок
+            виготовлений із загартованої нержавіючої сталі 440С, яка витримає щоденне
+            використання. Ніж покритий чорною порошковою фарбою, що надає йому
+            мілітаристського вигляду. Довжина клинка становить 10,16 см, а довжина руків'я -
+            10,16 см. Загальна довжина ножа - 22,86 см. Також зброя має вагу всього 204
+            грами, що дозволяє швидко витягти її з піхов і використовувати за призначенням.
           \n
-          \n %c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants
+          \n %c[d_red] • %c[d_red] непридатний для рубки товстошкірих мутантів
         </text>
     </string>
     <string id="st_knife_commando">
         <text>
-            Knife SOA Commando
+            Ніж SOA Commando
         </text>
     </string>
     <string id="st_knife_commando_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170] Universal'nyy nozh s klinkom iz nerzhaveyushchey stali.
-            Khorosheye kachestvo izgotovleniya i vysokaya dolgovechnost' delayut eti nozhi
-            otlichnym vyboromUtility knife with stainless steel blade. Good workmanship and
-            high durability make these knives an excellent choice.
+          \n&lt;0_170_170_170_170_color_num&gt; Універсальний ніж з клинком з нержавіючої сталі.
+            Висока якість виготовлення і висока довговічність роблять ці ножі відмінним
+            виборомУніверсальний ніж з лезом з нержавіючої сталі. Відмінна якість
+            виготовлення та висока міцність роблять ці ножі чудовим вибором.
         </text>
     </string>
     <string id="st_bat">
         <text>
-            Baseball Bat
+            Бейсбольна бита.
         </text>
     </string>
     <string id="st_bat_descr">
         <text>
             
           \n
-          \n%c[0,170,170,170]The baseball bat is the reincarnation of clubs and clubs
-            known since prehistoric times. The bat is well centered, made of solid, durable
-            wood, very comfortable to hold with one hand.
+          \n&lt;0_170_170_170_170_color_num&gt;Бейсбольна бита - це реінкарнація булави та
+            ключки, відомих з доісторичних часів. Біта добре відцентрована, виготовлена з
+            міцної, довговічної деревини, дуже зручна для тримання однією рукою.
         </text>
     </string>
     <string id="st_old_hammer">
         <text>
-            Old hammer
+            Старий молоток.
         </text>
     </string>
     <string id="st_old_hammer_descr">
         <text>
-            Old iron hammer with a wooden handle. Used even before the creation of the USSR.
-            Often found in industrial areas of the Exclusion Zone. Despite its heavy weight,
-            many stalkers often carry it in their backpacks, thanks to its versatility..
+            Старий залізний молоток з дерев'яною ручкою. Використовувався ще до створення
+            СРСР. Часто зустрічається в промислових районах Зони відчуження. Незважаючи на
+            велику вагу, багато сталкерів часто носять його в рюкзаках, завдяки його
+            універсальності...
           \n
           \n%c[0,140,140,140]CHARACTERISTICS:
-          \n%c[0,93,0,116] • %c[0,140,140,140] сold weapon
-          \n%c[255,238,153,26] • %c[0,140,140,140] is used for:%c[0,170,170,170] equipment
-            repair, weapon maintenance (+3%)
-          \n%c[255,238,153,26] • %c[0,140,140,140] multiple use.
+          \n%c[0,93,0,116] • %c[0,140,140,140] продана зброя
+          \n%c[255,238,153,26] • %c[0,140,140,140] використовується для:%c[0,170,170,170]
+            ремонту техніки, обслуговування зброї (+3%)
+          \n%c[255,238,153,26] • %c[0,140,140,140] багаторазове використання.
         </text>
     </string>
     <string id="st_hammer_new">
         <text>
-            New hammer
+            Новий молоток.
         </text>
     </string>
     <string id="st_hammer_new_descr">
         <text>
-            New iron hammer with a wooden handle. Sometimes found in industrial areas of the
-            Exclusion Zone. It weighs an order of magnitude less, so some stalkers often
-            prefer to carry this particular option in their backpack, it is also suitable
-            for universal use.
+            Новий залізний молоток з дерев'яною ручкою. Іноді зустрічається в промислових
+            районах Зони відчуження. Важить на порядок менше, тому деякі сталкери часто
+            вважають за краще носити в рюкзаку саме цей варіант, він також підходить для
+            універсального використання.
           \n
           \n%c[0,140,140,140]CHARACTERISTICS:
-          \n%c[0,93,0,116] • %c[0,140,140,140] сold weapon
-          \n%c[255,238,153,26] • %c[0,140,140,140] is used for:%c[0,170,170,170] equipment
-            repair, weapon maintenance (+3%)
-          \n%c[255,238,153,26] • %c[0,140,140,140] multiple use.
+          \n%c[0,93,0,116] • %c[0,140,140,140] продана зброя
+          \n%c[255,238,153,26] • %c[0,140,140,140] використовується для:%c[0,170,170,170]
+            ремонту техніки, обслуговування зброї (+3%)
+          \n%c[255,238,153,26] • %c[0,140,140,140] багаторазове використання.
         </text>
     </string>
     <string id="st_knife_survival">
         <text>
-            Survival knife
+            Ніж для виживання
         </text>
     </string>
     <string id="st_knife_survival_descr">
         <text>
-            Short non-folding survival knife. Well suited for concealed carry due to its
-            small size.
+            Короткий нескладний ніж для виживання. Завдяки невеликим розмірам добре
+            підходить для прихованого носіння.
           \n
-          \n %c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants
+          \n %c[d_red] • %c[d_red] непридатний для рубки товстошкірих мутантів
         </text>
     </string>
     <string id="st_knife_spetsnaz">
         <text>
-            Spetsnaz knife НР-2
+            Ніж спецназу НР-2
         </text>
     </string>
     <string id="st_knife_spetsnaz_descr">
         <text>
-            A military survival knife made in Soviet times for the army special forces. NR-2
-            is a modification of the NRS-2 knife, devoid of a single-shot firing mechanism.
+            Військовий ніж виживання, виготовлений за радянських часів для армійського
+            спецназу. НР-2 - модифікація ножа НРС-2, позбавлена ударно-спускового механізму.
           \n
-          \n %c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants
+          \n %c[d_red] • %c[d_red] непридатний для рубки товстошкірих мутантів
         </text>
     </string>
     <string id="st_knife_tanto">
         <text>
-            Tanto
+            Танто.
         </text>
     </string>
     <string id="st_knife_tanto_descr">
         <text>
-            Modern combat knife in the "tanto" style, which literally translates as "short
-            sword" and means Japanese edged weapons of the feudal era. It is not possible to
-            establish the origin of this knife, since there are no trade marks on the
-            weapon.
+            Сучасний бойовий ніж у стилі "танто", що дослівно перекладається як "короткий
+            меч" і означає японську холодну зброю феодальної епохи. Встановити походження
+            цього ножа не представляється можливим, оскільки на зброї відсутні будь-які
+            торгові знаки.
           \n
-          \n %c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants
+          \n %c[d_red] • %c[d_red] непридатний для рубання товстошкірих мутантів
         </text>
     </string>
     <string id="st_knife_colt">
         <text>
-            Knife Colt 62316
+            Ніж Colt 62316
         </text>
     </string>
     <string id="st_knife_colt_descr">
         <text>
-            An American army knife bayonet designed to be attached to a rifle or shotgun. It
-            entered service in 1964 and was first used by the US Army during the Vietnam
-            War.
+            Американський армійський штик-ніж, призначений для кріплення до гвинтівки або
+            рушниці. Він був прийнятий на озброєння в 1964 році і вперше був використаний
+            армією США під час війни у В'єтнамі.
         </text>
     </string>
     <string id="st_knife_extrema">
         <text>
-            Extrema Ratio MK 2.1
+            Коефіцієнт екстремуму MK 2.1
         </text>
     </string>
     <string id="st_knife_extrema_descr">
         <text>
-            Steel knife developed from the historical USMC Ka-Bar knife and manufactured for
-            use by the Italian army and special forces.
+            Сталевий ніж, розроблений на основі історичного ножа USMC Ka-Bar і виготовлений
+            для використання італійською армією та спецпідрозділами.
         </text>
     </string>
     <string id="st_knife_hunting_tactical">
         <text>
-            Tactical hunting knife
+            Тактичний мисливський ніж
         </text>
     </string>
     <string id="st_knife_hunting_tactical_descr">
         <text>
-            A modern hunting knife with camouflage applied to it. The butt of the blade is
-            covered with large teeth, which makes it extremely difficult to extract it from
-            the flesh.
+            Сучасний мисливський ніж з нанесеним на нього камуфляжем. Обух клинка вкритий
+            великими зубцями, що вкрай ускладнює його вилучення з плоті.
         </text>
     </string>
     <string id="st_knife_h_tactical">
         <text>
-            SOG S37-N SEAL Team tactical knife
+            Тактичний ніж SOG S37-N SEAL Team
         </text>
     </string>
     <string id="st_knife_h_tactical_descr">
         <text>
-            The SOG Knives S37-N is a partially serrated knife that both looks and performs
-            like a beauty. The partially serrated blade on this knife flows into its black
-            handle seamlessly for that classy and elegant look. The handle is equipped with
-            material that makes it easy to grip so that this knife won't be slipping out of
-            your hand in the middle of a job. Beautiful and practical, the SOG Knives S37-N
-            is the ultimate in fixed blade knives. The knife can be used in combat but it's
-            best used for basic utility and normal daily use, gutting animals, opening food
-            cans, and so on.
+            SOG Knives S37-N - це частково зазубрений ніж, який і виглядає, і працює як
+            справжній шедевр. Частково зазубрене лезо цього ножа плавно переходить у чорне
+            руків'я, надаючи йому стильного та елегантного вигляду. Рукоятка оснащена
+            матеріалом, який полегшує захоплення, тому ніж не вислизає з руки посеред
+            роботи. Красивий і практичний, SOG Knives S37-N - це найкращий ніж з фіксованим
+            лезом. Ніж можна використовувати в бою, але найкраще він підходить для
+            звичайного повсякденного використання, потрошіння тварин, відкривання консервних
+            банок і т.д.
         </text>
     </string>
     <string id="st_knife_nr40_tactical">
         <text>
-            AK74 Bayonet tactical knife
+            Тактичний штик-ніж АК74
         </text>
     </string>
     <string id="st_knife_nr40_tactical_descr">
         <text>
-            A bayonet is a knife, or bladed weapon designed to fit on the end of a rifle's
-            muzzle, allowing it to be used as a secondary weapon or last resort. Modern
-            bayonets are often multi-purpose knives such as the Soviet ak47/AK74/AKM bayonet
-            which was also a ground breaking survival knife that can be used as a wire-
-            cutter when combined with its scabbard. In the zone, stalkers use bayonets as a
-            mean to harvest meat from dead animals and mutants, as well as a last resort
-            defense tool.
+            Багнет - це ніж або клинкова зброя, призначена для кріплення на кінці дула
+            гвинтівки, що дозволяє використовувати його як допоміжну зброю або як крайній
+            засіб. Сучасні багнети часто є багатоцільовими ножами, як, наприклад, радянський
+            багнет АК47/АК74/АКМ, який також був новаторським ножем для виживання, який у
+            поєднанні з піхвами можна використовувати як кусачки для дроту. У зоні сталкери
+            використовують багнети як засіб для збору м'яса з мертвих тварин і мутантів, а
+            також як крайній засіб захисту.
         </text>
     </string>
     <string id="st_knife_spetznaz_tactical">
         <text>
-            M7 Bayonet tactical knife
+            Тактичний штик-ніж M7
         </text>
     </string>
     <string id="st_knife_spetznaz_tactical_descr">
         <text>
-            The M7 bayonet is a bayonet that was used by the U.S. military for the M16
-            rifle, it can also be used with the M4 carbine as well as many other assault
-            rifles, carbines and combat shotguns. It can be used as a fighting knife and
-            utility tool. It was introduced in 1964, when the M16 rifle entered service
-            during the Vietnam War. Under the current circumstances, the M7 bayonet can be
-            used as a very effective knife for its pointy end and thin blade. A very good
-            melee weapon against unarmored enemies and soft skinned mutants.
+            Багнет M7 - це багнет, який використовується американськими військовими для
+            гвинтівки M16, він також може використовуватися з карабіном M4 та багатьма
+            іншими штурмовими гвинтівками, карабінами та бойовими рушницями. Його можна
+            використовувати як бойовий ніж та утилітарний інструмент. Він був представлений
+            в 1964 році, коли гвинтівка M16 була прийнята на озброєння під час війни у
+            В'єтнамі. У сучасних умовах багнет M7 може використовуватися як дуже ефективний
+            ніж завдяки своєму гострому кінцю і тонкому лезу. Дуже хороша зброя ближнього
+            бою проти неброньованих ворогів і мутантів з м'якою шкірою.
         </text>
     </string>
     <string id="st_knife_combat_tactical">
         <text>
-            M9 bayonet tactical
+            Штик-багнет M9 тактичний
         </text>
     </string>
     <string id="st_knife_combat_tactical_descr">
         <text>
-            A large hunting knife with a rugged rubber handle. Sharp and well maintained. It
-            might not be good at penetrating combat armors but due to the toothed blade it
-            is ideal at causing massive, bleeding wounds to open flesh. That makes it a
-            perfect choice for battling animals, especially finishing off already wounded
-            specimens.
+            Великий мисливський ніж з міцною гумовою ручкою. Гострий і доглянутий. Можливо,
+            не дуже добре пробиває бойові обладунки, але завдяки зубчастому лезу ідеально
+            підходить для нанесення масивних, кровоточивих ран на відкритій плоті. Це робить
+            його ідеальним вибором для боротьби з тваринами, особливо для добивання вже
+            поранених екземплярів.
         </text>
     </string>
 </string_table>

@@ -2,129 +2,130 @@
 <string_table>
     <string id="ui_mcm_menu_smr_spawns">
         <text>
-            Spawn Templates
+            Шаблони відтворення
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_desc">
         <text>
-            Spawn templates allow more control over random mutant spawns. With them you can
-            adjust which mutants spawn in which levels, and how long it takes for stronger
-            mutants to appear in the zone.
+            Шаблони відтворення дозволяють краще контролювати випадкове відтворення
+            мутантів. За допомогою них ви можете налаштувати, які мутанти з'являються на
+            яких рівнях і через скільки часу в зоні з'являться сильніші мутанти.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_file">
         <text>
-            Template file
+            Файл шаблону
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
         <text>
-            The following template files are included:
-          \n - Default: Similar to vanilla spawns, you will mostly see mutants in each
-            level that spawn there in the base game.
-          \n - All: All mutants can spawn in all levels but are still sorted into tiers.
-          \n - Balanced: A port of the values used in TheMrDemonized's. "ZCP Kinda
-            Balanced Spawns" mod for ZCP 1.4.
-          \n If you add your own spawn template it will automatically appear alongside the
-            included ones.
+            Наступні файли шаблонів включено до комплекту:
+          \n - Default: Подібно до ванільних спавнів, ви здебільшого бачитимете на кожному
+            рівні мутантів, які з'являються там у базовій грі.
+          \n - Всі: Всі мутанти можуть з'являтися на всіх рівнях, але все одно будуть
+            відсортовані за рівнями.
+          \n - Збалансований: Перенос значень, що використовуються у TheMrDemonized's.
+            "ZCP Kinda Balanced Spawns" мод для ZCP 1.4.
+          \n Якщо ви додасте власний шаблон спавну, він автоматично з'явиться поряд із
+            включеними.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_apply_random">
         <text>
-            Apply to random mutant spawns
+            Застосовується до випадкових мутантів
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_apply_replaced">
         <text>
-            Apply to replaced disabled mutant spawns
+            Застосовується до замінених відключених мутантів
         </text>
     </string>
 
     <!-- WEEK 0 -->
     <string id="ui_mcm_smr_spawns_preset_week0_title">
         <text>
-            First week
+            Перший тиждень
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier1">
         <text>
-            Tier 1 chance
+            Шанс 1-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier2">
         <text>
-            Tier 2 chance
+            Шанс 2-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier3">
         <text>
-            Tier 3 chance
+            Шанс 3-го рівня
         </text>
     </string>
 
     <!-- WEEK 1 -->
     <string id="ui_mcm_smr_spawns_preset_week1_title">
         <text>
-            Second week
+            Другий тиждень
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier1">
         <text>
-            Tier 1 chance
+            Шанс 1-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier2">
         <text>
-            Tier 2 chance
+            Шанс 2-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier3">
         <text>
-            Tier 3 chance
+            Шанс 3-го рівня
         </text>
     </string>
 
     <!-- WEEK 2 -->
     <string id="ui_mcm_smr_spawns_preset_week2_title">
         <text>
-            Third week
+            Третій тиждень
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier1">
         <text>
-            Tier 1 chance
+            Шанс 1-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier2">
         <text>
-            Tier 2 chance
+            Шанс 2-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier3">
         <text>
-            Tier 3 chance
+            Шанс 3-го рівня
         </text>
     </string>
 
     <!-- WEEK 3 -->
     <string id="ui_mcm_smr_spawns_preset_week3_title">
         <text>
-            Fourth week and beyond
+            Четвертий тиждень і далі
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier1">
         <text>
-            Tier 1 chance
+            Шанс 1-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier2">
         <text>
-            Tier 2 chance
+            Шанс 2-го рівня
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier3">
         <text>
-            Tier 3 chance
+            Шанс 3-го рівня
         </text>
     </string>
 </string_table>

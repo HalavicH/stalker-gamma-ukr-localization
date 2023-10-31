@@ -7,275 +7,278 @@
     </string>
     <string id="st_af_nk_doom_descr">
         <text>
-            Rip and tear until it is done. Rumors say that some drunk bandit went on a
-            rampage with just this artifact and his trusty knife against multiple
-            bloodsuckers and survived. The artifact increases protection against all mutant
-            attacks and supports various regenerative processes, further aiding in battle.
-            Prolonged usage is extremely taxing on the user, eventually leading to becoming
-            a mad beast obsessed with fighting and losing your mind. Extremely radioactive
-            and expensive.
+            Рви і шматуй, поки не скінчиш. Подейкують, що якийсь п'яний бандит
+            пішов у бій з цим артефактом і своїм вірним ножем проти численних кровопивць і
+            залишився живим. Артефакт збільшує захист від усіх атак мутантів і підтримує
+            різні регенеративні процеси, що ще більше допомагає в бою. Тривале використання
+            надзвичайно обтяжливе для користувача, що зрештою призводить до перетворення на
+            божевільного звіра, одержимого боротьбою і втратою розуму. Надзвичайно
+            радіоактивний і дорогий.
           \n
-          \n%c[0,255,0,0]Tier 4 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,125,0,210]High psychic drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210] Велике психічне виснаження
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Medium vitality restoration
-          \n%c[0,0,150,0] • %c[0,180,225,255]Extremely high rupture protection
-          \n%c[0,0,150,0] • %c[0,180,225,255]High impact protection
+          \n%c[0,0,150,0] • %c[0,213,70,125] Середнє відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,180,225,255] Надзвичайно високий захист від розривів
+          \n%c[0,0,150,0] • %c[0,180,225,255]Високий захист від ударів
           \n
         </text>
     </string>
     <string id="st_af_nk_bloodcompass_name">
         <text>
-            Blood Compass
+            Компас крові
         </text>
     </string>
     <string id="st_af_nk_bloodcompass_descr">
         <text>
-            A relatively new artifact in the Zone, only a handful of people have seen it.
-            Unlike its brother artifact Compass, it allows you to face danger and your fears
-            instead of avoiding them. When you touch this artifact, your entire body feels
-            like it's on fire. The eerie red glow fills you with courage and you understand
-            that if you can somehow manage its drawbacks, this artifact can substantially
-            aid you in your journeys. Extremely radioactive and expensive, possibly the most
-            prized artifact found in the Zone.
+            Відносно новий артефакт у Зоні, його бачили лише кілька людей. На відміну від
+            свого брата, компаса, він дозволяє вам зустрітися з небезпекою і своїми
+            страхами, а не уникати їх. Коли ви торкаєтесь цього артефакту, все ваше тіло
+            ніби горить. Моторошне червоне сяйво наповнює вас хоробрістю, і ви розумієте, що
+            якщо ви зможете якось впоратися з його недоліками, цей артефакт може суттєво
+            допомогти вам у ваших подорожах. Надзвичайно радіоактивний і дорогий, можливо,
+            найцінніший артефакт, знайдений у Зоні.
           \n
-          \n%c[0,255,0,0]Tier 4 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,133,32,12]Extremely high risk of bleeding
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Вкрай високий ризик кровотечі
+          \n%c[0,150,0,0] • %c[0,255,160,0]Вкрай висока термічна вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0]Вкрай висока хімічна вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Strong anti-gravity field
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
-          \n%c[0,0,150,0] • %c[0,120,120,120]High combat protection
-          \n%c[0,0,150,0] • %c[0,180,225,255]High physical protection
+          \n%c[0,0,150,0] • %c[0,255,255,0] Сильне антигравітаційне поле
+          \n%c[0,0,150,0] • %c[0,213,70,125] Високе відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,125,0,210]Невелике відновлення психіки
+          \n%c[0,0,150,0] • %c[0,120,120,120] Високий бойовий захист
+          \n%c[0,0,150,0] • %c[0,180,225,255]Високий фізичний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_archdragonseye_name">
         <text>
-            Archdragon's Eye
+            Око Архідракона
         </text>
     </string>
     <string id="st_af_nk_archdragonseye_descr">
         <text>
-            An incredibly strong artifact that can heal most wounds and even radiation
-            poisoning in usually less than a minute. You are afraid to hold it, let alone
-            even look straight into the eye. Its gaze follows your every step, you feel as
-            if it wants to burn you alive. For some reason it's popular among collectors,
-            maybe they like to chase people off with it or want to heal some old wounds?
-            Either way it's very expensive and that makes you a happy stalker, even though
-            you feel like you might run into a burner anomaly if you sell this artifact.
+            Неймовірно сильний артефакт, здатний зцілити більшість ран і навіть радіаційне
+            отруєння зазвичай менш ніж за хвилину. Ти боїшся тримати його в руках, не кажучи
+            вже про те, щоб дивитися прямо в очі. Його погляд стежить за кожним твоїм
+            кроком, тобі здається, що він хоче спалити тебе живцем. Чомусь він популярний
+            серед колекціонерів, можливо, їм подобається відганяти ним людей або вони хочуть
+            залікувати якісь старі рани? У будь-якому випадку, він дуже дорогий, і це робить
+            вас щасливим сталкером, навіть якщо ви відчуваєте, що можете натрапити на
+            аномалію спалювання, якщо продасте цей артефакт.
           \n
-          \n%c[0,133,32,12]Tier 4 Coagulative Artifact
+          \n%c[0,133,32,12]Коагуляційний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,125,0,210]Medium psychic drain
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока теплова вразливість
+          \n%c[0,150,0,0] • %c[0,125,0,210]Середній психічний витік
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]High radiation filtering
-          \n%c[0,0,150,0] • %c[0,133,32,12]High wound healing
-          \n%c[0,0,150,0] • %c[0,213,70,125]Medium vitality restoration
+          \n%c[0,0,150,0] • %c[0,255,217,102] Висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,133,32,12] Високе загоєння ран
+          \n%c[0,0,150,0] • %c[0,213,70,125] Середнє відновлення життєздатності
           \n
         </text>
     </string>
     <string id="st_af_nk_goldenchrysanthemum_name">
         <text>
-            Golden Chrysanthemum
+            Золота хризантема
         </text>
     </string>
     <string id="st_af_nk_goldenchrysanthemum_descr">
         <text>
-            A beautiful flower, it seems to have grown in an anomalous zone over an
-            underground precious metal deposit, resulting in partial replacement of
-            chlorophyll with gold. A digging operation to find the vein would probably be
-            near impossible with all of the anomalies around so you'll have to be content
-            with just this flower. It boasts a very strong anti-gravity field and can also
-            filter out various toxins and radioactive particles from the user. It is very
-            fragile and would melt in high temperatures, alongside with the person wearing
-            it. It also makes the user susceptible to all forms of physical damage and
-            bleeding. Very expensive.
+            Красива квітка, яка, схоже, виросла в аномальній зоні над підземним родовищем
+            дорогоцінних металів, що призвело до часткової заміни хлорофілу на золото.
+            Розкопки, щоб знайти жилу, ймовірно, були б майже неможливими з усіма аномаліями
+            навколо, тому вам доведеться задовольнитися лише цією квіткою. Вона може
+            похвалитися дуже сильним антигравітаційним полем, а також може фільтрувати різні
+            токсини і радіоактивні частинки від користувача. Він дуже крихкий і може
+            розплавитися при високих температурах разом з людиною, яка його носить. Він
+            також робить користувача вразливим до всіх форм фізичних ушкоджень і кровотеч.
+            Дуже дорогий.
           \n
-          \n%c[0,255,255,0]Tier 4 Anti-gravity Artifact
+          \n%c[0,255,255,0]Антигравітаційний артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]High risk of bleeding
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,120,120,120]High combat vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n%c[0,150,0,0] • %c[0,133,32,12]Високий ризик кровотечі
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока термічна вразливість
+          \n%c[0,150,0,0] • %c[0,120,120,120]Висока бойова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Extremely strong anti-gravity field
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
-          \n%c[0,0,150,0] • %c[0,200,255,0]High chemical protection
+          \n%c[0,0,150,0] • %c[0,255,255,0] Надзвичайно сильне антигравітаційне поле
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,200,255,0] Високий хімічний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_foolsgold_name">
         <text>
-            Fool's Gold
+            Золото дурня
         </text>
     </string>
     <string id="st_af_nk_foolsgold_descr">
         <text>
-            An artifact that looks like a chunk of gold but is actually just severely
-            gravitationally malformed pyrite. Has an extremely strong anti-gravity field
-            that allows you to carry an extra amount of loot, boosts your energy and also
-            increases your reflexes in combat. Comes with many drawbacks but the price is
-            not one of them, possibly one of the most prized artifacts in the Zone.
+            Артефакт, який виглядає як шматок золота, але насправді є лише сильно
+            гравітаційно деформованим піритом. Має надзвичайно сильне антигравітаційне поле,
+            яке дозволяє переносити додаткову кількість здобичі, збільшує вашу енергію, а
+            також підвищує ваші рефлекси в бою. Має багато недоліків, але ціна - не один з
+            них, можливо, один з найцінніших артефактів у Зоні.
           \n
-          \n%c[0,255,255,0]Tier 4 Anti-gravity Artifact
+          \n%c[0,255,255,0]Антигравітаційний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,213,70,125]High vitality drain
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,125,0,210]Minor psychic drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Високий рівень витоку життєвих сил
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232] Надзвичайно висока вразливість до
+            ударів
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210]Невеликий витік психіки
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Extremely strong anti-gravity field
+          \n%c[0,0,150,0] • %c[0,255,255,0] Надзвичайно сильне антигравітаційне поле
           \n
         </text>
     </string>
     <string id="st_af_nk_galaxy_name">
         <text>
-            Galaxy
+            Галактика
         </text>
     </string>
     <string id="st_af_nk_galaxy_descr">
         <text>
-            A spherical artifact of great mass and price. Looks like a galaxy trapped in a
-            glass globe, hence the name. It has amazing radiation filtering capabilities,
-            allowing you to carry multiple artifacts or stay in radioactive environments for
-            longer periods of time. Soothes the mind of nearby beings, increasing psychic
-            protection and lowering aggression of mutants. Continuously drains energy and
-            vitality from the user to upkeep its effects. It's so heavy that you could
-            probably kill someone if you tossed it at someone's head.
+            Сферичний артефакт великої маси та ціни. Виглядає як галактика, що потрапила в
+            скляну кулю, звідси і назва. Має дивовижні можливості фільтрації радіації, що
+            дозволяє носити з собою кілька артефактів або перебувати в радіоактивному
+            середовищі протягом тривалого часу. Заспокоює розум істот, що знаходяться
+            поблизу, підвищуючи психічний захист і знижуючи агресію мутантів. Постійно
+            висмоктує енергію та життєві сили з користувача, щоб підтримувати свої ефекти.
+            Настільки важкий, що може вбити людину, якщо кинути його в голову.
           \n
-          \n%c[0,255,217,102]Tier 4 Anti-rad Artifact
+          \n%c[0,255,217,102]Антирадіаційний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]Medium risk of bleeding
-          \n%c[0,150,0,0] • %c[0,213,70,125]Minor vitality drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12] Середній ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Невелика втрата життєвих сил
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_blackhole_name">
         <text>
-            Black Hole
+            Чорна діра
         </text>
     </string>
     <string id="st_af_nk_blackhole_descr">
         <text>
-            A mini black hole. With a bit of finesse you can push it around and "hold" it
-            while it levitates in your hands. You can't push through the gravity field or
-            touch the center if it even exists, the artifact just slips away and falls to
-            the ground. It sucks up various things to the benefit of the user like
-            radiation, bullets, high temperature and toxic particles, but also absorbs or
-            speeds up other nearby things like lightning, mutant claws or blood coming out
-            of your wounds. Extremely expensive and heavy when equipped.
+            Міні-чорна діра. З невеликою вправністю ви можете штовхати її навколо і
+            "тримати", поки вона летить у ваших руках. Ви не можете проштовхнутись крізь
+            гравітаційне поле або доторкнутись до центру, якщо він взагалі існує, артефакт
+            просто вислизає і падає на землю. Він всмоктує різні речі на користь
+            користувача, такі як радіація, кулі, висока температура і токсичні частинки, але
+            також поглинає або прискорює інші речі поблизу, такі як блискавки, кігті
+            мутантів або кров, що витікає з ваших ран. Надзвичайно дорогий і важкий у
+            спорядженні.
           \n
-          \n%c[0,255,217,102]Tier 4 Anti-rad Artifact
+          \n%c[0,255,217,102]Протирадіаційний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]Medium risk of bleeding
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12] Середній ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до шоку
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
-          \n%c[0,0,150,0] • %c[0,255,160,0]Medium thermal protection
-          \n%c[0,0,150,0] • %c[0,200,255,0]Medium chemical protection
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,255,160,0]Середній теплозахист
+          \n%c[0,0,150,0] • %c[0,200,255,0]Середній хімічний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_dahlia_name">
         <text>
-            Dahlia
+            Жоржина
         </text>
     </string>
     <string id="st_af_nk_dahlia_descr">
         <text>
-            As beautiful as it is deadly, the delicate Dahlia flower that was turned into an
-            artifact promises many health benefits but will try to kill you in chemical and
-            electric anomaly zones or slowly drive you insane. Very radioactive and
-            expensive, one of the most prized artifacts in the Zone, the price driven up by
-            foolish collectors outside of it. There have been multiple reports of people
-            mysteriously dying after coming in contact with this artifact.
+            Настільки ж прекрасна, як і смертоносна, ніжна квітка жоржини, перетворена на
+            артефакт, обіцяє багато користі для здоров'я, але в зонах хімічних і електричних
+            аномалій намагатиметься вбити вас або повільно звести з розуму. Дуже
+            радіоактивний і дорогий, один з найцінніших артефактів у Зоні, ціну на який
+            роздувають нерозумні колекціонери за її межами. Існує безліч повідомлень про
+            людей, які загадковим чином помирали після контакту з цим артефактом.
           \n
-          \n%c[0,133,32,12]Tier 4 Coagulative Artifact
+          \n%c[0,133,32,12]Коагуляційний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Highly radioactive
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n%c[0,150,0,0] • %c[0,200,255,0] Надзвичайно висока хімічна вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,133,32,12]Extremely high wound healing
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
+          \n%c[0,0,150,0] • %c[0,133,32,12] Надзвичайно швидке загоєння ран
+          \n%c[0,0,150,0] • %c[0,213,70,125]Високий рівень відновлення життєздатності
           \n
         </text>
     </string>
     <string id="st_af_nk_everlastinglove_name">
         <text>
-            Everlasting Love
+            Вічна любов
         </text>
     </string>
     <string id="st_af_nk_everlastinglove_descr">
         <text>
-            Fire and water stuck in an anti-gravity field in the shape of a heart, a
-            possible evolution of the Heart artifact but it is unconfirmed. You can't
-            directly touch the artifact, only move the field around. Even if you could you'd
-            just burn yourself. Inhaling the steam seems to have calming and regenerative
-            properties. Severely radioactive and increases vulnerability to fire and
-            electricity, but thanks to the benefits of extra vitality restoration, calmness,
-            carry capacity and the price, you feel like you might fall in love with this
-            artifact.
+            Вогонь і вода застрягли в антигравітаційному полі у формі серця, можлива
+            еволюція артефакту "Серце", але це не підтверджено. Ви не можете безпосередньо
+            доторкнутися до артефакту, тільки переміщати поле навколо. Навіть якби ви могли,
+            ви б просто обпеклися. Вдихання пари, здається, має заспокійливі та
+            регенеративні властивості. Сильно радіоактивний і підвищує вразливість до вогню
+            та електрики, але завдяки перевагам додаткового відновлення життєвих сил,
+            спокою, вантажопідйомності та ціні, ви відчуваєте, що можете закохатися в цей
+            артефакт.
           \n
-          \n%c[0,213,70,125]Tier 4 Vitality Artifact
+          \n%c[0,213,70,125]Артефакт життєвої сили 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока теплова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Medium anti-gravity field
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
+          \n%c[0,0,150,0] • %c[0,255,255,0] Середнє антигравітаційне поле
+          \n%c[0,0,150,0] • %c[0,213,70,125] Високе відновлення життєвих сил
           \n
         </text>
     </string>
     <string id="st_af_nk_anomalousliver_name">
         <text>
-            Anomalous Liver
+            Аномальна печінка
         </text>
     </string>
     <string id="st_af_nk_anomalousliver_descr">
         <text>
-            Every time you take a bite you don't feel very good but at least you're not
-            hungry anymore. The liver regenerates extremely fast and never runs out. Judging
-            by the size it might be a remaining piece of a chimera that accidentally ran
-            into a gravity anomaly. Might solve the world's hunger problem if you were to
-            sell it to some Scientist so it's probably worth a lot of money.
+            Щоразу, коли ви відкушуєте шматочок, ви відчуваєте себе не дуже добре, але,
+            принаймні, ви більше не голодні. Печінка регенерує надзвичайно швидко і ніколи
+            не вичерпується. Судячи з розміру, це може бути залишок химери, яка випадково
+            потрапила в гравітаційну аномалію. Якщо продати її якомусь вченому, вона могла б
+            вирішити світову проблему голоду, тож, напевно, коштує чималих грошей.
           \n
-          \n%c[0,255,0,0]Tier 2 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт рівня 2
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,125,0,210]Extremely high psychic drain
+          \n%c[0,150,0,0] • %c[0,125,0,210]Вкрай високе психічне виснаження
           \n
           \n%c[0,0,150,0]Advantages:
           \n%c[0,0,150,0] • %c[0,255,0,0]Extremely satiating
@@ -284,57 +287,56 @@
     </string>
     <string id="st_af_nk_rubyrose_name">
         <text>
-            Ruby Rose
+            Рубі Роуз
         </text>
     </string>
     <string id="st_af_nk_rubyrose_descr">
         <text>
-            A ruby gemstone formation loosely resembling the shape of a rose. The sharp
-            crystals have the ability to pierce through your outfit and skin, fueling this
-            artifact's regenerative and protective powers with your own blood. Extremely
-            radioactive and expensive, due to its strong properties and the fact that it is
-            made out of a valuable gem, both stalkers and collectors want one in their
-            collection.
+            Рубінове дорогоцінне каміння, що злегка нагадує форму троянди. Гострі кристали
+            здатні пробити ваш одяг і шкіру наскрізь, підживлюючи регенераційні та захисні
+            сили артефакту вашою кров'ю. Надзвичайно радіоактивний і дорогий, завдяки своїм
+            сильним властивостям і тому факту, що він виготовлений з цінного дорогоцінного
+            каменю, як сталкери, так і колекціонери хочуть мати його у своїй колекції.
           \n
-          \n%c[0,213,70,125]Tier 4 Vitality Artifact
+          \n%c[0,213,70,125]Артефакт життєвої сили 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,133,32,12]Extremely high risk of bleeding
-          \n%c[0,150,0,0] • %c[0,120,120,120]High combat vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Вкрай високий ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,120,120,120]Висока бойова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Extremely high vitality restoration
-          \n%c[0,0,150,0] • %c[0,255,160,0]High thermal protection
-          \n%c[0,0,150,0] • %c[0,200,255,0]High chemical protection
+          \n%c[0,0,150,0] • %c[0,213,70,125] Надзвичайно високе відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,255,160,0] Високий термозахист
+          \n%c[0,0,150,0] • %c[0,200,255,0] Високий хімічний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_electrolytes_name">
         <text>
-            Electrolytes
+            Електроліти
         </text>
     </string>
     <string id="st_af_nk_electrolytes_descr">
         <text>
-            A distant cousin of the Mama's Beads artifact. The little blue packets are
-            filled with an electrolyte fluid that increases the user's stamina, reflexes and
-            regenerative capabilities. Vulnerable to evaporating, the artifact will try to
-            steal water and electrolytes from the user's body when exposed to high
-            temperatures. It is also very easy to pierce the sacks, caution is advised when
-            fighting mutants. Extremely radioactive and very expensive.
+            Далекий родич артефакту "Мамине намисто". Маленькі сині пакетики наповнені
+            електролітною рідиною, яка підвищує витривалість, рефлекси та регенераційні
+            можливості користувача. Вразливий до випаровування, артефакт намагатиметься
+            вкрасти воду та електроліти з тіла користувача під впливом високих температур.
+            Мішки також дуже легко проколоти, тому рекомендується бути обережним у боротьбі
+            з мутантами. Надзвичайно радіоактивний і дуже дорогий.
           \n
-          \n%c[0,0,200,255]Tier 4 Energy Artifact
+          \n%c[0,0,200,255]Енергетичний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока теплова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Medium vitality restoration
-          \n%c[0,0,150,0] • %c[0,0,200,255]Medium energy restoration
+          \n%c[0,0,150,0] • %c[0,213,70,125] Середнє відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,0,200,255]Середнє відновлення енергії
           \n
         </text>
     </string>
@@ -345,94 +347,95 @@
     </string>
     <string id="st_af_nk_luminewheel_descr">
         <text>
-            The artifact was originally first spotted at the Dredge Station in Zaton, it has
-            since then been replicated by the Zone and now copies of it with new properties
-            are showing up here and there. This current specimen has become a very strong
-            energy artifact. It increases the user's stamina and resistance to psy waves.
-            Being made out of an unknown, living metal, it is still vulnerable to corroding
-            and electricity, conducting excess amounts straight at the user. The extreme
-            radioactivity has made this artifact shine very brightly.
+            Спочатку артефакт був помічений на Земснаряді в Затоні, відтоді він був
+            розмножений Зоною, і тепер його копії з новими властивостями з'являються то тут,
+            то там. Цей екземпляр став дуже сильним енергетичним артефактом. Він підвищує
+            витривалість і стійкість користувача до пси-хвиль. Виготовлений з невідомого,
+            живого металу, він все ще вразливий до корозії та електрики, проводячи надлишок
+            прямо на користувача. Надзвичайна радіоактивність змушує цей артефакт сяяти дуже
+            яскраво.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by
-            mutant exterminating forces or stalkers that want to light up enemy positions.
+          \nМоже використовуватися для освітлення навколишньої місцевості в темряві, іноді
+            використовується силами винищувачів мутантів або сталкерами, які хочуть
+            висвітлити ворожі позиції.
           \n
-          \n%c[0,0,200,255]Tier 4 Energy Artifact
+          \n%c[0,0,200,255]Артефакт енергії 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n%c[0,150,0,0] • %c[0,200,255,0] Надзвичайно висока хімічна вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,0,0]Emits a lot of light
-          \n%c[0,0,150,0] • %c[0,0,200,255]High energy restoration
+          \n%c[0,0,150,0] • %c[0,255,0,0]Випромінює багато світла
+          \n%c[0,0,150,0] • %c[0,0,200,255]Висока швидкість відновлення енергії
           \n
         </text>
     </string>
     <string id="st_af_nk_amber_name">
         <text>
-            Amber
+            Амбер.
         </text>
     </string>
     <string id="st_af_nk_amber_descr">
         <text>
-            Simple amber gem, turned into an artifact in one of the numerous blowouts.
-            Incredibly hot to the touch, it burns away radiation and flesh alike. Can be
-            sold for an alright price.
+            Простий бурштиновий самоцвіт, що перетворився на артефакт під час одного з
+            численних вибухів. Неймовірно гарячий на дотик, він спалює радіацію та плоть.
+            Може бути проданий за непогану ціну.
           \n
-          \n%c[0,255,0,0]Tier 1 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт рівня 1
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,160,0]High thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]Medium chemical vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0]Висока теплова вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0] Середня хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]High radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102]Висока фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_topaz_name">
         <text>
-            Topaz
+            Топаз
         </text>
     </string>
     <string id="st_af_nk_topaz_descr">
         <text>
-            A topaz in the rough, it filters a small amount of radiation but attracts extra
-            psy waves. This particular kind of waves interferes with wound healing through
-            unknown mechanisms. Fairly cheap artifact.
+            Топаз в необробленому вигляді фільтрує невелику кількість випромінювання, але
+            притягує додаткові психічні хвилі. Саме цей вид хвиль заважає загоєнню ран через
+            невідомі механізми. Досить дешевий артефакт.
           \n
-          \n%c[0,255,0,0]Tier 0 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт 0 рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]Medium risk of bleeding
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12] Середній ризик кровотечі
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Medium radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102]Середня фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_garnet_name">
         <text>
-            Garnet
+            Гранат
         </text>
     </string>
     <string id="st_af_nk_garnet_descr">
         <text>
-            A possibly sentient blood red garnet, its anti-rad and anti-psy power is fueled
-            by your own blood and it will do anything to feed on it, like further opening
-            your wounds or creating mini gravity fields that speed up mutant attacks. Fairly
-            expensive.
+            Можливо, чутливий криваво-червоний гранат, його антирадіаційна та антипсихічна
+            сила живиться вашою власною кров'ю, і він зробить все, щоб харчуватися нею,
+            наприклад, ще більше відкриє ваші рани або створить міні-гравітаційні поля, які
+            прискорюють атаки мутантів. Досить дорогий.
           \n
-          \n%c[0,255,0,0]Tier 2 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт рівня 2
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]High risk of bleeding
-          \n%c[0,150,0,0] • %c[0,213,70,125]Minor vitality drain
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Високий ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Невеликий відтік життєвих сил
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
           \n
         </text>
     </string>
@@ -443,422 +446,427 @@
     </string>
     <string id="st_af_nk_tourmarine_descr">
         <text>
-            A tourmarine gem rock formation. Due to anomalous influence it has turned into
-            an artifact. It boasts extremely high radiation filtering and psy protection
-            with some strong drawbacks that shouldn't be too much of a problem for a veteran
-            stalker. Expensive.
+            Гірська порода з турмалієвого каменю. Через аномальний вплив перетворився на
+            артефакт. Він може похвалитися надзвичайно високою фільтрацією радіації та
+            психологічним захистом, але має деякі суттєві недоліки, які не повинні стати
+            великою проблемою для ветерана-сталкеру. Дорого коштує.
           \n
-          \n%c[0,255,0,0]Tier 3 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт 3-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]High risk of bleeding
-          \n%c[0,150,0,0] • %c[0,213,70,125]Medium vitality drain
-          \n%c[0,150,0,0] • %c[0,0,200,255]Medium energy drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Високий ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Середній відтік життєвих сил
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,0,200,255]Середні втрати енергії
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,125,0,210] Незначне відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_ametrine_name">
         <text>
-            Ametrine
+            Аметрин
         </text>
     </string>
     <string id="st_af_nk_ametrine_descr">
         <text>
-            One of the strongest anti-rad artifacts in the Zone, another gem that turned
-            into an artifact thanks to anomalous interference. It can upkeep multiple high
-            tier artifacts and also regenerate a small amount of psy health. The user cannot
-            venture into anomalous zones while wearing this artifact, it would be simply
-            suicide due to the severe protection nullification caused by this artifact's
-            unique psy waves. They also cause some extra hunger through possible rewiring of
-            the hunger signals in the brain. It's also fragile, meaning combat situations
-            risk the artifact breaking and becoming unstable. Scientists speculate that it
-            would result in a mini singularity that sucks the user in but no one has seen
-            this happen yet. The artifact overall is quite the enigma, there is still a lot
-            of things not well understood about it. One thing that is known though is that
-            it is extremely expensive.
+            Один з найсильніших антирадіаційних артефактів Зони, ще один дорогоцінний
+            камінь, який перетворився на артефакт завдяки аномальним перешкодам. Він може
+            підтримувати кілька артефактів високого рівня, а також регенерувати невелику
+            кількість психічного здоров'я. Користувач не може заходити в аномальні зони,
+            коли носить цей артефакт, це буде просто самогубством через сильне обнулення
+            захисту, спричинене унікальними пси-хвилями цього артефакту. Вони також
+            викликають додаткове відчуття голоду через можливе перемикання сигналів голоду в
+            мозку. Він також крихкий, а це означає, що в бойових ситуаціях артефакт може
+            зламатися і стати нестабільним. Вчені припускають, що це може призвести до
+            виникнення міні-сингулярності, яка засмокче користувача, але поки що ніхто не
+            бачив, як це відбувається. Артефакт загалом є досить загадковим, про нього ще
+            багато чого не зрозуміло. Одне, що відомо, це те, що він надзвичайно дорогий.
           \n
-          \n%c[0,255,0,0]Tier 4 Unique Artifact
+          \n%c[0,255,0,0]Унікальний артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,0,0]Causes medium hunger
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,120,120,120]High combat vulnerability
+          \n%c[0,150,0,0] • %c[0,255,0,0] Викликає середній голод
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока термічна вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0] Надзвичайно висока хімічна вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,120,120,120]Висока бойова вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
-          \n%c[0,0,150,0] • %c[0,125,0,210]Medium psychic restoration
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,125,0,210]Середнє відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_magmashard_name">
         <text>
-            Magma Shard
+            Осколок магми
         </text>
     </string>
     <string id="st_af_nk_magmashard_descr">
         <text>
-            An incredibly durable magma stone with blazing hot, sharp edges. Most probably a
-            product of thermal anomalies but Scientists argue that it could have come from
-            some deep underground lava shafts. It is not known how deep downwards the Zone
-            extends into the Earth. It can be used as a makeshift melee weapon if skillfully
-            affixed to a fireproof pole, or as an armor plate if you can avoid touching the
-            lava blades. The dark stone absorbs excess heat from the air and transfers it to
-            the edges which continuously burn your skin and can easily pierce it. Handling
-            with the utmost care is advised. Extremely radioactive and expensive.
+            Неймовірно міцний магматичний камінь з розпеченими, гострими краями. Скоріш за
+            все, це продукт термальних аномалій, але вчені стверджують, що він міг
+            утворитися з якихось глибоких підземних лавових шахт. Невідомо, наскільки
+            глибоко вглиб Землі простягається Зона. Його можна використовувати як
+            імпровізовану зброю ближнього бою, якщо вміло прикріпити до вогнетривкої
+            жердини, або як броню, якщо вдасться уникнути дотику до лавових лез. Темний
+            камінь поглинає надлишок тепла з повітря і передає його краям, які постійно
+            обпікають шкіру і можуть легко її проколоти. Рекомендується поводитися з ним з
+            максимальною обережністю. Надзвичайно радіоактивний і дорогий.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by
-            mutant exterminating forces or stalkers that want to light up enemy positions.
+          \nМоже використовуватися для освітлення навколишньої місцевості в темряві, іноді
+            використовується силами винищувачів мутантів або сталкерами, які хочуть
+            висвітлити ворожі позиції.
           \n
-          \n%c[0,255,160,0]Tier 4 Thermal Artifact
+          \n%c[0,255,160,0]Тепловий артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,133,32,12]High risk of bleeding
-          \n%c[0,150,0,0] • %c[0,213,70,125]High vitality drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Високий ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Високий відтік життєвих сил
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,0,0]Emits a lot of light
-          \n%c[0,0,150,0] • %c[0,255,160,0]Extremely high thermal protection
+          \n%c[0,0,150,0] • %c[0,255,0,0]Випромінює багато світла
+          \n%c[0,0,150,0] • %c[0,255,160,0] Надзвичайно високий термозахист
           \n
         </text>
     </string>
     <string id="st_af_nk_ash_name">
         <text>
-            Ash
+            Попіл
         </text>
     </string>
     <string id="st_af_nk_ash_descr">
         <text>
-            A ball of clumped up radioactive ash. A biological scan done by Scientists
-            revealed that this artifact is primarily made out of items and living things
-            that were burnt in thermal anomalies. Absorbs heat and psy waves, converting
-            them into light and toxic particles. Exposing the artifact to extra chemicals
-            can cause it to release stored toxic particles which can subsequently have a
-            disastrous effect on the user's health. Fairly dense and heavy, extremely
-            radioactive and expensive.
+            Куля злиплого радіоактивного попелу. Біологічне сканування, проведене вченими,
+            показало, що цей артефакт в основному складається з предметів і живих істот, які
+            згоріли в теплових аномаліях. Поглинає тепло і пси-хвилі, перетворюючи їх на
+            світло і токсичні частинки. Вплив на артефакт додаткових хімічних речовин може
+            призвести до того, що він вивільнить накопичені токсичні частинки, які згодом
+            можуть мати катастрофічний вплив на здоров'я користувача. Досить щільний і
+            важкий, надзвичайно радіоактивний і дорогий.
           \n
-          \nCan be used to light up the surrounding area in darkness, sometimes used by
-            mutant exterminating forces or stalkers that want to light up enemy positions.
+          \nМоже використовуватися для освітлення навколишньої місцевості в темряві, іноді
+            використовується силами винищення мутантів або сталкерами, які хочуть висвітлити
+            ворожі позиції.
           \n
-          \n%c[0,255,160,0]Tier 4 Thermal Artifact
+          \n%c[0,255,160,0]Тепловий артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,213,70,125]High vitality drain
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125]Високий рівень витоку життєвих сил
+          \n%c[0,150,0,0] • %c[0,200,255,0] Надзвичайно висока хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,0,0]Emits a lot of light
-          \n%c[0,0,150,0] • %c[0,255,160,0]Extremely high thermal protection
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
+          \n%c[0,0,150,0] • %c[0,255,0,0]Випромінює багато світла
+          \n%c[0,0,150,0] • %c[0,255,160,0] Надзвичайно високий термозахист
+          \n%c[0,0,150,0] • %c[0,125,0,210]Невелике відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_emerald_name">
         <text>
-            Emerald
+            Смарагд.
         </text>
     </string>
     <string id="st_af_nk_emerald_descr">
         <text>
-            An anomalous emerald crystal with incredibly high purity. It filters out various
-            toxins, radiation and stabilizes the user's blood ph, allowing for more
-            controlled breathing and increased stamina. Extremely fragile, the artifact can
-            only endure a small amount of damage before exploding with anomalous energy.
-            Collectors outside of the Zone are very interested in purchasing one of these
-            for their collections. That, in combination with the strong positive properties
-            and simple drawbacks, results in the price being one of the highest of all
-            artifacts.
+            Аномальний кристал смарагду з неймовірно високою чистотою. Він фільтрує різні
+            токсини, радіацію та стабілізує рівень pH крові користувача, дозволяючи більш
+            контрольоване дихання та підвищуючи витривалість. Надзвичайно крихкий, артефакт
+            може витримати лише невелику кількість пошкоджень, перш ніж вибухнути аномальною
+            енергією. Колекціонери за межами Зони дуже зацікавлені в придбанні такого
+            артефакту для своїх колекцій. Це, в поєднанні з сильними позитивними
+            властивостями і простими недоліками, призводить до того, що ціна на нього є
+            однією з найвищих серед усіх артефактів.
           \n
-          \n%c[0,200,255,0]Tier 4 Acidic Artifact
+          \n%c[0,200,255,0]Кислотний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,120,120,120]Extremely high combat vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]Extremely high physical vulnerability
+          \n%c[0,150,0,0] • %c[0,120,120,120]Вкрай висока бойова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Вкрай висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
-          \n%c[0,0,150,0] • %c[0,255,160,0]Extremely high chemical protection
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
+          \n%c[0,0,150,0] • %c[0,255,160,0] Надзвичайно високий хімічний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_stoneskull_name">
         <text>
-            Stone Skull
+            Кам'яний череп.
         </text>
     </string>
     <string id="st_af_nk_stoneskull_descr">
         <text>
-            A fossilized skull covered in various organic matter and moss. Scientists
-            speculate that the artifact weighing down on the user has something to do with a
-            massive amount of gas being produced and trapped in a gravity bubble inside of
-            the artifact when it touches living people, but most stalkers think it's just
-            the soul of the poor guy. The skull releases counter-toxin gas that protects
-            from chemicals, psy waves and also regenerates the user. Metallic formations in
-            the artifact attract extra radiation and electricity. Very expensive, one of the
-            most prized artifacts in the Zone.
+            Скам'янілий череп, вкритий різними органічними речовинами та мохом. Вчені
+            припускають, що артефакт, який обтяжує користувача, якось пов'язаний з
+            величезною кількістю газу, що виділяється і затримується в гравітаційній
+            бульбашці всередині артефакту, коли він торкається живих людей, але більшість
+            сталкерів вважають, що це просто душа бідолахи. Череп випускає протитоксичний
+            газ, який захищає від хімічних речовин, пси-хвиль, а також регенерує
+            користувача. Металеві утворення в артефакті притягують додаткову радіацію та
+            електрику. Дуже дорогий, один з найцінніших артефактів Зони.
           \n
-          \n%c[0,200,255,0]Tier 4 Acidic Artifact
+          \n%c[0,200,255,0]Кислотний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,255,255,0]Minor gravity field
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n%c[0,150,0,0] • %c[0,255,255,0] Незначне гравітаційне поле
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,160,0]Extremely high chemical protection
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
+          \n%c[0,0,150,0] • %c[0,255,160,0] Надзвичайно високий хімічний захист
+          \n%c[0,0,150,0] • %c[0,213,70,125]Високий рівень відновлення життєздатності
           \n
         </text>
     </string>
     <string id="st_af_nk_zeus_name">
         <text>
-            Zeus
+            Зевсе.
         </text>
     </string>
     <string id="st_af_nk_zeus_descr">
         <text>
-            A crystallized mass with a glowing orb at the center, named after a Greek God.
-            It seems to hold an endless amount of energy, absorbing all electricity around
-            it and completely protecting from damage. It also absorbs massive amounts of psy
-            and even radio waves from a several kilometer radius, disrupting communications
-            and weakening local mutants' powers at the cost of the user's psyche. Using this
-            artifact for a prolonged amount of time tires the user out and eventually
-            completely overloads the brain and the nervous system, leading to an instant
-            death. Whenever multiple PDAs stop working at the same time, a team of stalkers
-            knows it's time to hunt for a Zeus. Extremely radioactive and expensive.
+            Кристалізована маса з кулею, що світиться в центрі, названа на честь грецького
+            бога. Здається, що він містить нескінченну кількість енергії, поглинаючи всю
+            електрику навколо себе і повністю захищаючи від пошкоджень. Він також поглинає
+            величезну кількість пси- і навіть радіохвиль з радіусом у кілька кілометрів,
+            порушуючи зв'язок і послаблюючи сили місцевих мутантів ціною психіки
+            користувача. Використання цього артефакту протягом тривалого часу втомлює
+            користувача і зрештою повністю перевантажує мозок і нервову систему, що
+            призводить до миттєвої смерті. Коли кілька КПК перестають працювати одночасно,
+            команда сталкерів знає, що настав час полювати на Зевса. Надзвичайно
+            радіоактивний і дорогий.
           \n
-          \nThe artifact seems to store an endless amount of electrical energy. It
-            converts it and transfers it to the user, drastically increasing combat
-            reflexes.
+          \nАртефакт, здається, зберігає нескінченну кількість електричної енергії. Він
+            перетворює її і передає користувачеві, різко підвищуючи бойові рефлекси.
           \n
-          \n%c[0,74,134,232]Tier 4 Electric Artifact
+          \n%c[0,74,134,232]Електричний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,0,200,255]Medium energy drain
-          \n%c[0,150,0,0] • %c[0,125,0,210]High psychic drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,0,200,255]Середній витік енергії
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210]Високий рівень витоку психіки
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,74,134,232]Extremely high shock protection
-          \n%c[0,0,150,0] • %c[0,120,120,120]Extremely high combat protection
+          \n%c[0,0,150,0] • %c[0,74,134,232] Надзвичайно високий захист від ударів
+          \n%c[0,0,150,0] • %c[0,120,120,120] Надзвичайно високий бойовий захист
           \n
         </text>
     </string>
     <string id="st_af_nk_taser_name">
         <text>
-            Taser
+            Електрошокер.
         </text>
     </string>
     <string id="st_af_nk_taser_descr">
         <text>
-            A rock formation filled with a mineral called kyanite. After turning into an
-            artifact, it now absorbs electrical energy and stores most of it at the tip, the
-            charge is so strong that it can jump and incapacitate an opponent for a few
-            seconds just like a taser. Useful against mutants that have gotten a bit too
-            close. The electrical shocks due to proximity to the body also periodically
-            affect the user to a smaller degree, damaging but also replenishing energy and
-            stamina. The rock is extremely radioactive, vulnerable to high heat, chemicals
-            and greedy traders.
+            Гірська порода, наповнена мінералом кіанітом. Перетворившись на артефакт, він
+            тепер поглинає електричну енергію і зберігає більшу її частину на кінчику, заряд
+            настільки сильний, що може підстрибнути і вивести супротивника з ладу на кілька
+            секунд, як електрошокер. Корисний проти мутантів, які підійшли надто близько.
+            Електричні розряди через близькість до тіла також періодично впливають на
+            користувача в меншій мірі, завдаючи шкоди, але також поповнюючи енергію та
+            витривалість. Камінь надзвичайно радіоактивний, вразливий до високої
+            температури, хімікатів і жадібних торговців.
           \n
-          \nThe artifact stores electrical energy, converts it and transfers it to the
-            user, increasing stamina.
+          \nАртефакт накопичує електричну енергію, перетворює її і передає користувачеві,
+            підвищуючи витривалість.
           \n
-          \n%c[0,74,134,232]Tier 4 Electric Artifact
+          \n%c[0,74,134,232]Електричний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,213,70,125]Medium vitality drain
-          \n%c[0,150,0,0] • %c[0,255,160,0]High thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]High chemical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,213,70,125] Середній витік життєвих сил
+          \n%c[0,150,0,0] • %c[0,255,160,0]Висока теплова вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0]Висока хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,74,134,232]Extremely high shock protection
-          \n%c[0,0,150,0] • %c[0,180,225,255]High physical protection
+          \n%c[0,0,150,0] • %c[0,74,134,232] Надзвичайно високий захист від ударів
+          \n%c[0,0,150,0] • %c[0,180,225,255] Високий фізичний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_transistor_name">
         <text>
-            Transistor
+            Транзистор
         </text>
     </string>
     <string id="st_af_nk_transistor_descr">
         <text>
-            A squiggly piece of the electric network that powers trains. It somehow turned
-            into an artifact and was first found in an anomalous train tunnel by a brave
-            team of stalkers working for the Scientists. Since then various versions of it
-            started showing up around the Zone, usually in areas with train tracks. It
-            controls most psy waves around the user, protecting from harm, but also
-            amplifies any local electrical currents to lethal amounts and pulls them in,
-            resulting in a quick death. It also steals some energy from the user to power
-            itself. Extremely radioactive and expensive.
+            Хвилястий шматок електричної мережі, що живить потяги. Він якимось чином
+            перетворився на артефакт і вперше був знайдений в аномальному залізничному
+            тунелі відважною командою сталкерів, які працювали на Вчених. Відтоді різні його
+            версії почали з'являтися по всій Зоні, зазвичай у місцях, де є залізничні колії.
+            Він контролює більшість психічних хвиль навколо користувача, захищаючи від
+            шкоди, але також посилює будь-які місцеві електричні струми до смертельних
+            величин і втягує їх, що призводить до швидкої смерті. Він також краде частину
+            енергії у користувача, щоб живити себе. Надзвичайно радіоактивний і дорогий.
           \n
-          \nDecreases the amount of pain you feel and makes you braver.
+          \nЗменшує біль, який ви відчуваєте, і робить вас хоробрішими.
           \n
-          \n%c[0,125,0,210]Tier 4 Psychic Artifact
+          \n%c[0,125,0,210]Психічний артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,0,200,255]Medium energy drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232] Надзвичайно висока вразливість до
+            ударів
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,0,200,255]Середні втрати енергії
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,125,0,210]Medium psychic restoration
+          \n%c[0,0,150,0] • %c[0,125,0,210] Середнє відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_anomalousmarijuana_name">
         <text>
-            Anomalous Marijuana
+            Аномальна марихуана
         </text>
     </string>
     <string id="st_af_nk_anomalousmarijuana_descr">
         <text>
-            Most probably the only thing left from a Freedomer that stepped into an anomaly.
-            One of his teammates reported that they were trying to grow weed near anomalies
-            to see if it would gain new properties, and they succeeded. After the accident
-            though, he decided that he doesn't want to participate in growing it anymore and
-            destroyed the recipe. The plant turned into an artifact and its edges became
-            purple, it is now growing in some spots in the Zone, randomly being spread by
-            anomalies and getting even more people high. It's so potent that just smelling
-            it has an effect on the endocannabinoid system, protecting from psy waves and
-            also healing the user. The anomalous high makes you very slow in combat though,
-            resulting in extra hits and damage taken. Duty stalkers have been ordered to
-            destroy the plant and stop its growth if it doesn't interfere with their current
-            task, but it seems like a futile effort since The Zone keeps regrowing it in new
-            spots. Highly radioactive but expensive, especially when Freedom is involved.
+            Мабуть, це єдине, що залишилося від фридера, який ступив в аномалію. Один з його
+            товаришів по команді повідомив, що вони намагалися виростити траву біля
+            аномалій, щоб побачити, чи набуде вона нових властивостей, і їм це вдалося.
+            Однак після нещасного випадку він вирішив, що більше не хоче брати участь у
+            вирощуванні, і знищив рецепт. Рослина перетворилася на артефакт, а її краї стали
+            фіолетовими, тепер вона росте в деяких місцях Зони, випадково поширюючись
+            аномаліями і даючи кайф ще більшій кількості людей. Вона настільки сильна, що
+            навіть її запах впливає на ендоканабіноїдну систему, захищаючи від пси-хвиль, а
+            також зцілюючи користувача. Однак аномальний кайф робить вас дуже повільними в
+            бою, що призводить до додаткових ударів і пошкоджень. Черговим сталкерам
+            наказано знищити рослину і зупинити її ріст, якщо вона не заважає їхньому
+            поточному завданню, але це здається марною справою, оскільки Зона продовжує
+            відрощувати її в нових місцях. Високорадіоактивний, але дорогий, особливо коли
+            йдеться про "Свободу".
           \n
-          \n%c[0,125,0,210]Tier 4 Psychic Artifact
+          \n%c[0,125,0,210]Психічний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Highly radioactive
-          \n%c[0,150,0,0] • %c[0,120,120,120]High combat vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]High physical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,120,120,120]Висока бойова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,133,32,12]Medium wound healing
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
-          \n%c[0,0,150,0] • %c[0,125,0,210]Medium psychic restoration
+          \n%c[0,0,150,0] • %c[0,133,32,12] Середнє загоєння ран
+          \n%c[0,0,150,0] • %c[0,213,70,125]Високий рівень відновлення життєздатності
+          \n%c[0,0,150,0] • %c[0,125,0,210] Середнє відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_emperor_name">
         <text>
-            Emperor
+            Імператор!
         </text>
     </string>
     <string id="st_af_nk_emperor_descr">
         <text>
-            A beautiful formation of gold trapped inside of obsidian. Scientists are puzzled
-            over how this was created. Incredibly durable, it can even take a few shots
-            before breaking. You can feel the artifact commanding you various things,
-            increasing your morale, resistance to psy waves, combat awareness and
-            effectiveness. The sharp obsidian easily cuts through anything you put it into,
-            your outfit and the skin, resulting in heavily increased bleeding, making any
-            wound lethal if not treated. Vulnerable to chemicals and extremely radioactive.
-            It is one of the most expensive artifacts in the Zone.
+            Красиве утворення золота в пастці всередині обсидіану. Вчені ламають голову над
+            тим, як це було створено. Неймовірно міцний, він може витримати навіть кілька
+            пострілів, перш ніж зламається. Ви можете відчути, як артефакт наказує вам різні
+            речі, підвищуючи ваш бойовий дух, стійкість до пси-хвиль, бойову свідомість та
+            ефективність. Гострий обсидіан легко прорізає все, в що ви його встромляєте, ваш
+            одяг і шкіру, що призводить до сильної кровотечі, яка робить будь-яку рану
+            смертельною, якщо її не лікувати. Вразливий до хімічних речовин і надзвичайно
+            радіоактивний. Це один з найдорожчих артефактів Зони.
           \n
-          \n%c[0,120,120,120]Tier 4 Combat Artifact
+          \n&lt;0_120_120_120_120_color_num&gt;Бойовий артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,133,32,12]Extremely high risk of bleeding
-          \n%c[0,150,0,0] • %c[0,200,255,0]Extremely high chemical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,133,32,12]Вкрай високий ризик кровотечі
+          \n%c[0,150,0,0] • %c[0,200,255,0]Вкрай висока хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
-          \n%c[0,0,150,0] • %c[0,120,120,120]High combat protection
+          \n%c[0,0,150,0] • %c[0,125,0,210] Незначне відновлення психіки
+          \n%c[0,0,150,0] • %c[0,120,120,120] Високий бойовий захист
           \n
         </text>
     </string>
     <string id="st_af_nk_titan_name">
         <text>
-            Titan
+            Титан
         </text>
     </string>
     <string id="st_af_nk_titan_descr">
         <text>
-            A rock formation filled with titanium. Extremely durable, it ensures the user's
-            survival in all combat situations by reinforcing skin with the alloy and
-            improving wound regeneration. While the metal itself is fairly resistant, the
-            skin around it is not. It draws in extra heat, electricity and psy waves to the
-            disbenefit of the user. Extremely radioactive and expensive.
+            Гірська порода, наповнена титаном. Надзвичайно міцний, він забезпечує виживання
+            користувача в будь-яких бойових ситуаціях, зміцнюючи шкіру сплавом і покращуючи
+            регенерацію ран. У той час як сам метал досить стійкий, шкіра навколо нього -
+            ні. Вона вбирає в себе додаткове тепло, електрику та психічні хвилі на шкоду
+            користувачеві. Надзвичайно радіоактивний і дорогий.
           \n
-          \n%c[0,120,120,120]Tier 4 Combat Artifact
+          \n&lt;0_120_120_120_120_color_num&gt;Бойовий артефакт рівня 4
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
-          \n%c[0,150,0,0] • %c[0,125,0,210]Minor psychic drain
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока теплова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210]Невеликий витік психіки
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Medium vitality restoration
-          \n%c[0,0,150,0] • %c[0,120,120,120]High combat protection
+          \n%c[0,0,150,0] • %c[0,213,70,125] Середнє відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,120,120,120] Високий бойовий захист
           \n
         </text>
     </string>
     <string id="st_af_nk_eldenring_name">
         <text>
-            Elden Ring
+            Старовинний перстень
         </text>
     </string>
     <string id="st_af_nk_eldenring_descr">
         <text>
-            A direct evolution of the Ring artifact. It boasts increased physical and psy
-            protection while also being able to heal most wounds fairly quickly. It absorbs
-            copious amounts of electrical energy from the surroundings and the user,
-            resulting in increased shock damage taken and lower stamina. It is also very
-            easy to melt, high temperatures make the artifact unstable and ignite the
-            artifact, making the user burn alive. Extremely radioactive and expensive but
-            will still yield you no maidens.
+            Пряма еволюція артефакту "Перстень". Він може похвалитися підвищеним фізичним і
+            психологічним захистом, а також здатністю досить швидко загоювати більшість ран.
+            Він поглинає велику кількість електричної енергії з навколишнього середовища та
+            користувача, що призводить до збільшення ударної шкоди та зниження витривалості.
+            Він також дуже легко плавиться, високі температури роблять артефакт нестабільним
+            і запалюють його, змушуючи користувача згоріти заживо. Надзвичайно радіоактивний
+            і дорогий, але все одно не дасть вам жодної дівиці.
           \n
-          \n%c[0,180,225,255]Tier 4 Unyielding Artifact
+          \n%c[0,180,225,255]Непохитний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,0,200,255]Medium energy drain
-          \n%c[0,150,0,0] • %c[0,255,160,0]Extremely high thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,0,200,255]Середній витік енергії
+          \n%c[0,150,0,0] • %c[0,255,160,0] Надзвичайно висока теплова вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
-          \n%c[0,0,150,0] • %c[0,180,225,255]High physical protection
+          \n%c[0,0,150,0] • %c[0,213,70,125] Високий рівень відновлення життєвих сил
+          \n%c[0,0,150,0] • %c[0,125,0,210] Незначне відновлення психіки
+          \n%c[0,0,150,0] • %c[0,180,225,255]Високий фізичний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_ares_name">
         <text>
-            Ares
+            Аресе.
         </text>
     </string>
     <string id="st_af_nk_ares_descr">
         <text>
-            Named after the Greek God of war, this spiky artifact increases physical
-            protection and allows you to rapidly heal any wound. Sustained usage without
-            proper equipment is near impossible, not only is the radioactivity extremely
-            high but the artifact itself slowly drives the user insane. It is known that it
-            has something to do with the extremely fast healing process affecting the brain
-            in a negative way but more scientific research is needed to figure out this
-            mechanism completely. Very expensive.
+            Названий на честь грецького бога війни, цей колючий артефакт підвищує фізичний
+            захист і дозволяє швидко загоїти будь-яку рану. Тривале використання без
+            належного спорядження майже неможливе, не лише через надзвичайно високу
+            радіоактивність, але й через те, що сам артефакт повільно зводить користувача з
+            розуму. Відомо, що це якось пов'язано з тим, що надзвичайно швидкий процес
+            загоєння негативно впливає на мозок, але для повного з'ясування цього механізму
+            потрібні додаткові наукові дослідження. Дуже дорогий.
           \n
-          \n%c[0,180,225,255]Tier 4 Unyielding Artifact
+          \n%c[0,180,225,255]Непохитний артефакт 4-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Extremely radioactive
-          \n%c[0,150,0,0] • %c[0,125,0,210]Medium psychic drain
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210] Середній психічний злив
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,133,32,12]Extremely high wound healing
-          \n%c[0,0,150,0] • %c[0,180,225,255]High physical protection
+          \n%c[0,0,150,0] • %c[0,133,32,12] Надзвичайно високе загоєння ран
+          \n%c[0,0,150,0] • %c[0,180,225,255] Високий фізичний захист
           \n
         </text>
     </string>
@@ -868,108 +876,110 @@ Synthetic Artifacts
 -->
     <string id="st_af_nk_syn_blackraven_name">
         <text>
-            Black Raven
+            Чорний Ворон
         </text>
     </string>
     <string id="st_af_nk_syn_blackraven_descr">
         <text>
-            The Scientists' first try at making an artifact out of synthetic materials and
-            various parts of anti-gravity artifacts. Many Ecologists complained about things
-            like not being able to carry a sufficient amount of supplies and equipment out
-            into the field or backpacks being too small for bringing back various samples.
-            The supply of anti-gravity artifacts at the time was low, not everyone was
-            allowed to use them to finish their tasks. The local higher ups had a great idea
-            to confiscate all of them and start experimenting with transmutations and
-            crafting recipes taught by local stalkers. Most of the artifacts were shattered
-            into smaller parts to maximize the amount of artifacts produced, but this caused
-            serious instability in the end product. Codename Black Raven was supposed to aid
-            Ecologists in their tasks by increasing their carry weight, but instead it
-            increased their mortality when going out on already dangerous missions by
-            roughly 200%. The gravity field generated by this artifact does indeed help
-            carry more supplies, but it also increases the speed of any incoming objects and
-            attacks by up to 50 times, always, without a fail resulting in instant death of
-            the user, no matter how small the object or how weak the attack. Colleagues had
-            to be very careful around Ecologists using these artifacts to not accidentally
-            kill their friends by using certain gestures. Jumping and falling down also
-            triggers the unstable gravity field, crushing the legs when landing. The
-            Scientists were unable to remove all radiation from the previous artifacts
-            during transmutation but managed to reduce it by roughly 30%. Extremely
-            expensive and dangerous, deemed cursed among Ecologists and eventually all of
-            these prototypes were returned, now only daredevil stalkers use them to carry
-            more loot.
+            Перша спроба вчених зробити артефакт із синтетичних матеріалів та різних частин
+            антигравітаційних артефактів. Багато екологів скаржилися на те, що не можуть
+            взяти з собою в поле достатню кількість матеріалів та обладнання, а рюкзаки
+            замалі для того, щоб привезти зразки. Запас антигравітаційних артефактів на той
+            час був невеликий, не всім дозволялося використовувати їх для виконання завдань.
+            Місцевому начальству спало на думку конфіскувати всі артефакти і почати
+            експериментувати з перетвореннями та рецептами, яких їх навчили місцеві
+            сталкери. Більшість артефактів були розбиті на дрібні частини, щоб максимізувати
+            кількість вироблених артефактів, але це спричинило серйозну нестабільність
+            кінцевого продукту. Кодове ім'я "Чорний ворон" мало допомогти екологам у
+            виконанні їхніх завдань, збільшивши їхню вагу, але замість цього воно збільшило
+            їхню смертність під час виконання і без того небезпечних місій приблизно на
+            200%. Гравітаційне поле, яке генерує цей артефакт, дійсно допомагає переносити
+            більше припасів, але воно також збільшує швидкість будь-яких об'єктів і атак до
+            50 разів, завжди, безвідмовно призводячи до миттєвої смерті користувача,
+            незалежно від того, наскільки малий об'єкт або наскільки слабка атака. Колегам
+            доводилося бути дуже обережними з екологами, які використовували ці артефакти,
+            щоб випадково не вбити їхніх друзів, використовуючи певні жести. Стрибки та
+            падіння також запускають нестабільне гравітаційне поле, яке при приземленні
+            переламує ноги. Вчені не змогли видалити всю радіацію з попередніх артефактів
+            під час трансмутації, але їм вдалося зменшити її приблизно на 30%. Надзвичайно
+            дорогі та небезпечні, вони вважалися проклятими серед екологів, і врешті-решт
+            всі ці прототипи були повернуті, тепер лише відчайдухи-сталкери використовують
+            їх, щоб переносити більше здобичі.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Highly radioactive
-          \n%c[0,150,0,0] • %c[0,120,120,120]Extremely high combat vulnerability
-          \n%c[0,150,0,0] • %c[0,180,225,255]Extremely high physical vulnerability
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,120,120,120] Надзвичайно висока бойова
+            вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,180,225,255]Вкрай висока фізична вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Extremely strong anti-gravity field
+          \n%c[0,0,150,0] • %c[0,255,255,0] Надзвичайно сильне антигравітаційне поле
           \n
         </text>
     </string>
     <string id="st_af_nk_syn_projectd_name">
         <text>
-            Project D
+            Проект D
         </text>
     </string>
     <string id="st_af_nk_syn_projectd_descr">
         <text>
-            Wondering how fast a human could run with the help of an artifact, the
-            Scientists attempted creating one that would aid just in that. After a few
-            unfortunate trials that resulted in various wonders like accelerated aging of
-            the user or ultra fast fat cell burning, resulting in quick starvation if the
-            user wasn't chubby enough. The end result, shaped like a triangular pyramid,
-            ended up being named Project D. The original goal of speeding up the user was
-            achieved, the energy restoration properties of the artifact greatly aid in long
-            sprints. After a few experiments and tweaks, the radiation was completely
-            nullified and the drawbacks reduced to simple fatigue from overusage and lack of
-            blood coagulation when using the artifact. Using it in combination with other
-            artifacts is recommended but not necessary. Expensive.
+            Цікавлячись, як швидко людина може бігати за допомогою артефакту, вчені
+            спробували створити артефакт, який би допоміг саме в цьому. Після кількох
+            невдалих випробувань, які призвели до різних чудес, таких як прискорене старіння
+            користувача або надшвидке спалювання жирових клітин, що призводило до швидкого
+            голодування, якщо користувач був недостатньо пухким. Кінцевий результат, що мав
+            форму трикутної піраміди, отримав назву Проект D. Початкова мета - прискорити
+            користувача - була досягнута, а властивості артефакту відновлювати енергію
+            значно допомагали у довгих спринтах. Після кількох експериментів і налаштувань
+            випромінювання було повністю зведено нанівець, а недоліки зведені до простої
+            втоми від надмірного використання і недостатнього згортання крові при
+            використанні артефакту. Використовувати його в поєднанні з іншими артефактами
+            рекомендується, але не обов'язково. Дорого коштує.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,133,32,12]Extremely high risk of bleeding
-          \n%c[0,150,0,0] • %c[0,125,0,210]Minor psychic drain
+          \n%c[0,150,0,0] • %c[0,133,32,12] Надзвичайно високий ризик кровотечі
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,125,0,210]Невеликий психічний витік
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,0,200,255]High energy recovery
+          \n%c[0,0,150,0] • %c[0,0,200,255] Висока рекуперація енергії
           \n
         </text>
     </string>
     <string id="st_af_nk_syn_prototype60_name">
         <text>
-            Prototype 60
+            Прототип 60
         </text>
     </string>
     <string id="st_af_nk_syn_prototype60_descr">
         <text>
-            A heavily modified Moonlight trapped in a specialized container. It has been
-            specifically manufactured just for this artifact to neutralize its radioactivity
-            and further boost its favorable psychic resistance. Prototype 60 is one of the
-            inventions predating the Psi Helmet, it was actually a helmet redesigned into an
-            artifact container, created as an attempt to nullify the effects of the Brain
-            Scorcher in Yantar with the help of artifacts, but it has proven to be too weak
-            and also too expensive and complicated to mass manufacture for Ecologists. The
-            container is vulnerable to various elements. It is now sometimes up for sale at
-            various traders after the Scientists decided to sell off most of their remaining
-            supply. The artifacts were simply taking up too much space with their heavy
-            containers. Expensive.
+            Сильно модифіковане місячне світло, поміщене в спеціальний контейнер. Він був
+            спеціально виготовлений для цього артефакту, щоб нейтралізувати його
+            радіоактивність і ще більше підвищити його сприятливий психічний опір. Прототип
+            60 - один з винаходів, що передував Псі-шолому, це був шолом, перероблений на
+            контейнер для артефактів, створений як спроба звести нанівець ефекти Випалювача
+            мозку в Янтарі за допомогою артефактів, але він виявився занадто слабким, а
+            також занадто дорогим і складним для масового виробництва для екологів.
+            Контейнер вразливий до різних стихій. Після того, як Вчені вирішили розпродати
+            більшу частину своїх запасів, він іноді виставляється на продаж у різних
+            торговців. Артефакти просто займали забагато місця у важких контейнерах. Дорого
+            коштували.
           \n
-          \nThe custom container does not allow you to use a different one.
+          \nСпеціальний контейнер не дозволяє використовувати інший.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,160,0]High thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]High chemical vulnerability
-          \n%c[0,150,0,0] • %c[0,74,134,232]Extremely high shock vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0]Висока термічна вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0]Висока хімічна вразливість
+          \n&lt;0_150_0_0_0_color_num&gt; • %c[0,74,134,232]Вкрай висока вразливість до ударів
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,125,0,210]Medium psychic restoration
+          \n%c[0,0,150,0] • %c[0,125,0,210]Середнє відновлення психіки
           \n
         </text>
     </string>
@@ -980,13 +990,12 @@ Synthetic Artifacts
     </string>
     <string id="st_af_nk_syn_sparklercore_descr">
         <text>
-            A Sparkler artifact that was dipped in fluoroantimonic acid (don't ask where the
-            Scientists got their hands on that), removing the dangerous outer shell
-            completely and letting the more durable core of the artifact be used to its full
-            potential. All of the negative properties have been removed and the positives
-            have become stronger. Not quite a synthetic artifact but it is impossible to
-            find in the wilderness and is unobtainable without some invasive modifications.
-            Fairly expensive.
+            Артефакт "Блискавка", який занурили у фтороантимонову кислоту (не питайте, де
+            вчені її роздобули), повністю видаливши небезпечну зовнішню оболонку і
+            дозволивши більш міцній серцевині артефакту використати весь свій потенціал. Всі
+            негативні властивості були прибрані, а позитивні стали сильнішими. Не зовсім
+            синтетичний артефакт, але його неможливо знайти в дикій природі, і він
+            недосяжний без певних інвазивних модифікацій. Досить дорогий.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
@@ -994,25 +1003,25 @@ Synthetic Artifacts
     </string>
     <string id="st_af_nk_syn_stonebloodcore_name">
         <text>
-            Stone Blood Core
+            Кам'яне криваве ядро
         </text>
     </string>
     <string id="st_af_nk_syn_stonebloodcore_descr">
         <text>
-            A Stone Blood artifact that was left over night to cook in a Scientist's
-            artifact oven set to a steady 500 degrees Celcius. The outer radioactive shell
-            was completely burned off, alongside all of the negative aspects. The fireproof
-            core's positive properties have been strengthened and can now be utilized
-            easier. Stalkers have tried replicating this process with burner anomalies but
-            their short bursts of flame are not strong or stable enough for the protective
-            layer to melt. Expensive.
+            Артефакт "Кам'яна кров", який залишили на ніч готуватися в печі для артефактів
+            Вченого, встановленій на 500 градусів за Цельсієм. Зовнішня радіоактивна
+            оболонка повністю згоріла разом з усіма негативними аспектами. Позитивні
+            властивості вогнетривкого ядра були посилені, і тепер його можна легше
+            використовувати. Сталкери намагалися повторити цей процес за допомогою
+            пальників-аномалій, але їхні короткі спалахи полум'я недостатньо сильні та
+            стабільні, щоб розплавити захисний шар. Дорого.
           \n
           \n%c[0,255,255,255]Synthetic Artifact
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,255,0]Minor anti-gravity field
-          \n%c[0,0,150,0] • %c[0,133,32,12]Minor wound healing
-          \n%c[0,0,150,0] • %c[0,200,255,0]High chemical protection
+          \n%c[0,0,150,0] • %c[0,255,255,0] Незначне антигравітаційне поле
+          \n%c[0,0,150,0] • %c[0,133,32,12] Незначне загоєння ран
+          \n%c[0,0,150,0] • %c[0,200,255,0] Високий хімічний захист
           \n
         </text>
     </string>
@@ -1022,87 +1031,87 @@ Unstable Artifacts
 -->
     <string id="st_af_nk_un_leviathan_name">
         <text>
-            Leviathan
+            Левіафан
         </text>
     </string>
     <string id="st_af_nk_un_leviathan_descr">
         <text>
-            One of the first ever failed artifact transmutations and one with the most
-            powerful effects. It came about thanks to a stalker named Nimble. He was
-            experimenting with anti-gravity artifact transmutations, trying to create one
-            that would greatly increase carry weight since that would aid him in the various
-            smuggling trips outside the Zone. After a few failed attempts and nearly dying
-            to a freshly formed gravity anomaly, he succeeded in creating an artifact that
-            was never seen before, with new properties unlike the usual ones. He
-            instinctively grabbed it by the thin middle part, instantly activating it. The
-            artifact's jaws bit his hand, injecting an unknown substance into the
-            bloodstream. Almost fainting due to the toxic effects on the body, he afterwards
-            felt a surge of inhuman energy that let him carry various heavy objects with
-            ease.
+            Одна з перших в історії невдалих трансформацій артефактів і одна з найпотужніших
+            ефектів. Вона з'явилася завдяки сталкеру на прізвисько Спритний. Він
+            експериментував з антигравітаційними артефактами, намагаючись створити артефакт,
+            який би значно збільшив власну вагу, оскільки це допомогло б йому в різних
+            контрабандних подорожах за межі Зони. Після кількох невдалих спроб і ледь не
+            загинувши у щойно утвореній гравітаційній аномалії, йому вдалося створити
+            небачений раніше артефакт з новими властивостями, не схожими на звичайні. Він
+            інстинктивно схопив його за тонку середню частину, миттєво активувавши. Щелепи
+            артефакту вкусили його за руку, впорскуючи в кров невідому речовину. Ледь не
+            втративши свідомість через токсичний вплив на організм, він відчув приплив
+            нелюдської енергії, яка дозволила йому з легкістю переносити різні важкі
+            предмети.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-50% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-500 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-50% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-500 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% thirstiness
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+50kg carry weight
+          \n%c[0,0,150,0] • %c[0,0,200,0]+50 кг ваги
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_behemoth_name">
         <text>
-            Behemoth
+            Бегемот
         </text>
     </string>
     <string id="st_af_nk_un_behemoth_descr">
         <text>
-            A bloody mess, another failed recipe that resulted in an unstable artifact which
-            only bestows temporary bonuses. The Behemoth gives the user inhuman strength
-            which increases stamina levels and grants the ability to carry more of various
-            heavy objects, useful for carrying a lot of loot. The activation procedure
-            involves sacrificing a few drops of blood onto the artifact. After that, it
-            activates a gravity field which makes it lash out at the user with incredible
-            speed, causing physical trauma and some unknown effects in the body during
-            contact.
+            Криваве місиво, ще один невдалий рецепт, який призвів до нестабільного
+            артефакту, що дає лише тимчасові бонуси. Бегемот дає користувачеві нелюдську
+            силу, яка підвищує рівень витривалості та надає можливість носити більше
+            різноманітних важких предметів, корисних для перенесення великої кількості
+            здобичі. Процедура активації включає в себе жертвоприношення кількох крапель
+            крові на артефакт. Після цього він активує гравітаційне поле, яке змушує його
+            кидатися на користувача з неймовірною швидкістю, спричиняючи фізичні травми та
+            деякі невідомі ефекти в організмі під час контакту.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-30% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-300 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-30% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-300 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% thirstiness
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+30kg carry weight
-          \n%c[0,0,150,0] • %c[0,0,200,0]+180% stamina
+          \n%c[0,0,150,0] • %c[0,0,200,0] +30 кг ваги
+          \n%c[0,0,150,0] • %c[0,0,200,0] +180% витривалості
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_oasis_name">
         <text>
-            Oasis
+            Оазис
         </text>
     </string>
     <string id="st_af_nk_un_oasis_descr">
         <text>
-            Created by pouring various liquids on the Heart of the Oasis, it soaks all of
-            them up becoming a completely new, unstable artifact, losing all original
-            properties. The water becomes encapsulated within the thick membrane while the
-            branches hold it. The user can then rehydrate with whatever mixture was brewed
-            inside by puncturing it and sipping on what comes out. After a few seconds the
-            membrane heals and closes back up. When emptied though, the artifact shrivels up
-            and dies due to dehydration. A very portable source of water.
+            Створене шляхом виливання різних рідин на Серце Оазису, воно вбирає їх усі,
+            перетворюючись на абсолютно новий, нестабільний артефакт, що втрачає всі
+            початкові властивості. Вода інкапсулюється в товстій мембрані, а гілки утримують
+            її. Користувач може поповнити запаси води будь-якою сумішшю, що була приготована
+            всередині, проколовши її і сьорбнувши те, що витікає. Через кілька секунд
+            мембрана заживає і закривається назад. Коли артефакт спорожняється, він
+            зморщується і вмирає через зневоднення. Дуже портативне джерело води.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1115,73 +1124,72 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_dungpie_name">
         <text>
-            Dung Pie
+            Пиріг з гноєм
         </text>
     </string>
     <string id="st_af_nk_un_dungpie_descr">
         <text>
-            An unfortunate experiment to some, a source of nutrition to others in tough
-            situations. The Dung Pie is an edible artifact and also an amalgamation of
-            multiple different substances like dirt, wood, artifact shards, mutant crap,
-            unknown fat and proteins with some trace minerals and vitamins. Care to find out
-            how it tastes?
+            Невдалий експеримент для одних, джерело харчування для інших у важких ситуаціях.
+            Гнойовий пиріг - це їстівний артефакт, а також поєднання безлічі різних речовин:
+            бруду, дерева, уламків артефактів, лайна мутантів, невідомих жирів і білків з
+            деякими мікроелементами і вітамінами. Хочете дізнатися, як це смакує?
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
-          \n%c[0,0,150,0] • %c[0,0,200,0]+600 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
+          \n%c[0,0,150,0] • %c[0,0,200,0]+600 ситості
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_scarab_name">
         <text>
-            Scarab
+            Скарабей.
         </text>
     </string>
     <string id="st_af_nk_un_scarab_descr">
         <text>
-            A formation that looks like purple crystallized pincers. Licking the artifact
-            quenches thirst and hunger but also activates its defense mechanisms, hurting
-            the user physically and mentally.
+            Утворення, схоже на фіолетові кристалізовані кліщі. Лизання артефакту втамовує
+            спрагу та голод, але також активує його захисні механізми, завдаючи
+            користувачеві фізичної та моральної шкоди.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% sleepiness
           \n%c[0,0,150,0] • %c[0,0,200,0]-30% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+300 satiety
+          \n%c[0,0,150,0] • %c[0,0,200,0]+300 ситості
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_lancelot_name">
         <text>
-            Lancelot
+            Ланселот
         </text>
     </string>
     <string id="st_af_nk_un_lancelot_descr">
         <text>
-            A metallic object created in a transmutation involving artifact parts and a
-            knife. It allows the user to draw blood and alongside it all alcohol content.
-            The process has some minor drawbacks but this artifact allows using various
-            unstable artifacts while completely negating one of their effects, or drinking
-            more alcohol without getting drunk.
+            Металевий об'єкт, створений шляхом трансмутації з частин артефакту та ножа.
+            Дозволяє користувачеві витягувати кров, а разом з нею і весь вміст алкоголю.
+            Процес має деякі незначні недоліки, але цей артефакт дозволяє використовувати
+            різні нестабільні артефакти, повністю нівелюючи один з їхніх ефектів, або випити
+            більше алкоголю, не сп'янівши.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nПри кожній активації частини артефакту відламуються і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-200 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-200 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% thirstiness
           \n%c[0,0,150,0] • %c[0,0,200,0]-100% intoxification
           \n
@@ -1190,69 +1198,68 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_sunflower_name">
         <text>
-            Sunflower
+            Соняшник
         </text>
     </string>
     <string id="st_af_nk_un_sunflower_descr">
         <text>
-            An edible artifact that resembles a sunflower. While slightly toxic, eating a
-            single leaf almost fully rejuvenates the user. Useful in tough situations where
-            using a medkit or a stimpack would simply be too slow for survival. The toxicity
-            does make further fighting difficult though, it is very easy to overdose on the
-            leaves so one has to be careful when eating them.
+            Їстівний артефакт, що нагадує соняшник. Трохи токсичний, але з'їдання одного
+            листка майже повністю омолоджує користувача. Корисний у складних ситуаціях, коли
+            використання аптечки або стимулятора буде занадто повільним для виживання. Однак
+            токсичність ускладнює подальшу боротьбу, оскільки дуже легко отримати
+            передозування листям, тому треба бути обережним, коли їсте їх.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+80% health
+          \n%c[0,0,150,0] • %c[0,0,200,0]+80% здоров'я
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_bloodclover_name">
         <text>
-            Blood Clover
+            Кривава конюшина
         </text>
     </string>
     <string id="st_af_nk_un_bloodclover_descr">
         <text>
-            Instead of chlorophyll, blood runs through these little anomalous clovers. If
-            you can stand the slight toxicity and metallic taste, eating them will replace
-            lost blood very quickly. Easy to overdose, the user has to be careful not to eat
-            too many at once.
+            Замість хлорофілу через ці маленькі аномальні конюшини проходить кров. Якщо ви
+            можете витримати легку токсичність і металевий присмак, їхнє вживання дуже
+            швидко відновить втрачену кров. Їх легко передозувати, тому треба бути обережним
+            і не з'їсти забагато за один раз.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+40% health
+          \n%c[0,0,150,0] • %c[0,0,200,0]+40% здоров'я
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_pseudogiantoil_name">
         <text>
-            Pseudogiant Oil
+            Псевдогігантська нафта
         </text>
     </string>
     <string id="st_af_nk_un_pseudogiantoil_descr">
         <text>
-            A very concentrated oil obtained from pseudogiant's fat layers under the skin,
-            combined with an artifact in a transmutation process to yield a healing
-            substance. It's an acquired taste, similar to lard yet more liquidy, but the
-            regenerative properties are top notch. It also increases the user's strength
-            momentarily. Quite toxic.
+            Дуже концентрована олія, отримана з жирових шарів псевдогіганта під шкірою,
+            поєднана з артефактом у процесі трансмутації, щоб отримати цілющу речовину. За
+            смаком нагадує сало, але більш рідке, а регенеративні властивості першокласні.
+            Також миттєво збільшує силу користувача. Досить токсичний.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+18% hp/s, total of 180% hp
-          \n%c[0,0,150,0] • %c[0,0,200,0]+20kg carry weight
+          \n%c[0,0,150,0] • %c[0,0,200,0] +18% хп/с, разом 180% хп
+          \n%c[0,0,150,0] • %c[0,0,200,0] +20 кг ваги
           \n
           \n
         </text>
@@ -1264,63 +1271,62 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_chimeraoil_descr">
         <text>
-            Chimera fat extracted from a freshly hunted specimen. It has undergone a
-            transmutation with an artifact to gain strong healing properties and turn into a
-            liquid. It also increases the user's speed momentarily. Slightly toxic.
+            Жир химери, видобутий зі щойно впольованої особини. За допомогою артефакту він
+            набув сильних цілющих властивостей і перетворився на рідину. Також миттєво
+            збільшує швидкість користувача. Трохи токсичний.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+12% hp/s, total of 120% hp
-          \n%c[0,0,150,0] • %c[0,0,200,0]+180% stamina
+          \n%c[0,0,150,0] • %c[0,0,200,0] +12% хп/с, разом 120% хп
+          \n%c[0,0,150,0] • %c[0,0,200,0] +180% витривалості
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_bloodsuckeroil_name">
         <text>
-            Bloodsucker Oil
+            Олія кровососа
         </text>
     </string>
     <string id="st_af_nk_un_bloodsuckeroil_descr">
         <text>
-            A bottle filled with bloodsucker fat and blood that went through a transmutation
-            process with an artifact to gain new, healing properties. The taste is metallic
-            and the thought of whose blood are you really drinking makes you shiver.
-            Slightly toxic.
+            Пляшка, наповнена жиром кровососа і кров'ю, яка пройшла процес трансмутації з
+            артефактом, щоб отримати нові, цілющі властивості. Смак металевий, а думка про
+            те, чию кров ти насправді п'єш, викликає дрож. Трохи токсичний.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+750 wound healing
-          \n%c[0,0,150,0] • %c[0,0,200,0]+3% hp/s, total of 180% hp
+          \n%c[0,0,150,0] • %c[0,0,200,0]+750 загоєння ран
+          \n%c[0,0,150,0] • %c[0,0,200,0]+3% хп/с, загалом 180% хп
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_sandman_name">
         <text>
-            Sandman
+            Піщана людина.
         </text>
     </string>
     <string id="st_af_nk_un_sandman_descr">
         <text>
-            A small unstable artifact made out of mainly sand, held loosely together by some
-            metallic dust, most probably remains of an anti-gravity artifact. The method of
-            usage is incredibly uncomfortable, it involves breaking off a part of it,
-            grinding it down to dust in your hand and inhaling it to stave off drowsiness.
-            You can guess that inhaling sand and metal isn't very healthy but having an
-            extra 8 hours a day thanks to magical sands seems like a fair tradeoff.
+            Невеликий нестабільний артефакт, зроблений переважно з піску, неміцно скріплений
+            металевим пилом, найімовірніше, залишками антигравітаційного артефакту. Спосіб
+            використання неймовірно незручний, потрібно відламати частину, розтерти її в
+            руці на пил і вдихати, щоб запобігти сонливості. Можна здогадатися, що вдихати
+            пісок і метал не дуже корисно для здоров'я, але мати додаткові 8 годин на день
+            завдяки магічним піскам здається справедливим компромісом.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-200 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-200 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% thirstiness
           \n%c[0,0,150,0] • %c[0,0,200,0]-100% sleepiness
           \n
@@ -1329,363 +1335,368 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_mummy_name">
         <text>
-            Mummy
+            Мамо.
         </text>
     </string>
     <string id="st_af_nk_un_mummy_descr">
         <text>
-            2 colorful gemstones intertwined together by a tough, anomalous fiber. Its
-            absorptive properties can be used to manufacture a makeshift bandage by cutting
-            up the artifact. Fairly damp, the fiber is soaked wet with a slightly toxic,
-            sticky fluid that you might not want anywhere near your blood, but the
-            alternative is losing all of it and dying. Upon removing all of the filament,
-            the gemstones turn into liquid and fall to the ground.
+            2 різнокольорові коштовні камені переплетені між собою міцним аномальним
+            волокном. Його абсорбуючі властивості можна використати для виготовлення
+            імпровізованої пов'язки, розрізавши артефакт. Досить вологе волокно просякнуте
+            злегка токсичною, липкою рідиною, яку ви не хотіли б бачити біля своєї крові,
+            але альтернатива - втратити її всю і померти. Після видалення всієї нитки
+            коштовне каміння перетворюється на рідину і падає на землю.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+5% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+6000 wound healing
+          \n%c[0,0,150,0] • %c[0,0,200,0]+6000 загоєння ран
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_anubis_name">
         <text>
-            Anubis
+            Анубіс.
         </text>
     </string>
     <string id="st_af_nk_un_anubis_descr">
         <text>
-            A small unstable artifact with the power to magnetize all nearby blood, be it
-            your own, your enemies' or old blood on the ground, it brings it through the air
-            back to the user to close any wound. It cannot filter out impurities and toxins
-            that could have gotten into the blood that is being used. The artifact is
-            activated by sticking it to a wound, it then changes its color to blood red and
-            starts sucking in blood, repairing the damage.
+            Невеликий нестабільний артефакт, здатний притягувати до себе будь-яку кров -
+            власну, ворожу чи стару, що лежить на землі, - і повертати її по повітрю назад
+            до користувача, щоб закрити будь-яку рану. Він не може відфільтрувати домішки і
+            токсини, які могли потрапити в кров, що використовується. Артефакт активується,
+            якщо прикласти його до рани, після чого він змінює свій колір на криваво-
+            червоний і починає всмоктувати кров, відновлюючи пошкодження.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
           \n%c[0,150,0,0] • %c[0,200,0,0]+5% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+3000 wound healing
+          \n%c[0,0,150,0] • %c[0,0,200,0]+3000 загоєння ран
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_hermes_name">
         <text>
-            Hermes
+            Гермес.
         </text>
     </string>
     <string id="st_af_nk_un_hermes_descr">
         <text>
-            A butterfly shaped artifact. It is activated by being stomped on by the user's
-            foot, it then creates a small azure colored explosion and slightly injures the
-            legs but also speeds up their metabolism, heavily increasing the user's running
-            capabilities and stamina.
+            Артефакт у формі метелика. Активується, якщо на нього наступити ногою, після
+            чого відбувається невеликий вибух блакитного кольору, який злегка травмує ноги,
+            але водночас прискорює метаболізм, значно збільшуючи бігові можливості та
+            витривалість користувача.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-30% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-300 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-30% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-300 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+360 stamina
+          \n%c[0,0,150,0] • %c[0,0,200,0]+360 витривалість
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_acidmushroom_name">
         <text>
-            Acid Mushroom
+            Кислий гриб
         </text>
     </string>
     <string id="st_af_nk_un_acidmushroom_descr">
         <text>
-            A mushroom that was growing in an acid anomaly. It somehow managed to form a
-            symbiotic relationship with the toxic environment, gaining anomalous properties.
-            The user can eat it to gain very high chemical protection at the price of some
-            toxins entering the body and doing some damage initially.
+            Гриб, який ріс у кислотній аномалії. Він якимось чином зумів сформувати
+            симбіотичні відносини з токсичним середовищем, набувши аномальних властивостей.
+            Користувач може з'їсти його, щоб отримати дуже високий хімічний захист ціною
+            деяких токсинів, що потрапляють в організм і спочатку завдають певної шкоди.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1000% chemical protection
+          \n%c[0,0,150,0] • %c[0,0,200,0] +1000% хімічного захисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_psyshroom_name">
         <text>
-            Psyshroom
+            Психром.
         </text>
     </string>
     <string id="st_af_nk_un_psyshroom_descr">
         <text>
-            A mushroom harvested from dark tunnels filled with either psy fields or
-            electras. Rumors say Controllers eat these to strengthen their powers. The user
-            can consume it to raise their psy defense, at the cost of some toxicity.
+            Гриб, зібраний у темних тунелях, наповнених чи то пси-полями, чи то електронами.
+            Подейкують, що Контролери їдять їх, щоб посилити свої сили. Користувач може
+            споживати його, щоб підвищити свій психічний захист, але ціною певної
+            токсичності.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1000% psy protection
+          \n%c[0,0,150,0] • %c[0,0,200,0] +1000% психічного захисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_slimeshroom_name">
         <text>
-            Slimeshroom
+            Слизняк.
         </text>
     </string>
     <string id="st_af_nk_un_slimeshroom_descr">
         <text>
-            An edible mushroom artifact that's covered with a layer of slime on the top.
-            Upon eating, it strengthens the user's skin against chemical damage and protects
-            the brain from psy waves but also intoxicates the user.
+            Їстівний грибний артефакт, вкритий зверху шаром слизу. Після вживання в їжу він
+            зміцнює шкіру користувача від хімічних пошкоджень і захищає мозок від пси-хвиль,
+            але також п'янить користувача.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% intoxification
-          \n%c[0,150,0,0] • %c[0,200,0,0]-400 satiety
-          \n%c[0,0,150,0] • %c[0,0,200,0]+700% chemical protection
-          \n%c[0,0,150,0] • %c[0,0,200,0]+500% psy protection
+          \n&lt;0_0_150_0_0_color_num&gt; • %c[0,200,0,0]-400 ситості
+          \n%c[0,0,150,0] • %c[0,0,200,0]+700% хімічного захисту
+          \n%c[0,0,150,0] • %c[0,0,200,0]+500% психозахисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_midnightamanita_name">
         <text>
-            Midnight Amanita
+            Опівнічна аманіта
         </text>
     </string>
     <string id="st_af_nk_un_midnightamanita_descr">
         <text>
-            A very potent, psychedelic mushroom. Appears in areas of high psy activity,
-            seems to draw power from moonlight. When harvested at midnight, it keeps all of
-            its properties for a very long time without going stale. It can be eaten to
-            completely nullify all psy damage but the best use for it is upkeeping multiple
-            belt artifacts that actively send out harmful psy waves.
+            Дуже потужний, психоделічний гриб. З'являється в місцях з високою психічною
+            активністю, ніби черпає енергію з місячного світла. Якщо його зібрати опівночі,
+            він зберігає всі свої властивості дуже довго і не псується. Його можна з'їсти,
+            щоб повністю звести нанівець всі психічні пошкодження, але найкраще
+            використовувати його для підтримки кількох поясних артефактів, які активно
+            випромінюють шкідливі психічні хвилі.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1500% psy protection
+          \n%c[0,0,150,0] • %c[0,0,200,0] +1500% психічного захисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_giantjellyshroom_name">
         <text>
-            Giant Jellyshroom
+            Гігантська медуза
         </text>
     </string>
     <string id="st_af_nk_un_giantjellyshroom_descr">
         <text>
-            Anomalous mushroom, usually harvested from flooded areas or swamps with high psy
-            or electra activity. Its cap is transparent and shines brightly. Eating a part
-            of it grants the user extra protection from psy waves but also intoxifies them.
+            Аномальний гриб, який зазвичай збирають на затоплених ділянках або болотах з
+            високою пси- або електромагнітною активністю. Його капелюшок прозорий і яскраво
+            світиться. З'ївши його шматочок, користувач отримує додатковий захист від пси-
+            хвиль, але водночас п'яніє.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+40% intoxification
-          \n%c[0,150,0,0] • %c[0,200,0,0]-400 satiety
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1000% psy protection
+          \n&lt;0_0_150_0_0_color_num&gt; • %c[0,200,0,0]-400 ситості
+          \n%c[0,0,150,0] • %c[0,0,200,0] +1000% психозахисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_lionsagaricus_name">
         <text>
-            Lion's Agaricus
+            Левиний агарікус
         </text>
     </string>
     <string id="st_af_nk_un_lionsagaricus_descr">
         <text>
-            A bright yellow anomalous mushroom with red spots. It usually shows up in areas
-            with high gravitational and psy activity. Upon eating, it boosts the user's psy
-            protection but also slightly intoxifies.
+            Яскраво-жовтий аномальний гриб з червоними плямами. Зазвичай з'являється в
+            місцях з високою гравітаційною та психічною активністю. Після вживання в їжу він
+            підвищує психічний захист користувача, але також злегка п'янить.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-20% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-20% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+30% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+500% psy protection
+          \n%c[0,0,150,0] • %c[0,0,200,0] +500% псизахисту
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_monsoon_name">
         <text>
-            Monsoon
+            Мусон.
         </text>
     </string>
     <string id="st_af_nk_un_monsoon_descr">
         <text>
-            Wash away the radiation. Spinning the artifact rapidly will activate it. It then
-            floats in the air for a few seconds, releasing a toxic purple smoke that
-            disrupts the user's various body functions, resulting in internal trauma but
-            also massively increased radiation filtering.
+            Змийте радіацію. Швидке обертання артефакту активує його. Після цього він на
+            кілька секунд зависає в повітрі, випускаючи токсичний фіолетовий дим, який
+            порушує різні функції організму користувача, призводячи до внутрішніх травм, а
+            також значно посилюючи фільтрацію радіації.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-60% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-400 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-60% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-400 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% intoxification
-          \n%c[0,0,150,0] • %c[0,0,200,0]-420 rads/s, total of 25200 rads
+          \n%c[0,0,150,0] • %c[0,0,200,0]-420 рад/с, разом 25200 рад
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_cube_name">
         <text>
-            Cube
+            Куб
         </text>
     </string>
     <string id="st_af_nk_un_cube_descr">
         <text>
-            An unstable artifact made out of cubes that come in various shapes, held
-            together by a gravity field. Activating it involves moving around the pieces in
-            a specific order. Upon activation, the artifact's gravity field pulls radiation
-            to itself and dissipates it. The field itself also has other harmful effects on
-            the body that use mechanisms unknown to science. The initial few seconds of
-            exposure are especially painful.
+            Нестабільний артефакт, зроблений з кубиків різної форми, які утримуються разом
+            гравітаційним полем. Щоб активувати його, потрібно переміщати кубики в певному
+            порядку. Після активації гравітаційне поле артефакту притягує до себе радіацію і
+            розсіює її. Саме поле також має інші шкідливі впливи на організм, які
+            використовують невідомі науці механізми. Особливо болючими є перші кілька секунд
+            впливу.
           \n
-          \nWith every activation the artifact loses gravitational energy and upon the
-            final use it falls apart.
+          \nЗ кожною активацією артефакт втрачає гравітаційну енергію і після остаточного
+            використання розпадається на частини.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-50% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-200 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-50% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-200 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+20% intoxification
-          \n%c[0,0,150,0] • %c[0,0,200,0]-300 rads/s, total of 18000 rads
+          \n%c[0,0,150,0] • %c[0,0,200,0]-300 рад/с, разом 18000 рад
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_coolingrods_name">
         <text>
-            Cooling Rods
+            Охолоджувальні стрижні
         </text>
     </string>
     <string id="st_af_nk_un_coolingrods_descr">
         <text>
-            An unstable artifact that looks like a few rods stuck together in a black
-            organic mass. Fairly flexible, the rods can be moved around and upon touching
-            two of them together the artifact activates, instantly stealing body temperature
-            and radiation from the user.
+            Нестабільний артефакт, що виглядає як кілька стрижнів, склеєних разом у чорній
+            органічній масі. Досить гнучкі, стрижні можна пересувати, а при торканні двох з
+            них разом артефакт активується, миттєво викрадаючи у користувача температуру
+            тіла та радіацію.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-40% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-40% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% intoxification
-          \n%c[0,0,150,0] • %c[0,0,200,0]-180 rads/s, total of 10800 rads
+          \n%c[0,0,150,0] • %c[0,0,200,0]-180 рад/с, разом 10800 рад
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_hourglass_name">
         <text>
-            Hourglass
+            Пісочний годинник.
         </text>
     </string>
     <string id="st_af_nk_un_hourglass_descr">
         <text>
-            An hourglass shaped artifact with a shiny red gem in the middle. It can be
-            activated by trying to pull it out. Every attempt causes the artifact to lash
-            out at the user with anomalous energy while making sounds resembling an owl. The
-            effect causes some bleeding but also short term radiation filtering.
+            Артефакт у формі пісочного годинника з блискучим червоним самоцвітом посередині.
+            Його можна активувати, спробувавши витягнути. Кожна спроба змушує артефакт
+            кидатися на користувача з аномальною енергією, видаючи при цьому звуки, що
+            нагадують крик сови. Ефект викликає невелику кровотечу, а також короткочасну
+            фільтрацію радіації.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-30% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-30% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% intoxification
-          \n%c[0,0,150,0] • %c[0,0,200,0]-120 rads/s, total of 7200 rads
+          \n%c[0,0,150,0] • %c[0,0,200,0]-120 рад/с, разом 7200 рад
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_dawn_name">
         <text>
-            Dawn
+            Світанок.
         </text>
     </string>
     <string id="st_af_nk_un_dawn_descr">
         <text>
-            Two pyramid shaped objects glued together by a strong gravity field. Pulling
-            them apart requires some strength and can only be done for a few seconds. Doing
-            so destabilizes the unusual gravity field, quickly pulling the pyramids together
-            which results in a lot of sharp artifact fragments flying off everywhere,
-            harming the user, but also granting several benefits for a few minutes.
+            Два об'єкти у формі піраміди, склеєні сильним гравітаційним полем. Щоб
+            роз'єднати їх, потрібно докласти певних зусиль, і це можна зробити лише протягом
+            кількох секунд. Це дестабілізує незвичне гравітаційне поле, швидко стягуючи
+            піраміди разом, що призводить до того, що безліч гострих уламків артефактів
+            розлітаються на всі боки, завдаючи шкоди користувачеві, але також надаючи певні
+            переваги на кілька хвилин.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-40% health
-          \n%c[0,0,150,0] • %c[0,0,200,0]+5kg carry weight
-          \n%c[0,0,150,0] • %c[0,0,200,0]-60 rads/s, total of 10800 rads
-          \n%c[0,0,150,0] • %c[0,0,200,0]+180% stamina
+          \n%c[0,150,0,0] • %c[0,200,0,0]-40% здоров'я
+          \n%c[0,0,150,0] • %c[0,0,200,0]+5 кг ваги
+          \n%c[0,0,150,0] • %c[0,0,200,0]-60 рад/с, загалом 10800 рад
+          \n%c[0,0,150,0] • %c[0,0,200,0] +180% витривалості
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_rustyfeather_name">
         <text>
-            Rusty Feather
+            Іржаве перо
         </text>
     </string>
     <string id="st_af_nk_un_rustyfeather_descr">
         <text>
-            A feather from an unknown bird, it has fallen into an anomalous zone, turned
-            partially metallic and started rusting away. The user can crush up a part of the
-            feather and inhale the toxic dust to harness its anomalous power. The rust
-            evaporates a substantial amount of body fluids, removing all radiation but also
-            disrupting most life functions.
+            Перо невідомого птаха, що потрапило в аномальну зону, частково стало металевим і
+            почало іржавіти. Користувач може подрібнити частину пера і вдихнути токсичний
+            пил, щоб використати його аномальну силу. Іржа випаровує значну кількість рідини
+            в організмі, видаляючи всю радіацію, але також порушуючи більшість життєвих
+            функцій.
           \n
-          \nWith every activation parts of the artifact break off and eventually it
-            crumbles to dust.
+          \nЗ кожною активацією частини артефакту відламуються, і врешті-решт він
+            розсипається на порох.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
@@ -1693,31 +1704,31 @@ Unstable Artifacts
           \n%c[0,150,0,0] • %c[0,200,0,0]100% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]50% thirstiness
           \n%c[0,150,0,0] • %c[0,200,0,0]20% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]-1500 rads/s, total of 45000 rads
+          \n%c[0,0,150,0] • %c[0,0,200,0]-1500 рад/с, разом 45000 рад
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_phoenix_name">
         <text>
-            Phoenix
+            Фенікс
         </text>
     </string>
     <string id="st_af_nk_un_phoenix_descr">
         <text>
-            A feather with fiery colors, almost as if it was plucked from a phoenix.
-            Activation process involves burning a part of it with a fire source and inhaling
-            the smoke. It's so potent that it puts the user to sleep almost instantly. After
-            sleeping you will feel almost completely rejuvenated.
+            Перо з вогняним забарвленням, ніби вирване у фенікса. Процес активації полягає у
+            спалюванні частини пера джерелом вогню та вдиханні диму. Він настільки потужний,
+            що майже миттєво присипляє користувача. Після сну ви відчуєте себе майже
+            повністю омолодженим.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]+100% sleepiness, wake up with a minor amount of
-            thirstiness and sleepiness
+          \n&lt;0_0_150_0_0_color_num&gt; • %c[0,200,0,0]+100% сонливість, прокидаєтеся з
+            незначним відчуттям спраги та сонливості
           \n%c[0,0,150,0] • %c[0,0,200,0]-3000 radiation
-          \n%c[0,0,150,0] • %c[0,0,200,0]+100% health
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1000 satiety
+          \n%c[0,0,150,0] • %c[0,0,200,0]+100% здоров'я
+          \n%c[0,0,150,0] • %c[0,0,200,0] +1000 ситості
           \n%c[0,0,150,0] • %c[0,0,200,0]-100% intoxification
           \n
           \n
@@ -1725,78 +1736,78 @@ Unstable Artifacts
     </string>
     <string id="st_af_nk_un_gluttony_name">
         <text>
-            Gluttony
+            Обжерливість.
         </text>
     </string>
     <string id="st_af_nk_un_gluttony_descr">
         <text>
-            A star shaped artifact. Method of use involves removing one of its 8 arms. The
-            central sphere crumbles to dust when all of them have been used. When an arm is
-            broken off, the artifact instantly generates a massive amount of new red blood
-            cells in the user, enough to heal all wounds and damage, while eating up a
-            massive amount of food and water. The process is so fast that the sudden shock
-            the body goes through can make you pass out due to dehydration.
+            Артефакт у формі зірки. Спосіб використання полягає у вилученні однієї з 8
+            рукавів. Центральна сфера розсипається на порох, коли всі вони будуть
+            використані. Коли руку відламують, артефакт миттєво генерує величезну кількість
+            нових червоних кров'яних тілець, достатню для загоєння всіх ран і пошкоджень,
+            поглинаючи при цьому величезну кількість їжі та води. Процес відбувається
+            настільки швидко, що раптовий шок, якого зазнає організм, може призвести до
+            втрати свідомості через зневоднення.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-500 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-500 насичення
           \n%c[0,150,0,0] • %c[0,200,0,0]+50% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+100% health
+          \n%c[0,0,150,0] • %c[0,0,200,0]+100% здоров'я
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_snakeoil_name">
         <text>
-            Snake Oil
+            Зміїна олія
         </text>
     </string>
     <string id="st_af_nk_un_snakeoil_descr">
         <text>
-            An extremely potent and toxic oil, the seller assures you it is made out of
-            snakes caught in the Zone. It's probably an unknown substance that has undergone
-            an artifact transmutation. The oil at first almost kills the user but very
-            rapidly regenerates all of the damage caused and continues to heal for some
-            extra time.
+            Надзвичайно сильна і токсична олія, продавець запевняє, що вона зроблена зі
+            змій, спійманих у Зоні. Ймовірно, це невідома речовина, яка зазнала артефактної
+            трансмутації. Спочатку олія ледь не вбиває користувача, але дуже швидко
+            регенерує всі завдані пошкодження і продовжує зцілювати ще деякий час.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-85% health
+          \n%c[0,150,0,0] • %c[0,200,0,0]-85% здоров'я
           \n%c[0,150,0,0] • %c[0,200,0,0]+10% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+60% thirstiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+24% hp/s, total of 480% hp
+          \n%c[0,0,150,0] • %c[0,0,200,0] +24% хп/с, разом 480% хп
           \n
           \n
         </text>
     </string>
     <string id="st_af_nk_un_devilsheavendeath_name">
         <text>
-            Devil's Heavendeath
+            Диявольське пекло
         </text>
     </string>
     <string id="st_af_nk_un_devilsheavendeath_descr">
         <text>
-            An incredibly toxic mushroom, named appropriately for how dangerous it is and
-            how it makes you feel. Stalkers that have consumed one and passed out never woke
-            up again. If you manage to survive eating a part of it and get your mind and
-            body back in shape, it actually does grant a lot of benefits. Only for the
-            bravest, the stupidest or the most suicidal Stalkers.
+            Неймовірно токсичний гриб, названий так відповідно до того, наскільки він
+            небезпечний і які відчуття викликає. Сталкери, які з'їли один з них і втратили
+            свідомість, більше ніколи не прокидалися. Якщо вам вдасться вижити, з'ївши його
+            шматочок, і повернути свій розум і тіло у форму, він дійсно дає багато переваг.
+            Тільки для найсміливіших, найдурніших або найсуїцидальніших сталкерів.
           \n
           \n%c[0,150,0,125]Unstable Artifact
           \n
           \n%c[0,150,0,125]Upon use:
-          \n%c[0,150,0,0] • %c[0,200,0,0]-98% health
-          \n%c[0,150,0,0] • %c[0,200,0,0]-600 satiety
+          \n%c[0,150,0,0] • %c[0,200,0,0]-98% здоров'я
+          \n%c[0,150,0,0] • %c[0,200,0,0]-600 ситості
           \n%c[0,150,0,0] • %c[0,200,0,0]+100% intoxification
           \n%c[0,150,0,0] • %c[0,200,0,0]+60% thirstiness
           \n%c[0,150,0,0] • %c[0,200,0,0]+60% sleepiness
-          \n%c[0,0,150,0] • %c[0,0,200,0]+20kg carry weight
-          \n%c[0,0,150,0] • %c[0,0,200,0]-60 rads/s, total of 39960 rads
-          \n%c[0,0,150,0] • %c[0,0,200,0]+1.5% hp/s, total of 999% hp
-          \n%c[0,0,150,0] • %c[0,0,200,0]+180% stamina
-          \n%c[0,0,150,0] • %c[0,0,200,0]+500% psy protection
+          \n%c[0,0,150,0] • %c[0,0,200,0] +20 кг ваги
+          \n%c[0,0,150,0] • %c[0,0,200,0]-60 рад/с, загалом 39960 рад
+          \n%c[0,0,150,0] • %c[0,0,200,0]+1.5% hp/s, разом 999% hp
+          \n%c[0,0,150,0] • %c[0,0,200,0] +180% витривалості
+          \n%c[0,0,150,0] • %c[0,0,200,0] +500% псизахисту
           \n
           \n
         </text>
@@ -1807,147 +1818,147 @@ Legacy Artifacts
 -->
     <string id="st_af_nk_leg_slime_name">
         <text>
-            Slime
+            Слиз.
         </text>
     </string>
     <string id="st_af_nk_leg_slime_descr">
         <text>
-            It is certain that this artifact is created by the anomaly called "Fruit Punch".
-            When carried on the belt, the wounds bleed less, although the body of its owner
-            becomes vulnerable to various burns.
+            Достеменно відомо, що цей артефакт створений аномалією під назвою "Фруктовий
+            удар". При носінні на поясі рани менше кровоточать, хоча тіло його власника стає
+            вразливим до різних опіків.
           \n
-          \n%c[0,200,100,50]Tier 1 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 1-го рівня
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_slug_name">
         <text>
-            Slug
+            Слизняк.
         </text>
     </string>
     <string id="st_af_nk_leg_slug_descr">
         <text>
-            Formed by the "Fruit Punch" anomaly. The negative qualities of this artifact are
-            compensated by the fact that it heightens the coagulation quality of blood. It's
-            not often that one runs into such an artifact, and they pay well for it too.
+            Утворюється внаслідок аномалії "Фруктовий пунш". Негативні якості цього
+            артефакту компенсуються тим, що він підвищує якість згортання крові. Натрапити
+            на такий артефакт можна не часто, та й платять за нього добре.
           \n
-          \n%c[0,200,100,50]Tier 2 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 2 рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,160,0]Medium thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]Medium chemical vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0]Середня теплова вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0]Середня хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,133,32,12]Medium wound healing
+          \n%c[0,0,150,0] • %c[0,133,32,12] Середнє загоєння ран
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_mica_name">
         <text>
-            Mica
+            Слюда
         </text>
     </string>
     <string id="st_af_nk_leg_mica_descr">
         <text>
-            Anomaly "Fruit Punch" is able to create such an artifact at the rarest, most
-            extreme collection of physical conditions. The result is a semi-transparent,
-            hard object. A rare and expensive artifact.
+            Аномалія "Фруктовий пунш" здатна створити такий артефакт за найрідкіснішого,
+            найекстремальнішого набору фізичних умов. Результат - напівпрозорий, твердий
+            об'єкт. Рідкісний і дорогий артефакт.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
-          \n%c[0,150,0,0] • %c[0,255,160,0]High thermal vulnerability
-          \n%c[0,150,0,0] • %c[0,200,255,0]High chemical vulnerability
+          \n%c[0,150,0,0] • %c[0,255,160,0]Висока теплова вразливість
+          \n%c[0,150,0,0] • %c[0,200,255,0]Висока хімічна вразливість
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,133,32,12]High wound healing
+          \n%c[0,0,150,0] • %c[0,133,32,12] Висока швидкість загоєння ран
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_stoneblood_name">
         <text>
-            Stone Blood
+            Кам'яна кров
         </text>
     </string>
     <string id="st_af_nk_leg_stoneblood_descr">
         <text>
-            You can find this artifact near the anomaly "Whirligig". It is quite an ugly
-            reddish object made out of pressed together and curiously bent polymerized
-            remnants of plants, soil, and bones. Quite widespread and not very effective.
+            Знайти цей артефакт можна біля аномалії "Круговерть". Це досить потворний
+            червонуватий об'єкт, зроблений зі спресованих разом і химерно зігнутих
+            полімеризованих залишків рослин, ґрунту та кісток. Досить поширений і не дуже
+            ефективний.
           \n
-          \n%c[0,200,100,50]Tier 1 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 1
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Minor vitality restoration
+          \n%c[0,0,150,0] • %c[0,213,70,125] Незначне відновлення життєвих сил
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_meatchunk_name">
         <text>
-            Meat Chunk
+            М'ясний шматок
         </text>
     </string>
     <string id="st_af_nk_leg_meatchunk_descr">
         <text>
-            Manufactured by the Whirligig anomaly. Causes increased cell growth. On the
-            other hand, the newly formed cells are much more receptive to the effects of
-            physical uranium. The artifact doesn't show up very often, but it's hard to call
-            it rare.
+            Виробляється аномалією Вихор. Викликає посилений ріст клітин. З іншого боку,
+            новоутворені клітини набагато сприйнятливіші до впливу фізичного урану. Артефакт
+            з'являється не дуже часто, але його важко назвати рідкісним.
           \n
-          \n%c[0,200,100,50]Tier 2 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 2
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]Medium vitality restoration
+          \n%c[0,0,150,0] • %c[0,213,70,125] Середнє відновлення життєвих сил
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_soul_name">
         <text>
-            Soul
+            Душа
         </text>
     </string>
     <string id="st_af_nk_leg_soul_descr">
         <text>
-            Very rarely found artifact, located near the Whirligig anomaly. Only a very few
-            manage to find this artifact, and few have even seen it. It has a nice shape and
-            an equally nice price.
+            Дуже рідко зустрічається артефакт, розташований біля аномалії Whirligig. Лише
+            дуже небагатьом вдається знайти цей артефакт, і мало хто навіть бачив його. Він
+            має приємну форму і не менш приємну ціну.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,213,70,125]High vitality restoration
+          \n%c[0,0,150,0] • %c[0,213,70,125]Високий рівень відновлення життєвих сил
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_droplets_name">
         <text>
-            Droplets
+            Краплі.
         </text>
     </string>
     <string id="st_af_nk_leg_droplets_descr">
         <text>
-            Formed in the anomaly "Burner" at high temperatures. From the exterior looks
-            like a tear-like shade compound with a glossy surface, covered in cracks.
+            Утворюється в аномалії "Пальник" при високих температурах. Ззовні виглядає як
+            сльозоподібна сполука відтінку з глянцевою поверхнею, вкритою тріщинами.
           \n
-          \n%c[0,200,100,50]Tier 1 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 1-го рівня
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Medium radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Середня фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_stoneflower_name">
         <text>
-            Stone Flower
+            Кам'яна квітка
         </text>
     </string>
     <string id="st_af_nk_leg_stoneflower_descr">
         <text>
-            Born in the Springboard anomaly. This artifact is found in only a few areas of
-            the Zone. The bits of metallic compounds create a beautiful light play. It is
-            very calming to study this artifact at night by the fire.
+            Народився в аномалії "Трамплін". Цей артефакт зустрічається лише в кількох
+            районах Зони. Шматочки металевих сполук створюють красиву гру світла. Вивчати
+            цей артефакт вночі біля багаття дуже заспокійливо.
           \n
-          \n%c[0,200,100,50]Tier 2 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 2-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Moderately radioactive
@@ -1956,17 +1967,17 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_nightstar_name">
         <text>
-            Night Star
+            Нічна зірка
         </text>
     </string>
     <string id="st_af_nk_leg_nightstar_descr">
         <text>
-            This wonderful artifact is formed by the Springboard anomaly. The use of the
-            artifact demands the neutralization of deadly radiation. Expensive and rare,
-            this artifact is extremely interesting for scientific expeditions and other
-            research activity in the Zone.
+            Цей дивовижний артефакт утворений аномалією "Трамплін". Використання артефакту
+            вимагає нейтралізації смертельної радіації. Дорогий і рідкісний, цей артефакт
+            надзвичайно цікавий для наукових експедицій та іншої дослідницької діяльності в
+            Зоні.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Highly radioactive
@@ -1975,93 +1986,89 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_thorn_name">
         <text>
-            Thorn
+            Торн.
         </text>
     </string>
     <string id="st_af_nk_leg_thorn_descr">
         <text>
-            The result of the interaction between the anomaly Burnt Fuzz and the body of a
-            careless stalker. The Thorn artifact pokes the body of its owner, no matter
-            what. But it also helps clean the body of radionucliodes. Quite widespread and
-            cheap.
+            Результат взаємодії аномалії "Обгорілий пухнастик" і тіла необережного сталкера.
+            Артефакт "Шип" пронизує тіло свого власника, незважаючи ні на що. Але він також
+            допомагає очистити тіло від радіонуклідів. Досить поширений і дешевий.
           \n
-          \n%c[0,200,100,50]Tier 1 Legacy Artifact
+          \n%c[0,200,100,50]Артефакт Спадщини 1-го рівня
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Medium radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Середня фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_crystalthorn_name">
         <text>
-            Crystal Thorn
+            Кришталевий Шип
         </text>
     </string>
     <string id="st_af_nk_leg_crystalthorn_descr">
         <text>
-            Crystallizes in the anomaly Burnt Fuzz. Naturally takes out the radiation from
-            the organism. That is, through the ears along with some amount of blood. Blood
-            loss is possible also through other openings. Widespread and quite effective,
-            which is the cause for the stable price in the artifact market.
+            Кристалізується в аномалії Burnt Fuzz. Природним чином виводить радіацію з
+            організму. Тобто, через вуха разом з деякою кількістю крові. Втрата крові
+            можлива і через інші отвори. Поширений і досить ефективний, що є причиною
+            стабільної ціни на ринку артефактів.
           \n
-          \n%c[0,200,100,50]Tier 2 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 2 рівня
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]High radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Високий рівень фільтрації радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_urchin_name">
         <text>
-            Urchin
+            Урчін
         </text>
     </string>
     <string id="st_af_nk_leg_urchin_descr">
         <text>
-            The anomaly Burnt Fuzz very rarely gives rise to this artifact. Blood pressure
-            rises, the body gets rid of a large amount of red blood cells. But along with
-            them the stored radiation leaves the body as well. In his fundamental work
-            titled "Ionization and polarization of the components of rare artifacts",
-            Sakharov noted that the content of this formation has a critical stability, and
-            it's not realistic to create such an artifact in lab conditions in the next ten
-            years.
+            Аномалія Burnt Fuzz дуже рідко призводить до появи цього артефакту. Підвищується
+            кров'яний тиск, організм позбувається великої кількості еритроцитів. Але разом з
+            ними тіло залишає і накопичена радіація. У своїй фундаментальній праці
+            "Іонізація і поляризація компонентів рідкісних артефактів" Сахаров зазначав, що
+            вміст цього утворення має критичну стабільність, і створити такий артефакт в
+            лабораторних умовах у найближчі десять років нереально.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,217,102]Extremely high radiation filtering
+          \n%c[0,0,150,0] • %c[0,255,217,102] Надзвичайно висока фільтрація радіації
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_wrenched_name">
         <text>
-            Wrenched
+            Скручений.
         </text>
     </string>
     <string id="st_af_nk_leg_wrenched_descr">
         <text>
-            Located in the anomaly called "Vortex". When it touches the body it disseminates
-            the direction of the radiation, protecting from scratches or wounds made by
-            mutants. This artifact isn't hard to find, that's why they don't pay much for
-            it.
+            Знаходиться в аномалії під назвою "Вихор". Коли він торкається тіла, то змінює
+            напрямок випромінювання, захищаючи від подряпин чи ран, нанесених мутантами. Цей
+            артефакт не важко знайти, тому за нього не платять багато.
           \n
-          \n%c[0,200,100,50]Tier 1 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 1-го рівня
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_gravi_name">
         <text>
-            Gravi
+            Граві.
         </text>
     </string>
     <string id="st_af_nk_leg_gravi_descr">
         <text>
-            Can spot it near anomalies such as "Vortex" or in the hands of another stalker.
-            While wearing it, a certain amount of radiation is stored in the body while the
-            rest of it is scattered in the radial direction away from the body. A good
-            price.
+            Ви можете помітити його біля аномалій, таких як "Вихор", або в руках іншого
+            сталкера. Під час носіння певна кількість випромінювання накопичується в тілі, а
+            решта розсіюється в радіальному напрямку від тіла. Хороша ціна.
           \n
-          \n%c[0,200,100,50]Tier 2 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 2 рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Moderately radioactive
@@ -2070,16 +2077,16 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_goldfish_name">
         <text>
-            Goldfish
+            Золота рибка.
         </text>
     </string>
     <string id="st_af_nk_leg_goldfish_descr">
         <text>
-            An artifact formed in the Vortex anomaly. It is activated by the heat of the
-            body. Decide what's worse: radiation or mutant wounds, and choose the lesser of
-            the two evils. In any case you can sell the artifact for good profit.
+            Артефакт, що утворюється в аномалії Вихор. Активується від тепла тіла. Вирішіть,
+            що гірше: радіація чи мутантські рани, і оберіть менше з двох зол. У будь-якому
+            випадку ви можете продати артефакт, отримавши за нього непоганий прибуток.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
           \n%c[0,150,0,0]Disadvantages:
           \n%c[0,150,0,0] • %c[0,255,217,102]Highly radioactive
@@ -2088,118 +2095,117 @@ Legacy Artifacts
     </string>
     <string id="st_af_nk_leg_kolobok_name">
         <text>
-            Kolobok
+            Колобок
         </text>
     </string>
     <string id="st_af_nk_leg_kolobok_descr">
         <text>
-            When you hold this mystery of the Zone in your hands, you feel how your skin
-            becomes tougher and less sensitive. You can still shoot through it with a
-            bullet, but it's much more difficult to cut through
+            Коли тримаєш цю таємницю Зони в руках, відчуваєш, як шкіра стає жорсткішою і
+            менш чутливою. Її ще можна пробити кулею, але вже набагато важче розрізати
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_shell_name">
         <text>
-            Shell
+            Оболонка
         </text>
     </string>
     <string id="st_af_nk_leg_shell_descr">
         <text>
-            When wearing this artifact the denaturalization of proteins happens slower. In
-            other words, the flesh is able to endure higher temperatures and burns less. In
-            itself it is an expensive and rare thing.
+            При носінні цього артефакту денатуралізація білків відбувається повільніше.
+            Іншими словами, плоть здатна витримувати вищі температури і менше горить. Сам по
+            собі він є дорогою та рідкісною річчю.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт 3-го рівня
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,255,160,0]High thermal protection
+          \n%c[0,0,150,0] • %c[0,255,160,0] Високий тепловий захист
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_pellicle_name">
         <text>
-            Pellicle
+            Пелюстка
         </text>
     </string>
     <string id="st_af_nk_leg_pellicle_descr">
         <text>
-            This artifact is so rare that many researchers can't even imagine that such a
-            substance can exist in a natural setting. Emits acidic chemical components.
+            Цей артефакт настільки рідкісний, що багато дослідників навіть не можуть уявити,
+            що така речовина може існувати в природі. Виділяє кислі хімічні компоненти.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,200,255,0]High chemical protection
+          \n%c[0,0,150,0] • %c[0,200,255,0] Високий хімічний захист
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_battery_name">
         <text>
-            Battery
+            Батарея
         </text>
     </string>
     <string id="st_af_nk_leg_battery_descr">
         <text>
-            The origin of this object is shrouded in scientific mystery. It's clear that
-            it's made in part by di-electric elements, but science does not know the
-            physical conditions in which it is formed.
+            Походження цього об'єкта оповите науковою таємницею. Зрозуміло, що він частково
+            складається з діелектричних елементів, але науці не відомі фізичні умови, в яких
+            він формується.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,74,134,232]High shock protection
+          \n%c[0,0,150,0] • %c[0,74,134,232] Високий захист від ударів
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_spring_name">
         <text>
-            Spring
+            Весна
         </text>
     </string>
     <string id="st_af_nk_leg_spring_descr">
         <text>
-            According to the opinion of some researchers-theorists, this artifact is a
-            hybrid between Battery and Shell.
+            На думку деяких дослідників-теоретиків, цей артефакт є гібридом між батареєю та
+            мушлею.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,180,225,255]High impact protection
+          \n%c[0,0,150,0] • %c[0,180,225,255] Високий захист від ударів
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_mercuryball_name">
         <text>
-            Mercury Ball
+            Ртутна куля
         </text>
     </string>
     <string id="st_af_nk_leg_mercuryball_descr">
         <text>
-            Resembling a large fluorescent ball overgrown with moss, the artifact's
-            properties are not well understood. What is known though is that it does provide
-            some protection from harmful psy-waves.
+            Властивості артефакту, що нагадує велику флуоресцентну кулю, оброслу мохом, не
+            дуже добре вивчені. Відомо лише, що він забезпечує певний захист від шкідливих
+            пси-хвиль.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
           \n%c[0,0,150,0]Advantages:
-          \n%c[0,0,150,0] • %c[0,125,0,210]Minor psychic restoration
+          \n%c[0,0,150,0] • %c[0,125,0,210] Незначне відновлення психіки
           \n
         </text>
     </string>
     <string id="st_af_nk_leg_mamasbeads_name">
         <text>
-            Mama's Beads
+            Мамине намисто
         </text>
     </string>
     <string id="st_af_nk_leg_mamasbeads_descr">
         <text>
-            An extremely rare artifact. Keep it safe because it has no negative qualities.
-            Scientists cannot figure out how to create such an object in laboratories.
+            Надзвичайно рідкісний артефакт. Бережіть його, бо він не має жодних негативних
+            якостей. Вчені не можуть зрозуміти, як створити такий об'єкт в лабораторіях.
           \n
-          \n%c[0,200,100,50]Tier 3 Legacy Artifact
+          \n%c[0,200,100,50]Спадковий артефакт рівня 3
           \n
         </text>
     </string>
