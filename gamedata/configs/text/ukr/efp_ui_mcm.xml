@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_mcm_menu_efp_ui">
         <text>
-            Simplified Vision
+            Спрощене бачення
         </text>
     </string>
     <string id="ui_mcm_menu_faction_settings">
@@ -127,7 +127,7 @@
     </string>
     <string id="ui_mcm_desc_cell_knife">
         <text>
-            Слот ножа
+            Слот для ножа
         </text>
     </string>
     <string id="ui_mcm_desc_cell_pistol">

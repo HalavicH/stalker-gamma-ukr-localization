@@ -2,59 +2,59 @@
 <string_table>
     <string id="test_dialog_0">
         <text>
-            Do I need a test case?
+            Чи потрібен мені тестовий кейс?
         </text>
     </string>
     <string id="test_dialog_1">
         <text>
-            Here's a test case for beta.
+            Ось тестовий приклад для бета-версії.
         </text>
     </string>
     <string id="test_dialog_2">
         <text>
-            I will find it.
+            Я знайду його.
         </text>
     </string>
     <string id="test_dialog_3">
         <text>
-            Don't.
+            Не треба.
         </text>
     </string>
     <string id="test_dialog_4">
         <text>
-            Good
+            Добре.
           \n
         </text>
     </string>
     <string id="test_dialog_end_0">
         <text>
-            I completed the quest
+            Я завершив квест
         </text>
     </string>
     <string id="test_dialog_end_1">
         <text>
-            Excellent
+            Чудово.
           \n
         </text>
     </string>
     <string id="test_dialog_end_2">
         <text>
-            Where is my reward
+            Де моя винагорода?
         </text>
     </string>
     <string id="test_dialog_end_3">
         <text>
-            There she is
+            А ось і вона.
         </text>
     </string>
     <string id="test_dialog_end_4">
         <text>
-            Thank you.
+            Дякую.
         </text>
     </string>
     <string id="test_dialog_end_4">
         <text>
-            Thank you.
+            Дякую.
         </text>
     </string>
     <string id="sarik_dialog_0">
@@ -501,7 +501,7 @@
     </string>
     <string id="chernov_4_quest_2">
         <text>
-            Interesting. What happened to your friend?
+            Цікаво. А що сталося з твоїм другом?
         </text>
     </string>
     <string id="chernov_4_quest_3">
@@ -616,7 +616,7 @@
     </string>
     <string id="juk_1_quest_end_1">
         <text>
-            Не думав, що ти впораєшся. Хороша робота, ось твоя нагорода.
+            Не думав, що ти впораєшся. Гарна робота, ось твоя нагорода.
         </text>
     </string>
     <string id="juk_2_quest_0">

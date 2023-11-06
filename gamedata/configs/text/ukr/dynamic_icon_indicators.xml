@@ -107,7 +107,7 @@
     </string>
     <string id="ui_mcm_lst_dii_right">
         <text>
-            Справа
+            Праворуч.
         </text>
     </string>
     <string id="ui_mcm_lst_dii_left">
@@ -132,7 +132,7 @@
     </string>
     <string id="ui_mcm_desc_dii_prop_consumable">
         <text>
-            Витратники
+            Витратні матеріали
         </text>
     </string>
     <string id="ui_mcm_desc_dii_prop_upgrade_kit">

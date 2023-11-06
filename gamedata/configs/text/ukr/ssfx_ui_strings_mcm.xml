@@ -9,61 +9,61 @@
     <!-- Buttons -->
     <string id="ui_mcm_ssfx_module_general">
         <text>
-            General
+            Генерал
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof">
         <text>
-            Weapons DOF
+            Озброєння DOF
         </text>
     </string>
 
     <!-- General Settings -->
     <string id="ui_mcm_ssfx_module_general_title">
         <text>
-            General Settings
+            Загальні налаштування
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_general_shaderscope_patch_mcm">
         <text>
-            Acitvate SHADER BASED 2D SCOPES support
+            Підтримка 2D SCOPES на основі шейдерів Acitvate
         </text>
     </string>
 
     <!-- DOF Settings -->
     <string id="ui_mcm_ssfx_module_wpn_dof_title">
         <text>
-            Weapons DOF Settings
+            Налаштування DOF зброї
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_aim_fadestart_mcm">
         <text>
-            Out of focus fade start [ AIMING ]
+            Початок згладжування розфокусування [ЦІЛЬОВЕ НАВАНТАЖЕННЯ]
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_aim_fadelen_mcm">
         <text>
-            Out of focus fade length [ AIMING ]
+            Тривалість розфокусування поза фокусом [ AIMING]
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_aim_blur_mcm">
         <text>
-            Blur intensity [ AIMING ] ( 0 = Disable )
+            Інтенсивність розмиття [ AIMING ] ( 0 = Вимкнути )
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_aim_edgeblur_mcm">
         <text>
-            Peripheral Blur [ AIMING ] ( 0 = Disable )
+            Розмиття периферії [ ПРИЦІЛЮВАННЯ ] ( 0 = Вимкнути )
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_fadestart_mcm">
         <text>
-            Out of focus fade start
+            Початок згладжування поза фокусом
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_fadelen_mcm">
         <text>
-            Out of focus fade length
+            Тривалість вицвітання поза фокусом
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_wpn_dof_blur_mcm">

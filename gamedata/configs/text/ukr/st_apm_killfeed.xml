@@ -42,7 +42,7 @@
     </string>
     <string id="st_apm_killfeed_killed_by">
         <text>
-            Вас убили %s (%s)
+            Вас вбили %s (%s)
         </text>
     </string>
     <string id="st_apm_killfeed_npc_killed_by_no_reason">

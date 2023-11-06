@@ -143,7 +143,7 @@
     </string>
     <string id="cc_effect-ambient-jupiter-jup_b219_generator_start">
         <text>
-            [пуск генератора]
+            [запуск генератора]
         </text>
     </string>
     <string id="cc_effect-ambient-jupiter-jup_b219_underpass_opening">
@@ -238,7 +238,7 @@
     </string>
     <string id="cc_wounded-dolg-help">
         <text>
-            [Обов'язець кличе на допомогу]
+            [Обов'язківець кличе на допомогу]
         </text>
     </string>
     <string id="cc_wounded-freedom-help">
@@ -258,7 +258,7 @@
     </string>
     <string id="cc_wounded-monolith-help">
         <text>
-            [Монолитовець кличе на допомогу]
+            [Монолітівець кличе на допомогу]
         </text>
     </string>
     <string id="cc_wounded-stalker-help">
@@ -564,7 +564,7 @@
     </string>
     <string id="zat_b14_robbery_kill_actor_snd_3">
         <text>
-            Ти, урод, гони артефакт!
+            Ти, виродку, женеш артефакт!
         </text>
     </string>
     <string id="zat_b14_robbery_punch">
@@ -863,7 +863,7 @@
     </string>
     <string id="zat_b33_stalker_snag_greeting_gun">
         <text>
-            Ух ти, ось це гармата! Слухай, покажи-ка, га?
+            Ух ти, ось це гармата! Слухай, покажи-но, га?
         </text>
     </string>
     <string id="zat_b38_stalker_cop_about_lair_bloodsucker">
@@ -925,7 +925,7 @@
     </string>
     <string id="zat_b38_stalker_cop_hit_2">
         <text>
-            Твою мать, ти в мене потрапив!
+            Твою матір, ти в мене влучив!
         </text>
     </string>
     <string id="zat_b38_stalker_cop_jump_down_1">
@@ -1180,7 +1180,7 @@
     </string>
     <string id="zat_b53_artefact_hunter_help">
         <text>
-            Сталкер! Допоможи!
+            Сталкер! Допоможи мені!
         </text>
     </string>
     <string id="zat_b7_bandit_boss_sultan_farewell_1">
@@ -1541,7 +1541,7 @@
     </string>
     <string id="jup_b1_stalker_warning">
         <text>
-            Ко... до... контролер... Ост... обережно!
+            Ко... ко... контролер... Об... Обережно!
         </text>
     </string>
     <string id="jup_b1_stalkers_aftershock_1">
@@ -2361,8 +2361,8 @@
     </string>
     <string id="jup_b46_spatial_bubble_sos_2">
         <text>
-            [Шум]... більше немає, другий день без води. Просимо допомоги. Повторюю, просимо
-            допомоги! Спаси... [шум]
+            [Шум]... більше немає, другий день без води. Просимо допомоги. Повторюю, прошу
+            допомоги! Врятуй... [шум]
         </text>
     </string>
     <string id="jup_b46_spatial_bubble_sos_3">
@@ -4478,7 +4478,7 @@
     </string>
     <string id="pri_b35_secondary_target_lost_end">
         <text>
-            Друга мета втрачена! Відходимо!
+            Другу ціль втрачено! Відходимо!
         </text>
     </string>
     <string id="pri_b35_targets_lost_end">
@@ -4535,7 +4535,7 @@
     </string>
     <string id="bar_guard_prohodi_1">
         <text>
-            Проходь, що не затримуйся.
+            Проходь, не затримуйся.
         </text>
     </string>
     <string id="bar_guard_stop_1">

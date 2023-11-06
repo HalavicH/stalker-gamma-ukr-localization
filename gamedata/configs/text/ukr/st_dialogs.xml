@@ -4,7 +4,7 @@
     <!-- Trading / Repair dialog -->
     <string id="st_stalker_trade_dialog_init">
         <text>
-            Може, махнемося, у кого чим мішок багатий? %c[d_orange][Торговельне]
+            Може, махнемось, у кого чим мішок багатший? %c[d_orange][Торговельне]
         </text>
     </string>
     <string id="st_stalker_trade_dialog_reply_1">
@@ -486,7 +486,7 @@
     </string>
     <string id="st_dm_medic_general_text_2">
         <text>
-            Заштопати мене. %c[d_orange][1,850 грн]
+            Заштопати мене. %c[d_orange][1 850 грн]
         </text>
     </string>
     <string id="st_dm_medic_general_text_3">

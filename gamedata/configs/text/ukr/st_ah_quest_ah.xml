@@ -449,7 +449,7 @@
     </string>
     <string id="ah_sv_pda_title">
         <text>
-            Find the Pirogov's missing assistant
+            Знайти зниклого асистента Пирогова
         </text>
     </string>
     <string id="ah_sv_pda_desc">
@@ -630,7 +630,7 @@
     </string>
     <string id="ah_rad_r_title">
         <text>
-            Find three artifical samples in the Deadwood, south of the X19 complex.
+            Знайдено три артефактні зразки в Мертвому лісі, на південь від комплексу Х19.
         </text>
     </string>
     <string id="ah_rad_r_desc">
@@ -1329,16 +1329,16 @@
     </string>
     <string id="kuznecov_find_document_5_descr">
         <text>
-            I continue to collect all the secrets of laboratory experiments in the Zone for
-            the military command. This time, Kuznetsov sends me on a walk through Pripyat to
-            find a certain laboratory X-8, which was apparently engaged in the creation of
-            high- precision weapons whose mechanism was based on pulse energy, and to
-            retrieve all the important documents from there.
+            Я продовжую збирати для військового командування всі секрети лабораторних
+            експериментів у Зоні. Цього разу Кузнєцов відправляє мене на прогулянку
+            Прип'яттю, щоб знайти якусь лабораторію Х-8, яка, вочевидь, займалася створенням
+            високоточної зброї, механізм якої базувався на імпульсній енергії, і забрати
+            звідти всі важливі документи.
         </text>
     </string>
     <string id="kuznecov_find_document_6">
         <text>
-            Find Documents in the Pripyat Dungeons
+            Знайти документи в прип'ятських підземеллях
         </text>
     </string>
     <string id="kuznecov_find_document_6_descr">

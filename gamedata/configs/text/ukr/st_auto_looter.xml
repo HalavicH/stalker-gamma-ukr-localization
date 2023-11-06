@@ -25,7 +25,7 @@
     <!-- Контекстне меню на елементах -->
     <string id="st_auto_looter_enable_auto_disassemble">
         <text>
-            Увімкнути auto-disassemble
+            Увімкнути автоматичне розбирання
         </text>
     </string>
     <string id="st_auto_looter_disable_auto_disassemble">

@@ -7,7 +7,7 @@
     </string>
     <string id="ui_mcm_menu_scop">
         <text>
-            Adjust scope HUD
+            Налаштуйте HUD прицілу
         </text>
     </string>
     <string id="ui_mcm_scop_iron_fov">
@@ -23,7 +23,7 @@
     </string>
     <string id="ui_mcm_scop_scope_fov">
         <text>
-            3D scopes
+            3D приціли
         </text>
     </string>
     <string id="ui_mcm_scop_scope_fov_desc">
@@ -45,7 +45,7 @@
     </string>
     <string id="ui_mcm_scop_pistol_fov">
         <text>
-            Pistols
+            Пістолети
         </text>
     </string>
     <string id="ui_mcm_scop_pistol_fov_desc">
@@ -55,7 +55,7 @@
     </string>
     <string id="ui_mcm_scop_grenade_fov">
         <text>
-            Grenade Launcher
+            Гранатомет
         </text>
     </string>
     <string id="ui_mcm_scop_grenade_fov_desc">
