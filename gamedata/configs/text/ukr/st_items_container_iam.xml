@@ -2,7 +2,7 @@
 <string_table>
     <string id="st_af_itcher_af_iam_name">
         <text>
-            СПМ з «Зудой»
+            СПМ з "Зудою"
         </text>
     </string>
     <string id="st_af_itcher_af_iam_descr">
@@ -691,7 +691,7 @@
     </string>
     <string id="st_af_dummy_glassbeads_af_iam_name">
         <text>
-            СПМ з «Маминими бусами»
+            СПМ з "Маминим намистом"
         </text>
     </string>
     <string id="st_af_dummy_glassbeads_af_iam_descr">

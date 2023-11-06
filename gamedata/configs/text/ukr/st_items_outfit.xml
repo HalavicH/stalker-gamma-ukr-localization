@@ -46,7 +46,7 @@
     <!-- Headgear -->
     <string id="st_helm_exo_name">
         <text>
-            Екзошлем
+            Екзошолом
         </text>
     </string>
     <string id="st_helm_exo_descr">
@@ -219,7 +219,7 @@
     </string>
     <string id="st_helm_cloth_mask">
         <text>
-            Тряпчана маска
+            Ганчіркова маска
         </text>
     </string>
     <string id="st_helm_cloth_mask_descr">
@@ -2055,7 +2055,7 @@
     </string>
     <string id="greh_ps5_outfit_name">
         <text>
-            Протиосколковий броня «Велес»
+            Протиосколкова броня "Велес"
         </text>
     </string>
     <string id="greh_ps5_outfit_description">

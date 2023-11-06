@@ -491,7 +491,7 @@
     </string>
     <string id="st_trigger_components_3">
         <text>
-            Трьохрежимний УСМ куркового типу
+            Трирежимний УСМ куркового типу
         </text>
     </string>
     <string id="st_trigger_components_3_descr">
@@ -505,7 +505,7 @@
     </string>
     <string id="st_trigger_components_4">
         <text>
-            Однорежимний УСМ ударникового типу
+            Однорежимний УСМ ударного типу
         </text>
     </string>
     <string id="st_trigger_components_4_descr">
@@ -517,7 +517,7 @@
     </string>
     <string id="st_trigger_components_5">
         <text>
-            Дворежимний УСМ ударникового типу
+            Дворежимний УСМ ударного типу
         </text>
     </string>
     <string id="st_trigger_components_5_descr">

@@ -2,7 +2,7 @@
 <string_table>
     <string id="voronin_living_legend_0">
         <text>
-            Доброго здоров'я, товаришу генерал! Ви хотіли мене бачити?
+            Доброго здоров'я, товаришу генерале! Ви хотіли мене бачити?
         </text>
     </string>
     <string id="voronin_living_legend_1">
@@ -268,7 +268,7 @@
     </string>
     <string id="sidorovich_living_legend_finish_0">
         <text>
-            Ну, здарова, Сидорович. Повернувся я.
+            Ну, здарова, Сидоровичу. Повернувся я.
         </text>
     </string>
     <string id="sidorovich_living_legend_finish_1">
@@ -503,7 +503,7 @@
     </string>
     <string id="lukash_living_legend_finish_0">
         <text>
-            Е-ге-гей, Лукаш! Чекай, хто хоч не став легендою, але зате повернувся живим!
+            Е-ге-гей, Лукаше! Чекай, хто хоч не став легендою, але зате повернувся живим!
         </text>
     </string>
     <string id="lukash_living_legend_finish_1">
@@ -624,7 +624,7 @@
     </string>
     <string id="sakharov_living_legend_finish_0">
         <text>
-            Професор! Я повернувся!
+            Професоре! Я повернувся!
         </text>
     </string>
     <string id="sakharov_living_legend_finish_1">
@@ -1061,7 +1061,7 @@
     </string>
     <string id="stalker_gatekeeper_breakthrough_8">
         <text>
-            Погнали!
+            Поїхали!
         </text>
     </string>
     <string id="stalker_gatekeeper_brainscorcher_0">
@@ -1093,7 +1093,7 @@
     </string>
     <string id="stalker_gatekeeper_brainscorcher_4">
         <text>
-            Добре. Порада на дорожку буде?
+            Гаразд. Порада на доріжку буде?
         </text>
     </string>
     <string id="stalker_gatekeeper_brainscorcher_5">
@@ -1115,7 +1115,7 @@
     </string>
     <string id="stalker_gatekeeper_brainscorcher_7">
         <text>
-            Ну, з богом, братик. Бережи себе там!
+            Ну, з Богом, брате. Бережи себе там!
         </text>
     </string>
     <string id="stalker_gatekeeper_brainscorcher_71">

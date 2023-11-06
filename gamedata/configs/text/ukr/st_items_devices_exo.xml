@@ -273,127 +273,129 @@
     </string>
     <string id="article_exo_text">
         <text>
-            %c[pda_white]Powered Exoskeletons
+            %c[pda_white] Екзоскелети з живленням
           \n
-          \n %c[ui_gray_1] Exoskeletons now each have their own unique power source. The
-            power level must be maintained in order for an exoskeleton to move around
-            effectively.
+          \n %c[ui_gray_1] Екзоскелети тепер мають власне унікальне джерело живлення. Для
+            того, щоб екзоскелет міг ефективно пересуватися, необхідно підтримувати
+            необхідний рівень потужності.
           \n
-          \n%c[pda_blue]Exo batteries%c[ui_gray_1]
-          \n Exoskeleton power reserves can be recharged with batteries purchased from
-            traders or found in the world. Batteries hold a default of 100 power, which is
-            enough to fully top off an un-upgraded exoskeleton.
-          \n Exoskeleton power drains with movement, faster with sprinting. If the power
-            drops to 0, the player will be slowed to a ridiculous extent unless the armor is
-            removed.
+          \n%c[pda_blue]Екзо-батареї&lt;ui_gray_1_color
+          \n Запас енергії екзоскелета можна поповнити за допомогою батарейок, придбаних у
+            торговців або знайдених у навколишньому світі. Батареї за замовчуванням мають
+            100 одиниць енергії, чого достатньо для повного поповнення запасу енергії не
+            модернізованого екзоскелета.
+          \n Енергія екзоскелета розряджається під час руху, найшвидше - під час спринту.
+            Якщо заряд впаде до 0, гравець буде сповільнений до безглуздого рівня, якщо не
+            зняти броню.
           \n
-          \n%c[pda_green]External power supplies%c[ui_gray_1]
-          \n Exoskeletons can be upgraded with power supplies that are purchasable,
-            craftable, and lootable.
-          \n To equip a power supply, drag and drop the power supply onto the armor or
-            right- click the power supply while the exoskeleton is equipped.
-          \n Power supplies increase the energy capacity of an exoskeleton beyond 100, and
-            higher level versions confer unique benefits and powers.
+          \n%c[pda_green]Зовнішні джерела живлення&lt;ui_gray_1_color
+          \n Екзоскелети можна модернізувати за допомогою блоків живлення, які можна
+            придбати, змайструвати або пограбувати.
+          \n Щоб встановити блок живлення, перетягніть його на броню або клацніть правою
+            кнопкою миші на блоці живлення, коли екзоскелет вже екіпірований.
+          \n Блоки живлення збільшують енергетичний потенціал екзоскелета понад 100, а
+            вищі версії надають унікальні переваги та здібності.
         </text>
     </string>
     <string id="st_err_none">
         <text>
-            [SYSCTL] WARN: FUNCTIONALITY NOT FOUND
+            [SYSCTL] ПОПЕРЕДЖЕННЯ: ФУНКЦІОНАЛ НЕ ЗНАЙДЕНО
         </text>
     </string>
     <string id="st_err_power">
         <text>
-            [SYSCTL] WARN: POWER INSUFFICIENT
+            [ПОПЕРЕДЖЕННЯ: НЕДОСТАТНЯ ПОТУЖНІСТЬ
         </text>
     </string>
     <string id="st_err_cooldown">
         <text>
-            [SYSCTL] WARN: SYS TEMP ABOVE SAFE THRESHOLD
+            [SYSCTL] ПОПЕРЕДЖЕННЯ: ТЕМПЕРАТУРА СИСТЕМИ ПЕРЕВИЩУЄ БЕЗПЕЧНИЙ ПОРІГ
         </text>
     </string>
     <string id="st_ok_cooldown">
         <text>
-            [SYSCTL] INFO: SYS TEMP UNDER SAFE THRESHOLD
+            [SYSCTL] INFO: SYS TEMP НИЖЧЕ БЕЗПЕЧНОГО ПОРОГУ
         </text>
     </string>
     <string id="st_act_tank">
         <text>
-            [SYSCTL] INFO: GRAVITATIONAL BARRIER ACTIVE
+            [SYSCTL] INFO: ГРАВІТАЦІЙНИЙ БАР'ЄР АКТИВНИЙ
         </text>
     </string>
     <string id="st_act_sprint">
         <text>
-            [SYSCTL] INFO: MOTOR OVERCLOCK ACTIVE
+            [SYSCTL] INFO: АКТИВНИЙ РОЗГІН ДВИГУНА
         </text>
     </string>
     <string id="st_low_power">
         <text>
-            [SYSCTL] WARN: BATTERY LOW
+            [ПОПЕРЕДЖЕННЯ: НИЗЬКИЙ РІВЕНЬ ЗАРЯДУ АКУМУЛЯТОРА
         </text>
     </string>
     <string id="ui_mcm_menu_exo">
         <text>
-            Powered Exos
+            Екзоти з електроприводом.
         </text>
     </string>
     <string id="ui_mcm_exo_title">
         <text>
-            Powered Exoskeletons
+            Екзоскелети з електроприводом
         </text>
     </string>
     <string id="ui_mcm_exo_drain">
         <text>
-            Exoskeleton power drain
+            Відведення енергії екзоскелету
         </text>
     </string>
     <string id="ui_mcm_exo_sprint_drain">
         <text>
-            Exoskeleton sprint power drain
+            Спринтерський екзоскелет втрачає енергію в спринті
         </text>
     </string>
     <string id="ui_mcm_exo_debug">
         <text>
-            Enable Debug Logs
+            Увімкнути журнали налагодження
         </text>
     </string>
     <string id="ui_mcm_exo_drain_desc">
         <text>
-            Power drain multiplier for exoskeletons.
+            Мультиплікатор енергоспоживання для екзоскелетів.
         </text>
     </string>
     <string id="ui_mcm_exo_sprint_drain_desc">
         <text>
-            Multiplier on power drain when sprinting.
+            Мультиплікатор втрати енергії під час спринтерських забігів.
         </text>
     </string>
     <string id="ui_mcm_exo_battery_chance">
         <text>
-            Battery drop chance.
+            Ймовірність розрядки батареї.
         </text>
     </string>
     <string id="ui_mcm_exo_battery_chance_desc">
         <text>
-            Chance that stalkers will drop batteries. Exoskeleton wearers only!
+            Ймовірність того, що сталкери скинуть батарейки. Тільки для власників
+            екзоскелетів!
         </text>
     </string>
     <string id="ui_mcm_exo_debug_desc">
         <text>
-            Enable Debug Logs in console
+            Увімкнути журнали налагодження в консолі
         </text>
     </string>
     <string id="ui_mcm_menu_exo_power">
         <text>
-            Exo Power keybind
+            Зв'язка клавіш Exo Power
         </text>
     </string>
     <string id="ui_mcm_exo_power_keybind">
         <text>
-            Activate PSU power.
+            Увімкніть живлення БЖ.
         </text>
     </string>
     <string id="ui_mcm_exo_power_keybind_desc">
         <text>
-            Used to activate exoskeleton related powers.
+            Використовується для активації здібностей, пов'язаних з екзоскелетом.
         </text>
     </string>
 </string_table>

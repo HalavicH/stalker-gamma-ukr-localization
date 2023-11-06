@@ -58,7 +58,7 @@
     </string>
     <string id="st_af_grid_up_name">
         <text>
-            Титановий елемент каркаса
+            Титановий елемент каркасу
         </text>
     </string>
     <string id="st_af_grid_up_descr">
@@ -224,7 +224,7 @@
     </string>
     <string id="st_af_surge_name">
         <text>
-            Токообмежувач
+            Струмообмежувач
         </text>
     </string>
     <string id="st_af_surge_descr">
