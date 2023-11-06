@@ -78,7 +78,7 @@
     <!-- Beard (Loner Trader) Search and Rescue Storyline Task -->
     <string id="drx_sl_zat_a2_stalker_barmen_task_2_name">
         <text>
-            Сам гинь, а товариша виручай
+            Сам згинь, а товариша виручай
         </text>
     </string>
     <string id="drx_sl_zat_a2_stalker_barmen_task_2_text">
@@ -142,7 +142,7 @@
     <!--\noah (Loner Honcho) Dog Food Storyline Task -->
     <string id="drx_sl_zat_b18_noah_task_1_name">
         <text>
-            «Педигри»: знайти %s як корм для собаки листопада
+            "Педігрі": знайти %s як корм для собаки Ноя
         </text>
     </string>
     <string id="drx_sl_zat_b18_noah_task_1_text">

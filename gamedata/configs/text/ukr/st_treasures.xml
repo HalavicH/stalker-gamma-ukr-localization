@@ -177,7 +177,7 @@
     </string>
     <string id="st_dark_valley_treasure_17_name">
         <text>
-            Трухлява колоду
+            Трухлява колода
         </text>
     </string>
     <string id="st_dark_valley_treasure_17_descr">
@@ -221,7 +221,7 @@
     </string>
     <string id="st_dark_valley_treasure_21_name">
         <text>
-            Старий «Запорожець»
+            Старий "Запорожець"
         </text>
     </string>
     <string id="st_dark_valley_treasure_21_descr">
@@ -328,7 +328,7 @@
     </string>
     <string id="st_yantar_treasure_10_name">
         <text>
-            Заначка у редуктора крана
+            Заначка біля редуктора крана
         </text>
     </string>
     <string id="st_yantar_treasure_10_descr">
@@ -349,7 +349,7 @@
     </string>
     <string id="st_yantar_treasure_12_name">
         <text>
-            Порожниста колода
+            Порожня колода
         </text>
     </string>
     <string id="st_yantar_treasure_12_descr">
@@ -392,7 +392,7 @@
     </string>
     <string id="st_gar_treasure_18_name">
         <text>
-            Труба у мотора
+            Труба біля мотора
         </text>
     </string>
     <string id="st_gar_treasure_18_descr">
@@ -412,7 +412,7 @@
     </string>
     <string id="st_agr_treasure_2_name">
         <text>
-            Електрощит в цеху
+            Електрощит у цеху
         </text>
     </string>
     <string id="st_agr_treasure_2_descr">
@@ -528,7 +528,7 @@
     </string>
     <string id="st_agr_treasure_13_name">
         <text>
-            Сейф в кущах
+            Сейф у кущах
         </text>
     </string>
     <string id="st_agr_treasure_13_descr">
@@ -732,8 +732,8 @@
     </string>
     <string id="st_esc_treasure_9_descr">
         <text>
-            Як собаки напали, особливо вибирати не довелося, так що сховав хабар в
-            розщепленими дерево посеред поля і дав драла до табору.
+            Як собаки напали, особливо вибирати не довелося, тож сховав хабар у розщепленому
+            дереві посеред поля і дав драла до табору.
         </text>
     </string>
     <string id="st_esc_treasure_10_name">
@@ -1111,7 +1111,7 @@
     </string>
     <string id="st_lim_treasure_10_name">
         <text>
-            Рюкзак убитого
+            Рюкзак вбитого
         </text>
     </string>
     <string id="st_lim_treasure_10_descr">
@@ -1209,7 +1209,7 @@
     </string>
     <string id="st_mar_treasure_5_name">
         <text>
-            Рюкзак в болотах
+            Рюкзак у болоті
         </text>
     </string>
     <string id="st_mar_treasure_5_descr">
@@ -1513,7 +1513,7 @@
     </string>
     <string id="st_mar_treasure_34_name">
         <text>
-            Болотний пень
+            Болотяний пень
         </text>
     </string>
     <string id="st_mar_treasure_34_descr">
@@ -1642,7 +1642,7 @@
     </string>
     <string id="st_mil_treasure_12_name">
         <text>
-            Хрест у дерева
+            Хрест біля дерева
         </text>
     </string>
     <string id="st_mil_treasure_12_descr">
@@ -1928,7 +1928,7 @@
     </string>
     <string id="st_red_treasure_3_name">
         <text>
-            Рюкзак в кущах
+            Рюкзак у кущах
         </text>
     </string>
     <string id="st_red_treasure_12_name">
@@ -2146,7 +2146,7 @@
     </string>
     <string id="st_gar_treasure_quest_bandit_base_name">
         <text>
-            Старий схованка
+            Стара схованка
         </text>
     </string>
     <string id="st_gar_treasure_quest_bandit_base_descr">
@@ -2261,7 +2261,7 @@
     </string>
     <string id="st_mar_q_n_8_name">
         <text>
-            Хабар в сплату
+            Хабар у сплату
         </text>
     </string>
     <string id="st_mar_q_n_8_descr">
@@ -2539,7 +2539,7 @@
     </string>
     <string id="st_gar_q7_t_l_name">
         <text>
-            Труп у екскаватора
+            Труп біля екскаватора
         </text>
     </string>
     <string id="st_gar_q7_t_l_descr">
@@ -2566,7 +2566,7 @@
     </string>
     <string id="st_gar_q9_n_descr">
         <text>
-            У УАЗ'іке по шляху на Агропром пошукай ящик, невеликий такий. Думаю, ображений
+            В УАЗ'іку по дорозі на Агропром пошукай ящик, невеликий такий. Думаю, ображений
             не будеш.
         </text>
     </string>
@@ -2624,7 +2624,7 @@
     </string>
     <string id="st_val_q4_n_name">
         <text>
-            Хабар в кущах
+            Хабар у кущах
         </text>
     </string>
     <string id="st_val_q4_n_descr">
@@ -2903,7 +2903,7 @@
     </string>
     <string id="st_yan_q6_n_name">
         <text>
-            Раструб цистерни
+            Розтруб цистерни
         </text>
     </string>
     <string id="st_yan_q6_n_descr">
@@ -3021,7 +3021,7 @@
     </string>
     <string id="st_red_q8_n_name">
         <text>
-            Сейф у вагонетки
+            Сейф біля вагонетки
         </text>
     </string>
     <string id="st_red_q8_n_descr">
@@ -3085,7 +3085,7 @@
     </string>
     <string id="st_mil_q4_n_name">
         <text>
-            Могильний схованка
+            Могильна схованка
         </text>
     </string>
     <string id="st_mil_q4_n_descr">
@@ -3156,7 +3156,7 @@
     </string>
     <string id="st_trc_inventory_box_name">
         <text>
-            Домовлений схованка
+            Домовлений тайник
         </text>
     </string>
     <string id="st_trc_inventory_box_0000_descr">
@@ -3300,7 +3300,7 @@
     </string>
     <string id="st_trc_inventory_box_0014_name">
         <text>
-            Урядовий ящик
+            Урядова скринька
         </text>
     </string>
     <string id="st_trc_inventory_box_0015_descr">
@@ -3345,7 +3345,7 @@
     </string>
     <string id="st_trc_inventory_box_0019_name">
         <text>
-            Кинутий шафа
+            Кинута шафа
         </text>
     </string>
     <string id="st_trc_inventory_box_0019_descr">
@@ -3398,7 +3398,7 @@
     </string>
     <string id="st_trc_inventory_box_0023_descr">
         <text>
-            Хороший скриню для зайвого барахла.
+            Хороша скрня для зайвого барахла.
         </text>
     </string>
     <string id="st_trc_inventory_box_0023_name">
@@ -3413,7 +3413,7 @@
     </string>
     <string id="st_trc_inventory_box_0024_name">
         <text>
-            Схованка в КАМАЗ'е
+            Схованка в КАМАЗі
         </text>
     </string>
     <string id="st_trc_inventory_box_0025_descr">
@@ -3484,7 +3484,7 @@
     </string>
     <string id="st_trc_inventory_box_0031_name">
         <text>
-            Забутий ящик
+            Забута скринька
         </text>
     </string>
     <string id="st_trc_inventory_box_0032_descr">
@@ -4042,7 +4042,7 @@
     </string>
     <string id="st_l11_pripyat_inventory_box_0001_name">
         <text>
-            Старий схованка
+            Стара схованка
         </text>
     </string>
     <string id="st_l11_pripyat_inventory_box_0002_descr">
@@ -4242,7 +4242,7 @@
     </string>
     <string id="st_l06_rostok_inventory_box_0009_name">
         <text>
-            Сейф в будинку
+            Сейф у будинку
         </text>
     </string>
     <string id="st_l06_rostok_inventory_box_0010_descr">
@@ -4449,7 +4449,7 @@
     </string>
     <string id="st_yan_smart_terrain_3_4_box_descr">
         <text>
-            За гаражами приховав хабарок.
+            За гаражами сховав хабарок.
         </text>
     </string>
     <string id="st_yan_smart_terrain_3_4_box_name">
@@ -4519,7 +4519,7 @@
     </string>
     <string id="st_yan_smart_terrain_2_4_box_name">
         <text>
-            Старий секретний схованка
+            Стара секретна схованка
         </text>
     </string>
     <string id="st_yan_smart_terrain_6_4_box_descr">
