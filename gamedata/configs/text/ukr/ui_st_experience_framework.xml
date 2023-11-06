@@ -8,7 +8,7 @@
 -->
     <string id="ui_mcm_menu_experience_framework">
         <text>
-            Experience
+            Досвід
         </text>
     </string>
     <string id="ui_mcm_experience_framework_main_title">
@@ -28,7 +28,7 @@
     </string>
     <string id="ui_mcm_experience_framework_booster_manager_option_title">
         <text>
-            Experience Framework - Booster Manager
+            Досвід роботи - менеджер бустеру
         </text>
     </string>
     <string id="ui_mcm_menu_experience_framework_main">
@@ -43,12 +43,12 @@
     </string>
     <string id="ui_mcm_menu_experience_framework_azazel_option">
         <text>
-            Азазель
+            Азазель.
         </text>
     </string>
     <string id="ui_mcm_menu_experience_framework_booster_manager_option">
         <text>
-            Booster Manager
+            Бустер-менеджер
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_main_DISPLAY_UI">
@@ -199,7 +199,7 @@
     </string>
     <string id="ui_mcm_lst_experience_framework_main_mcm_kb_mod_shift">
         <text>
-            Shift
+            Зміна.
         </text>
     </string>
     <string id="ui_mcm_lst_experience_framework_main_mcm_kb_mod_ctrl">
@@ -264,12 +264,12 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_stalker">
         <text>
-            Одинак
+            Так само.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_bandit">
         <text>
-            Бандит
+            Бандит.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_csky">
@@ -324,7 +324,7 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_zombied">
         <text>
-            Зомбований
+            Зомбування
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_novice">
@@ -374,12 +374,12 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_boar">
         <text>
-            Кабан
+            Кабан.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_burer">
         <text>
-            Бюрер
+            Бюрер.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_chimera">
@@ -389,7 +389,7 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_controller">
         <text>
-            Контролер
+            Контролер.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_dog">
@@ -424,12 +424,12 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_snork">
         <text>
-            Снорк
+            Снорк.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_tushkano">
         <text>
-            Тушканчик
+            Тушканчик.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_cat">
@@ -449,7 +449,7 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_karlik">
         <text>
-            Карлик
+            Карлик.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_psysucker">
@@ -464,7 +464,7 @@
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_weak">
         <text>
-            Слабкий
+            Слабкий.
         </text>
     </string>
     <string id="ui_mcm_experience_framework_experience_framework_xp_option_normal">
@@ -726,7 +726,7 @@
     </string>
     <string id="ui_st_xp_btn_see_prev_level_text">
         <text>
-            Поперед.
+            Попередньо.
         </text>
     </string>
     <string id="ui_st_xp_btn_see_next_level_text">
@@ -756,12 +756,12 @@
     </string>
     <string id="ui_st_xp_btn_console_text">
         <text>
-            Command
+            Командир.
         </text>
     </string>
     <string id="ui_st_xp_console_btn_cancel_text">
         <text>
-            Cancel
+            Скасувати
         </text>
     </string>
     <string id="ui_st_xp_console_btn_ok_text">
@@ -814,7 +814,7 @@
     </string>
     <string id="st_xp_news_gain_xp_desc">
         <text>
-            %sОтримано +%s XP
+            %s Отримано +%s XP
         </text>
     </string>
 
@@ -830,7 +830,7 @@
     </string>
     <string id="st_xpbm_sec">
         <text>
-            сек
+            сек.
         </text>
     </string>
     <string id="st_xpbm_psec">

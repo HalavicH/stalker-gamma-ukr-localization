@@ -58,7 +58,7 @@
     <string id="dead_character_use_or_drag">
         <text>
             ќбшукати труп ($$ACTION_USE$$)
-          \n“€нути труп (SHIFT+$$ACTION_USE$$)
+          \n“€гнути труп (SHIFT+$$ACTION_USE$$)
         </text>
     </string>
     <string id="general_complete_task">

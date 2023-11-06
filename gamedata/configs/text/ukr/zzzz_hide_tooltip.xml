@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_mcm_menu_hide_tooltip">
         <text>
-            !Hide Tooltip
+            Приховати підказку
         </text>
     </string>
     <string id="ui_mcm_hide_tooltip_key_hide">

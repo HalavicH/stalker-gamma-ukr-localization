@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_menu_unoff_autocomplete">
         <text>
-            Unofficial Autocomplete
+            Неофіційне автозаповнення
         </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_title">
         <text>
-            Unofficial Autocomplete
+            Неофіційне автозаповнення
         </text>
     </string>
     <string id="ui_mcm_unoff_autocomplete_enable_autocomplete">

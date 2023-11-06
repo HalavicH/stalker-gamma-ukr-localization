@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_loot_searching_title">
         <text>
-            Loot Searching
+            Пошук здобичі
         </text>
     </string>
     <string id="ui_mcm_menu_loot_searching">
         <text>
-            Loot Searching
+            Пошук здобичі
         </text>
     </string>
 
@@ -15,7 +15,7 @@
     <string id="ui_mcm_loot_searching_header_time">
         <text>
             Час
-          \n Випадково(time_min, time_max) - weight - (icon_x * icon_y)
+          \n Випадково(time_min, time_max) - вага - (icon_x * icon_y)
         </text>
     </string>
     <string id="ui_mcm_loot_searching_time_min">
@@ -107,12 +107,12 @@
     <!-- DEBUG -->
     <string id="ui_mcm_loot_searching_header_debug">
         <text>
-            Debug
+            Налагодження
         </text>
     </string>
     <string id="ui_mcm_loot_searching_debugx">
         <text>
-            Debug
+            Налагодження
         </text>
     </string>
     <string id="ui_mcm_loot_searching_debugx_desc">

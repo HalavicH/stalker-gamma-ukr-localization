@@ -163,7 +163,7 @@
     </string>
     <string id="ui_mcm_SMR_smr_loot_ammo_chance_desc">
         <text>
-            Percentage chance to find ammo in stash boxes.
+            Відсоток ймовірності знайти боєприпаси у схованках.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_loot_ammo_bad_spawn">

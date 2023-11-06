@@ -7,7 +7,7 @@
     </string>
     <string id="ui_mcm_menu_smr_amain">
         <text>
-            Main
+            Головна
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_amain_persist_info_mm">
@@ -33,7 +33,7 @@
     <!-- GENERAL -->
     <string id="st_smr_glitched_pda_text">
         <text>
-            FATAL ERROR: INTERNAL MEMORY CORRUPTION DETECTED
+            ФАТАЛЬНА ПОМИЛКА: ВИЯВЛЕНО ПОШКОДЖЕННЯ ВНУТРІШНЬОЇ ПАМ'ЯТІ
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_amain_smr_enabled">
@@ -85,7 +85,7 @@
     </string>
     <string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
         <text>
-            1 День (default)
+            1 День (за замовчуванням)
         </text>
     </string>
     <string id="ui_mcm_lst_smr_amain_respawn_idle_172800">

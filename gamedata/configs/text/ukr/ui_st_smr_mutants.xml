@@ -168,13 +168,13 @@
     <!-- UNUSED -->
     <string id="ui_mcm_smr_mutants_unused_title">
         <text>
-            Unused Mutants
+            Невикористані мутанти
         </text>
     </string>
     <string id="ui_mcm_smr_mutants_unused_info">
         <text>
-            Below you can enable mutants which are present in the game files but not used
-            anywhere. They will then appar in the Zone as random mutant squads.
+            Нижче ви можете увімкнути мутантів, які присутні у файлах гри, але ніде не
+            використовуються. Тоді вони з'являться в Зоні як випадкові загони мутантів.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_bibliotekarp">
@@ -189,19 +189,20 @@
     </string>
     <string id="ui_mcm_smr_mutants_unused_types_info">
         <text>
-            Below you can enable mutant variations which are present in the game files but
-            not used anywhere. They will then spawn together with the used variations.
+            Нижче ви можете увімкнути мутантні варіації, які присутні у файлах гри, але ніде
+            не використовуються. Тоді вони будуть відтворюватися разом з використовуваними
+            варіаціями.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_unused_types_chance">
         <text>
-            Unused mutant type chance
+            Невикористаний шанс мутантного типу
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_unused_types_chance_desc">
         <text>
-            This is the percent chance that normal variations of a mutant will be replaced
-            with unused ones.
+            Це відсоток ймовірності того, що нормальні варіації мутанта будуть замінені на
+            невикористовувані.
         </text>
     </string>
     <string id="ui_mcm_SMR_smr_mutants_bloodsucker_strong_bigp">
