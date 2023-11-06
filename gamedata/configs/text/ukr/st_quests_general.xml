@@ -1324,7 +1324,7 @@
     </string>
     <string id="simulation_task_17_fetch_finish">
         <text>
-            Респект! У мене аж на душі полегшало. Ось, бро, лови арт. Заслужив ти його.
+            Респект! У мене аж на душі полегшало. Ось, бро, лови арт. Ти його заслужив.
         </text>
     </string>
 
@@ -3464,8 +3464,8 @@
     </string>
     <string id="simulation_task_70_fetch_about">
         <text>
-            If you happen to find the "%s" artefact, let me know. I have a very nice reward
-            I think you'll like.
+            Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна
+            винагорода, яка вам сподобається.
         </text>
     </string>
     <string id="simulation_task_70_fetch_finish">
@@ -3510,24 +3510,23 @@
     </string>
     <string id="simulation_task_72_text">
         <text>
-            A fellow stalker is offering a reward in exchange for a %s artefact.
+            Інший сталкер пропонує винагороду в обмін на артефакт %s.
         </text>
     </string>
     <string id="simulation_task_72_about">
         <text>
-            Are you any good at artefact hunting?
+            Чи вмієте ви полювати на артефакти?
         </text>
     </string>
     <string id="simulation_task_72_fetch_about">
         <text>
-            If you happen to find the "%s" artefact, let me know. I have a very nice reward
-            I think you'll like.
+            Якщо ви випадково знайдете артефакт "%s", дайте мені знати. У мене є дуже гарна
+            винагорода, яка вам сподобається.
         </text>
     </string>
     <string id="simulation_task_72_fetch_finish">
         <text>
-            Finally! You don't know how long I've been searching for this. Here. This is
-            your reward.
+            Нарешті! Ти не уявляєш, як довго я це шукав. Візьми. Це твоя винагорода.
         </text>
     </string>
 
@@ -3703,8 +3702,8 @@
     </string>
     <string id="simulation_task_78_fetch_finish">
         <text>
-            Yes! I'm going to eat good tonight! Thank you, brother. Here is your payment.
-            Oh, and here: I have some ammo that doesn't fit my rifle. You can have it.
+            Так! Я сьогодні добре поїм! Дякую, брате. Ось твоя плата. О, і ось: У мене є
+            набої, які не підходять до моєї гвинтівки. Можеш взяти.
         </text>
     </string>
     <string id="simulation_task_79_name">
@@ -3778,8 +3777,8 @@
     </string>
     <string id="simulation_task_81_about">
         <text>
-            Dude, have you ever tasted mutant meat? Most guys wouldn't touch it unless they
-            were starving, but I personally love it. Do you know how to hunt?
+            Чувак, ти коли-небудь куштував м'ясо мутантів? Більшість хлопців не доторкнуться
+            до нього, хіба що з голоду, але особисто я його обожнюю. Ти вмієш полювати?
         </text>
     </string>
     <string id="simulation_task_81_fetch_about">
@@ -4284,7 +4283,7 @@
     </string>
     <string id="simulation_task_100_fetch_finish">
         <text>
-            Ah, another threat eliminated and a new decoration for the camp. Well done.
+            Ще одна загроза усунута, а табір прикрашає нова прикраса. Молодці.
         </text>
     </string>
 

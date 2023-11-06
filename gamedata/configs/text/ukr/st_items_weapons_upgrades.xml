@@ -266,7 +266,7 @@
     </string>
     <string id="st_up_autd_b5_name">
         <text>
-            Установка газового двигуна
+            Встановлення газового двигуна
         </text>
     </string>
     <string id="st_up_autd_c1_descr">
@@ -3489,8 +3489,8 @@
     </string>
     <string id="st_up_resp_c4_descr">
         <text>
-            SPB - VPZ.m.IV Psychological Security Wave Psy Protection System, позначка
-            чотири.
+            SPB - Система психологічного захисту "Хвиля психологічної безпеки" VPZ.m.IV,
+            позначка чотири.
         </text>
     </string>
     <string id="st_up_resp_c4_name">

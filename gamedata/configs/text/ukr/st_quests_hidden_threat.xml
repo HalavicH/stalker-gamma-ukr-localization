@@ -133,7 +133,7 @@
     </string>
     <string id="st_sl_hidden_threat_task_3_stage_3_title">
         <text>
-            Hidden Threat: Talk to Colonel Kuznetsov.
+            Прихована загроза: Поговорити з полковником Кузнєцовим.
         </text>
     </string>
     <string id="st_sl_hidden_threat_task_3_stage_3_descr">
@@ -391,7 +391,7 @@
     </string>
     <string id="st_sl_hidden_threat_task_6_stage_7_title">
         <text>
-            Hidden Threat: Eliminate the ISG team.
+            Прихована загроза: Ліквідувати команду ISG.
         </text>
     </string>
     <string id="st_sl_hidden_threat_task_6_stage_7_descr">
@@ -586,7 +586,7 @@
     </string>
     <string id="st_sl_hidden_threat_spooner_notes_title">
         <text>
-            Отримано:
+            Зрозумів:
         </text>
     </string>
     <string id="st_sl_hidden_threat_spooner_notes_descr">

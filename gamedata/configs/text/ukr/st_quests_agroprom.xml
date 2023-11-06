@@ -465,7 +465,7 @@
     <!-- Kuznetsov (Military Honcho) Tight Security Task -->
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
         <text>
-            В бой идут одни сталкери
+            У бій ідуть самі сталкери
         </text>
     </string>
     <string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text">
@@ -626,7 +626,7 @@
     </string>
     <string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
         <text>
-            Мене тут Коваль запряг просто конкретно так... Не допоможеш, друг?
+            Мене тут Коваль запряг просто конкретно так... Не допоможеш, друже?
         </text>
     </string>
     <string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">

@@ -49,7 +49,7 @@
     </string>
     <string id="st_wpn_ak12_m1">
         <text>
-            АК-12 (обр. 2016 р.)(BaS)
+            АК-12 (зр. 2016 р.)(BaS)
         </text>
     </string>
 
@@ -206,7 +206,7 @@
     </string>
     <string id="st_wpn_ak74_pmc">
         <text>
-            AK-74 "Синдикат" (BaS)
+            АК-74 "Синдикат" (BaS)
         </text>
     </string>
     <string id="st_wpn_ak74_pmc_descr">
@@ -649,16 +649,16 @@
     </string>
     <string id="st_wpn_k98_mod_descr">
         <text>
-            A modified version of the WWII German sniper rifle Mauser Karabiner 98k. The
-            wooden stock was replaced with a more organomic polymer one. The rifle is
-            equipped with an excellent sniper scope manufactured by March, Japan. In the
-            Zone, a rifle is used mainly for hunting mutants at long and over-long
-            distances.
+            Модифікована версія німецької снайперської гвинтівки Mauser Karabiner 98k часів
+            Другої світової війни. Дерев'яну ложу замінено на більш органо-полімерну.
+            Гвинтівка оснащена відмінним снайперським прицілом японської фірми March. У Зоні
+            гвинтівка використовується переважно для полювання на мутантів на далеких і
+            наддалеких відстанях.
           \n
           \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
-          \n %c[d_purple] • %c[ui_gray_2] Scopes: March (integrated)
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: K98 Forester. (Barrel adapter needed
-            to mount a silencer)
+          \n %c[d_purple] • %c[ui_gray_2] Приціли: Березень (інтегровано)
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: K98 Forester. (Для встановлення
+            глушника потрібен перехідник на ствол)
           \n
         </text>
     </string>
@@ -678,15 +678,15 @@
     </string>
     <string id="st_wpn_k98_mod_silen98_descr">
         <text>
-            A modified version of the WWII German sniper rifle Mauser Karabiner 98k. The
-            wooden stock was replaced with a more organomic polymer one. The rifle is
-            equipped with an excellent sniper scope manufactured by March, Japan. In the
-            Zone, a rifle is used mainly for hunting mutants at long and over-long
-            distances.
+            Модифікована версія німецької снайперської гвинтівки Mauser Karabiner 98k часів
+            Другої світової війни. Дерев'яну ложу замінено на більш органо-полімерну.
+            Гвинтівка оснащена відмінним снайперським прицілом японської фірми March. У Зоні
+            гвинтівка використовується переважно для полювання на мутантів на далеких і
+            наддалеких відстанях.
           \n
           \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
-          \n %c[d_purple] • %c[ui_gray_2] Scopes: March (integrated)
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: K98 Forester.
+          \n %c[d_purple] • %c[ui_gray_2] Приціли: Березень (інтегровано)
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: K98 Forester.
           \n
         </text>
     </string>
@@ -965,7 +965,7 @@
     </string>
     <string id="st_wpn_saiga12s_isg">
         <text>
-            Kalashnikov USA Сайга-12 ISG (BaS)
+            Калашников США Сайга-12 ISG (BaS)
         </text>
     </string>
     <string id="st_wpn_saiga12s_isg_descr">
@@ -1133,13 +1133,14 @@
     </string>
     <string id="st_wpn_sr1m_descr">
         <text>
-            The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”),
-            GRAU Index 6P53. Pistol designed for the Russian Federation special forces
-            purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.
+            Самозарядний пістолет Сердюкова - також відомий як СПС та Гюрза, індекс GRAU
+            6P53. Пістолет розроблений для потреб спецпідрозділів Російської Федерації П.
+            Сердюковим та І. Бєляєвим під набій 9х21 мм.
           \n
           \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
-          \n %c[d_purple] • %c[ui_gray_2] Can be upgraded using Tactical Kit.
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: None
+          \n %c[d_purple] • %c[ui_gray_2] Може бути модернізовано за допомогою Tactical
+            Kit.
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: Немає
           \n
         </text>
     </string>
@@ -1150,13 +1151,14 @@
     </string>
     <string id="st_wpn_sr1m_sr1upgr1_descr">
         <text>
-            The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”),
-            GRAU Index 6P53. Pistol designed for the Russian Federation special forces
-            purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.
+            Самозарядний пістолет Сердюкова - також відомий як СПС та Гюрза, індекс GRAU
+            6P53. Пістолет розроблений для потреб спецпідрозділів Російської Федерації П.
+            Сердюковим та І. Бєляєвим під набій 9х21 мм.
           \n
           \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
-          \n %c[d_purple] • %c[ui_gray_2] The pistol was upgraded using tactical kit.
-          \n %c[d_purple] • %c[ui_gray_2] Silencer: SR1MP silencer 9x21
+          \n %c[d_purple] • %c[ui_gray_2] Пістолет модернізовано за допомогою тактичного
+            комплекту.
+          \n %c[d_purple] • %c[ui_gray_2] Глушник: Глушник SR1MP 9x21
           \n
         </text>
     </string>
@@ -1968,19 +1970,19 @@
     </string>
     <string id="st_wpn_remington700_bas_mod_x_gen3">
         <text>
-            Remington 700 Modular Rifle System (BaS)
+            Модульна гвинтівкова система Remington 700 (BaS)
         </text>
     </string>
     <string id="st_wpn_remington700_bas_mod_x_gen3_descr">
         <text>
-            The Remington Model 700 is a series of bolt-action centerfire rifles
-            manufactured by Remington Arms since 1962. This model has MOD X GEN III Modular
-            Rifle System and additional Leupold DeltaPoint PRO Red Dot Sight installed on
-            it.
+            Remington Model 700 - це серія самозарядних гвинтівок з центральним пострілом,
+            що випускається компанією Remington Arms з 1962 року. На цю модель встановлена
+            модульна гвинтівкова система MOD X GEN III та додатковий приціл Leupold
+            DeltaPoint PRO Red Dot Sight.
           \n
           \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
-          \n %c[d_purple] • %c[ui_gray_2] Installed MOD X Gen.3 chassis
-          \n %c[d_purple] • %c[ui_gray_2] Daniel Defence Wave QD suppressor
+          \n %c[d_purple] • %c[ui_gray_2] Встановлено шасі MOD X Gen.3
+          \n %c[d_purple] • %c[ui_gray_2] Пригнічувач Daniel Defence Wave QD
           \n
         </text>
     </string>

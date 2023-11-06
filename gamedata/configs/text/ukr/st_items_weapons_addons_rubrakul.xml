@@ -9,13 +9,13 @@
         <text>
             
           \n
-          \n%c[ui_gray_2]COMPATIBILITY:
+          \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] - %c[ui_gray_2] 12.7x55mm calibre weapons
+          \n%c[d_cyan] - %c[ui_gray_2] зброя калібру 12.7x55мм
           \n
-          \n%c[ui_gray_1]Suppressor for the ASH-12.
+          \n%c[ui_gray_1]Подавитель для АШ-12.
           \n
-          \n%c[d_purple] - %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium
+          \n%c[d_purple] - %c[ui_gray_2] Придушення звуку: %c[ui_gray_1]середнє
         </text>
     </string>
     <string id="st_addon_scope_specterup">
@@ -51,13 +51,13 @@
         <text>
             
           \n
-          \n%c[ui_gray_2]COMPATIBILITY:
+          \n%c[ui_gray_2]СУМІСНІСТЬ:
           \n
-          \n%c[d_cyan] - %c[ui_gray_2] 12-gauge calibre weapons
+          \n%c[d_cyan] - %c[ui_gray_2] зброя 12-го калібру
           \n
-          \n%c[ui_gray_1]SilencerCO Salvo 12 suppressor.
+          \n%c[ui_gray_1]Гальмівний пристрій SilencerCO Salvo 12.
           \n
-          \n%c[d_purple] - %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium
+          \n%c[d_purple] - %c[ui_gray_2] Шумоглушник: %c[ui_gray_1]середнє
         </text>
     </string>
 </string_table>

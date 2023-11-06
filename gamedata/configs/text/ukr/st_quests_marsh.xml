@@ -305,7 +305,7 @@
     <!-- Cold (Clear Sky Honcho) Payoff Change Factions Task -->
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_name">
         <text>
-            Миру чисте небо
+            Світові чисте небо
         </text>
     </string>
     <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_text">
@@ -925,7 +925,7 @@
     </string>
     <string id="ecolog_companion_task_1_complete">
         <text>
-            Дякую Вам, сталкер. Ви добре попрацювали, ось Ваша нагорода.
+            Дякую тобі, сталкере. Ви добре попрацювали, ось Ваша нагорода.
         </text>
     </string>
     <string id="ecolog_companion_task_1_actor_reply">

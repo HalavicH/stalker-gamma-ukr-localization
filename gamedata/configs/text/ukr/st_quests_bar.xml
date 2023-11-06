@@ -195,7 +195,7 @@
     <!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task# -->
     <string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
         <text>
-            Руки-крюки
+            Руки-з-дупи
         </text>
     </string>
     <string id="drx_sl_bar_visitors_stalker_mechanic_task_1_text">
@@ -204,7 +204,7 @@
             облажався при ремонті зброї одного з обов'язківців.
           \n
           \nТреба знайти для нього «%s» якомога швидше у відмінному стані, а то без
-            техніка на Росткі якось зле буде.
+            техніка на Ростку якось зле буде.
         </text>
     </string>
     <string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">

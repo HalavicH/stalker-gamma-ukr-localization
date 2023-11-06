@@ -131,25 +131,24 @@ Pistols and MP's
     </string>
     <string id="st_ppp_sw_45_fmj">
         <text>
-            Стандартний .45 S&amp;W магазин
+            Стандартний магазин .45 S&amp;W
         </text>
     </string>
     <string id="st_ppp_sw_45_fmj_descr">
         <text>
-            Standard magazine for the Smith &amp; Wesson 645 series of handgun. The 645 is
-            popular as a privately purchased duty sidearm for American detectives and police
-            officers.
+            Стандартний магазин для пістолета Smith &amp; Wesson серії 645. Пістолет 645
+            популярний як приватна зброя для американських детективів та поліцейських.
         </text>
     </string>
     <string id="st_ppp_sw_919_fmj">
         <text>
-            Standard 9x19mm S&amp;W Magazine
+            Стандартний магазин 9х19 мм S&amp;W
         </text>
     </string>
     <string id="st_ppp_sw_919_fmj_descr">
         <text>
-            Standard magazine for the Smith &amp; Wesson 659 handgun. THe 659 is effectively the
-            9mm variant of the 645 handgun, and as such the magazines are mostly identical.
+            Стандартний магазин для пістолета Smith &amp; Wesson 659. Пістолет 659 фактично є
+            9-мм варіантом пістолета 645, тому магазини до нього майже ідентичні.
         </text>
     </string>
     <string id="st_ppp_xd9_9x19_fmj">
