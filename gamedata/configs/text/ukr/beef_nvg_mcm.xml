@@ -44,8 +44,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
         <text>
-            1.0 залишає яскравість без змін, більші значення множать світлову
-            яскравість (але не джерела світла).
+            1.0 залишає яскравість без змін, більші значення множать світлову яскравість
+            (але не джерела світла).
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
@@ -80,8 +80,8 @@
     </string>
     <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
         <text>
-            Якщо цей прапорець знято, ваш ПНБ автоматично
-            вимикаються, коли ви дивитеся на КПК.
+            Якщо цей прапорець знято, ваш ПНБ автоматично вимикаються, коли ви дивитеся на
+            КПК.
         </text>
     </string>
     <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
