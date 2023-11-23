@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_cap_check_soulslike_mode">
+		<text>Soulslike Mode</text>
+	</string>
+	<string id="st_mm_ck_soulslike_mode_desc">
+		<text>
+			%c[0,150,150,150]In Soulslike mode, death technically never happens. Upon "death" your are rescued by a random Stalker in the zone.	They bring you back to the set last spawn location where you awake to find a message from them\n
+			about how you were found and the lengths they may have gone to to get you to a safe place. The items that were on your character must be retrieved, some can be lost and condition degraded all depending on settings.\n 
+			\n %c[200,200,50,50] Not compatible with Azazel mode.\n
+			\n %c[200,200,50,50] Not compatible with Ironman.
+		</text>
+	</string>
+</string_table>

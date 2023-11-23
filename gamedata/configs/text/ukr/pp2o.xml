@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_pp2000_oper">
+		<text>PP-2000 "Operator"</text>
+	</string>
+	<string id="st_wpn_pp2000_oper_descr">
+		<text>The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defence weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+                                    %c[d_purple] • %c[ui_gray_2] The weapon is equipped with: Sight %c[ui_yellow]Barska ELECTRO SIGHT AC10632, Laser designator, Tactical flashlight.\n
+		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor\n \n</text>
+	</string>
+</string_table>

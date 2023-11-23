@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_wpn_vihrn">
+		<text>SR-3M Vikhr</text>
+	</string>
+	<string id="st_wpn_vihrn_descr">
+		<text>The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA" (Malogabaritnyj Avtomat - small size assault rifle), it was based on the suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by special VIP protection teams and State Security operatives, SR3M Vikhr is result of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[d_green]Scopes: %c[0,250,250,0]Some scopes for "Dovetail mount"\n
+		%c[d_purple] • %c[d_green]Suppressor: %c[d_orange]SR-3M suppressor\n \n</text>
+	</string>
+</string_table>

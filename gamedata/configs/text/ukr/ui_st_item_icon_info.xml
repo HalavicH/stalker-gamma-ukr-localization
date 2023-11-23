@@ -1,0 +1,147 @@
+
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- 
+		MCM
+	-->
+	<string id="ui_mcm_item_icon_info_title">
+		<text>Item UI Improvements</text>
+	</string>
+	<string id="ui_mcm_menu_item_icon_info">
+		<text>Item UI Improvements</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_condition_text">
+		<text>Condition Percentage Number</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_equipped">
+		<text>Show On Equipped Gear</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bar">
+		<text>Hide Condition Bar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bg">
+		<text>No Condition Number Background</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_art_alt">
+		<text>Alternative Position On Artefacts</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_text_padding">
+		<text>Text Padding</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_parts_bars">
+		<text>Part Condition Indicators</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_equipped">
+		<text>Show On Equipped Gear</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_width_mult">
+		<text>Part Indicator Size Multiplier</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_separator_mult">
+		<text>Part Indicator Spacing Multiplier</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpn">
+		<text>Enable Indicators for Weapons</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo">
+		<text>Use Weapon Parts Overhaul Condition Colors</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_green">
+		<text>WPO Green Color Condition Threshold</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_yellow">
+		<text>WPO Yellow Color Condition Threshold</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_orange">
+		<text>WPO Orange Color Condition Threshold</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_parts_bars_armor">
+		<text>Enable Indicators for Helmets/Outfits</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_ammo_name">
+		<text>Ammo Box Short-Name Text</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_bad_color">
+		<text>Color Text Based On Ammo Quality (Bad/Old)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl">
+		<text>Enable for M203/VOG Grenades and Warheads</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl_bad_color">
+		<text>Color Text Based On Ammo (Explosive) Quality</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_ammo_short_name_padding">
+		<text>Text Padding</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_recipe_text">
+		<text>Recipe, Notes and Maps Show Read/Unread Text</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text_pda">
+		<text>Show Hint on PDAs with stash info</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_recipe_text_padding">
+		<text>Text Padding</text>
+	</string>
+	
+	<string id="ui_mcm_item_icon_info_title_mags">
+		<text>Magazine Ammo Count and Bullet Name (Mags Redux Only)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_text">
+		<text>Show Ammo Short-Name</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_count">
+		<text>Show Ammo Count</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_hide_bar">
+		<text>Hide Mag Condition Bar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_mag_info_padding">
+		<text>Text Padding</text>
+	</string>
+
+	<string id="ui_mcm_item_icon_info_title_money_text">
+		<text>Money Text</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text_hide_bg">
+		<text>No Background</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_money_text_text_padding">
+		<text>Text Padding</text>
+	</string>
+
+	<!-- 
+		Mods
+	-->
+	<string id="ui_utjan_recipe_read">
+		<text>read</text>
+	</string>
+	<string id="ui_utjan_recipe_unread">
+		<text>unread</text>
+	</string>
+	<string id="ui_utjan_ruble">
+		<text>ru</text>
+	</string>
+</string_table>
+                        

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_9a91n_descr">
+		<text>The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings, the forend and pistol grip are made from polymer. The steel stock folds up and above the receiver when not in use. The flip up rear sight has settings for 100 and 200 metres range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 metres.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2]  scopes: All scopes for %c[ui_yellow]""Dovetail mount"\n
+		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor\n \n</text>
+	</string>
+	
+	<string id="st_wpn_vsk94n_descr">
+		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmoured targets at ranges up to 400m.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] scopes: All scopes for %c[ui_yellow]""Dovetail mount"\n
+		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor (integrated)\n \n</text>
+	</string>
+
+</string_table>

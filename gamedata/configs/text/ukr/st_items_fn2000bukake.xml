@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_fn2000e_descr">
+		<text>From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[d_green] sights: %c[0,250,250,0]Sight (integrated)\n
+		%c[d_purple] • %c[d_green] grenade launcher: %c[d_cyan]Grenade launcher "FN GL1"%c[d_red](M203)\n
+		%c[d_purple] • %c[d_green] silencer: %c[d_orange]5.56x45 compatible suppressor\n \n</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble">
+		<text>FN F2000</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces. This model has an integrated EOTech scope, which results in slightly lower accuracy, but since this model was aimed for CQC, rate of fire was increased accordingly.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[d_green] sights: %c[0,250,250,0]Some sights for picatinny rail\n
+		%c[d_purple] • %c[d_green] grenade launcher: %c[d_cyan]Grenade launcher "FN GL1"%c[d_red](M203)\n
+		%c[d_purple] • %c[d_green] silencer: %c[d_orange]5.56x45 compatible suppressor\n \n</text>
+	</string>
+
+</string_table>

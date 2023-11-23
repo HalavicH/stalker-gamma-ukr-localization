@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id = "encyclopedia__notes_rfpackages">
+		<text>Radio frequency Packages</text>
+	</string>
+	
+	<string id = "encyclopedia__notes_rfpackages_text">
+		<text>
+		%c[pda_white]Factions will stash packages for you to find with the radio frequency receiver.%c[ui_gray_1] These packages will give a set of either drugs, repair items, or ammo, along with potentially some bonus items that can include more drugs, valuable items, explosives, upgrade items, or "junk" artefacts.
+		\n
+		\n%c[pda_white]Packages operate in a queue system, where packages are queued up every 250 goodwill you gain with a faction.%c[ui_gray_1] The location the Package is queued up in will be one of the outside areas directly connected to the area you were in when you hit the 250 goodwill threshold to trigger it.
+		\n
+		\n%c[pda_white]You can have one active package at a time.%c[ui_gray_1] You can elect to either collect the package, or you can cancel it using the "cancel rf package" right click menu option on your pda. Canceling a package removes it from the queue, so if it was your only queued package you will have to hit another 250 goodwill threshold before you receive another one.
+		\n
+		\n%c[pda_white]You can also change how often you receive package reminders, whether packages are automatically unpacked on pickup, and whether you receive vanilla or modded upgrade items in the mod configuration menu under "RF receiver package options" or by editing the defaults in the main TB_RF_Receiver_Packages script if you don't have mod configuration menu.%c[ui_gray_1]
+		</text>
+	</string>
+</string_table>

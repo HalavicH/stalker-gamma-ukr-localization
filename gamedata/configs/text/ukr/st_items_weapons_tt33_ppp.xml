@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_m57">
+		<text>Zastava M57</text>
+	</string>
+
+	<string id="st_wpn_m57_descr">
+		<text>The Yugoslavian variant of the TT-33 from 1957 until 1992 offers a lot of improvements from the TT-33, including a longer frame, improving handling, and a longer magazine, allowing one more round to be loaded. The gun also has various other improvements, including a larger mag release button, anti-glaring on the slide and longer, adjustable sights. Of important note, M57 9-rounds magazines are compatible with other TT-33 variants, but the 8-rounds magazines from TT-33 are not compatible with this pistol. Also, due to how it was engineered, it's easily possible to switch the caliber to 9x19.</text>
+	</string>
+	
+</string_table>

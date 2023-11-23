@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="st_wpn_sr25_descr">
+		<text>The SR-25 was developed by Reed Knight, owner of Knights Armament Co. and Eugene Stoner. The SR-25 is an AR-15 rifle scaled up to shoot 7.62x51mm NATO or .308. 60% of parts in the rifle are interchangeable with AR-15 components. This rifle sold well among civilian shooters who needed an accurate semi-automatic rifle for hunting or target shooting. This rifle also found a favour in the US Military. Because of the AR-15-style recoil buffer, which extends rearwards from the receiver, the SR-25 cannot be fitted with a folding stock and instead is fitted with a telescoping stock.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Knight's Armament Company\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1990\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_bm16_full_alt_23">
+		<text>TOZ-34 "Chimera Hunter"</text>
+	</string>
+	<string id="st_wpn_bm16_full_alt_23_descr">
+		<text>Intended for professional and amateur hunting, the TOZ-34 is an over/under shotgun. Affordable in price with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]USSR\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1964\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This peculiar TOZ-34 was modified according to the Zone's needs by supporting larger, more efficient rounds than the classic 12ga. This earned it quite a reputation among stalkers as an efficient gun to hunt large mutants like Chimeras, hence the name.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_toz34_mark4_23">
+		<text>TOZ-34 "Chimera Hunter"</text>
+	</string>
+	<string id="st_wpn_toz34_mark4_23_descr">
+		<text>Intended for professional and amateur hunting, the TOZ-34 is an over/under shotgun. Affordable in price with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]USSR\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1964\n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This peculiar TOZ-34 was modified according to the Zone's needs by supporting larger, more efficient rounds than the classic 12ga. This earned it quite a reputation among stalkers as an efficient gun to hunt large mutants like Chimeras, hence the name.\n
+		</text>
+	</string>
+	
+
+</string_table>
