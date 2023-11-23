@@ -1,3 +1,4 @@
 # git config gui.encoding windows-1251
 *.txt encoding=windows-1251
 *.xml encoding=windows-1251
+text=auto eol=crlf
