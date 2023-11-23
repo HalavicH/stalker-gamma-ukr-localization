@@ -27,13 +27,6 @@
             Switch between placement modes: Normal, Advanced, and Preview
         </text>
     </string>
-
-    <!-- Gameplay -->
-    <string id="ui_mcm_menu_gameplay">
-        <text>
-            Gameplay
-        </text>
-    </string>
     <string id="ui_mcm_aol_hf_gameplay_uniform_trade_profiles">
         <text>
             Use Uniform Trade Profiles
