@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <string id="ui_mcm_menu_aol_hf">
-        <text>
-            Hideout Furniture
-        </text>
-    </string>
-
     <!-- Controls -->
     <string id="ui_mcm_menu_controls">
         <text>
@@ -74,12 +68,6 @@
     <string id="ui_mcm_aol_hf_debug_location_offset">
         <text>
             Location Offset
-        </text>
-    </string>
-    <string id="ui_mcm_aol_hf_update_mcm">
-        <text>
-            Update MCM to set keybinds. Defaults to TAB for collision toggle, and CAPS LOCK
-            for alignment toggle.
         </text>
     </string>
 </string_table>

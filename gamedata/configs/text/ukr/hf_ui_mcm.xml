@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
+    <string id="ui_mcm_aol_hf_update_mcm">
+        <text>
+            Оновити MCM для встановлення комбінацій клавіш. За замовчуванням TAB
+            для перемикання колізії та CAPS LOCK для перемикання вирівнювання.
+        </text>
+    </string>
     <string id="ui_mcm_menu_aol_hf">
         <text>
             Меблі для схованки
@@ -43,12 +49,6 @@
     <string id="ui_mcm_aol_hf_use_ingame_time">
         <text>
             Світлове шоу під час гри
-        </text>
-    </string>
-    <string id="ui_mcm_aol_hf_update_mcm">
-        <text>
-            Оновлення MCM для встановлення комбінацій клавіш. За замовчуванням клавіші зі
-            стрілками для обертання і 'F' для переміщення.
         </text>
     </string>
 </string_table>

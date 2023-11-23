@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <string id="st_wpn_sr25">
-        <text>
-            SR-25
-        </text>
-    </string>
-    <string id="st_wpn_sr25_descr">
-        <text>
-            The SR-25 was developed by Reed Knight, owner of Knights Armament Co. and Eugene
-            Stoner. The SR-25 is an AR-15 rifle scaled up to shoot 7.62x51mm NATO or .308.
-            60% of parts in the rifle are interchangeable with AR-15 components. This rifle
-            sold well among civilian shooters who needed an accurate semi-automatic rifle
-            for hunting or target shooting. This rifle also found a favour in the US
-            Military. Because of the AR-15-style recoil buffer, which extends rearwards from
-            the receiver, the SR-25 cannot be fitted with a folding stock and instead is
-            fitted with a telescoping stock.
-          \n
-          \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States
-          \n %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Knight's Armament
-            Company
-          \n %c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1990
-          \n
-        </text>
-    </string>
     <string id="st_wpn_bm16_full_alt_23">
         <text>
             TOZ-34 "Chimera Hunter"

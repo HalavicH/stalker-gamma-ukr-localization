@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <string id="st_pba_af_sandstone_perk">
-        <text>
-            %c[0,209,172,56]Perk: %c[d_orange]LETHAL TEMPO
-          \n %c[0,81,63,22] • %c[0,209,172,56]Killing stalkers or mutants infuses you with
-            great power
-          \n %c[0,81,63,22] • %c[0,209,172,56]These buffs last for 5 seconds
-          \n %c[0,81,63,22] • %c[ui_red]Increases damage taken by 25%
-          \n %c[0,81,63,22] • %c[0,209,172,56]1 COPY: Grants a surge of movement speed
-          \n %c[0,81,63,22] • %c[0,209,172,56]2 COPIES: Grants a small general health
-            regeneration
-          \n %c[0,81,63,22] • %c[0,209,172,56]3 COPIES: Recovers slightly a random body
-            part
-          \n %c[0,81,63,22] • %c[0,209,172,56]4 COPIES: Recovers slightly another random
-            body part
-          \n %c[0,81,63,22] • %c[0,209,172,56]5 COPIES: Removes the 25% damage taken
-            debuff
-          \n %c[0,81,63,22] • %c[0,209,172,56]Multiple Artefacts Stack?: %c[ui_green]YES
-          \n %c[0,81,63,22] • %c[0,209,172,56]Diminishing Returns?: %c[ui_red]YES
-        </text>
-    </string>
     <string id="st_pba_af_elektron_perk">
         <text>
-            %c[0,209,172,56]Perk: %c[d_orange]HIGH VOLTAGE
-          \n %c[0,81,63,22] • %c[0,209,172,56]Stepping on an Electra anomaly will recharge
-            batteries and active devices
-          \n %c[0,81,63,22] • %c[0,209,172,56]Stepping on an Electra anomaly allows
-            infinite sprint for a short period of time
-          \n %c[0,81,63,22] • %c[0,209,172,56]Having 5 copies lets you recharge
-            Exoskeleton batteries
-          \n %c[0,81,63,22] • %c[0,209,172,56]Multiple Artefacts Stack?: %c[ui_green]YES
-            %c[ui_red](but also no)
+            %c[0,209,172,56]Перк: %c[d_orange]ВИСОКА НАПРУГА
+          \n %c[0,81,63,22] - %c[0,209,172,56]Наступивши на аномалію Електра, ви перезарядите
+            батареї та активні пристрої
+          \n %c[0,81,63,22] - %c[0,209,172,56]Наступивши на аномалію Електра можна
+            нескінченний спринт на короткий проміжок часу
+          \n %c[0,81,63,22] - %c[0,209,172,56]Наявність 5 копій дозволяє перезарядитися
+            Акумулятори екзоскелету
+          \n %c[0.81.63.22] - %c[0.209.172.56]Стек з кількох артефактів: %c[ui_green]ТАК
+            %c[ui_red](але також ні)
         </text>
     </string>
     <string id="st_pba_af_repei_perk">
         <text>
-            %c[0,209,172,56]Perk: %c[d_orange]MINOR LACERATIONS
-          \n %c[0,81,63,22] • %c[0,209,172,56]You deal 50% less damage but gain the
-            ability to cause %c[ui_red]bleeding %c[0,209,172,56]damage
-          \n %c[0,81,63,22] • %c[0,209,172,56]Low chance to make stuff bleed on impact
-          \n %c[0,81,63,22] • %c[0,209,172,56]Bleeding damage is proportional to weapon
-            damage
-          \n %c[0,81,63,22] • %c[0,209,172,56]Multiple Artefacts Stack?: %c[ui_green]YES
-          \n %c[0,81,63,22] • %c[0,209,172,56]Diminishing Returns?: %c[ui_green]YES
+            %c[0,209,172,56]Перк: %c[d_orange]ДРІБНІ РАНІ
+          \n %c[0,81,63,22] - %c[0,209,172,56]Ви завдаєте на 50% менше шкоди, але отримуєте
+            здатність викликати %c[ui_red]кровотечу %c[0,209,172,56]шкоди
+          \n %c[0,81,63,22] - %c[0,209,172,56]Низький шанс викликати кровотечу при ударі
+          \n %c[0,81,63,22] - %c[0,209,172,56]Шкода від кровотечі пропорційна зброї
+            шкоди
+          \n %c[0.81.63.22] - %c[0.209.172.56]Стек з кількох артефактів: %c[ui_green]ТАК
+          \n %c[0,81,63,22] - %c[0,209,172,56]Зменшення віддачі?: %c[ui_green]ТАК
+        </text>
+    </string>
+    <string id="st_pba_af_sandstone_perk">
+        <text>
+            %c[0,209,172,56]Перк: %c[d_orange]СМЕРТЕЛЬНИЙ ТЕМП
+          \n %c[0,81,63,22] - %c[0,209,172,56]Вбивство сталкерів або мутантів дає вам
+            великою силою
+          \Ці баффи діють 5 секунд.
+          \n %c[0,81,63,22] - %c[ui_red]Збільшує отримувану шкоду на 25%.
+          \n %c[0,81,63,22] - %c[0,209,172,56]1 КОПІЯ: Дає приріст швидкості пересування
+          \n %c[0,81,63,22] - %c[0,209,172,56]2 КОПІЇ: Дає невелику загальну регенерацію здоров'я
+            регенерацію
+          \n %c[0,81,63,22] - %c[0,209,172,56]3 КОПІЇ: Трохи відновлює випадкову частину тіла
+            частину тіла
+          \n %c[0,81,63,22] - %c[0,209,172,56]4 КОПІЇ: Відновлює трохи іншу випадкову
+            частину тіла
+          \n %c[0,81,63,22] - %c[0,209,172,56]5 КОПІЙ: Знімає 25% отриманої шкоди
+            дебафф
+          \n %c[0,81,63,22] - %c[0,209,172,56]Стек з кількох артефактів: %c[ui_green]ТАК
+          \n %c[0,81,63,22] - %c[0,209,172,56]Зменшення віддачі?: %c[ui_red]ТАК
         </text>
     </string>
 </string_table>
