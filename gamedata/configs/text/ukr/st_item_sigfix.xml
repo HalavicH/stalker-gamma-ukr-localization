@@ -1,5 +1,6 @@
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-	<string id="st_wpn_sig550_camos">
-		<text>SIG SG550 (Modified)</text>
-	</string>
+    <string id="st_wpn_sig550_camos">
+        <text>SIG SG550 (Modified)</text>
+    </string>
 </string_table>
