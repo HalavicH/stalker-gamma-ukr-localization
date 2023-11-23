@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
-    <string id="st_electric_piano_name">
-        <text>
-            Electric Piano
-        </text>
-    </string>
-    <string id="st_flute_name">
-        <text>
-            Flute
-        </text>
-    </string>
-    <string id="st_piano_name">
-        <text>
-            Piano
-        </text>
-    </string>
-    <string id="st_saxophone_name">
-        <text>
-            Saxophone
-        </text>
-    </string>
-    <string id="st_strings_name">
-        <text>
-            Strings
-        </text>
-    </string>
+    <!--
+		DON'T delete!
+		Empty file to override duplicates from existing localization from another mod
+	-->
+	<!--
+		НЕ ВИДАЛЯТИ!
+		Порожній файл, щоб перетерти дублікати, які походять з іншого моду:
+	-->
 </string_table>
