@@ -1,11 +1,4 @@
-<!-- ====================================================================
-	Personal Adjustable Waypoint
-    Author: Catspaw
-    Source: https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma
-
-    Permission granted to freely translate into any language.
-===================================================================== -->
-
+<?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
 	<string id="st_paw_waypoint_set">
 		<text>Set waypoint here</text>
