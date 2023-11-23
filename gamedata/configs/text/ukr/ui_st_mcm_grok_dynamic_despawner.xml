@@ -1,18 +1,28 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mcm_menu_grok_dd">
-        <text>Dynamic Despawner</text>
+        <text>
+            Dynamic Despawner
+        </text>
     </string>
     <string id="ui_mcm_grok_dd_title">
-        <text>Grok Dynamic Despawner</text>
+        <text>
+            Grok Dynamic Despawner
+        </text>
     </string>
     <string id="ui_mcm_grok_dd_npc_threshold">
-        <text>Maximum number of online NPCs kept alive</text>
+        <text>
+            Maximum number of online NPCs kept alive
+        </text>
     </string>
     <string id="ui_mcm_grok_dd_enabled">
-        <text>Enable Grok Dynamic Despawner?</text>
+        <text>
+            Enable Grok Dynamic Despawner?
+        </text>
     </string>
     <string id="ui_mcm_grok_dd_check_tasks">
-        <text>Avoid deletion of NPCs with tasks?</text>
+        <text>
+            Avoid deletion of NPCs with tasks?
+        </text>
     </string>
 </string_table>

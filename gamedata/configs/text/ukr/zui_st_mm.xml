@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="ui_mm_loot_all">
-        <text>Loot all (ENTER/SPACE)</text>
+        <text>
+            Loot all (ENTER/SPACE)
+        </text>
     </string>
 </string_table>

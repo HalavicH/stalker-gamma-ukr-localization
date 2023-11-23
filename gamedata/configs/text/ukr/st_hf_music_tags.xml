@@ -1,30 +1,48 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_tag_easy">
-        <text>Easy</text>
+        <text>
+            Easy
+        </text>
     </string>
     <string id="st_tag_medium">
-        <text>Medium</text>
+        <text>
+            Medium
+        </text>
     </string>
     <string id="st_tag_hard">
-        <text>Hard</text>
+        <text>
+            Hard
+        </text>
     </string>
     <string id="st_tag_machine">
-        <text>Machine</text>
+        <text>
+            Machine
+        </text>
     </string>
     <string id="st_tag_anime">
-        <text>Anime</text>
+        <text>
+            Anime
+        </text>
     </string>
     <string id="st_tag_movies">
-        <text>Movies</text>
+        <text>
+            Movies
+        </text>
     </string>
     <string id="st_tag_games">
-        <text>Games</text>
+        <text>
+            Games
+        </text>
     </string>
     <string id="st_tag_classical">
-        <text>Classical</text>
+        <text>
+            Classical
+        </text>
     </string>
     <string id="st_tag_stalker">
-        <text>S.T.A.L.K.E.R.</text>
+        <text>
+            S.T.A.L.K.E.R.
+        </text>
     </string>
 </string_table>

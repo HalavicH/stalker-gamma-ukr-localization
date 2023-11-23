@@ -3,49 +3,82 @@
 
     <!-- Button -->
     <string id="ui_mcm_ssfx_module_florafixes">
-        <text>Flora Fixes</text>
+        <text>
+            Flora Fixes
+        </text>
     </string>
 
     <!-- Flora Fixes Title -->
     <string id="ui_mcm_ssfx_module_florafixes_title">
-        <text>Flora Fixes &amp; Improvements - Settings</text>
+        <text>
+            Flora Fixes &amp; Improvements - Settings
+        </text>
     </string>
 
     <!-- Flora Fixes Settings -->
     <string id="ui_mcm_ssfx_module_florafixes_sss_int_mcm">
-        <text>SubSurface Scattering Intensity</text>
+        <text>
+            SubSurface Scattering Intensity
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_int_mcm_desc">
-        <text>Intensity of the flora SubSurface Scattering.</text>
+        <text>
+            Intensity of the flora SubSurface Scattering.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_color_mcm">
-        <text>SubSurface Scattering Color</text>
+        <text>
+            SubSurface Scattering Color
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_color_mcm_desc">
-        <text>How much sun color is added to the flora SubSurface Scattering. 1.0 is 100% sun color.</text>
+        <text>
+            How much sun color is added to the flora SubSurface Scattering. 1.0 is 100% sun
+            color.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_mcm">
-        <text>Grass Specular</text>
+        <text>
+            Grass Specular
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_mcm_desc">
-        <text>Specular value when the grass is dry. Be careful when adjusting the value, try with small changes and check the result.</text>
+        <text>
+            Specular value when the grass is dry. Be careful when adjusting the value, try
+            with small changes and check the result.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_wet_mcm">
-        <text>Wet Grass Specular</text>
+        <text>
+            Wet Grass Specular
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_wet_mcm_desc">
-        <text>Specular value when the grass is wet. Be careful when adjusting the value, try with small changes and check the result.</text>
+        <text>
+            Specular value when the grass is wet. Be careful when adjusting the value, try
+            with small changes and check the result.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm">
-        <text>Trees/Bushes Specular</text>
+        <text>
+            Trees/Bushes Specular
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm_desc">
-        <text>Specular when trees and bushes are dry. Be careful when adjusting the value, try with small changes and check the result.</text>
+        <text>
+            Specular when trees and bushes are dry. Be careful when adjusting the value, try
+            with small changes and check the result.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_wet_mcm">
-        <text>Wet Trees/Bushes Specular</text>
+        <text>
+            Wet Trees/Bushes Specular
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm_desc">
-        <text>Specular when trees and bushes are wet. Be careful when adjusting the value, try with small changes and check the result.</text>
+        <text>
+            Specular when trees and bushes are wet. Be careful when adjusting the value, try
+            with small changes and check the result.
+        </text>
     </string>
 </string_table>

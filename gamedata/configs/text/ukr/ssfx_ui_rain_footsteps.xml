@@ -3,50 +3,80 @@
 
     <!-- Rain Footsteps Title -->
     <string id="ui_mcm_ssfx_module_rain_footsteps_title">
-        <text>Footsteps - Settings</text>
+        <text>
+            Footsteps - Settings
+        </text>
     </string>
 
     <!-- Rain Footsteps Settings -->
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm">
-        <text>Main volume</text>
+        <text>
+            Main volume
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm_desc">
-        <text>Main volume for the footsteps.</text>
+        <text>
+            Main volume for the footsteps.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm">
-        <text>Volume variation</text>
+        <text>
+            Volume variation
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm_desc">
-        <text>This add a random variation ( the set value ) to the footsteps volume.</text>
+        <text>
+            This add a random variation ( the set value ) to the footsteps volume.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm">
-        <text>Multiplier without rain</text>
+        <text>
+            Multiplier without rain
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm_desc">
-        <text>Volume multiplier when isn't raining but wetness is still high.</text>
+        <text>
+            Volume multiplier when isn't raining but wetness is still high.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm">
-        <text>Multiplier when walking</text>
+        <text>
+            Multiplier when walking
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm_desc">
-        <text>Volume multiplier when the player is walking.</text>
+        <text>
+            Volume multiplier when the player is walking.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm">
-        <text>Multiplier when running</text>
+        <text>
+            Multiplier when running
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm_desc">
-        <text>Volume multiplier when the player is running.</text>
+        <text>
+            Volume multiplier when the player is running.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm">
-        <text>Jump volume</text>
+        <text>
+            Jump volume
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm_desc">
-        <text>Volume of the jumping sound effect.</text>
+        <text>
+            Volume of the jumping sound effect.
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm">
-        <text>Land volume</text>
+        <text>
+            Land volume
+        </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm_desc">
-        <text>Volume of the land sound effect.</text>
+        <text>
+            Volume of the land sound effect.
+        </text>
     </string>
 </string_table>

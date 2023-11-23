@@ -1,24 +1,38 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
 <string_table>
     <string id="st_autoplay">
-        <text>Autoplay</text>
+        <text>
+            Autoplay
+        </text>
     </string>
     <string id="st_configure">
-        <text>Configure</text>
+        <text>
+            Configure
+        </text>
     </string>
     <string id="st_tempo">
-        <text>Tempo</text>
+        <text>
+            Tempo
+        </text>
     </string>
     <string id="st_transpose">
-        <text>Transpose</text>
+        <text>
+            Transpose
+        </text>
     </string>
     <string id="st_volume">
-        <text>Volume</text>
+        <text>
+            Volume
+        </text>
     </string>
     <string id="st_instrument">
-        <text>Instrument</text>
+        <text>
+            Instrument
+        </text>
     </string>
     <string id="st_filter_by_tag">
-        <text>Filter by Tag</text>
+        <text>
+            Filter by Tag
+        </text>
     </string>
 </string_table>
