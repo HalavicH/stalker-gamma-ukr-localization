@@ -2,183 +2,182 @@
 <string_table>
     <string id="ui_mcm_menu_fftd">
         <text>
-            Fair Fast Travel
+            Справедливі швидкісні подорожі
         </text>
     </string>
     <string id="st_fftd_mapspot_estdur">
         <text>
-            at least
+            принаймні
         </text>
     </string>
     <string id="st_fftd_mapspot_meters">
         <text>
-            m
+            м
         </text>
     </string>
     <string id="ui_mcm_menu_gen">
         <text>
-            General
+            Загальні
         </text>
     </string>
     <string id="ui_mcm_menu_ftcfg">
         <text>
-            Fast Travel
+            Швидкі подорожі
         </text>
     </string>
     <string id="ui_mcm_menu_bpcfg">
         <text>
-            Backpack Travel
+            Подорожі з рюкзаком
         </text>
     </string>
     <string id="st_pda_backpack_travel_to">
         <text>
-            Backpack travel to
+            Подорож з рюкзаком до
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_skillsystem_enabled">
         <text>
-            Enable Haruka Skill System integration
+            Увімкнути інтеграцію системи навичок Харуки
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_haruka_enabled_desc">
         <text>
-            If Haruka's Skill System mod is installed and this option is enabled, FFTD will
-            take the movement speed multiplier from your Endurance skill into account and
-            adjust travel times accordingly, e.g. a movement multiplier of 1.15 would reduce
-            all fast travel times by approximately 15%.
-          \n
-          \nIf Skill System is not installed, this setting has no effect.
+            Якщо встановлено мод Haruka's Skill System і ввімкнено цю опцію, FFTD буде
+            враховуватиме множник швидкості пересування від вашого вміння "Витривалість" і і
+            відповідно скоригує час пересування, наприклад, мультиплікатор пересування 1.15
+            зменшить час швидкої подорожі приблизно на 15%.
+          \n \Якщо систему навичок не встановлено, цей параметр не має жодного ефекту.
         </text>
     </string>
     <string id="ui_mcm_fftd_usedisguisefix">
         <text>
-            Use fix for disguise system?
+            Використовувати виправлення для системи маскування?
         </text>
     </string>
     <string id="ui_mcm_fftd_useoldcalcs">
         <text>
-            Use Anomaly's unmodified distance formula?
+            Використовувати незмінену формулу відстані Аномалії?
         </text>
     </string>
     <string id="ui_mcm_fftd_mpm">
         <text>
-            Minutes of game time passed per 100 meters traveled
+            Хвилини ігрового часу за 100 пройдених метрів
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_enabled">
         <text>
-            Random delay enabled for travel duration?
+            Увімкнено випадкову затримку для тривалості подорожі?
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_hours_min">
         <text>
-            If enabled, minimum hours added
+            Якщо увімкнено, додається мінімальна кількість годин
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_hours_max">
         <text>
-            If enabled, maximum hours added
+            Якщо увімкнено, додається максимальна кількість годин
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_minutes_min">
         <text>
-            If enabled, minimum minutes added
+            Якщо увімкнено, додається мінімум хвилин
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_minutes_max">
         <text>
-            If enabled, maximum minutes added
+            Якщо увімкнено, додається максимум хвилин
         </text>
     </string>
     <string id="ui_mcm_header_loc_travel">
         <text>
-            Travel Within the Same Map
+            Поїздки в межах однієї мапи
         </text>
     </string>
     <string id="ui_mcm_header_map_travel">
         <text>
-            Travel to Another Map
+            Подорож на іншу мапу
         </text>
     </string>
     <string id="st_fftd_rub">
         <text>
-            RU
+            грн
         </text>
     </string>
     <string id="st_fftd_toopoor">
         <text>
-            You can't afford to pay for passage
+            Ви не можете дозволити собі заплатити за прохід
         </text>
     </string>
     <string id="st_fftd_mapspot_guideto">
         <text>
-            Hire a guide to
+            Найняти супровід до
         </text>
     </string>
     <string id="st_fftd_farepaid_guide">
         <text>
-            You called up a nearby veteran guide, and paid them %s to bring you to your
-            destination.
+            Ви покликани ветеранів, що знаходяться поблизу, і заплатили їм %s, щоб привезти
+            вас до місця призначення.
         </text>
     </string>
     <string id="st_fftd_guides_ignored">
         <text>
-            No guides are willing to come to this kind of place just to pick you up
+            Жоден провідник не готовий прийти до цього місця, щоб вас забрати
         </text>
     </string>
     <string id="ui_mcm_menu_gtcfg">
         <text>
-            Guide Travel
+            Путівник
         </text>
     </string>
     <string id="ui_mcm_fftd_cost_coef">
         <text>
-            Cost in rubles per meter traveled
+            Вартість в грн за метр за подорожі
         </text>
     </string>
     <string id="ui_mcm_fftd_pause_stats">
         <text>
-            Pause survival stats during travel?
+            Поставити статистика виживання під час подорожей на паузу?
         </text>
     </string>
     <string id="st_fftd_notyet">
         <text>
-            %s unavailable for another %s
+            %s недоступний наступну(і) %s
         </text>
     </string>
     <string id="st_fft_hour">
         <text>
-            hour
+            годину
         </text>
     </string>
     <string id="st_fft_hours">
         <text>
-            hours
+            години
         </text>
     </string>
     <string id="st_fft_minute">
         <text>
-            minute
+            хвилину
         </text>
     </string>
     <string id="st_fft_minutes">
         <text>
-            minutes
+            хвилини
         </text>
     </string>
     <string id="st_fft_second">
         <text>
-            second
+            сукунду
         </text>
     </string>
     <string id="st_fft_seconds">
         <text>
-            seconds
+            секунди
         </text>
     </string>
     <string id="st_fftd_travelname_ft">
         <text>
-            fast travel
+            швидка подорож
         </text>
     </string>
     <string id="st_fftd_travelname_bp">
