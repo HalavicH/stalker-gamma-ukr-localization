@@ -12,17 +12,17 @@
     </string>
     <string id="ui_mcm_grok_dd_npc_threshold">
         <text>
-            Maximum number of online NPCs kept alive
+            Максимальна кількість онлайн NPC, які залишаються живими
         </text>
     </string>
     <string id="ui_mcm_grok_dd_enabled">
         <text>
-            Enable Grok Dynamic Despawner?
+            Увімкнути Grok Dynamic Despawner?
         </text>
     </string>
     <string id="ui_mcm_grok_dd_check_tasks">
         <text>
-            Avoid deletion of NPCs with tasks?
+            Уникнути видалення NPC із завданнями?
         </text>
     </string>
 </string_table>

@@ -2,32 +2,36 @@
 <string_table>
     <string id="encyclopedia__notes_rfpackages">
         <text>
-            Radio frequency Packages
+            Радіочастотні пакети
         </text>
     </string>
     <string id="encyclopedia__notes_rfpackages_text">
         <text>
-            %c[pda_white]Factions will stash packages for you to find with the radio
-            frequency receiver.%c[ui_gray_1] These packages will give a set of either drugs,
-            repair items, or ammo, along with potentially some bonus items that can include
-            more drugs, valuable items, explosives, upgrade items, or "junk" artefacts.
+            %c[pda_white]Фракцiї ховатимуть пакунки, якi ви зможете знайти за допомогою
+            радiочастотного приймача.%c[ui_gray_1]Цi пакунки мiстять набiр лiкiв, ремонтних
+            предметiв або боєприпасiв, а також, можливо, деякi бонуснi предмети, якi можуть
+            мiстити бiльше лiкiв, цiнних предметiв, вибухiвки, предметiв для покращення або
+            "непотрiбних" артефактiв.
           \n
-          \n%c[pda_white]Packages operate in a queue system, where packages are queued up
-            every 250 goodwill you gain with a faction.%c[ui_gray_1] The location the
-            Package is queued up in will be one of the outside areas directly connected to
-            the area you were in when you hit the 250 goodwill threshold to trigger it.
+          \n%c[pda_white]Пакунки працюють за системою черги, де пакунки ставляться в чергу
+            кожні 250 доброзичливості, яку ви здобули у фракції.%c[ui_gray_1]Локація, в якій
+            стоїть в черзі на отримання пакунка, буде однією з зовнішніх областей,
+            безпосередньо з'єднаних з областю, в якій ви перебували, коли ви досягли порогу
+            в 250 доброзичливості, щоб викликати його отримання.
           \n
-          \n%c[pda_white]You can have one active package at a time.%c[ui_gray_1] You can
-            elect to either collect the package, or you can cancel it using the "cancel rf
-            package" right click menu option on your pda. Canceling a package removes it
-            from the queue, so if it was your only queued package you will have to hit
-            another 250 goodwill threshold before you receive another one.
+          \n%c[pda_white]Ви можете мати один активний пакунок одночасно.%c[ui_gray_1]Ви
+            можете або забрати пакунок, або скасувати його, скориставшись пунктом меню
+            "скасувати rf пакунок" правою кнопкою миші на вашому КПК. Скасування пакунка
+            видаляє його з черги, тому, якщо це був ваш єдиний пакунок у черзі, вам
+            доведеться подолати ще один поріг доброї волі у 250 грн, перш ніж ви отримаєте
+            наступний пакунок.
           \n
-          \n%c[pda_white]You can also change how often you receive package reminders,
-            whether packages are automatically unpacked on pickup, and whether you receive
-            vanilla or modded upgrade items in the mod configuration menu under "RF receiver
-            package options" or by editing the defaults in the main TB_RF_Receiver_Packages
-            script if you don't have mod configuration menu.%c[ui_gray_1]
+          \n%c[pda_white]Ви також можете змінити частоту отримання нагадувань про пакунки,
+            автоматичне розпаковування пакунків при отриманні, а також те, чи отримуватимете
+            ви ванільні чи модифіковані пакунки з оновленнями, у меню конфігурації мода у
+            розділі "Параметри пакунків радіоприймача" або відредагувавши значення за
+            замовчуванням у головному скрипті TB_RF_Receiver_Packages, якщо у вас немає меню
+            конфігурації мода.%c[ui_gray_1]
         </text>
     </string>
 </string_table>

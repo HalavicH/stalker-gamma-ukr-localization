@@ -2,44 +2,44 @@
 <string_table>
     <string id="mag_kriss45">
         <text>
-            Standard .45 ACP KRISS Vector Magazine
+            Стандартний магазин .45 ACP KRISS Vector
         </text>
     </string>
     <string id="mag_kriss45_descr">
         <text>
-            A standard 25-round .45 ACP magazine for KRISS Vector.
+            Стандартний магазин на 25 набоїв калібру .45 ACP для KRISS Vector.
         </text>
     </string>
     <string id="mag_kriss9">
         <text>
-            Standard 9x19 KRISS Vector Magazine
+            Стандартний векторний магазин 9х19 KRISS Vector Magazine
         </text>
     </string>
     <string id="mag_kriss9_descr">
         <text>
-            A standard 33-round 9x19 magazine for KRISS Vector, designation "Big Stick".
+            Стандартний магазин 9х19 на 33 патрони для KRISS Vector, позначення "Big Stick".
         </text>
     </string>
     <string id="ext_mag_kriss_drum">
         <text>
-            Extended .45 ACP KRISS Vector Magazine
+            Подовжений магазин .45 ACP KRISS Vector
         </text>
     </string>
     <string id="ext_mag_kriss_drum_descr">
         <text>
-            40-round extended .45 ACP MagEx magazine for KRISS Vector.
+            Подовжений магазин MagEx на 40 набоїв під патрон .45 ACP MagEx для KRISS Vector.
         </text>
     </string>
     <string id="ext_mag_kriss9_drum">
         <text>
-            Extended 9x19 KRISS Vector Magazine
+            Розширений векторний журнал KRISS 9x19
         </text>
     </string>
     <string id="ext_mag_kriss9_drum_descr">
         <text>
-            High capacity 9x19 magazine for KRISS Vector holding up to 50 rounds. Made in
-            Korea, imported by SGM Tactical. Loading more than 50 rounds is not recommended
-            by the manufacturer.
+            Місткий магазин 9х19 для KRISS Vector, що вміщує до 50 набоїв. Вироблено в
+            Кореї, імпортовано компанією SGM Tactical. Виробник не рекомендує завантажувати
+            більше 50 набоїв.
         </text>
     </string>
 </string_table>

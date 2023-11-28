@@ -4,135 +4,134 @@
     <!-- Gloss Title -->
     <string id="ui_mcm_ssfx_module_wet_surf_title">
         <text>
-            Wet Surfaces - Settings
+            Вологі поверхні - Налаштування
         </text>
     </string>
 
     <!-- Gloss Settings -->
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_buildup_speed_mcm">
         <text>
-            Wetness - Buildup speed
+            Вологість - Швидкість накопичення
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_buildup_speed_mcm_desc">
         <text>
-            Buildup speed. The higher the value the faster will be the buildup of wetness. (
-            Puddles and wet surfaces )
+            Швидкість накопичення. Чим вище значення, тим швидше буде накопичуватися волога.
+            (Калюжі та мокрі поверхні)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_dry_speed_mcm">
         <text>
-            Wetness - Drying speed
+            Вологість - Швидкість висихання
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_dry_speed_mcm_desc">
         <text>
-            Drying time. The higher the value the faster will be the drying of wetness. (
-            Puddles and wet surfaces )
+            Час висихання. Чим вище значення, тим швидше висихає волога. (Калюжі та мокрі
+            поверхні)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_size_mcm">
         <text>
-            Rain Ripples Scale
+            Шкала пульсацій дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_size_mcm_desc">
         <text>
-            Scale of rain ripples. The higher the value, bigger the size of the rain
-            ripples.
+            Масштаб пульсацій дощу. Чим вище значення, тим більший розмір хвиль дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_speed_mcm">
         <text>
-            Rain Ripples Speed
+            Швидкість пульсацій дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_speed_mcm_desc">
         <text>
-            Set the speed of the Rain Ripples animation. ( The rain intensity defines the
-            base speed )
+            Встановіть швидкість анімації Хвилі дощу. (Інтенсивність дощу визначає базову
+            швидкість)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_min_speed_mcm">
         <text>
-            Rain Ripples Min Speed
+            Хвилі дощу Мінімальна швидкість
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_min_speed_mcm_desc">
         <text>
-            Set the minimum speed of the Rain Ripples animation.
+            Встановіть мінімальну швидкість анімації "Брижі дощу".
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_intensity_mcm">
         <text>
-            Rain Ripples Intensity
+            Інтенсивність хвиль дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_intensity_mcm_desc">
         <text>
-            Set the intensity of the Rain Ripples.
+            Налаштуйте інтенсивність пульсацій дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_size_mcm">
         <text>
-            Waterfall Scale
+            Масштаб водоспаду
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_size_mcm_desc">
         <text>
-            Scale of waterfall effect. The higher the value, bigger the size.
+            Масштаб ефекту водоспаду. Чим вище значення, тим більший розмір.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_speed_mcm">
         <text>
-            Waterfall Speed
+            Швидкість водоспаду
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_speed_mcm_desc">
         <text>
-            Set the speed of the falling. ( The rain intensity defines the base speed )
+            Встановіть швидкість падіння. (Інтенсивність дощу визначає базову швидкість)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_min_speed_mcm">
         <text>
-            Waterfall Min Speed
+            Водоспад Мінімальна швидкість
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_min_speed_mcm_desc">
         <text>
-            Set the minimum speed of the water falling.
+            Встановіть мінімальну швидкість падіння води.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_intensity_mcm">
         <text>
-            Waterfall Intensity
+            Інтенсивність водоспаду
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_intensity_mcm_desc">
         <text>
-            Define the intensity of the waterfall effect.
+            Визначте інтенсивність ефекту водоспаду.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_res_mcm">
         <text>
-            Rain Cover Resolution
+            Роздільна здатність дощовика
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_res_mcm_desc">
         <text>
-            Resolution of the rain cover rendering. Higher values generate sharpen covers at
-            the expense of performance.
+            Роздільна здатність рендерингу дощового покриву. Вищі значення генерують більш
+            чіткі покриття за рахунок продуктивності.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_distance_mcm">
         <text>
-            Rain Cover Distance
+            Відстань до дощового покриття
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_distance_mcm_desc">
         <text>
-            Distance of the rain cover rendering. Higher values are more performance
-            expensive.
+            Відстань промальовування дощового покриву. Чим вищі значення, тим вища
+            продуктивність.
         </text>
     </string>
 
@@ -144,7 +143,7 @@
     </string>
     <string id="ui_mcm_lst_ssfx_cover_128">
         <text>
-            128 ( Recommended )
+            128 (Рекомендовано)
         </text>
     </string>
     <string id="ui_mcm_lst_ssfx_cover_256">

@@ -7,20 +7,20 @@
     </string>
     <string id="st_wpn_g36v_descr">
         <text>
-            The H&amp;K G-36 was known as the HK-50 project in the early 1990s. After the
-            cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated
-            G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the
-            German army and for export.This version previously known as the G36E
-            (EвЂ”Export), it is the export version of the standard G36. The G36V has all of
-            the characteristics of the standard rifle, the bayonet mount is a standard NATO
-            type. This version was first produced for Spain and Latvia. So far, there have
-            been very few complaints about this rifle. It is accurate, reliable and simple
-            in maintenance.
+            На початку 1990-х років гвинтівка H&amp;K G-36 була відома як проект HK-50. Після
+            скасування проектів G11 та G41 на озброєнні Бундесверу залишились застарілі
+            гвинтівки G3. Компанія Heckler &amp; Koch отримала завдання розробити нову штурмову
+            гвинтівку як для німецької армії, так і для експорту. Ця версія, раніше відома
+            як G36E (Export), є експортною версією стандартної гвинтівки G36. G36V має всі
+            характеристики стандартної гвинтівки, байонетне кріплення є стандартним для
+            НАТО. Вперше ця версія була виготовлена для Іспанії та Латвії. На сьогоднішній
+            день було дуже мало скарг на цю гвинтівку. Вона точна, надійна і проста в
+            обслуговуванні.
           \n
           \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Origin: %c[ui_gray_1]Germany
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Production Year: %c[ui_gray_1]1996
+          \n %c[d_cyan] пiS %c[0,255,255,255] Походження: %c[ui_gray_1] Німеччина
+          \n %c[d_cyan] пїS %c[0,255,255,255] Виробник: %c[ui_gray_1]Heckler &amp; Koch
+          \n %c[d_cyan] пiS %c[0,255,255,255] Рік виробництва: %c[ui_gray_1]1996
           \n
         </text>
     </string>
@@ -31,49 +31,51 @@
     </string>
     <string id="st_wpn_g36ka4_descr">
         <text>
-            The H&amp;K G-36 was known as the HK-50 project in the early 1990s. After the
-            cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated
-            G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the
-            German army and for export. G36KA4 variant that started showing up in 2016-2017
-            that improved on the G36K. It added the proprietary HKey mod system to the
-            handguard, to add more tactical accessories, a heavier barrel, and removed x3
-            scope on the carry handle, for a lower profile KAC BUIS rail, grenade launcher
-            attachable.
+            На початку 1990-х років гвинтівка H&amp;K G-36 була відома як проект HK-50. Після
+            скасування проектів G11 та G41 на озброєнні Бундесверу залишились застарілі
+            гвинтівки G3. Компанія Heckler &amp; Koch мала розробити нову штурмову гвинтівку як
+            для німецької армії, так і для експорту. У 2016-2017 роках з'явився варіант
+            G36KA4, який покращив G36K. На рукоятці була встановлена фірмова система HKey
+            mod, що дозволило додати більше тактичних аксесуарів, важчий ствол, а також
+            прибрали оптичний приціл x3 на рукоятці для перенесення на більш низькопрофільну
+            планку KAC BUIS з можливістю приєднання гранатомета.
           \n
           \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Origin: %c[ui_gray_1]Germany
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Production Year: %c[ui_gray_1]1997
+          \n %c[d_cyan] пiS %c[0,255,255,255] Походження: %c[ui_gray_1] Німеччина
+          \n %c[d_cyan] пїS %c[0,255,255,255] Виробник: %c[ui_gray_1]Heckler &amp; Koch
+          \n %c[d_cyan] пiS %c[0,255,255,255] Рік виробництва: %c[ui_gray_1]1997
           \n
         </text>
     </string>
     <string id="st_wpn_g36nimble_rwap">
         <text>
-            G36C "Merc"
+            G36C "Мерс"
         </text>
     </string>
     <string id="st_wpn_g36nimble_rwap_descr">
         <text>
-            The H&amp;K G-36 was known as the HK-50 project in tge early 1990s. After the
-            cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated
-            G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the
-            German army and for export. The new 5.56x45mm assault rifle was adopted by the
-            Bundeswehr in 1995 and also found its way into the hands of various law
-            enforcement agencies worldwide, including British police and some US police
-            departments. So far, there have been very few complaints about this rifle. It is
-            accurate, reliable and simple in maintenance. A variant of G36c custom made with
-            B&amp;T quad rail handguard with laser sight some fancy merc job.
+            На початку 1990-х років гвинтівка H&amp;K G-36 була відома як проект HK-50. Після
+            скасування проектів G11 та G41 на озброєнні Бундесверу залишились застарілі
+            гвинтівки G3. Компанія Heckler &amp; Koch вирішила розробити нову штурмову гвинтівку
+            як для німецької армії, так і для експорту. Нова штурмова гвинтівка під набій
+            5.56x45мм була прийнята на озброєння Бундесверу в 1995 році, а також потрапила
+            до рук різних правоохоронних органів по всьому світу, включаючи британську
+            поліцію та деякі поліцейські департаменти США. На сьогоднішній день було дуже
+            мало скарг на цю гвинтівку. Вона точна, надійна і проста в обслуговуванні.
+            Варіант G36c, виготовлений на замовлення, з чотирикутною планкою B&amp;T та лазерним
+            прицілом, зробленим за індивідуальним замовленням.
           \n
           \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Origin: %c[ui_gray_1]Germany
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch
-          \n %c[d_cyan] пїЅ %c[0,255,255,255]Production Year: %c[ui_gray_1]1997
+          \n %c[d_cyan] пiS %c[0,255,255,255] Походження: %c[ui_gray_1] Німеччина
+          \n %c[d_cyan] пїS %c[0,255,255,255] Виробник: %c[ui_gray_1]Heckler &amp; Koch
+          \n %c[d_cyan] пiS %c[0,255,255,255] Рік виробництва: %c[ui_gray_1]1997
           \n
-          \n %c[0,255,255,255]UNIQUE: %c[0,250,250,0]This special weapon similar as G36C
-            with bolt modfied with better rpm as a result bullets more devastating power to
-            the target. It also comes with KAC rail and B&amp;T quadrail handguard. B&amp;T
-            handguard has laser sight for night operations and have rvg vertical grip for
-            better accuracy and recoil control.
+          \n &lt;0_255_255_255_255_color_num&gt;УНІКАЛЬНІСТЬ: %c[0,250,250,0]Ця спеціальна
+            зброя, схожа на G36C, з модифікованим затвором з більшою частотою обертання,
+            завдяки чому кулі мають більшу руйнівну силу для ураження цілі. Він також
+            поставляється з направляючою планкою KAC та чотирикутною рукояткою B&amp;T. Рукоятка
+            B&amp;T має лазерний приціл для нічних операцій та вертикальну рукоятку rvg для
+            кращої точності та контролю віддачі.
           \n
         </text>
     </string>
