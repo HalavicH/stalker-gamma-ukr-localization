@@ -4,99 +4,99 @@
     <!-- Raindrops Title -->
     <string id="ui_mcm_ssfx_module_hud_raindrops_title">
         <text>
-            HUD Raindrops - Settings
+            HUD Дощові краплі - налаштування
         </text>
     </string>
 
     <!-- Raindrops Settings -->
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm">
         <text>
-            Raindrops density
+            Щільність дощових крапель
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm_desc">
         <text>
-            Quantity and size of the raindrops.
+            Кількість і розмір крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm">
         <text>
-            Reflection intensity
+            Інтенсивність відбиття
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm_desc">
         <text>
-            Intensity of the raindrops reflection.
+            Інтенсивність відбиття крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm">
         <text>
-            Refraction intensity
+            Інтенсивність заломлення
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm_desc">
         <text>
-            Intensity of the raindrops refraction.
+            Інтенсивність заломлення крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm">
         <text>
-            Animation speed
+            Швидкість анімації
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm_desc">
         <text>
-            Raindrops animation speed.
+            Швидкість анімації крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm">
         <text>
-            Build up speed
+            Нарощуйте швидкість
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm_desc">
         <text>
-            Value to adjust the build up speed of raindrops on HUD elements.
+            Значення для регулювання швидкості накопичення крапель дощу на елементах HUD.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm">
         <text>
-            Drying speed
+            Швидкість висихання
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm_desc">
         <text>
-            Value to adjust the drying speed of HUD elements.
+            Значення для регулювання швидкості висихання елементів HUD.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm">
         <text>
-            Raindrops size
+            Розмір дощових крапель
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm_desc">
         <text>
-            Set the raindrops size.
+            Встановіть розмір крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm">
         <text>
-            Raindrops gloss
+            Краплі дощу блищать
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm_desc">
         <text>
-            Adjust the gloss intensity of raindrops.
+            Налаштуйте інтенсивність блиску крапель дощу.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm">
         <text>
-            Extra overall gloss ( When wet )
+            Додатковий загальний блиск (у вологому стані)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm_desc">
         <text>
-            Adjust the overall gloss of HUD elements when is raining.
+            Налаштуйте загальний блиск елементів HUD під час дощу.
         </text>
     </string>
 </string_table>

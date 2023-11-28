@@ -6,202 +6,202 @@
 	-->
     <string id="ui_mcm_item_icon_info_title">
         <text>
-            Item UI Improvements
+            Покращення інтерфейсу
         </text>
     </string>
     <string id="ui_mcm_menu_item_icon_info">
         <text>
-            Item UI Improvements
+            Покращення інтерфейсу
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_condition_text">
         <text>
-            Condition Percentage Number
+            Стан Відсоток Кількість
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text_equipped">
         <text>
-            Show On Equipped Gear
+            Показувати на обладнаному спорядженні
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text_hide_bar">
         <text>
-            Hide Condition Bar
+            Приховати рядок умов
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text_hide_bg">
         <text>
-            No Condition Number Background
+            Немає Номер умови Передісторія
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text_art_alt">
         <text>
-            Alternative Position On Artefacts
+            Альтернативна позиція щодо артефактів
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_condition_text_text_padding">
         <text>
-            Text Padding
+            Відступ тексту
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_parts_bars">
         <text>
-            Part Condition Indicators
+            Індикатори стану деталі
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_equipped">
         <text>
-            Show On Equipped Gear
+            Показувати на обладнаному спорядженні
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_width_mult">
         <text>
-            Part Indicator Size Multiplier
+            Множник розміру індикатора деталі
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_separator_mult">
         <text>
-            Part Indicator Spacing Multiplier
+            Множник інтервалу між індикаторами деталей
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_wpn">
         <text>
-            Enable Indicators for Weapons
+            Увімкнути індикатори для зброї
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_wpo">
         <text>
-            Use Weapon Parts Overhaul Condition Colors
+            Використання запчастин зброї після капітального ремонту Кольори стану
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_green">
         <text>
-            WPO Green Color Condition Threshold
+            Поріг стану зеленого кольору WPO
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_yellow">
         <text>
-            WPO Yellow Color Condition Threshold
+            Поріг стану жовтого кольору ВООЗ
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_wpo_orange">
         <text>
-            WPO Orange Color Condition Threshold
+            Поріг стану помаранчевого кольору WPO
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_parts_bars_armor">
         <text>
-            Enable Indicators for Helmets/Outfits
+            Увімкнути індикатори для шоломів/обладнання
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_ammo_name">
         <text>
-            Ammo Box Short-Name Text
+            Текст короткої назви ящика для боєприпасів
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_ammo_short_name">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_ammo_short_name_bad_color">
         <text>
-            Color Text Based On Ammo Quality (Bad/Old)
+            Кольоровий текст на основі якості боєприпасів (погані/старі)
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl">
         <text>
-            Enable for M203/VOG Grenades and Warheads
+            Підходить для гранат та боєголовок M203/VOG
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_ammo_short_name_expl_bad_color">
         <text>
-            Color Text Based On Ammo (Explosive) Quality
+            Кольоровий текст на основі якості боєприпасів (вибухових речовин)
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_ammo_short_name_padding">
         <text>
-            Text Padding
+            Відступ тексту
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_recipe_text">
         <text>
-            Recipe, Notes and Maps Show Read/Unread Text
+            Рецепти, нотатки та мапи показують прочитаний/непрочитаний текст
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_recipe_text">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_recipe_text_pda">
         <text>
-            Show Hint on PDAs with stash info
+            Показати підказку на КПК з інформацією про схованки
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_recipe_text_padding">
         <text>
-            Text Padding
+            Відступ тексту
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_mags">
         <text>
-            Magazine Ammo Count and Bullet Name (Mags Redux Only)
+            Кількість набоїв у магазині та назва кулі (тільки для Mags Redux)
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_mag_info">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_mag_info_text">
         <text>
-            Show Ammo Short-Name
+            Показати коротку назву боєприпасів
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_mag_info_count">
         <text>
-            Show Ammo Count
+            Показати кількість набоїв
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_mag_info_hide_bar">
         <text>
-            Hide Mag Condition Bar
+            Приховати індикатор стану магазину
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_mag_info_padding">
         <text>
-            Text Padding
+            Відступ тексту
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_title_money_text">
         <text>
-            Money Text
+            Грошові перекази
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_money_text">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_money_text_hide_bg">
         <text>
-            No Background
+            Без передісторії
         </text>
     </string>
     <string id="ui_mcm_item_icon_info_enable_money_text_text_padding">
         <text>
-            Text Padding
+            Відступ тексту
         </text>
     </string>
 
@@ -210,12 +210,12 @@
 	-->
     <string id="ui_utjan_recipe_read">
         <text>
-            read
+            читати
         </text>
     </string>
     <string id="ui_utjan_recipe_unread">
         <text>
-            unread
+            не прочитано
         </text>
     </string>
     <string id="ui_utjan_ruble">

@@ -2,33 +2,34 @@
 <string_table>
     <string id="st_wpn_9a91n_descr">
         <text>
-            The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke
-            gas piston, located above the barrel, and a rotating bolt with 4 lugs. The
-            receiver is made from steel stampings, the forend and pistol grip are made from
-            polymer. The steel stock folds up and above the receiver when not in use. The
-            flip up rear sight has settings for 100 and 200 metres range, but the relatively
-            short sight base and steep trajectory of the subsonic bullet restricts the 9A-91
-            to ranges of about 100 metres.
+            9A91 - це газобалонна зброя з обертовим затвором, в якій використовується
+            газовий поршень з довгим ходом, розташований над стволом, і обертовий затвор з 4
+            бойовими упорами. Ствольна коробка виготовлена зі сталевого штампування, цівка
+            та пістолетна рукоятка - з полімеру. Сталевий приклад складається вгору і
+            знаходиться над ствольною коробкою, коли він не використовується. Відкидний
+            прицільний приціл має налаштування на 100 та 200 метрів, але відносно коротка
+            база прицілу та крута траєкторія дозвукової кулі обмежує дальність стрільби з
+            9A-91 приблизно до 100 метрів.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] scopes: All scopes for %c[ui_yellow]""Dovetail
-            mount"
-          \n %c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor
+          \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_purple] • %c[ui_gray_2] приціли: Усі області видимості для
+            %c[ui_yellow]""Кріплення "ластівчин хвіст""
+          \n %c[d_purple] • %c[ui_gray_2] пригнічувач 9А-91/ВСК-94
           \n
           \n
         </text>
     </string>
     <string id="st_wpn_vsk94n_descr">
         <text>
-            The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP
-            Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle
-            is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage
-            unarmoured targets at ranges up to 400m.
+            ВСК-94 - це снайперська гвинтівка під набій 9х39мм з глушником, розроблена
+            російським КБП "Прибор" як недорога альтернатива гвинтівці ВСС. Гвинтівка
+            створена на базі карабіна 9А-91. ВСК-94 призначена для точного ураження
+            неброньованих цілей на дальностях до 400 метрів.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[ui_gray_2] scopes: All scopes for %c[ui_yellow]""Dovetail
-            mount"
-          \n %c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor (integrated)
+          \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_purple] • %c[ui_gray_2] приціли: Усі області видимості для
+            %c[ui_yellow]""Кріплення "ластівчин хвіст""
+          \n %c[d_purple] • %c[ui_gray_2] Пригнічувач 9А-91/ВСК-94 (інтегрований)
           \n
           \n
         </text>

@@ -2,48 +2,49 @@
 <string_table>
     <string id="ui_mcm_blood_pool_title">
         <text>
-            Blood pool
+            Калюжа крові
         </text>
     </string>
     <string id="ui_mcm_menu_blood_pool">
         <text>
-            Blood pool
+            Калюжа крові
         </text>
     </string>
     <string id="ui_mcm_blood_pool_max_pool_size">
         <text>
-            Maximum pool size
+            Максимальний розмір калюжі
         </text>
     </string>
     <string id="ui_mcm_blood_pool_num_of_updates">
         <text>
-            Number of updates
+            Кількість оновлень
         </text>
     </string>
     <string id="ui_mcm_blood_pool_num_of_updates_desc">
         <text>
-            More updates = smoother size increase (does not change max size).
+            Більше оновлень = плавніше збільшення розміру (не змінює максимальний розмір).
         </text>
     </string>
     <string id="ui_mcm_blood_pool_update_freq">
         <text>
-            Update frequency (seconds)
+            Частота оновлення (секунди)
         </text>
     </string>
     <string id="ui_mcm_blood_pool_update_freq_desc">
         <text>
-            Time between each update. Lesser = faster pool grow to its max size.
+            Час між оновленнями. Чим менше, тим швидше калюжа виросте до свого максимального
+            розміру.
         </text>
     </string>
     <string id="ui_mcm_blood_pool_pool_lifetime">
         <text>
-            Pool lifetime (seconds)
+            Час життя калюжі (секунди)
         </text>
     </string>
     <string id="ui_mcm_blood_pool_pool_lifetime_desc">
         <text>
-            Lifetime of pool once it appeared ( pool_lifetime - num_of_updates * update_freq
-            = disappear fully in this time).
+            Час життя калюжі після її появи ( pool_lifetime - num_of_updates * update_freq =
+            повністю зникнути за цей час).
         </text>
     </string>
 </string_table>

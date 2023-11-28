@@ -4,110 +4,111 @@
     <!-- Rain Title -->
     <string id="ui_mcm_ssfx_module_rain_title">
         <text>
-            Rain - Settings
+            Дощ - Налаштування
         </text>
     </string>
 
     <!-- Rain Settings -->
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm">
         <text>
-            Render quality
+            Якість рендерингу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm_desc">
         <text>
-            LOW : Basic refraction rendering. - MEDIUM : Basic rendering plus discard of
-            incorrect refraction. - HIGH : Full refraction with extra reflection sample.
+            LOW : Базовий рендеринг рефракції. - MEDIUM : Базова візуалізація плюс
+            відкидання неправильної рефракції. - HIGH : Повне заломлення з додатковим
+            зразком відбиття.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm">
         <text>
-            Rain speed
+            Швидкість дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm_desc">
         <text>
-            Speed of the falling.
+            Швидкість падіння.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm">
         <text>
-            Rain length
+            Тривалість дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm_desc">
         <text>
-            Length of the raindrop.
+            Довжина дощової краплі.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm">
         <text>
-            Rain width
+            Ширина дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm_desc">
         <text>
-            Width of the raindrop.
+            Ширина дощової краплі.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm">
         <text>
-            Rain transparency
+            Прозорість дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm_desc">
         <text>
-            Transparency of the overall effect.
+            Прозорість загального ефекту.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm">
         <text>
-            Rain brightness
+            Яскравість дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm_desc">
         <text>
-            How brigth is the base color of the raindrop.
+            Наскільки яскравим є основний колір дощової краплі.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm">
         <text>
-            Rain refraction
+            Заломлення дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm_desc">
         <text>
-            Intensity of the refraction effect.
+            Інтенсивність ефекту заломлення.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm">
         <text>
-            Rain reflection
+            Відображення дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm_desc">
         <text>
-            Transparency of the reflection effect.
+            Прозорість ефекту відображення.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm">
         <text>
-            Splash transparency
+            Прозорість бризок
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm_desc">
         <text>
-            Transparency of the rain splashes.
+            Прозорість дощових бризок.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm">
         <text>
-            Splash refraction
+            Заломлення бризок
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm_desc">
         <text>
-            Intensity of the rain splashes refraction.
+            Інтенсивність заломлення дощових бризок.
         </text>
     </string>
 </string_table>

@@ -2,41 +2,42 @@
 <string_table>
     <string id="ui_mcm_safe_af_craft_title">
         <text>
-            Fuse and empower your artifacts without unboxing/boxing fuss - radiation from
-            non-boxed artefacts will absorbed by empty lead boxes as if it were boxed.
+            З'єднуйте та підсилюйте свої артефакти без зайвої метушні - випромінювання від
+            артефактів без коробок буде поглинатися порожніми свинцевими коробками так, як
+            якщо б вони були в коробках.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled">
         <text>
-            Empty lead boxes absorb radiation.
+            Порожні свинцеві коробки поглинають радіацію.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled_desc">
         <text>
-            If you have empty leab boxes in inventory and non-boxed artefacts their
-            radiation will be absorbed. Works with portable workshop.
+            Якщо у вас в інвентарі є порожні лабораторні бокси та артефакти без коробок,
+            їхнє випромінювання буде поглинатися. Працює з портативною майстернею.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only">
         <text>
-            * only if workshop with melter is opened.
+            * тільки якщо відкрито цех з плавильною піччю.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only_desc">
         <text>
-            Absorb radioation with empty lead-boxes only when workshop with melter is
-            opened.
+            Поглинати випромінювання порожніми свинцевими ящиками тільки тоді, коли цех з
+            плавильною піччю відкритий.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_melter_absorb_enabled">
         <text>
-            Opened artifact melter absorbs all radiation.
+            Відкрита плавка артефакту поглинає все випромінювання.
         </text>
     </string>
     <string id="ui_mcm_safe_af_craft_melter_absorb_enabled_desc">
         <text>
-            All radiation will be absorbed when workshop with melter is in use.
-            (Disregarding having empty lead boxed)
+            Усе випромінювання буде поглинатися під час роботи майстерні з плавильною піччю.
+            (Не враховуючи наявність порожніх свинцевих ящиків)
         </text>
     </string>
 </string_table>

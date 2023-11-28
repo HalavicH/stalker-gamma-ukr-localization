@@ -4,48 +4,48 @@
     <!-- Button -->
     <string id="ui_mcm_ssfx_module_florafixes">
         <text>
-            Flora Fixes
+            Виправлення флори
         </text>
     </string>
 
     <!-- Flora Fixes Title -->
     <string id="ui_mcm_ssfx_module_florafixes_title">
         <text>
-            Flora Fixes &amp; Improvements - Settings
+            Виправлення та покращення флори - Налаштування
         </text>
     </string>
 
     <!-- Flora Fixes Settings -->
     <string id="ui_mcm_ssfx_module_florafixes_sss_int_mcm">
         <text>
-            SubSurface Scattering Intensity
+            Інтенсивність підповерхневого розсіювання
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_int_mcm_desc">
         <text>
-            Intensity of the flora SubSurface Scattering.
+            Інтенсивність підповерхневого розсіювання флори.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_color_mcm">
         <text>
-            SubSurface Scattering Color
+            Колір підповерхневого розсіювання
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_sss_color_mcm_desc">
         <text>
-            How much sun color is added to the flora SubSurface Scattering. 1.0 is 100% sun
-            color.
+            Скільки сонячного кольору додається до підповерхневого розсіювання флори. 1.0 -
+            це 100% сонячного кольору.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_mcm">
         <text>
-            Grass Specular
+            Трав'яниста дзеркальна трава
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_mcm_desc">
         <text>
-            Specular value when the grass is dry. Be careful when adjusting the value, try
-            with small changes and check the result.
+            Питоме значення, коли трава суха. Будьте обережні при налаштуванні значення,
+            спробуйте з невеликими змінами і перевірте результат.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_wet_mcm">
@@ -55,30 +55,30 @@
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_grass_specular_wet_mcm_desc">
         <text>
-            Specular value when the grass is wet. Be careful when adjusting the value, try
-            with small changes and check the result.
+            Питоме значення, коли трава мокра. Будьте обережні при налаштуванні значення,
+            спробуйте з невеликими змінами і перевірте результат.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm">
         <text>
-            Trees/Bushes Specular
+            Дерева / кущі Specular
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm_desc">
         <text>
-            Specular when trees and bushes are dry. Be careful when adjusting the value, try
-            with small changes and check the result.
+            Специфічний, коли дерева та кущі сухі. Будьте обережні при регулюванні значення,
+            спробуйте з невеликими змінами і перевірте результат.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_wet_mcm">
         <text>
-            Wet Trees/Bushes Specular
+            Вологі дерева/кущі Specular
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_florafixes_trees_specular_mcm_desc">
         <text>
-            Specular when trees and bushes are wet. Be careful when adjusting the value, try
-            with small changes and check the result.
+            Специфічний, коли дерева та кущі мокрі. Будьте обережні при регулюванні
+            значення, спробуйте з невеликими змінами і перевірте результат.
         </text>
     </string>
 </string_table>

@@ -2,37 +2,37 @@
 <string_table>
     <string id="ui_mcm_rad_ai_title">
         <text>
-            Semi-radiant AI
+            Напіврозумний ШІ
         </text>
     </string>
     <string id="ui_mcm_menu_rad_ai">
         <text>
-            Semi-radiant AI
+            Напіврозумний ШІ
         </text>
     </string>
     <string id="ui_mcm_rad_ai_trader_sleep">
         <text>
-            Sleeping traders
+            Сплячі трейдери
         </text>
     </string>
     <string id="ui_mcm_rad_ai_mechanic_sleep">
         <text>
-            Sleeping mechanics
+            Спляча механіка
         </text>
     </string>
     <string id="ui_mcm_rad_ai_medic_sleep">
         <text>
-            Sleeping medics
+            Сплячі медики
         </text>
     </string>
     <string id="ui_mcm_rad_ai_sleep_from">
         <text>
-            Traders sleep from
+            Трейдери сплять з
         </text>
     </string>
     <string id="ui_mcm_rad_ai_sleep_to">
         <text>
-            Traders sleep to
+            Трейдери сплять до
         </text>
     </string>
 </string_table>
