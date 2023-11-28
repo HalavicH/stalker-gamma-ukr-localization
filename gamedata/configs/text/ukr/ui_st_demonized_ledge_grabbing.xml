@@ -2,160 +2,160 @@
 <string_table>
     <string id="ui_mcm_ledge_grabbing_title">
         <text>
-            Ledge Grabbing
+            Захоплення за виступ
         </text>
     </string>
     <string id="ui_mcm_menu_demonized_ledge_grabbing">
         <text>
-            Ledge Grabbing
+            Захоплення за виступ
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_enable">
         <text>
-            Enable
+            Увімкнути
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection">
         <text>
-            Alternative Climb Detection
+            Альтернативне виявлення підйому
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
         <text>
-            Alternative method will raycast to ledges closer to players crosshair. Standard
-            method will raycast from fixed height
+            Альтернативний метод випромінює промені на виступи ближче до перехрестя гравця.
+            Стандартний метод буде випромінювати з фіксованої висоти
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck">
         <text>
-            Player Bounds Check
+            Перевірка меж гравця
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck_desc">
         <text>
-            If enabled, will perform additional raycast to see if player fits on the ledge.
-            Might limit possible ledges to climb
+            Якщо увімкнено, виконає додатковий промінь, щоб перевірити, чи поміститься
+            гравець на виступі. Може обмежити можливі уступи для підйому
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode">
         <text>
-            Hardcore Mode
+            Жорсткий режим
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode_desc">
         <text>
-            When enabled, adds additional restrictions for climbing:
-          \n 1. No climbing when player's weight is more than 90kg
-          \n 2. No climbing when player's health is less than 60%
-          \n 3. Increases stamina usage
+            Якщо увімкнено, додає додаткові обмеження для сходження:
+          \n 1. Не можна лазити, якщо вага гравця більше 90 кг
+          \n 2. Не підніматися, якщо здоров'я гравця менше 60%.
+          \n 3. Збільшує використання витривалості
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_BHSMode">
         <text>
-            BHS Integration
+            BHS Інтеграція
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_BHSMode_desc">
         <text>
-            When enabled, if you use Body Health System and one of player's arms is broken,
-            it won't be possible to climb
+            Якщо увімкнено, якщо ви використовуєте систему здоров'я тіла і одна з рук гравця
+            зламана, він не зможе піднятися.
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_throttleCheck">
         <text>
-            Ledge Climbing Check Delay
+            Затримка перевірки підйому на карниз
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_throttleCheck_desc">
         <text>
-            Time between checks in ms. Increase to improve performance at the cost of
-            accuracy
+            Час між перевірками в мс. Збільшити, щоб підвищити продуктивність за рахунок
+            точності
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance">
         <text>
-            Trigger Distance
+            Відстань спрацьовування
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance_desc">
         <text>
-            Max distance to initiate ledge grabbing
+            Максимальна відстань для початку захоплення уступу
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_raySteps">
         <text>
-            Ledge Grabbing Accuracy
+            Точність захоплення виступу
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_raySteps_desc">
         <text>
-            Bigger number - better detection and position for grabbing at the cost of slight
-            performance hit
+            Більша кількість - краще виявлення та позиція для захоплення за рахунок
+            незначного зниження продуктивності
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime">
         <text>
-            Time to Hold Key To Trigger
+            Час утримання клавіші для спрацьовування
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime_desc">
         <text>
-            If you hold for more than this time, the ledge grabbing will be activated
+            Якщо утримувати більше цього часу, активується захоплення виступу
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_soundVolume">
         <text>
-            Sound Volume
+            Гучність звуку
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_gruntVolume">
         <text>
-            Grunts Volume
+            Гучність хрюкання
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_gruntProbability">
         <text>
-            Grunts Probability
+            Ймовірність хрюкання
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
         <text>
-            Stamina Drain
+            Виснаження витривалості
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
         <text>
-            Input Method
+            Метод введення
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_keybind">
         <text>
-            Keybind
+            Зв'язка клавіш
         </text>
     </string>
     <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_jumpHold">
         <text>
-            Hold Key
+            Утримуйте клавішу.
         </text>
     </string>
     <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_buttonPress">
         <text>
-            Button Press
+            Натискання кнопки
         </text>
     </string>
     <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_both">
         <text>
-            Both
+            Обидва
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_animationRandomization">
         <text>
-            Animation Randomization
+            Рандомізація анімації
         </text>
     </string>
     <string id="ui_mcm_demonized_ledge_grabbing_animationRandomization_desc">
         <text>
-            Randomizes camera movement
+            Випадковий рух камери
         </text>
     </string>
 </string_table>

@@ -2,35 +2,36 @@
 <string_table>
     <string id="st_placeable_weapon_rack">
         <text>
-            Gun Display Rack
+            —телаж дл€ зброњ
         </text>
     </string>
     <string id="st_placeable_weapon_rack_descr">
         <text>
-            An old gun rack that can be used to collect and display your favorite rifles and
-            shotguns.
+            —тара ст≥йка дл€ зброњ, €ку можна використовувати дл€ збору та демонстрац≥њ
+            ваших улюблених гвинт≥вок ≥ рушниць.
           \n
-          \n %c[ui_gray_1]PROPERTIES:
-          \n %c[d_blue] Х %c[ui_gray_2] item storage
-          \n %c[d_blue] Х %c[ui_gray_2] placeable item
-          \n %c[d_blue] Х %c[ui_gray_2] slots for 6 weapons
-          \n %c[d_blue] Х %c[ui_gray_2] only fits rifles, submachine-guns and shotguns
+          \n %c[ui_gray_1]¬Ћј—“»¬ќ—“≤:
+          \n %c[d_blue] Х %c[ui_gray_2] збер≥ганн€ предмет≥в
+          \n %c[d_blue] Х %c[ui_gray_2] можна розм≥стити
+          \n %c[d_blue] Х %c[ui_gray_2] слоти дл€ 6 ствол≥в
+          \n %c[d_blue] Х %c[ui_gray_2] п≥дходить лише дл€ гвинт≥вок, п≥столет≥в-кулемет≥в
+            та дробовик≥в
           \n
         </text>
     </string>
     <string id="st_placeable_pistol_shelf">
         <text>
-            Pistol Display Shelf
+            ѕолиц€ дл€ п≥столет≥в
         </text>
     </string>
     <string id="st_placeable_pistol_shelf_descr">
         <text>
-            An old shelf that can be used to show off your favorite handguns.
+            —тара полиц€, на €к≥й можна демонструвати улюблен≥ п≥столети.
           \n
-          \n %c[ui_gray_1]PROPERTIES:
-          \n %c[d_blue] Х %c[ui_gray_2] item storage
-          \n %c[d_blue] Х %c[ui_gray_2] placeable item
-          \n %c[d_blue] Х %c[ui_gray_2] only fits 4 pistols
+          \n %c[ui_gray_1]властивост≥:
+          \n %c[d_blue] Х %c[ui_gray_2] збер≥ганн€ предмет≥в
+          \n %c[d_blue] Х %c[ui_gray_2] можна розм≥стити
+          \n %c[d_blue] Х %c[ui_gray_2] вм≥щуЇ лише 4 п≥столети
           \n
         </text>
     </string>

@@ -2,40 +2,40 @@
 <string_table>
     <string id="st_hf_holding_msg">
         <text>
-            $key_interact - Place Object
+            $key_interact - Поставити об?єкт
           \n
-          \n $key_collision - Toggle Collision Detection
-          \n $key_align - Toggle Surface Alignment
+          \n $key_collision - Перемикач виявлення зіткнень
+          \n $key_align - Пвімкнути вирівнювання поверхні
           \n
-          \n $key_mode - Switch to Advanced Mode
-          \n ESCAPE - Cancel Placement
+          \n $key_mode - Перехід до розширеного режиму
+          \n ESCAPE - Скасувати розміщення
           \n
         </text>
     </string>
     <string id="st_hf_advanced_msg">
         <text>
-            $key_interact - Place Object
+            $key_interact - Поставити об?єкт
           \n
-          \n Transforms:
-          \n MOUSE1 - Move on Horizontal Plane
-          \n MOUSE2 - Rotate about Vertical Axis
-          \n LSHIFT + MOUSE1 - Move along Vertical Axis
+          \n Переміщення:
+          \n MOUSE1 - Переміщення у горизонтальній площині
+          \n MOUSE2 - Обертання навколо вертикальної осі
+          \n LSHIFT + MOUSE1 - Переміщення вздовж вертикальної осі
           \n
-          \n Modifiers:
-          \n LALT - Snap
-          \n LCTRL - Finetune Control
+          \n Модифікатори:
+          \n LALT - Прив'язка
+          \n LCTRL - Точне керування
           \n
-          \n $key_mode - Switch to Preview Mode
-          \n ESCAPE - Switch to Normal Mode
+          \n $key_mode - Перехід у режим попереднього перегляду
+          \n ESCAPE - Перехід до звичайного режиму
           \n
         </text>
     </string>
     <string id="st_hf_preview_msg">
         <text>
-            $key_interact - Place Object
+            $key_interact - Поставити об?єкт
           \n
-          \n ESCAPE - Cancel Placement
-          \n $key_mode - Switch to Advanced Mode
+          \n ESCAPE - Скасувати розміщення
+          \n $key_mode - Перехід до розширеного режиму
         </text>
     </string>
 </string_table>
