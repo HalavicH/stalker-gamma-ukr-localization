@@ -7,19 +7,19 @@
     </string>
     <string id="st_wpn_vihrn_descr">
         <text>
-            The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in
-            CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA"
-            (Malogabaritnyj Avtomat - small size assault rifle), it was based on the
-            suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by
-            special VIP protection teams and State Security operatives, SR3M Vikhr is result
-            of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a
-            larger capacity of 30 rounds, which also provides more reliable feeding during
-            automatic fire.
+            Компактна штурмова гвинтівка СР-3 "Вихор" була розроблена в ЦНІІТОчМаш і
+            виготовлялася на Тульському збройовому заводі. Спочатку відома як "МА"
+            (малогабаритний автомат), вона була створена на базі штурмової гвинтівки АС-Вал
+            під набій 9х39мм і призначалася для прихованого носіння спеціальними групами
+            охорони VIP-персон та співробітниками органів державної безпеки, СР3М "Вихор" є
+            результатом поєднання якостей СР-3, АС-Вал та ВСС "Вінторез". SR-3M також має
+            більшу місткість - 30 набоїв, що також забезпечує більш надійне подавання
+            патронів під час автоматичної стрільби.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[d_green]Scopes: %c[0,250,250,0]Some scopes for "Dovetail
-            mount"
-          \n %c[d_purple] • %c[d_green]Suppressor: %c[d_orange]SR-3M suppressor
+          \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_purple] • %c[d_green] Приціли: %c[0,250,250,0]Декілька прицілів для
+            кріплення "ластівчин хвіст"
+          \n %c[d_purple] • %c[d_green] Глушник: %c[d_orange]Глушник СР-3М
           \n
           \n
         </text>

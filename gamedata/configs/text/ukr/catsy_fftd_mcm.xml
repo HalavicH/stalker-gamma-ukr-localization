@@ -182,346 +182,355 @@
     </string>
     <string id="st_fftd_travelname_bp">
         <text>
-            backpack travel
+            подорож з рюкзаком
         </text>
     </string>
     <string id="st_fftd_travelname_gt">
         <text>
-            guide travel
+            гід по подорожам
         </text>
     </string>
     <string id="st_fftd_ftsystem">
         <text>
-            Fast Travel System
+            Система швидких подорожей
         </text>
     </string>
     <string id="st_fftd_guides_far">
         <text>
-            There are no guides close enough to respond
+            Немає гідів, які були б достатньо близькі, щоб відповісти
         </text>
     </string>
     <string id="st_fftd_enemy_guides">
         <text>
-            The only guides around here are enemies of your current faction
+            Єдині провідники тут - вороги вашої поточної фракції
         </text>
     </string>
     <string id="st_fftd_guides_none">
         <text>
-            No guides are currently answering your messages
+            Наразі жоден гід не відповідає на ваші повідомлення
         </text>
     </string>
     <string id="ui_mcm_fftd_rnd_enabled_desc">
         <text>
-            If enabled for this travel type, a random delay may be added to each trip
-            according to the settings below. A setting of 0-2 hours and 0-59 minutes will
-            precisely replicate Anomaly's vanilla behavior, if desired.
+            Якщо увімкнено для цього типу поїздки, до кожної поїздки може бути додано
+            випадкову затримку відповідно до налаштувань нижче. Налаштування 0-2 години та
+            0-59 хвилин точно відтворюють ванільну поведінку Anomaly, якщо ви бажаєте.
         </text>
     </string>
     <string id="ui_mcm_fftd_pause_stats_desc">
         <text>
-            If enabled, most survival stats (hunger, thirst) will be frozen for the duration
-            of this travel type.
+            Якщо увімкнено, більшість показників виживання (голод, спрага) буде заморожено
+            на час цього типу подорожі.
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_enabled">
         <text>
-            Hire fast travel guides from the PDA map
+            Наймайте швидкі путівники з карти КПК
         </text>
     </string>
     <string id="ui_mcm_fftd_ftcfg_travel_cooldown">
         <text>
-            Fast travel cooldown time
+            Швидкий час охолодження під час подорожі
         </text>
     </string>
     <string id="ui_mcm_fftd_bpcfg_travel_cooldown">
         <text>
-            Backpack travel cooldown time
+            Час охолодження рюкзака в дорозі
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_travel_cooldown">
         <text>
-            Guide travel cooldown time
+            Час охолодження подорожі гіда
         </text>
     </string>
     <string id="ui_mcm_fftd_ftcfg_travel_cooldown_desc">
         <text>
-            You must wait this many realtime seconds between fast travel trips. To disable
-            this feature, set it to zero.
+            Ви повинні чекати стільки секунд у реальному часі між швидкими поїздками. Щоб
+            вимкнути цю функцію, встановіть її на нуль.
         </text>
     </string>
     <string id="ui_mcm_fftd_bpcfg_travel_cooldown_desc">
         <text>
-            You must wait this many realtime seconds between backpack travel trips. To
-            disable this feature, set it to zero.
+            Ви повинні чекати стільки секунд у реальному часі між подорожами рюкзака. Щоб
+            вимкнути цю функцію, встановіть її на нуль.
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_travel_cooldown_desc">
         <text>
-            You must wait this many realtime seconds between guided travel trips. To disable
-            this feature, set it to zero.
+            Ви повинні чекати стільки секунд у реальному часі між поїздками з гідом. Щоб
+            вимкнути цю функцію, встановіть її на нуль.
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_add_travel_time">
         <text>
-            Guides take time to reach you
+            Провідникам потрібен час, щоб дістатися до вас
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_add_travel_time_desc">
         <text>
-            If enabled, the trip duration will include calculations of how long it takes the
-            guide to travel from their origin point to where the player is.
+            Якщо увімкнено, тривалість подорожі включатиме розрахунок часу, який потрібен
+            гіду, щоб дістатися з початкової точки до місця, де перебуває гравець.
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_local_only">
         <text>
-            Guides are local-only
+            Провідники - тільки місцеві
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_local_only_desc">
         <text>
-            If enabled, guides will only be available if there is one who is based out of
-            the current map.
+            Якщо увімкнено, гіди будуть доступні лише тоді, коли є гід, який базується за
+            межами поточної мапи.
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_guides_loyal">
         <text>
-            Guides are loyal to their faction
+            Гіди лояльні до своєї фракції
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_guides_loyal_desc">
         <text>
-            If enabled, guides will refuse to do business with players who are enemies of
-            their faction. Guides will, however, look the other way if the player is
-            properly disguised.
+            Якщо цю опцію увімкнено, гіди відмовлятимуться мати справу з гравцями, які є
+            ворогами їхньої фракції. Однак, якщо гравець належним чином замаскований, гіди
+            будуть дивитися на це крізь пальці.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_shared_cooldown">
         <text>
-            All travel types share cooldown trigger
+            Усі типи подорожей мають спільний тригер охолодження
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_shared_cooldown_desc">
         <text>
-            If this option is enabled, the cooldowns for all travel types are linked--that
-            is, when one is triggered, they all are. For example, travelling to a backpack
-            will also trigger the cooldowns, if any, for fast travel and guided travel.
+            Якщо цю опцію увімкнено, то затримки для всіх типів подорожей пов'язані між
+            собою - тобто, коли спрацьовує одна з них, спрацьовують усі інші. Наприклад,
+            подорож з рюкзаком також запустить охолодження, якщо такі є, для швидкої
+            подорожі та подорожі з гідом.
           \n
-          \nWhen disabled, each travel type tracks its cooldown separately, if applicable.
+          \nЯкщо цей параметр вимкнено, кожен тип подорожі відстежує своє охолодження
+            окремо, якщо це можливо.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_debuglogs_enabled">
         <text>
-            Enable debug logging
+            Увімкнути ведення журналу налагодження
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_allow_debug_travel">
         <text>
-            Allow travel to debug mapspots
+            Дозволити пересування до налагоджувальних точок мапи
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_allow_debug_travel_desc">
         <text>
-            When launched in Debug mode, vanilla Anomaly allows fast travel to stalkers,
-            area markers, and various other debug mapspots that aren't normally valid
-            destinations. This can be undesirable, because these markers can get in the way
-            and cause you to teleport to the wrong place, like behind Barkeep or another
-            trader. By default, FFT filters these out.
+            Запущена в режимі налагодження, ванільна Аномалія дозволяє швидко переміщатися
+            до сталкерів, маркерів місцевості та різних інших точок мапи налагодження, які
+            зазвичай не є дійсними пунктами призначення. Це може бути небажано, оскільки ці
+            маркери можуть заважати вам і спричинити телепортацію у неправильне місце,
+            наприклад, за Бармена або іншого торговця. За замовчуванням ШПФ відфільтровує
+            їх.
           \n
-          \nEnabling this setting will revert to the vanilla behavior. Unless you are
-            testing something, or stuck in the map and need to get out, it is recommended
-            that you leave this option disabled at all times.
+          \nУвімкнення цього параметра призведе до повернення до стандартної поведінки.
+            Якщо ви не тестуєте щось, або не застрягли на мапі і не хочете звідти вибратися,
+            рекомендується залишити цю опцію вимкненою назавжди.
         </text>
     </string>
     <string id="ui_mcm_header_ft">
         <text>
-            Normal Fast Travel Settings
+            Звичайні налаштування швидкої подорожі
         </text>
     </string>
     <string id="ui_mcm_header_ftsub">
         <text>
-            This is the default form of fast travel, which is controlled by all of Anomaly's
-            fast travel settings. If a travel option says "fast travel" rather than
-            "backpack" or "guide", it is using the settings on this page.
+            Це форма швидкої подорожі за замовчуванням, яка контролюється всіма
+            налаштуваннями швидких подорожей Anomaly. Якщо в опції подорожі написано "швидка
+            подорож", а не "рюкзак" або "гід", це означає, що вона використовує налаштування
+            на цій сторінці.
         </text>
     </string>
     <string id="ui_mcm_header_bp">
         <text>
-            Backpack Fast Travel Settings
+            Налаштування швидкої подорожі рюкзака
         </text>
     </string>
     <string id="ui_mcm_header_bpsub">
         <text>
-            Backpack travel allows you to fast travel to placed backpack stashes, and is
-            also managed by Anomaly's backpack travel settings. It will show the proper
-            names for stashes that were created after FFT's installation.
+            Переміщення рюкзака дозволяє вам швидко переміщатися до схованок рюкзака, а
+            також керується налаштуваннями переміщення рюкзака в Anomaly. Вона показуватиме
+            правильні назви схованок, які було створено після встановлення FFT.
         </text>
     </string>
     <string id="ui_mcm_header_gt">
         <text>
-            PDA Guide Travel Settings
+            Путівник для КПК Налаштування подорожей
         </text>
     </string>
     <string id="ui_mcm_header_gtsub">
         <text>
-            Guide travel is unique to FFT, and allows you to hire a veteran guide to escort
-            you to your destination. You must pay them, but guides are assumed to pack
-            supplies for the journey--your survival stats will be paused during the trip
-            (configurable below), and they will come get you even if you are hurt or
-            overweight, ignoring those two settings. However, there are certain places they
-            simply will not go for pay.
+            Подорож з гідом є унікальною для FFT і дозволяє вам найняти ветерана-провідника,
+            який супроводжуватиме вас до місця призначення. Ви повинні заплатити йому, але
+            гід повинен зібрати все необхідне для подорожі - ваша статистика виживання буде
+            призупинена під час подорожі (налаштовується нижче), і він прийде за вами,
+            навіть якщо ви поранені або маєте надмірну вагу, ігноруючи ці дві опції. Однак є
+            певні місця, куди вони просто не поїдуть за гроші.
         </text>
     </string>
     <string id="ui_mcm_fftd_allow_pin_travel">
         <text>
-            Allow travel to Quick Pin markers? (requires PAW)
+            Дозволити пересування до маркерів Quick Pin? (потрібен PAW)
         </text>
     </string>
     <string id="ui_mcm_fftd_allow_pin_travel_desc">
         <text>
-            If enabled for this type of travel, Quick Pin markers can be used as fast travel
-            destinations. Pin Travel requires the Personal Adjustable Waypoint addon, and
-            this setting has no effect if it is not installed.
+            Якщо увімкнено для цього типу подорожі, маркери Quick Pin можна використовувати
+            як пункти призначення для швидкої подорожі. Для подорожі за допомогою Пін-мітки
+            потрібен аддон Персональна налаштовувана маршрутна точка, і цей параметр не
+            матиме ефекту, якщо його не встановлено.
           \n
-          \nThis is only allowed for Quick Pins because they can only be placed in
-            locations that are reachable by the player.
+          \nЦе дозволено лише для Швидких Закріплень, оскільки вони можуть бути розміщені
+            лише в місцях, до яких гравець може дістатися.
         </text>
     </string>
     <string id="ui_mcm_fftd_getpaw">
         <text>
-            The Pin Travel feature requires the Personal Adjustable Waypoint addon:
+            Для використання функції Pin Travel потрібен аддон Personal Adjustable Waypoint:
           \nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-
             waypoint-for-anomaly-151-152-and-gamma
         </text>
     </string>
     <string id="ui_mcm_fftd_usedisguisefix_desc">
         <text>
-            A bug in vanilla Anomaly causes disguises to be blown if you fast travel near
-            NPCs with time passage enabled. This setting fixes the bug by disabling time-
-            based suspicion in the disguise settings until the timeskip is complete. This
-            should never be disabled except for troubleshooting.
+            Баг у ванільній версії Аномалії призводить до того, що маскування злітає, якщо
+            ви швидко наближаєтесь до NPC з увімкненим таймкіпом. Цей параметр виправляє
+            ваду, вимикаючи підозру на основі часу у налаштуваннях маскування до завершення
+            таймкіпу. Цей параметр не слід вимикати, окрім як для усунення несправностей.
         </text>
     </string>
     <string id="ui_mcm_fftd_useoldcalcs_desc">
         <text>
-            In vanilla Anomaly, the distance calculation only works correctly within the
-            same map. When calculating travel to other maps, it often produces bizarreW and
-            nonsensical results. FFT replaces this method with a global distance
-            calculation.
+            У ванільній версії Аномалії розрахунок відстані працює коректно лише в межах
+            однієї мапи. При обчисленні відстані до інших мап він часто видає химерні та
+            безглузді результати. ШПФ замінює цей метод на глобальний розрахунок відстані.
           \n
-          \nThe vanilla method is bad and you should never enable this--but for
-            compatibility reasons you can if you really, really need to.
+          \nВанільний метод поганий, і ви ніколи не повинні вмикати його - але з міркувань
+            сумісності ви можете це зробити, якщо вам це дуже-дуже потрібно.
         </text>
     </string>
     <string id="ui_mcm_fftd_cost_coef_desc">
         <text>
-            By default, only Guide Travel has a cost. You can optionally set the other two
-            travel types to have a cost as well, and if this value is greater than zero,
-            they will use the same calculations as Guide Travel.
+            За замовчуванням лише Подорож з гідом має вартість. За бажанням ви можете
+            встановити вартість для двох інших типів подорожей, і якщо це значення більше
+            нуля, для них будуть використовуватися ті ж розрахунки, що і для Подорож з
+            гідом.
         </text>
     </string>
     <string id="st_fftd_farepaid_noguide">
         <text>
-            Fast travel fare paid: %s
+            Сплачено за швидкісний проїзд: &lt;s_placeholder
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_ignore_status">
         <text>
-            Guides ignore "wounded" and "overweight" status
+            Путівники ігнорують статус "поранений" та "з надмірною вагою"
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_ignore_status_desc">
         <text>
-            If enabled, Guide Travel ignores the settings that prevent fast travel if the
-            player is bleeding, irradiated, or overweight. This is to represent that guides
-            are willing to administer first aid or help you carry some of your burden.
+            Якщо увімкнено, "Подорож з гідом" ігнорує налаштування, які перешкоджають
+            швидкій подорожі, якщо у гравця кровотеча, опромінення або надмірна вага. Це
+            робиться для того, щоб показати, що гіди готові надати першу медичну допомогу
+            або допомогти вам нести частину вашої ноші.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_combat_dist">
         <text>
-            NPC combat distance
+            Бойова дистанція NPC
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_combat_dist_desc">
         <text>
-            The maximum distance at which the player is considered to be "in combat" for the
-            purposes of blocking fast travel.
+            Максимальна відстань, на якій гравець вважається "в бою" для цілей блокування
+            швидкого пересування.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_combat_timeout">
         <text>
-            NPC combat timeout
+            Бойовий тайм-аут NPC
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_combat_timeout_desc">
         <text>
-            If an enemy has not seen the player for this many seconds, they no longer count
-            for the purposes of blocking fast travel.
+            Якщо ворог не бачив гравця протягом цієї кількості секунд, він більше не
+            враховується для цілей блокування швидкого пересування.
         </text>
     </string>
 
     <!-- Added in 2.3 -->
     <string id="ui_mcm_fftd_gen_use_warfare_fix">
         <text>
-            Use Warfare Alife Overhaul addon fix
+            Використовуйте виправлення для доповнення Warfare Alife Overhaul
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_use_warfare_fix_desc">
         <text>
-            If this is enabled and Warfare Mode is active, FFT will skip trying to add fast
-            travel icons to the map. If map icons or context menus aren't working correctly
-            when the Warfare Alife Overhaul addon is installed, try enabling this.
+            Якщо цей параметр увімкнено і активний режим Warfare Mode, FFT пропускатиме
+            спроби додати значки швидкого переміщення на мапу. Якщо піктограми мапи або
+            контекстні меню не працюють належним чином після встановлення Warfare Alife
+            Overhaul, спробуйте увімкнути цей параметр.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_allow_open_bp">
         <text>
-            Allow opening backpacks from the map
+            Дозволити відкривати рюкзаки з карти
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_allow_open_bp_desc">
         <text>
-            Enabling this option will re-enable a vanilla feature that allows you to open a
-            backpack from anywhere on the same map. For balance reasons, this is off by
-            default.
+            Увімкнувши цю опцію, ви знову увімкнете ванільну функцію, яка дозволяє
+            відкривати рюкзак з будь-якого місця на тій самій мапі. З міркувань балансу, за
+            замовчуванням цю опцію вимкнено.
         </text>
     </string>
     <string id="ui_mcm_fftd_gear_dmg_factor">
         <text>
-            Gear condition damage multiplier
+            Коефіцієнт пошкодження від стану шестерні
         </text>
     </string>
     <string id="ui_mcm_fftd_gear_dmg_factor_desc">
         <text>
-            Adjusts the multiplier for the amount of condition damage applied to all of the
-            player's equipped gear when fast traveling. The further you go, the more wear
-            and tear.
+            Регулює множник для кількості пошкоджень стану, що застосовуються до всього
+            спорядження гравця під час швидкої подорожі. Чим далі ви їдете, тим більше
+            зношуються речі.
           \n
-          \nValues around 1 or 2 are recommended as a "normal" difficulty setting, while
-            the maximum setting of 11 is probably far beyond overkill for most normal play.
+          \nЗначення близько 1 або 2 рекомендується використовувати як "нормальний" рівень
+            складності, тоді як максимальне значення 11, ймовірно, є надмірним для більшості
+            звичайних ігор.
           \n
-          \nSetting this to zero will disable the feature for this travel type.
+          \nВстановлення цього параметра на нуль вимкне функцію для цього типу подорожі.
         </text>
     </string>
 
     <!-- Added in 2.3.1 -->
     <string id="ui_mcm_fftd_gen_cond_dmg_mode">
         <text>
-            Gear condition damage feature
+            Функція пошкодження стану шестерні
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_cond_dmg_mode_desc">
         <text>
-            All Gear: condition loss is applied to all equipped gear
-          \n Random: condition loss is applied to one equipped item at random
-          \n Armor: condition loss is applied to equipped armor and helmet
-          \n Weapons: condition loss is applied to equipped weapons
-          \n Disabled: turns off all equipment condition loss for all travel types,
-            regardless of their individual settings.
+            Все спорядження: втрата стану застосовується до всього екіпірованого спорядження
+          \n Випадковий: втрата здоров'я наноситься випадковим чином одному з екіпірованих
+            предметів
+          \n Броня: втрата здоров'я наноситься екіпірованим обладункам і шолому
+          \n Зброя: втрата стану застосовується до екіпірованої зброї
+          \n Вимкнено: вимикає втрату стану всього спорядження для всіх типів подорожей,
+            незалежно від їхніх індивідуальних налаштувань.
           \n
         </text>
     </string>
     <string id="ui_mcm_lst_fft_dmg_disabled">
         <text>
-            Disabled
+            Інваліди
         </text>
     </string>
     <string id="ui_mcm_lst_fft_dmg_all">
@@ -531,41 +540,41 @@
     </string>
     <string id="ui_mcm_lst_fft_dmg_random">
         <text>
-            Random
+            Випадковість
         </text>
     </string>
     <string id="ui_mcm_lst_fft_dmg_armor">
         <text>
-            Armor
+            Броня.
         </text>
     </string>
     <string id="ui_mcm_lst_fft_dmg_weapons">
         <text>
-            Weapons
+            Зброя.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_minimum_health">
         <text>
-            Minimum health to travel
+            Мінімальний рівень здоров'я для подорожі
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_minimum_health_desc">
         <text>
-            If the player would normally be prevented from traveling due to radiation or
-            bleeding, they will also be unable to travel if their health is below this
-            percentage. Setting this to zero effectively disables the feature.
+            Якщо зазвичай гравець не може подорожувати через радіацію або кровотечу, він
+            також не зможе подорожувати, якщо його здоров'я буде нижче цього відсотка.
+            Встановлення цього параметра на нуль фактично вимикає цю функцію.
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_minimum_satiety">
         <text>
-            Minimum satiety to travel
+            Мінімальна ситість для подорожі
         </text>
     </string>
     <string id="ui_mcm_fftd_gen_minimum_satiety_desc">
         <text>
-            If the player would normally be prevented from traveling due to radiation or
-            bleeding, they will also be unable to travel if their "satiety" (hunger/thirst)
-            is below this percentage. Setting this to zero effectively disables the feature.
+            Якщо зазвичай гравець не може подорожувати через радіацію або кровотечу, він
+            також не зможе подорожувати, якщо його "ситість" (голод/спрага) буде нижчою за
+            цей відсоток. Встановлення цього параметра на нуль фактично вимикає цю функцію.
         </text>
     </string>
 </string_table>

@@ -7,14 +7,14 @@
     </string>
     <string id="st_wpn_m57_descr">
         <text>
-            The Yugoslavian variant of the TT-33 from 1957 until 1992 offers a lot of
-            improvements from the TT-33, including a longer frame, improving handling, and a
-            longer magazine, allowing one more round to be loaded. The gun also has various
-            other improvements, including a larger mag release button, anti-glaring on the
-            slide and longer, adjustable sights. Of important note, M57 9-rounds magazines
-            are compatible with other TT-33 variants, but the 8-rounds magazines from TT-33
-            are not compatible with this pistol. Also, due to how it was engineered, it's
-            easily possible to switch the caliber to 9x19.
+            Югославський варіант ТТ-33, що випускався з 1957 до 1992 року, має багато
+            вдосконалень від ТТ-33, в тому числі довшу рамку, що покращує керованість, і
+            довший магазин, що дозволяє заряджати на один патрон більше. Пістолет також має
+            низку інших удосконалень, серед яких більша кнопка від'єднання магазина,
+            антиблікове покриття затвору та довші, регульовані прицільні пристосування.
+            Важливо зазначити, що 9-зарядні магазини M57 сумісні з іншими варіантами ТТ-33,
+            але 8-зарядні магазини від ТТ-33 не сумісні з цим пістолетом. Крім того, завдяки
+            особливостям конструкції пістолета, можна легко змінити калібр на 9х19.
         </text>
     </string>
 </string_table>

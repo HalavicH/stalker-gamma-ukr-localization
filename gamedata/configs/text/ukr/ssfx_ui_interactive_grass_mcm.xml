@@ -4,157 +4,156 @@
     <!-- Button -->
     <string id="ui_mcm_ssfx_module_inter_grass">
         <text>
-            Interactive Grass
+            Інтерактивна трава
         </text>
     </string>
 
     <!-- Interactive Grass Settings -->
     <string id="ui_mcm_ssfx_module_inter_grass_title">
         <text>
-            Interative Grass Settings
+            Інтерактивні налаштування трави
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_mcm">
         <text>
-            Enabled
+            Увімкнено
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_mcm_desc">
         <text>
-            [ RESTART REQUIERED ] Enable/Disable interactive grass.
+            [ ВИМАГАЄ РЕСТАРТ ГРИ ] Увімкнути/вимкнути інтерактивну траву.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_max_entities_mcm">
         <text>
-            Max number of interactions
+            Максимальна кількість взаємодій
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_max_entities_mcm_desc">
         <text>
-            [ RESTART REQUIERED ] Maximum number of simultaneous interactions. Higher values
-            can decrease performance.
+            [ ВИМАГАЄ РЕСТАРТ ГРИ ] Максимальна кількість одночасних взаємодій. Вищі значення
+            можуть знизити продуктивність.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_max_distance_mcm">
         <text>
-            Max distance
+            Максимальна відстань
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_max_distance_mcm_desc">
         <text>
-            Maximum distance to render grass interactions.
+            Максимальна відстань для відображення взаємодії трави.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_player_mcm">
         <text>
-            Player interaction
+            Взаємодія гравців
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_player_mcm_desc">
         <text>
-            Enable/Disable player interaction with grass.
+            Увімкнути/вимкнути взаємодію гравця з травою.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm">
         <text>
-            Mutants shockwave
+            Ударна хвиля мутантів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm_desc">
         <text>
-            Enable/Disable Pseudogiants and Burers shockwave effects.
+            Увімкнути/вимкнути ефекти ударної хвилі для псевдогігантів та спалювачів.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_radius_mcm">
         <text>
-            Bending radius
+            Радіус вигину
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_radius_mcm_desc">
         <text>
-            Adjust the radius of the bending effect when characters walk on grass.
+            Налаштуйте радіус ефекту згинання, коли персонажі йдуть по траві.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_horizontal_str_mcm">
         <text>
-            Horizontal strength
+            Горизонтальна міцність
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_horizontal_str_mcm_desc">
         <text>
-            Adjust the strength of the horizontal displacement when characters walk on
-            grass.
+            Налаштуйте силу горизонтального зсуву, коли персонажі ходять по траві.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_vertical_str_mcm">
         <text>
-            Vertical strength
+            Вертикальна міцність
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_vertical_str_mcm_desc">
         <text>
-            Adjust the strength of the vertical displacement when characters walk on grass.
+            Налаштуйте силу вертикального зсуву, коли персонажі ходять по траві.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_explosions_str_mcm">
         <text>
-            Explosions intensity
+            Інтенсивність вибухів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_explosions_str_mcm_desc">
         <text>
-            Option to adjust the shockwave overall intensity.
+            Можливість регулювання загальної інтенсивності ударної хвилі.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_explosions_speed_mcm">
         <text>
-            Explosions speed
+            Швидкість вибухів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_explosions_speed_mcm_desc">
         <text>
-            Option to adjust the shockwave propagation speed.
+            Можливість регулювання швидкості поширення ударної хвилі.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_shooting_str_mcm">
         <text>
-            Shooting strength
+            Сила стрільби
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_shooting_str_mcm_desc">
         <text>
-            Strength of the displacement generated by firearms shots.
+            Сила зсуву, спричиненого пострілами з вогнепальної зброї.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_shooting_range_mcm">
         <text>
-            Shooting range
+            Діапазон стрільби
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_shooting_range_mcm_desc">
         <text>
-            Range of the displacement of the shooting effect.
+            Діапазон зміщення ефекту зйомки.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_anomalies_mcm">
         <text>
-            Anomalies interaction
+            Взаємодія аномалій
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_enable_anomalies_mcm_desc">
         <text>
-            Enable/disable the interaction between grass and anomalies.
+            Увімкнути/вимкнути взаємодію між травою та аномаліями.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_anomalies_distance_mcm">
         <text>
-            Anomalies Max distance
+            Аномалії Максимальна відстань
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_inter_grass_anomalies_distance_mcm_desc">
         <text>
-            This value defines the maximum distance to render the interactions between
-            anomalies and grass.
+            Це значення визначає максимальну відстань для відображення взаємодії між
+            аномаліями та травою.
         </text>
     </string>
 </string_table>
