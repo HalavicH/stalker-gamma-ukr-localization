@@ -4,71 +4,72 @@
     <!-- Controls -->
     <string id="ui_mcm_menu_controls">
         <text>
-            Controls
+            Керування
         </text>
     </string>
     <string id="ui_mcm_aol_hf_controls_bind_collision">
         <text>
-            Toggle Collision Checking
+            Увімкнути перевірку на колізії
         </text>
     </string>
     <string id="ui_mcm_aol_hf_controls_bind_alignment">
         <text>
-            Switch between alignment modes: Player and Surface
+            Перемикання між режимами вирівнювання: Плеєр та Поверхня
         </text>
     </string>
     <string id="ui_mcm_aol_hf_controls_bind_place_mode">
         <text>
-            Switch between placement modes: Normal, Advanced, and Preview
+            Перемикання між режимами розміщення: Звичайний, Розширений та Попередній
+            перегляд
         </text>
     </string>
     <string id="ui_mcm_aol_hf_gameplay_uniform_trade_profiles">
         <text>
-            Use Uniform Trade Profiles
+            Використовуйте уніфіковані торгові профілі
         </text>
     </string>
     <string id="ui_mcm_aol_hf_gameplay_use_ingame_time">
         <text>
-            Lights Show In-game Time
+            Світлове шоу під час гри
         </text>
     </string>
 
     <!-- World Objects -->
     <string id="ui_mcm_menu_world_obj">
         <text>
-            World Objects
+            Світові об'єкти
         </text>
     </string>
     <string id="ui_mcm_aol_hf_world_obj_flag_record_on_place">
         <text>
-            Enable Recording Objects on Placement
+            Увімкнути запис об'єктів при розміщенні
         </text>
     </string>
     <string id="ui_mcm_aol_hf_world_obj_flag_record_on_keypress">
         <text>
-            Enable Recording Objects via Key Press
+            Увімкнення запису об'єктів натисканням клавіші
         </text>
     </string>
     <string id="ui_mcm_aol_hf_world_obj_bind_record">
         <text>
-            Record Object
+            Об'єкт запису
         </text>
     </string>
 
     <!-- Debug -->
     <string id="ui_mcm_menu_debug">
         <text>
-            Debug
+            Налагодження
         </text>
     </string>
     <string id="ui_mcm_aol_hf_debug_bind_creative_mode">
         <text>
-            Creative Mode
+            Творчий режим
         </text>
     </string>
     <string id="ui_mcm_aol_hf_debug_location_offset">
         <text>
-            Location Offset
+            Зміщення розташування
         </text>
     </string>
 </string_table>

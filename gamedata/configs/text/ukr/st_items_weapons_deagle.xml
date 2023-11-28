@@ -2,48 +2,49 @@
 <string_table>
     <string id="st_wpn_steppe_eagle">
         <text>
-            Steppe Eagle
+            Степовий орел
         </text>
     </string>
     <string id="st_wpn_steppe_eagle_descr">
         <text>
-            Developed by the American company Magnum Research, the Desert Eagle uses a gas
-            operated mechanism commonly found in rifles. This allows the pistol to use much
-            larger caliber bullets than traditional semi-automatic pistols. The
-            disadvantages of this weapon include a considerable size and heavy weight. On
-            this barrel, all components are perfectly tuned to achieve the highest accuracy
-            for pistols of this type, thanks to the integrated muzzle compensator, it was
-            possible to significantly reduce recoil. It has a heavily redesigned picatinny
-            rail, thanks to which a wide range of scopes can be mounted. This weapon was
-            brought to the Zone by stalker Logan Williams. Under the guise of a journalist-
-            photographer, he managed to reach the center of Pripyat alone. Currently, his
-            fate is unknown, but there are rumors that he works as an informant for many
-            secret departments on the Exclusion Zone.
+            Розроблений американською компанією Magnum Research, Desert Eagle використовує
+            газоотводний механізм, який зазвичай використовується у гвинтівках. Це дозволяє
+            пістолету використовувати кулі значно більшого калібру, ніж у традиційних
+            напівавтоматичних пістолетах. До недоліків цієї зброї можна віднести значні
+            розміри та велику вагу. На цьому стволі всі компоненти ідеально налаштовані для
+            досягнення найвищої точності для пістолетів такого типу, а завдяки інтегрованому
+            дульному компенсатору вдалося значно зменшити віддачу. Він має сильно
+            перероблену планку Пікатіні, завдяки якій можна встановлювати широкий спектр
+            оптичних прицілів. Цю зброю в Зону привіз сталкер Логан Вільямс. Під виглядом
+            журналіста-фотографа йому вдалося самотужки дістатися до центру Прип'яті. Наразі
+            його доля невідома, але ходять чутки, що він працює інформатором для багатьох
+            секретних відомств на території Зони відчуження.
           \n
           \n %c[0,140,140,140]ATTACHMENTS:
-          \n %c[0,93,0,116] • %c[0,140,140,140] Sights: March Tactical 3-24x42 FFP, ПН-23,
+          \n %c[0,93,0,116] • %c[0,140,140,140] Приціл: March Tactical 3-24x42 FFP, ПН-23,
             ELCAN SpecterDR, ОКП-2, AC10632, ACOG, Aimpoint Micro T1 (low mount), Aimpoint
             Micro T1 (high mount), C-MORE, Aimpoint CompM4s, Docter Sight III, Deltapoint
-            PRO, EOTech XPS3-0, Кобра ЭКП-8-18, Firefield Kemper XL-M, Meprolight M21,
+            PRO, EOTech XPS3-0, Кобра ЕКП-8-18, Firefield Kemper XL-M, Meprolight M21,
             ОКП-77, Aimpoint PRO, 1П76 "Рекарус-А", Trijicon RMR.
           \n
         </text>
     </string>
     <string id="st_wpn_deagle">
         <text>
-            Desert Eagle
+            Пустельний орел
         </text>
     </string>
     <string id="st_wpn_deagle_descr">
         <text>
-            Developed by the American company Magnum Research, the Desert Eagle uses a gas
-            operated mechanism commonly found in rifles. This allows the pistol to use much
-            larger caliber bullets than traditional semi-automatic pistols. The
-            disadvantages of this weapon include a considerable size and heavy weight.
+            Розроблений американською компанією Magnum Research, Desert Eagle використовує
+            газовий ударно-спусковий механізм, який зазвичай використовується в гвинтівках.
+            Це дозволяє пістолету використовувати кулі значно більшого калібру, ніж у
+            традиційних напівавтоматичних пістолетах. До недоліків цієї зброї можна віднести
+            значні розміри та велику вагу.
           \n
           \n %c[0,140,140,140]ATTACHMENTS:
-          \n %c[0,93,0,116] • %c[0,140,140,140] Sights: Docter Sight, Aimpoint T1 on a low
-            mount, Trijicon RMR, Leupold DeltaPoint PRO.
+          \n %c[0,93,0,116] • %c[0,140,140,140] Приціли: Docter Sight, Aimpoint T1 на
+            низькому кріпленні, Trijicon RMR, Leupold DeltaPoint PRO.
           \n
         </text>
     </string>
