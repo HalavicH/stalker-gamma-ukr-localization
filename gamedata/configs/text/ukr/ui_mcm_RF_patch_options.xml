@@ -2,62 +2,62 @@
 <string_table>
     <string id="ui_mcm_RF_package_patch_title">
         <text>
-            RF receiver package options
+            Варіанти комплектації радіочастотного приймача
         </text>
     </string>
     <string id="ui_mcm_menu_RF_package_patch">
         <text>
-            RF receiver package options
+            Варіанти комплектації радіочастотного приймача
         </text>
     </string>
     <string id="ui_mcm_RF_package_patch_reminders">
         <text>
-            Reminder given upon:
+            Нагадування буде надано пізніше:
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_transition">
         <text>
-            Every transition to outside area
+            Кожен перехід на зовнішню територію
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_local">
         <text>
-            Transition to package area
+            Перехід до області пакетів
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_never">
         <text>
-            No reminders
+            Ніяких нагадувань
         </text>
     </string>
     <string id="ui_mcm_RF_package_patch_upgrades">
         <text>
-            Upgrade items given
+            Надані елементи для оновлення
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_vanilla">
         <text>
-            Vanilla upgrade items
+            Оновлення для ванілі
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_streamlined">
         <text>
-            Arti's streamlined upgrades items
+            Вдосконалені елементи модернізації Arti
         </text>
     </string>
     <string id="ui_mcm_RF_package_patch_unpacking">
         <text>
-            Package unpacking mode:
+            Режим розпакування пакунків:
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_manual_unpack">
         <text>
-            Manual right click unpack option
+            Ручне розпакування правою кнопкою миші
         </text>
     </string>
     <string id="ui_mcm_lst_switch_mode_auto_unpack">
         <text>
-            Automatically unpacked on pickup
+            Автоматично розпаковується при отриманні
         </text>
     </string>
 </string_table>

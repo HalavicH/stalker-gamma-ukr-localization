@@ -2,20 +2,21 @@
 <string_table>
     <string id="st_wpn_fn2000e_descr">
         <text>
-            From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The
-            aim was to produce a modern and modular weapon resulting in the FN F2000 rifle,
-            first displayed to the public in 2001. The F2000 offers all of the popular
-            features of the modern assault rifle such as a compact bullpup layout,
-            ambidextrous handling and a modular design with plenty of options and addons
-            available. So far, the FN F2000 rifle has found only a few buyers, including the
-            Armed Forces of Slovenia and Belgian Special Operations Forces.
+            Наприкінці 1980-х - на початку 1990-х років компанія FN Herstal розпочала
+            розробку нової гвинтівки. Метою було створення сучасної та модульної зброї,
+            результатом чого стала гвинтівка FN F2000, вперше представлена публіці у 2001
+            році. F2000 має всі популярні характеристики сучасної штурмової гвинтівки, такі
+            як компактна компоновка буллпап, амбідекстремальна рукоятка та модульна
+            конструкція з великою кількістю опцій та додаткового обладнання. Поки що
+            гвинтівка FN F2000 знайшла лише кількох покупців, серед яких Збройні сили
+            Словенії та Сили спеціальних операцій Бельгії.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[d_green] sights: %c[0,250,250,0]Sight (integrated)
-          \n %c[d_purple] • %c[d_green] grenade launcher: %c[d_cyan]Grenade launcher "FN
+          \n %c[ui_gray_2]ДОДАТКИ:
+          \n %c[d_purple] • %c[d_green] приціли: %c[0,250,250,0]Sight (integrated)
+          \n %c[d_purple] • %c[d_green] гранатомет: %c[d_cyan] Гранатомет "FN
             GL1"%c[d_red](M203)
-          \n %c[d_purple] • %c[d_green] silencer: %c[d_orange]5.56x45 compatible
-            suppressor
+          \n %c[d_purple] • %c[d_green] глушник: %c[d_orange] сумісний глушник під набій
+            5.56х45
           \n
           \n
         </text>
@@ -27,23 +28,24 @@
     </string>
     <string id="st_wpn_fn2000e_nimble_descr">
         <text>
-            From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The
-            aim was to produce a modern and modular weapon resulting in the FN F2000 rifle,
-            first displayed to the public in 2001. The F2000 offers all of the popular
-            features of the modern assault rifle such as a compact bullpup layout,
-            ambidextrous handling and a modular design with plenty of options and addons
-            available. So far, the FN F2000 rifle has found only a few buyers, including the
-            Armed Forces of Slovenia and Belgian Special Operations Forces. This model has
-            an integrated EOTech scope, which results in slightly lower accuracy, but since
-            this model was aimed for CQC, rate of fire was increased accordingly.
+            Наприкінці 1980-х - на початку 1990-х років компанія FN Herstal розпочала
+            розробку нової гвинтівки. Метою було створення сучасної та модульної зброї,
+            результатом чого стала гвинтівка FN F2000, вперше представлена публіці у 2001
+            році. F2000 має всі популярні характеристики сучасної штурмової гвинтівки, такі
+            як компактна компоновка буллпап, амбідекстремальна рукоятка та модульна
+            конструкція з великою кількістю опцій та додаткового обладнання. Поки що
+            гвинтівка FN F2000 знайшла лише кількох покупців, серед яких Збройні сили
+            Словенії та Сили спеціальних операцій Бельгії. Ця модель має інтегрований
+            оптичний приціл EOTech, що призводить до дещо нижчої точності, але оскільки
+            гвинтівка призначена для CQC, скорострільність була відповідно збільшена.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] • %c[d_green] sights: %c[0,250,250,0]Some sights for picatinny
-            rail
-          \n %c[d_purple] • %c[d_green] grenade launcher: %c[d_cyan]Grenade launcher "FN
+          \n %c[ui_gray_2]НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_purple] • %c[d_green] приціли: %c[0,250,250,0]Декілька прицілів на
+            планку Пікатіні
+          \n %c[d_purple] • %c[d_green] гранатомет: %c[d_cyan] Гранатомет "FN
             GL1"%c[d_red](M203)
-          \n %c[d_purple] • %c[d_green] silencer: %c[d_orange]5.56x45 compatible
-            suppressor
+          \n %c[d_purple] • %c[d_green] глушник: %c[d_orange] сумісний глушник під набій
+            5.56х45
           \n
           \n
         </text>

@@ -7,27 +7,27 @@
     </string>
     <string id="st_wpn_sig550_camot">
         <text>
-            SIG SG550 (Modified)
+            SIG SG550 (модиф≥кац≥€)
         </text>
     </string>
     <string id="st_wpn_sig550_customt">
         <text>
-            SIG SG550 (custom)
+            SIG SG550 (на замовленн€)
         </text>
     </string>
     <string id="st_wpn_sig550t_descr">
         <text>
-            Renowned for its high production quality and good performance, the SG 550 is
-            often referred to as the finest 5.56 mm rifle ever made. It has a side-folding
-            skeletonised buttstock and a lightweight aluminium bipod that folds into grooves
-            in the lower handguard.
+            ¬≥дома своЇю високою €к≥стю виготовленн€ та хорошими характеристиками, SG 550
+            часто називають найкращою гвинт≥вкою кал≥бру 5,56 мм з коли-небудь створених.
+            √винт≥вка маЇ скелетний приклад, що складаЇтьс€ вб≥к, та легку алюм≥н≥Їву сошку,
+            €ка вкладаЇтьс€ в пази на нижн≥й частин≥ руко€тки.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] Х %c[ui_gray_2] 5.56x45 compatible suppressor
-          \n %c[d_purple] Х %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632,  обра
-            Ё ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint
-            CompM4s, Eotech, Kemper scopes
-          \n %c[d_purple] Х %c[ui_gray_2] M203 grenade launcher
+          \n %c[ui_gray_2]ƒќƒј“ »:
+          \n %c[d_purple] Х %c[ui_gray_2] 5.56x45 сум≥сний супресор
+          \n %c[d_purple] Х %c[ui_gray_2] ѕриц≥ли ELCAN SpecterDR, Acog, Barsca AC10632,
+             обра ≈ ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More,
+            Aimpoint CompM4s, Eotech, Kemper
+          \n %c[d_purple] Х %c[ui_gray_2] √ранатомет ћ203
           \n
           \n
         </text>
@@ -39,16 +39,16 @@
     </string>
     <string id="st_wpn_sig550_strelokt_descr">
         <text>
-            A Swiss made SIG SG-550 assault rifle. Although it isn't new, it is clear that
-            the previous owner took good care of it: the weapon has been taken apart and put
-            back together with every component fine-tuned for optimum performance,
-            increasing stopping power. The letter "S" has been carved into the stock, along
-            with 16 small notches.
+            Ўтурмова гвинт≥вка SIG SG-550 швейцарського виробництва. ’оча гвинт≥вка не нова,
+            видно, що попередн≥й власник добре про нењ подбав: зброю роз≥брали ≥ з≥брали
+            назад, в≥дрегулювавши кожен компонент дл€ оптимальноњ роботи, зб≥льшивши
+            зупин€ючу силу постр≥лу. Ќа приклад≥ вир≥зана л≥тера "S", а також 16 невеликих
+            нас≥чок.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] Х %c[ui_gray_2] 5.56x45 compatible suppressor
+          \n %c[ui_gray_2]ƒќƒј“ »:
+          \n %c[d_purple] Х %c[ui_gray_2] 5.56x45 сум≥сний супресор
           \n %c[d_purple] Х %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632,  обра
-            Ё ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint
+            ≈ ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint
             CompM4s, Eotech, Kemper
           \n
         </text>
@@ -60,14 +60,15 @@
     </string>
     <string id="st_wpn_sig552t_descr">
         <text>
-            The SG 552 Commando is designed for urban combat, making it the most compact
-            member of SIG's renowned SG 550 family, which enhances its CQC capabilities.
+            SG 552 Commando призначений дл€ веденн€ бою в умовах м≥ста, що робить його
+            найкомпактн≥шим представником в≥домого с≥мейства SG 550 в≥д SIG, що покращуЇ
+            його можливост≥ в сфер≥ CQC.
           \n
-          \n %c[ui_gray_2]ATTACHMENTS:
-          \n %c[d_purple] Х %c[ui_gray_2] 5.56x45 compatible suppressor
+          \n %c[ui_gray_2]Ќј¬≤—Ќ≈ ќЅЋјƒЌјЌЌя:
+          \n %c[d_purple] Х %c[ui_gray_2] сум≥сний шлушник 5.56x45
           \n %c[d_purple] Х %c[ui_gray_2] ELCAN SpecterDR, Acog, Barsca AC10632,  обра
-            Ё ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint
-            CompM4s, Eotech, Kemper scopes
+            ≈ ѕ-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint
+            CompM4s, Eotech, Kemper
           \n
           \n
         </text>

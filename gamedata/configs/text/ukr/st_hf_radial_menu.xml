@@ -2,27 +2,27 @@
 <string_table>
     <string id="st_open_adv_ui">
         <text>
-            Open Advanced UI
+            Відкрити розширений інтерфейс
         </text>
     </string>
     <string id="st_freeze">
         <text>
-            Freeze
+            Заморозити
         </text>
     </string>
     <string id="st_unfreeze">
         <text>
-            Unfreeze
+            Розморозити
         </text>
     </string>
     <string id="st_open_connections">
         <text>
-            Manage Connections
+            Керування з'єднаннями
         </text>
     </string>
     <string id="st_not_implemented">
         <text>
-            To be implemented
+            Буде реалізовано
         </text>
     </string>
 </string_table>

@@ -4,79 +4,79 @@
     <!-- Rain Footsteps Title -->
     <string id="ui_mcm_ssfx_module_rain_footsteps_title">
         <text>
-            Footsteps - Settings
+            Кроки - Налаштування
         </text>
     </string>
 
     <!-- Rain Footsteps Settings -->
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm">
         <text>
-            Main volume
+            Основна гучність
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm_desc">
         <text>
-            Main volume for the footsteps.
+            Основна гучність для кроків.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm">
         <text>
-            Volume variation
+            Зміна гучності
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm_desc">
         <text>
-            This add a random variation ( the set value ) to the footsteps volume.
+            Це додасть випадкову варіацію (встановлене значення) до гучності кроків.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm">
         <text>
-            Multiplier without rain
+            Мультиплікатор без дощу
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm_desc">
         <text>
-            Volume multiplier when isn't raining but wetness is still high.
+            Мультиплікатор об'єму, коли немає дощу, але вологість все ще висока.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm">
         <text>
-            Multiplier when walking
+            Множник при ходьбі
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm_desc">
         <text>
-            Volume multiplier when the player is walking.
+            Мультиплікатор гучності, коли гравець йде.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm">
         <text>
-            Multiplier when running
+            Множник при запуску
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm_desc">
         <text>
-            Volume multiplier when the player is running.
+            Мультиплікатор гучності під час роботи плеєра.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm">
         <text>
-            Jump volume
+            Гучність стрибка
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm_desc">
         <text>
-            Volume of the jumping sound effect.
+            Гучність звукового ефекту стрибків.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm">
         <text>
-            Land volume
+            Гучність приземлення
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm_desc">
         <text>
-            Volume of the land sound effect.
+            Гучність ефекту приземлення.
         </text>
     </string>
 </string_table>

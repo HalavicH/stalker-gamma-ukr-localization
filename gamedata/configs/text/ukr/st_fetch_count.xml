@@ -2,12 +2,12 @@
 <string_table>
     <string id="st_fetch_count_have">
         <text>
-            %$clr_txtYou have %$clr_numberx$count %$clr_txtin your inventory
+            %$clr_txt У вас є %$clr_numberx$count %$clr_txt в ваш інвентар
         </text>
     </string>
     <string id="st_fetch_count_in_stashes">
         <text>
-            %$clr_txtYou have %$clr_numberx$count %$clr_txtin nearby placed stashes
+            %$clr_txt У вас є %$clr_numberx$count %$clr_txt в поблизу розміщених схованках
         </text>
     </string>
 </string_table>

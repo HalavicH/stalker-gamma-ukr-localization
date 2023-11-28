@@ -2,58 +2,60 @@
 <string_table>
     <string id="st_wpn_bm16_full_alt_23">
         <text>
-            TOZ-34 "Chimera Hunter"
+            TOZ-34 "Мисливець на химер"
         </text>
     </string>
     <string id="st_wpn_bm16_full_alt_23_descr">
         <text>
-            Intended for professional and amateur hunting, the TOZ-34 is an over/under
-            shotgun. Affordable in price with high damage output and its ability to unload
-            both rounds instantly make it a popular weapon among rookies on the outskirts of
-            the Zone. Especially useful against mutants thanks to its accuracy and stopping
-            power.
+            Призначена для професійного та аматорського полювання, ТОЗ-34 є рушницею типу
+            "овер/андер". Доступна ціна при високій потужності ураження та здатність миттєво
+            розряджати обидва набої роблять його популярною зброєю серед новачків на
+            околицях Зони. Особливо корисний проти мутантів завдяки своїй точності та
+            зупиняючій силі.
           \n
           \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]USSR
-          \n %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tulsky Oruzheiny
-            Zavod
-          \n %c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1964
+          \n %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1] СРСР
+          \n %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Тульський Оружейний
+            Завод
+          \n %c[d_cyan] • %c[0,255,255,255] Рік виробництва: %c[ui_gray_1]1964
           \n
-          \n %c[0,255,255,255]INTEGRATED ATTACHEMENTS:
-          \n %c[d_blue] • %c[0,255,255,255]Optical sight
+          \n %c[0,255,255,255] ВБУДОВАНЕ НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_blue] • %c[0,255,255,255]Оптичний приціл
           \n
-          \n %c[0,255,255,255]UNIQUE: %c[0,250,250,0]This peculiar TOZ-34 was modified
-            according to the Zone's needs by supporting larger, more efficient rounds than
-            the classic 12ga. This earned it quite a reputation among stalkers as an
-            efficient gun to hunt large mutants like Chimeras, hence the name.
+          \n %c[0,255,255,255]УНІКАЛЬНИЙ: %c[0,250,250,0]Цей своєрідний ТОЗ-34
+            був модифікований відповідно до потреб Зони, підтримуючи більші та ефективніші
+            набої, ніж класичні 12g. Завдяки цьому він здобув серед сталкерів репутацію
+            ефективної зброї для полювання на великих мутантів, таких як химери, звідси і
+            назва.
           \n
         </text>
     </string>
     <string id="st_wpn_toz34_mark4_23">
         <text>
-            TOZ-34 "Chimera Hunter"
+            TOZ-34 "Мисливець на химер"
         </text>
     </string>
     <string id="st_wpn_toz34_mark4_23_descr">
         <text>
-            Intended for professional and amateur hunting, the TOZ-34 is an over/under
-            shotgun. Affordable in price with high damage output and its ability to unload
-            both rounds instantly make it a popular weapon among rookies on the outskirts of
-            the Zone. Especially useful against mutants thanks to its accuracy and stopping
-            power.
+            Призначена для професійного та аматорського полювання, ТОЗ-34 є рушницею типу
+            "овер/андер". Доступна ціна при високій потужності ураження та здатність миттєво
+            розряджати обидва набої роблять його популярною зброєю серед новачків на
+            околицях Зони. Особливо корисний проти мутантів завдяки своїй точності та
+            зупиняючій силі.
           \n
           \n %c[0,255,255,255]PROPERTIES:
-          \n %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]USSR
-          \n %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tulsky Oruzheiny
-            Zavod
-          \n %c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1964
-          \n %c[0,255,255,255]INTEGRATED ATTACHEMENTS:
-          \n %c[d_blue] • %c[0,255,255,255]Optical sight
+          \n %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1] СРСР
+          \n %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Тульський Оружейний
+            Завод
+          \n %c[d_cyan] • %c[0,255,255,255] Рік виробництва: %c[ui_gray_1]1964
+          \n %c[0,255,255,255] ВБУДОВАНЕ НАВІСНЕ ОБЛАДНАННЯ:
+          \n %c[d_blue] • %c[0,255,255,255]Оптичний приціл
           \n
-          \n %c[0,255,255,255]UNIQUE: %c[0,250,250,0]This peculiar TOZ-34 was modified
-            according to the Zone's needs by supporting larger, more efficient rounds than
-            the classic 12ga. This earned it quite a reputation among stalkers as an
-            efficient gun to hunt large mutants like Chimeras, hence the name.
+          \n %c[0,255,255,255]УНІКАЛЬНИЙ: %c[0,250,250,0]Цей своєрідний ТОЗ-34
+            був модифікований відповідно до потреб Зони, підтримуючи більші та ефективніші
+            набої, ніж класичні 12g. Завдяки цьому він здобув серед сталкерів репутацію
+            ефективної зброї для полювання на великих мутантів, таких як химери, звідси і
+            назва.
           \n
         </text>
     </string>

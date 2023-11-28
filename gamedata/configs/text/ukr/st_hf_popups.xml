@@ -2,17 +2,17 @@
 <string_table>
     <string id="st_reject_pickup_world_obj">
         <text>
-            I am unable to pick this up.
+            я не можу п≥дн€ти його.
         </text>
     </string>
     <string id="st_align_actor">
         <text>
-            Aligning relative to player
+            ¬ир≥внюванн€ в≥дносно гравц€
         </text>
     </string>
     <string id="st_align_surface">
         <text>
-            Aligning relative to surface
+            ¬ир≥внюванн€ в≥дносно поверхн≥
         </text>
     </string>
 </string_table>

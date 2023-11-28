@@ -2,84 +2,85 @@
 <string_table>
     <string id="st_paw_waypoint_set">
         <text>
-            Set waypoint here
+            Встановити точку маршруту тут
         </text>
     </string>
     <string id="st_paw_waypoint_mov">
         <text>
-            Move waypoint here
+            Перемістити маршрутну точку сюди
         </text>
     </string>
     <string id="st_paw_waypoint_del">
         <text>
-            Remove current waypoint
+            Видалити поточну маршрутну точку
         </text>
     </string>
     <string id="st_paw_placed_waypoint">
         <text>
-            Placed Waypoint
+            Розміщена маршрутна точка
         </text>
     </string>
     <string id="st_paw_proceed">
         <text>
-            Proceed to your chosen waypoint
+            Перейдіть до обраної точки маршруту
         </text>
     </string>
 
     <!-- Added in 1.2 -->
     <string id="st_paw_missing_waypoint_error">
         <text>
-            Placed waypoint was missing from current save, so the task was cancelled to
-            avoid a crash. This is a safety catch and shouldn't happen again after your next
-            save.
+            Розміщена маршрутна точка була відсутня у поточному збереженні, тому завдання
+            було скасовано, щоб уникнути аварійного завершення. Це запобіжний захід і не
+            повинно повторитися після наступного збереження.
         </text>
     </string>
 
     <!-- Added in 1.3 -->
     <string id="ui_mcm_menu_pawsys">
         <text>
-            Adjustable Waypoint
+            Регульована точка маршруту
         </text>
     </string>
     <string id="ui_mcm_menu_pawgen">
         <text>
-            General Settings
+            Загальні налаштування
         </text>
     </string>
     <string id="ui_mcm_menu_pawpins">
         <text>
-            Map Pins
+            Картографічні значки
         </text>
     </string>
     <string id="ui_mcm_menu_pawmenu">
         <text>
-            Context Menus
+            Контекстні меню
         </text>
     </string>
     <string id="ui_mcm_menu_pawbinds">
         <text>
-            Keybinds / Mouse
+            Зв'язки клавіш / Миша
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_enabled">
         <text>
-            Enable Personal Adjustable Waypoint System
+            Ввімкнути персональну систему налаштованих маршрутних точок
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_uninstall_desc">
         <text>
-            Enabling this option will clear all current waypoint data, remove all waypoint
-            map markers, and cancel any active waypoint task.
+            Увімкнення цієї опції очистить усі поточні дані маршрутних точок, видалить усі
+            маркери мапи маршрутних точок і скасує будь-яке активне завдання для маршрутних
+            точок.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_milpda">
         <text>
-            Integrate with Milspec PDA addon
+            Інтеграція з аддоном для КПК Milspec
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_milpda_desc">
         <text>
-            Enables integration/compatibility with the Milspec PDA addon.
+            Забезпечує інтеграцію/сумісність з аддоном для КПК Milspec.
           \n
           \nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-
             anomaly-151-152-and-gamma
@@ -87,305 +88,313 @@
     </string>
     <string id="ui_mcm_pawsys_pawgen_debuglogs">
         <text>
-            Enable debug logging
+            Увімкнути ведення журналу налагодження
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_debuglogs_desc">
         <text>
-            For troubleshooting. If you encounter a crash or other issue with PAW, please:
-          \n1. Enable this option
-          \n2. Reproduce the issue
-          \n3. Upload a copy of the log for me to examine
+            Для усунення несправностей. Якщо у вас стався збій або інша проблема з PAW, будь
+            ласка:
+          \n1. Увімкніть цю опцію
+          \n2. Відтворіть проблему
+          \n3. Завантажте копію журналу, щоб я міг її вивчити
           \n
-          \nWithout debug logging it is unlikely that your log will show anything useful.
+          \nБез ведення налагоджувального журналу навряд чи ваш журнал покаже щось
+            корисне.
         </text>
     </string>
     <string id="st_paw_pin_add">
         <text>
-            Add pin to map here
+            Додати позначку на мапу тут
         </text>
     </string>
     <string id="st_paw_pin_del">
         <text>
-            Remove this pin
+            Вийміть цей штифт
         </text>
     </string>
     <string id="st_paw_pin_ren">
         <text>
-            Rename this pin
+            Перейменуйте цей штифт
         </text>
     </string>
     <string id="st_paw_pin_dbg">
         <text>
-            Remove all map icons from this spot
+            Видаліть усі піктограми мапи з цього місця
         </text>
     </string>
     <string id="st_paw_pin_clr">
         <text>
-            Clear ALL of your pins - cannot be undone
+            Зніміть усі шпильки - не можна скасувати
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_wptoggle">
         <text>
-            Keypress to toggle the current active waypoint
+            Натискання клавіші для перемикання поточної активної маршрутної точки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_wptoggle_desc">
         <text>
-            When pressed, this key will toggle off the current waypoint (if one is active),
-            or reactivate the last waypoint if none is currently active. It has no effect if
-            you haven't set a waypoint.
+            При натисканні ця клавіша вимикає поточну маршрутну точку (якщо вона активна),
+            або активує останню маршрутну точку, якщо наразі не активна жодна з них. Не діє,
+            якщо ви не встановили маршрутну точку.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_quickpin">
         <text>
-            Keypress to drop a Quick Pin
+            Натисніть клавішу, щоб скинути Quick Pin
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_quickpin_desc">
         <text>
-            When pressed, this key will place a Quick Pin at the nearest valid smart terrain
-            point to the player's current location. If you have the Fair Fast Travel addon,
-            Quick Pins can optionally be used as fast travel points.
+            При натисканні ця клавіша розмістить швидку мітку на найближчій дійсній точці
+            розумної місцевості до поточного місцезнаходження гравця. Якщо у вас є
+            доповнення Fair Fast Travel, Quick Pins можна використовувати як точки швидкої
+            подорожі.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_cartmode">
         <text>
-            Key bind for Cartography Mode
+            Прив'язка клавіш для режиму картографії
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_cartmode_desc">
         <text>
-            While held, this key will enable Cartography Mode, which displays all valid
-            smart terrain points and other tools allowing the player to set and manage their
-            Pins. The default hold can be changed to a toggle.
+            Утримування цієї клавіші вмикає режим картографії, в якому відображаються всі
+            дійсні точки розумної місцевості та інші інструменти, що дозволяють гравцеві
+            встановлювати та керувати своїми кеглями. Утримання за замовчуванням можна
+            змінити на перемикання.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_use_custom_pin_icon">
         <text>
-            Use a custom mapspot icon for map pins
+            Використовуйте власну піктограму мапспоту для мап-прив'язок
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_use_custom_pin_icon_desc">
         <text>
-            If enabled, PAW will attempt to use the specified mapspot ID for pin icons.
-            Valid mapspots are in map_spots.xml or its includes. If you put something
-            invalid here, it will probably crash your game. Use at your own risk.
+            Якщо увімкнено, PAW намагатиметься використовувати вказаний ідентифікатор
+            мапспота для піктограм. Допустимі мапспоти знаходяться у файлі map_spots.xml або
+            його модулях. Якщо ви введете сюди щось невірне, це може призвести до аварійного
+            завершення гри. Використовуйте на свій страх і ризик.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_custom_pin_icon">
         <text>
-            Custom mapspot ID to use
+            Користувацький ідентифікатор картографічної точки для використання
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_custom_pin_icon_desc">
         <text>
-            If you know the name of a valid mapspot ID from the mapspots files, enter it
-            here. WARNING: invalid values will very likely crash your game. Reset it to
-            "user_defined" if nothing else works; it's simple and easy to remember.
+            Якщо ви знаєте назву правильного ідентифікатора точки мапи з файлів точок мапи,
+            введіть його тут. ПОПЕРЕДЖЕННЯ: невірні значення дуже ймовірно призведуть до
+            аварійного завершення гри. Якщо нічого не допомагає, встановіть значення
+            "user_defined"; воно просте і легко запам'ятовується.
         </text>
     </string>
     <string id="st_paw_pin_default_name">
         <text>
-            Pinned Map Location
+            Розташування на закріпленій карті
         </text>
     </string>
     <string id="st_paw_pin_quick_name">
         <text>
-            Quick Pin
+            Швидка кнопка
         </text>
     </string>
     <string id="st_paw_pin_dropped">
         <text>
-            Quick pin dropped at current location
+            Швидке скидання кешу в поточному розташуванні
         </text>
     </string>
     <string id="st_paw_pin_already">
         <text>
-            You already have a pin at nearest smart %s
+            У вас вже є пін у найближчому smart &lt;s_placeholder
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_1">
         <text>
-            Enable Waypoint and Pin functionality on PDA 1.0
+            Ввімкнення функцій Waypoint та Pin на PDA 1.0
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_1_desc">
         <text>
-            If enabled, PDA 1.0 will be allowed to use all Waypoint and Pin functionality.
-            If disabled, existing Pins will be preserved, but cannot be displayed until a
-            compatible device is equipped.
+            Якщо увімкнено, КПК 1.0 може використовувати всі функції маршрутних точок та
+            пін-кодів. Якщо вимкнено, існуючі Пірси будуть збережені, але не зможуть
+            відображатися, доки не буде підключено сумісний пристрій.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_2">
         <text>
-            Enable Waypoint and Pin functionality on PDA 2.0
+            Увімкнення функцій Waypoint та Pin на PDA 2.0
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_2_desc">
         <text>
-            If enabled, PDA 2.0 will be allowed to use all Waypoint and Pin functionality.
+            Якщо увімкнено, КПК 2.0 буде дозволено використовувати всі функції Waypoint і
+            Pin.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_3">
         <text>
-            Enable Waypoint and Pin functionality on PDA 3.1
+            Ввімкнення функцій Waypoint та Pin на PDA 3.1
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_3_desc">
         <text>
-            If enabled, PDA 3.1 will be allowed to use all Waypoint and Pin functionality.
+            Якщо увімкнено, PDA 3.1 зможе використовувати всі функції Waypoint і Pin.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec">
         <text>
-            Enable Waypoint and Pin functionality on the Milspec PDA
+            Увімкніть функцію Waypoint та Pin на КПК Milspec
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec_desc">
         <text>
-            If enabled, the Milspec PDA (if installed and available) will be allowed to use
-            all Waypoint and Pin functionality.
+            Якщо увімкнено, КПК Milspec (якщо він встановлений і доступний) може
+            використовувати всі функції Waypoint і Pin.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_pins">
         <text>
-            Default icon for Pins
+            Піктограма за замовчуванням для штифтів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_pins_desc">
         <text>
-            When the Pins icon set is active, this option determines which icon is assigned
-            to a map pin at the time it is created. Each map pin can have a different icon.
+            Коли активний набір піктограм міток, ця опція визначає, яку піктограму буде
+            призначено мітці мапи під час її створення. Кожна мітка мапи може мати різну
+            піктограму.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_patches">
         <text>
-            Default icon for Faction Patches
+            Значок за замовчуванням для фракційних патчів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_patches_desc">
         <text>
-            When the Faction Patches icon set is active, this option determines which icon
-            is assigned to a map pin at the time it is created. Each map pin can have a
-            different icon.
+            Коли набір піктограм фракцій активний, ця опція визначає, яку піктограму буде
+            призначено мітці мапи під час її створення. Кожна мітка мапи може мати свою
+            піктограму.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr">
         <text>
-            Default icon for BW Hi-res POIs
+            Піктограма за замовчуванням для об'єктів BW Hi-res POI
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr_desc">
         <text>
-            When the BW Hi-res POIs icon set is active, this option determines which icon is
-            assigned to a map pin at the time it is created. Each map pin can have a
-            different icon.
+            Коли активовано набір піктограм BW Hi-res POI, цей параметр визначає, яку
+            піктограму буде призначено мітці мапи під час її створення. Кожна мітка мапи
+            може мати окрему піктограму.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_faves">
         <text>
-            Default icon for Favorites
+            Піктограма за замовчуванням для Вибраного
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_faves_desc">
         <text>
-            When the Favorites icon set is active, this option determines which icon is
-            assigned to a map pin at the time it is created. Each map pin can have a
-            different icon.
+            Коли активний набір піктограм Вибране, ця опція визначає, яку піктограму буде
+            призначено мітці мапи під час її створення. Кожна мітка мапи може мати окрему
+            піктограму.
           \n
-          \nNote: you can customize the Favorites, or any other icon set, by editing
-            configs\scripts\paw\icon_set_*.ltx
+          \nПримітка: ви можете налаштувати Вибране або будь-який інший набір піктограм,
+            відредагувавши файл configs\scripts\paw\icon_set_*.ltx
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_pg_faves">
         <text>
-            Favorites
+            Вибране
         </text>
     </string>
     <string id="st_paw_no_last_wp">
         <text>
-            There is no previous or active waypoint to toggle
+            Немає попередньої або активної маршрутної точки для перемикання
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_redround32">
         <text>
-            Red Round Pin
+            Червона кругла шпилька
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_stalker32">
         <text>
-            Stalker Cursor-style Pin
+            Значок у стилі курсору Сталкера
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_redmodern32">
         <text>
-            Modern GMaps-style Pin
+            Сучасний піп у стилі GMaps
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_redpush32">
         <text>
-            Red Push Pin
+            Червона кнопка
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_yelpush32">
         <text>
-            Yellow Push Pin
+            Жовта кнопка
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_whtsimple32">
         <text>
-            White Minimalist
+            Білий мінімалізм
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_stalker">
         <text>
-            Loner
+            Одинак.
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_army">
         <text>
-            Military
+            Військові
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_bandit">
         <text>
-            Bandit
+            Бандит.
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_csky">
         <text>
-            Clear Sky
+            Чисте небо
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_dolg">
         <text>
-            Duty
+            Обов'язок
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_ecolog">
         <text>
-            Ecologist
+            Еколог
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_freedom">
         <text>
-            Freedom
+            Свобода
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_killer">
         <text>
-            Mercenary
+            Найманець
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_monolith">
         <text>
-            Monolith
+            Моноліт
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_greh">
         <text>
-            Sin
+            Гріх
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_isg">
@@ -395,158 +404,158 @@
     </string>
     <string id="ui_mcm_lst_paw_badge_renegade">
         <text>
-            Renegade
+            Ренегат.
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cmenu_cart">
         <text>
-            Cartography Only
+            Тільки картографія
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cmenu_norm">
         <text>
-            Normal Only
+            Тільки для звичайних
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cmenu_all">
         <text>
-            Always
+            Завжди
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cmenu_off">
         <text>
-            Disabled
+            Інваліди
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_pin_icon_group">
         <text>
-            Active Pin icon set
+            Набір піктограм активних контактів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_pin_icon_group_desc">
         <text>
-            Each set of icons below (e.g. Pins, Patches) has an icon that is currently
-            selected in their drop-down list. This radio button determines which of those
-            sets' icons will be used when placing any new pin.
+            Кожен набір піктограм нижче (наприклад, Піни, Патчі) має піктограму, яка наразі
+            вибрана в їхньому випадаючому списку. Цей перемикач визначає, який з цих наборів
+            піктограм буде використано при створенні нової піктограми.
           \n
-          \nThe Favorites set will always be placed at the top of the list, and you can
-            freely edit which icons it contains in:
+          \nНабір Вибране завжди буде розташовано на початку списку, і ви можете вільно
+            редагувати піктограми, які він містить:
           \n configs\scripts\paw\icon_set_faves.ltx.
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_pg_pins">
         <text>
-            Pin-Style Icons
+            Іконки в стилі піктограм
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_pg_patches">
         <text>
-            Faction Patch Icons
+            Значки фракційних патчів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_headertxt">
         <text>
-            This menu allows you to customize PAW's in-game context menus. You can disable
-            each of the following options to de-clutter your menu, or choose whether each of
-            them appears Always, only when Cartography Mode is active, or only when it is
-            not (Normal PDA view).
+            Це меню дозволяє вам налаштувати контекстні меню PAW у грі. Ви можете вимкнути
+            кожну з наведених нижче опцій, щоб зробити меню менш захаращеним, або вибрати,
+            чи відображатиметься кожна з них завжди, лише коли активовано режим картографії,
+            або лише тоді, коли він не активований (звичайний вигляд КПК).
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_wp_set">
         <text>
-            Set Waypoint
+            Встановити точку маршруту
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_wp_mov">
         <text>
-            Move Waypoint
+            Перемістити маршрутну точку
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_wp_del">
         <text>
-            Remove Waypoint
+            Видалити маршрутну точку
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_pn_add">
         <text>
-            Add Pin
+            Додати Pin
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_pn_del">
         <text>
-            Remove Pin
+            Видалити штифт
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_pn_ren">
         <text>
-            Rename Pin
+            Перейменувати пін
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_pn_clr">
         <text>
-            Clear All Pins
+            Очистити всі шпильки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_pn_spt">
         <text>
-            Clear All at This Spot
+            Очистити все в цьому місці
         </text>
     </string>
 
     <!-- Added in 1.4 -->
     <string id="ui_mcm_lst_pawsys_pg_bwhr">
         <text>
-            BW Hi-res POIs
+            BW POI з високою роздільною здатністю
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_info">
         <text>
-            BWHR Info
+            Інформація про BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_signal">
         <text>
-            BWHR Signal Source
+            Джерело сигналу BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_loot">
         <text>
-            BWHR Loot/Valuables
+            Здобич/цінності BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_death">
         <text>
-            BWHR Danger
+            Небезпека біологічної зброї та боєприпасів
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_ak">
         <text>
-            BWHR Weapons
+            Зброя BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_ammo">
         <text>
-            BWHR Ammo
+            Боєприпаси для БВПЗ
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_bio">
         <text>
-            BWHR Biohazard
+            Біологічна небезпека BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_rad">
         <text>
-            BWHR Radiation
+            Випромінювання BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_warn">
         <text>
-            BWHR Warning
+            Попередження BWHR
         </text>
     </string>
     <string id="ui_mcm_lst_paw_bwhr_magn">
         <text>
-            BWHR Magnifying Glass
+            Збільшувальне скло BWHR
         </text>
     </string>
 
@@ -558,42 +567,42 @@
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_army">
         <text>
-            HR Military
+            Військова служба управління персоналом
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_bandit">
         <text>
-            HR Bandit
+            Кадровий бандит
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_csky">
         <text>
-            HR Clear Sky
+            HR Чисте небо
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_dolg">
         <text>
-            HR Duty
+            Відділ кадрів
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_ecolog">
         <text>
-            HR Ecologist
+            HR-еколог
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_freedom">
         <text>
-            HR Freedom
+            Права людини та свобода праці
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_killer">
         <text>
-            HR Mercenary
+            HR Найманець
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_monolith">
         <text>
-            HR Monolith
+            HR Моноліт
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_greh">
@@ -608,7 +617,7 @@
     </string>
     <string id="ui_mcm_lst_paw_badge_hr_renegade">
         <text>
-            HR Renegade
+            HR-ренегат
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_stalker">
@@ -618,599 +627,610 @@
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_army">
         <text>
-            UHR Military
+            УГП Військові
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_bandit">
         <text>
-            UHR Bandit
+            Бандит УГВР
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_csky">
         <text>
-            UHR Clear Sky
+            УГСПЛ "Чисте небо
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_dolg">
         <text>
-            UHR Duty
+            Обов'язок Уповноваженого з прав людини
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_ecolog">
         <text>
-            UHR Ecologist
+            Еколог УГСПЛ
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_freedom">
         <text>
-            UHR Freedom
+            УГСПЛ Свобода
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_killer">
         <text>
-            UHR Mercenary
+            Найманець УГВ
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_monolith">
         <text>
-            UHR Monolith
+            Моноліт УГП
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_greh">
         <text>
-            UHR Sin
+            UHR Гріх
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_isg">
         <text>
-            UHR UNISG
+            УГСПЛ UNISG
         </text>
     </string>
     <string id="ui_mcm_lst_paw_badge_uhr_renegade">
         <text>
-            UHR Renegade
+            Ренегат УГВР
         </text>
     </string>
     <string id="st_paw_pingspot">
         <text>
-            Map Ping - Right-click to set waypoint or pin
+            Пінг мапи - Клацніть правою кнопкою миші, щоб встановити маршрут або точку
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_mping">
         <text>
-            Ping the map
+            Пінг мапи
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pingsound">
         <text>
-            Play sound effect when pinging the map
+            Увімкнення звукового ефекту під час пінгу мапи
         </text>
     </string>
 
     <!-- Added in 1.6 -->
     <string id="ui_mcm_pawsys_pawpins_milpda_body_icon">
         <text>
-            Customize body icon used by Milspec PDA
+            Налаштуйте піктограму тіла, що використовується на КПК Milspec
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_milpda_body_icon_desc">
         <text>
-            This optional feature allows you configure the body marker icon used by Milspec
-            PDA's Kill Tracker feature, if you have that addon installed.
+            Ця додаткова функція дозволяє вам налаштувати іконку маркера тіла, яка
+            використовується функцією відстеження вбивств у КПК Milspec, якщо у вас
+            встановлений цей аддон.
           \n
-          \nDisabled: MilPDA operates normally
+          \nВимкнено: MilPDA працює у звичайному режимі
           \n
-          \nVictim Faction Patch: dead stalkers will have a faction patch for their body
-            marker, all others use the default from the Body Markers set
+          \nФракційна нашивка жертви: мертві сталкери матимуть фракційну нашивку для свого
+            маркера тіла, всі інші використовуватимуть стандартну з набору маркерів тіл
           \n
-          \nBody Markers set: MilPDA will use the current default icon from the Body
-            Markers set for all bodies
+          \nНабір міток на тілі: MilPDA використовуватиме поточну іконку за замовчуванням
+            з набору міток для всіх тіл
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_get_milpda">
         <text>
-            Requires Milspec PDA 1.7.3 or higher:
+            Потрібна версія Milspec PDA 1.7.3 або новіша:
           \nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-
             anomaly-151-152-and-gamma
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_pg_bodies">
         <text>
-            Body Markers
+            Маркери тіла
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_bodies">
         <text>
-            Default icon for Body Markers
+            Значок за замовчуванням для маркерів тіла
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_patch_res">
         <text>
-            Resolution used for faction patches
+            Роздільна здатність, що використовується для фракційних патчів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_patch_res_desc">
         <text>
-            This option determines which icon quality is used for faction patches: the low-
-            res vanilla inventory icons, PAW's hi-res 64x64 patches, or 128x128 versions
-            with a white outline. The low-res and hi-res mapspots are the same size; the UHR
-            versions are about 25% bigger.
+            Ця опція визначає, яка якість іконок використовується для фракційних патчів:
+            низькоякісні ванільні іконки інвентарю, високо-якісні патчі PAW 64x64 або
+            128x128 з білим контуром. Низько- та високо-роздільні мапи мають однаковий
+            розмір; версії UHR приблизно на 25% більші.
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_badge_res">
         <text>
-            Low-Res (vanilla inventory icon)
+            Low-Res (ванільна іконка інвентарю)
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_badge_hr_res">
         <text>
-            Hi-Res (from clean master)
+            Hi-Res (від чистого майстра)
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_badge_uhr_res">
         <text>
-            Ultra Hi-Res (with white outline)
+            Ultra Hi-Res (з білим контуром)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_milpda_body_icon">
         <text>
-            Customize body icon used by Milspec PDA
+            Налаштуйте піктограму тіла, що використовується на КПК Milspec
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_bodyoff">
         <text>
-            Disabled
+            Інваліди
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_bodyfac">
         <text>
-            Victim Faction Patch
+            Патч фракції жертви
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_cfg_bodyset">
         <text>
-            Body Markers set
+            Набір маркерів для тіла
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_waypoint_rename">
         <text>
-            Rename waypoint
+            Перейменувати маршрутну точку
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_waypoint_redesc">
         <text>
-            Change waypoint description
+            Змінити опис маршрутної точки
         </text>
     </string>
     <string id="ui_mcm_lst_paw_death_small">
         <text>
-            Small BWHR Death
+            Малий BWHR Смерть
         </text>
     </string>
     <string id="ui_mcm_lst_paw_blue_circle">
         <text>
-            Blue Circle
+            Блакитне коло
         </text>
     </string>
     <string id="ui_mcm_lst_paw_crosshair_white">
         <text>
-            White Crosshairs
+            Біле перехрестя
         </text>
     </string>
     <string id="ui_mcm_lst_paw_crosshair_red">
         <text>
-            Red Crosshairs
+            Червоний перехрестя
         </text>
     </string>
     <string id="ui_mcm_lst_paw_crosshair_green">
         <text>
-            Green Crosshairs
+            Зелене перехрестя
         </text>
     </string>
     <string id="ui_mcm_lst_paw_crosshair_green">
         <text>
-            Green Crosshairs
+            Зелене перехрестя
         </text>
     </string>
     <string id="ui_mcm_lst_paw_stash_green">
         <text>
-            Green Stash Icon
+            Зелена піктограма схованки
         </text>
     </string>
     <string id="ui_mcm_lst_paw_stash_white">
         <text>
-            White Stash Icon
+            Біла піктограма схованки
         </text>
     </string>
     <string id="ui_mcm_lst_paw_stash_purple">
         <text>
-            Purple Stash Icon
+            Фіолетовий значок схованки
         </text>
     </string>
     <string id="ui_mcm_lst_paw_stash_red">
         <text>
-            Red Stash Icon
+            Червона піктограма схованки
         </text>
     </string>
 
     <!-- Added in 1.6.1 -->
     <string id="ui_mcm_pawsys_pawgen_wipe_all">
         <text>
-            Wipe all pin data
+            Видаліть усі дані про пін-код
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_wipe_all_desc">
         <text>
-            Removes all pins from the map and wipes the pin database. This cannot be undone.
+            Видаляє всі пін-коди з мапи і витирає базу даних пін-кодів. Це не можна
+            скасувати.
         </text>
     </string>
     <string id="ui_mcm_lst_deadbody_location_sdot">
         <text>
-            [MPDA] Small Blue Dot
+            [MPDA] Маленька блакитна точка
         </text>
     </string>
     <string id="ui_mcm_lst_deadbody_location_mdot">
         <text>
-            [MPDA] Medium Blue Dot
+            [MPDA] Середня синя точка
         </text>
     </string>
     <string id="ui_mcm_lst_deadbody_location_ldot">
         <text>
-            [MPDA] Large Blue Dot
+            [MPDA] Велика синя точка
         </text>
     </string>
     <string id="ui_mcm_lst_deadbody_location_whtx">
         <text>
-            [MPDA] White X Mark
+            [MPDA] Білий X Mark
         </text>
     </string>
     <string id="ui_mcm_lst_deadbody_location_skul">
         <text>
-            [MPDA] Small Plain Skull
+            [MPDA] Малий плоский череп
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_togglehold">
         <text>
-            Behavior of the Cartography Mode keybind
+            Поведінка клавіші прив'язки Режиму картографії
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_toggle">
         <text>
-            Toggle
+            Перемикач
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_hold">
         <text>
-            Hold
+            Зачекай.
         </text>
     </string>
 
     <!-- Added in 1.7 -->
     <string id="ui_mcm_pawsys_pawbinds_mwheel_enabled">
         <text>
-            Mouse wheel support (requires modded binaries)
+            Підтримка коліщатка миші (потребує модифікованих двійкових файлів)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_mwheel_enabled_desc">
         <text>
-            When enabled, the mouse wheel can be scrolled up and down to cycle through the
-            active icons or sets.
-          \n This feature requires modded binaries version 20230701 or newer. GAMMA also
-            supports this from 0.9.1 onward.
+            Якщо цю функцію увімкнено, колесо миші можна прокручувати вгору та вниз для
+            циклічного переходу між активними піктограмами або наборами.
+          \n Ця функція потребує модифікованих двійкових файлів версії 20230701 або
+            новішої. GAMMA також підтримує цю функцію, починаючи з версії 0.9.1.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_mwheel_notify">
         <text>
-            Display a message when changing mouse wheel mode
+            Відображати повідомлення під час зміни режиму коліщатка миші
         </text>
     </string>
     <string id="ui_mcm_paw_modded_binaries">
         <text>
-            Modded binaries by demonized (required for mouse wheel support):
+            Модифіковані двійкові файли за допомогою демонізації (необхідна для підтримки
+            коліщатка миші):
           \n https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
         </text>
     </string>
     <string id="st_paw_change_set">
         <text>
-            Active Set changed to %s.
+            Активний набір змінено на %s.
           \n
         </text>
     </string>
     <string id="st_paw_change_icon">
         <text>
-            Active Icon is now
+            Активна іконка зараз
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_next">
         <text>
-            Cycle to next set
+            Перехід до наступного набору
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_next_desc">
         <text>
-            Optional keybind to cycle to the next set
+            Додаткова клавіша для переходу до наступного набору
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_prev">
         <text>
-            Cycle to previous set
+            Цикл до попереднього набору
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_prev_desc">
         <text>
-            Optional keybind to cycle to the previous set
+            Необов'язкова прив'язка клавіш для переходу до попереднього набору
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_next">
         <text>
-            Cycle to next icon in active set
+            Перехід до наступної піктограми в активному наборі
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_next_desc">
         <text>
-            Optional keybind to cycle to the next icon in the active set
+            Додаткове поєднання клавіш для переходу до наступної піктограми в активному
+            наборі
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_prev">
         <text>
-            Cycle to previous icon in active set
+            Перехід до попередньої піктограми в активному наборі
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_prev_desc">
         <text>
-            Optional keybind to cycle to the previous icon in the active set
+            Додаткове поєднання клавіш для переходу до попередньої піктограми в активному
+            наборі
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_scroll">
         <text>
-            Hold to change sets with mouse wheel
+            Утримуйте, щоб змінити набір коліщатком миші
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_set_scroll_desc">
         <text>
-            While this key is held, scrolling the mouse wheel will cycle through the list of
-            sets if mouse scrolling is enabled.
+            Поки ця клавіша утримується, прокручування коліщатка миші буде циклічно
+            прокручувати список наборів, якщо прокручування миші увімкнено.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll">
         <text>
-            Hold to change icons with mouse wheel
+            Утримуйте, щоб змінити іконки коліщатком миші
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll_desc">
         <text>
-            While this key is held, scrolling the mouse wheel will cycle through the icons
-            in the active set if the scrolling mode is set to Hold for Both.
+            Поки ця клавіша утримується, прокручування коліщатка миші циклічно перебиратиме
+            піктограми в активному наборі, якщо для режиму прокручування встановлено
+            значення Утримувати для обох.
         </text>
     </string>
     <string id="st_paw_cycling_sets">
         <text>
-            Mouse wheel is now cycling sets
+            Коліщатко мишки тепер велосипедні набори
         </text>
     </string>
     <string id="st_paw_cycling_icons">
         <text>
-            Mouse wheel is now cycling icons
+            Коліщатко миші тепер обертає іконки
         </text>
     </string>
     <string id="st_paw_mwheel_normal">
         <text>
-            Mouse wheel returned to default behavior
+            Коліщатко миші повернуто до поведінки за замовчуванням
         </text>
     </string>
     <string id="ui_mcm_menu_pawhud">
         <text>
-            HUD Widget
+            Віджет HUD
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_widget_enable">
         <text>
-            Enable HUD widget
+            Увімкнути віджет HUD
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_autohide">
         <text>
-            Autohide delay in seconds (0 never hides)
+            Затримка автоприховування в секундах (0 ніколи не ховається)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_hudsound">
         <text>
-            Play sound effect for icon/set changes
+            Відтворення звукового ефекту для зміни іконки/набору
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_pingsound">
         <text>
-            Play sound effect when pinging the map
+            Увімкнення звукового ефекту під час пінгу мапи
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_active_theme">
         <text>
-            Widget visual theme (see below for descriptions)
+            Візуальна тема віджету (див. опис нижче)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_custompos">
         <text>
-            Use the custom position below instead of theme default
+            Використовуйте кастомну позицію нижче замість теми за замовчуванням
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_widgetinfo">
         <text>
-            The HUD widget displays the current active icon and, depending on the theme, can
-            also display other information.
+            Віджет HUD відображає поточну активну піктограму, а також, залежно від теми,
+            може відображати іншу інформацію.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_pos_x_desc">
         <text>
-            Sets the X (horizontal) coordinate of the widget's upper left corner. 0,0 is the
-            upper left corner of the screen, 1024,768 is the lower right. The game converts
-            this to your display resolution.
+            Задає координату X (горизонтальну) верхнього лівого кута віджету. 0,0 - лівий
+            верхній кут екрана, 1024,768 - правий нижній. Гра перетворює ці значення на
+            роздільну здатність вашого дисплея.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_pos_y_desc">
         <text>
-            Sets the Y (vertical) coordinate of the widget's upper left corner. 0,0 is the
-            upper left corner of the screen, 1024,768 is the lower right. The game converts
-            this to your display resolution.
+            Задає координату Y (вертикальну) верхнього лівого кута віджету. 0,0 - верхній
+            лівий кут екрана, 1024,768 - нижній правий. Гра перетворює ці значення на
+            роздільну здатність вашого дисплея.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_pos_x">
         <text>
-            X (horizontal, left to right) coordinate
+            Координата X (горизонтальна, зліва направо)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_pos_y">
         <text>
-            Y (vertical, top to bottom) coordinate
+            Координата Y (вертикальна, зверху вниз)
         </text>
     </string>
     <string id="ui_mcm_themes_list">
         <text>
-            You can read a full description of each available theme below.
+            Ви можете прочитати повний опис кожної доступної теми нижче.
           \n
         </text>
     </string>
     <string id="ui_mcm_themes_classicauto">
         <text>
-            Classic Stalker, Auto-Switch: 138x75 (default pos 890,620)
-          \n Icon and Set text, Next/Current/Prev icons
-          \n Auto-switches to Classic Vertical Right when PDA is open
-          \n Select "Classic" theme if you don't want the auto-switch
-          \n Recommended default
+            Класичний Сталкер, автоматичне перемикання: 138x75 (за замовчуванням поз.
+            890,620)
+          \n Іконка та текст набору, іконки наступний/поточний/попередній
+          \n Автоматично перемикається на класичну вертикальну праву, коли КПК відкрито
+          \n Виберіть тему "Класична", якщо ви не хочете автоперемикання
+          \n Рекомендована за замовчуванням
         </text>
     </string>
     <string id="ui_mcm_themes_classic">
         <text>
-            Classic Stalker, Horizontal: 138x75 (default pos 890,620)
-          \n Icon and Set text, Next/Current/Prev icons
-          \n Does not auto-switch, but blocked by PDA in its default position
+            Класичний Сталкер, Горизонтальний: 138x75 (за замовчуванням pos 890,620)
+          \n Іконка та текст набору, іконки Наступний/Поточний/Передостанній
+          \n Не перемикається автоматично, але блокується КПК у стандартному положенні
         </text>
     </string>
     <string id="ui_mcm_themes_vertright">
         <text>
-            Classic Vertical, Right-aligned: 100x154 (default pos 922,440)
-          \n Icon text, Next/Current/Prev icons
-          \n PDA mode for Classic Stalker Auto-Switch, but can be used on its own
+            Класичний вертикальний, вирівняний по правому краю: 100x154 (за замовчуванням
+            922,440)
+          \n Текст іконки, іконки Наступний/Поточний/Передостанній
+          \n Режим КПК для автоматичного перемикання Classic Stalker, але може
+            використовуватися самостійно
         </text>
     </string>
     <string id="ui_mcm_themes_vertleft">
         <text>
-            Classic Vertical, Left-aligned: 100x154 (default pos 4,570)
-          \n Icon text, Next/Current/Prev icons
-          \n Can block news messages in its default position
-          \n Custom position recommended
+            Класичний вертикальний, вирівняний по лівому краю: 100x154 (за замовчуванням pos
+            4,570)
+          \n Текст іконки, іконки наступна/поточна/попередня
+          \n Може блокувати повідомлення новин у позиції за замовчуванням
+          \n Рекомендується користувацьке положення
         </text>
     </string>
     <string id="ui_mcm_themes_gamma_right">
         <text>
-            GAMMA Style, Right-aligned: 136x150 (default pos 888,440)
-          \n Icon and Set text, Next/Current/Prev icons
-          \n Visible both with and without PDA open
+            Стиль GAMMA, вирівняний по правому краю: 136x150 (за замовчуванням pos 888,440)
+          \n Іконка та текст налаштувань, іконки Наступний/Поточний/Передостанній
+          \n Видно як з відкритим, так і без відкритого КПК
         </text>
     </string>
     <string id="ui_mcm_themes_gamma_left">
         <text>
-            GAMMA Style, Left-aligned: 136x150 (default pos 4,440)
-          \n Icon and Set text, Next/Current/Prev icons
-          \n Can block news messages in its default position
-          \n Custom position recommended
+            Стиль GAMMA, вирівняний по лівому краю: 136x150 (за замовчуванням pos 4,440)
+          \n Іконка та текст, іконки Наступний/Поточний/Передостанній
+          \n Може блокувати повідомлення новин у позиції за замовчуванням
+          \n Рекомендується користувацьке положення
         </text>
     </string>
     <string id="ui_mcm_themes_minimal_h">
         <text>
-            Minimalist, Horizontal: 94x52 (default pos 924,645)
-          \n Icon text, Next/Current/Prev icons on drop shadow
-          \n Blocked by PDA in its default position
-          \n Custom position recommended
+            Мінімалістичний, Горизонтальний: 94x52 (за замовчуванням pos 924,645)
+          \n Текст іконки, іконки Наступний/Поточний/Передостанній на падаючій тіні
+          \n Блокується КПК у позиції за замовчуванням
+          \n Рекомендується користувацьке положення
         </text>
     </string>
     <string id="ui_mcm_themes_minimal_v">
         <text>
-            Minimalist, Vertical: 92x112 (default pos 924,440)
-          \n Icon text, Next/Current/Prev icons on drop shadow
-          \n No left-aligned version
+            Мінімалістичний, Вертикальний: 92x112 (за замовчуванням pos 924,440)
+          \n Текст іконки, іконки Next/Current/Prev на тіні
+          \n Без вирівнювання по лівому краю
         </text>
     </string>
     <string id="ui_mcm_themes_minicom">
         <text>
-            Minimalist, Compact: 38x38 (default pos 890,440)
-          \n Displays current icon only, on drop shadow
-          \n blocked by PDA in its default position
+            Мінімалістичний, компактний: 38x38 (за замовчуванням позиція 890 440)
+          \n Відображає лише поточну іконку, на тлі
+          \n блокується КПК у позиції за замовчуванням
         </text>
     </string>
     <string id="ui_mcm_themes_compact_noui">
         <text>
-            Compact, No UI Frame: 32x32 (default pos 890,440)
-          \n Displays current icon only, no other UI or background
-          \n Suitable for positioning nearly anywhere, easy to integrate with custom HUDs
+            Компактний, без рамки інтерфейсу: 32x32 (за замовчуванням 890 440)
+          \n Відображає лише поточну іконку, без іншого інтерфейсу або фону
+          \n Підходить для позиціонування майже будь-де, легко інтегрується з кастомними
+            HUD'ами
         </text>
     </string>
     <string id="ui_mcm_lst_theme_classicauto">
         <text>
-            Classic Stalker, H/V Auto Switch
+            Класичний Сталкер, автоматичне перемикання відео/звуку
         </text>
     </string>
     <string id="ui_mcm_lst_theme_classic">
         <text>
-            Classic Stalker, Horizontal (890,620)
+            Класичний Сталкер, горизонтальний (890 620)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_vertright">
         <text>
-            Classic, Vertical, Right-Aligned (922,440)
+            Класичний, вертикальний, вирівняний по правому краю (922 440)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_vertleft">
         <text>
-            Classic, Vertical, Left-Aligned (4,570)
+            Класичний, вертикальний, вирівняний по лівому краю (4,570)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_gamma_right">
         <text>
-            GAMMA Style, Right-Aligned (888,440)
+            Стиль GAMMA, вирівняний по правому краю (888 440)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_gamma_left">
         <text>
-            GAMMA Style, Left-Aligned (4,574)
+            Стиль GAMMA, вирівняний по лівому краю (4,574)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_minimal_h">
         <text>
-            Minimalist, Horizontal (890,650)
+            Мінімалістичний, горизонтальний (890 650)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_minimal_v">
         <text>
-            Minimalist, Vertical (890,440)
+            Мінімалістичний, Вертикальний (890 440)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_minicom">
         <text>
-            Minimalist, Compact (820,725)
+            Мінімалістичний, компактний (820 725)
         </text>
     </string>
     <string id="ui_mcm_lst_theme_compact_noui">
         <text>
-            Compact, No UI Frame (820,725)
+            Компактний, без рамки інтерфейсу (820,725)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_enabled">
         <text>
-            Enabled
+            Увімкнено
         </text>
     </string>
 
     <!-- Added in 1.7.1 -->
     <string id="st_paw_waypoint_cleared">
         <text>
-            Current waypoint cleared
+            Поточну маршрутну точку очищено
         </text>
     </string>
 
     <!-- Added in 1.7.2 -->
     <string id="ui_mcm_paw_moddb_link">
         <text>
-            PAW: https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-
+            ЛАПА: https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-
             waypoint-for-anomaly-151-152-and-gamma
         </text>
     </string>
@@ -1224,119 +1244,124 @@
     <!-- Added in 1.7.3 -->
     <string id="ui_mcm_pawsys_pawgen_disable_mcmups">
         <text>
-            Disable immediate MCM updates
+            Вимкнути негайні оновлення MCM
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_disable_mcmups_desc">
         <text>
-            When you change the current icon/set during gameplay, PAW updates the same
-            setting in MCM. This is so that your changes will be saved even if the game
-            crashes, but it can cause a performance impact on some machines. Enabling this
-            setting will turn off this feature, but the settings will still be stored when
-            you save your game. However, changes will not be reflected in MCM if you enter
-            its menu before saving.
+            Коли ви змінюєте поточну іконку/набір під час гри, PAW оновлює ті самі
+            налаштування в MCM. Це робиться для того, щоб ваші зміни збереглися навіть у
+            разі аварійного завершення гри, але це може спричинити зниження продуктивності
+            на деяких машинах. Увімкнення цього параметра вимкне цю функцію, але
+            налаштування все одно будуть збережені при збереженні гри. Втім, зміни не будуть
+            відображені у MCM, якщо ви увійдете до його меню перед збереженням.
         </text>
     </string>
 
     <!-- Added in 1.7.4 -->
     <string id="ui_mcm_pawsys_pawmenu_show_all_pins">
         <text>
-            Show All Pins
+            Показати всі шпильки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_hide_all_pins">
         <text>
-            Hide All Pins
+            Приховати всі шпильки
         </text>
     </string>
 
     <!-- Added in 1.8 -->
     <string id="ui_mcm_pawsys_pawgen_wp_clear_dist">
         <text>
-            Waypoint autoclear distance (in meters)
+            Відстань до точки автоочищення (у метрах)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_wp_hud_icon_enabled">
         <text>
-            Show waypoint marker on HUD
+            Показати маркер маршрутної точки на HUD
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_welcome_msg_shown">
         <text>
-            Don't show PAW welcome message on savegame load
+            Не показувати привітальне повідомлення PAW під час завантаження збереження
         </text>
     </string>
     <string id="st_pawsys_welcome_msg">
         <text>
-            $clr_prp[ Personal Adjustable Waypoint System initialized ]$clr_wht
+            $clr_prp[ Ініціалізовано персональну регульовану систему маршрутних точок
+            ]$clr_wht[Ініціалізовано персональну регульовану систему маршрутних точок
+            ]$clr_wht
           \n
-          \n • Right-click on any visible map icon to set a custom quest marker
-            ($clr_lblwaypoint$clr_wht) or place and label map markers called
-            $clr_lblpins$clr_wht.
-          \n • Press $clr_yel%s$clr_wht to toggle the waypoint on or off at any time. If
-            you don't want a visible HUD marker, you can disable it in MCM.
-          \n • Press $clr_yel%s$clr_wht to mark the map with a $clr_lblQuick Pin$clr_wht
-            at your current location.
-          \n • Hold $clr_yel%s$clr_wht to enter $clr_lblCartography Mode$clr_wht for more
-            map functions, like $clr_lblpinging$clr_wht the map to display temporary markers
-            for precise pin and waypoint placement.
+          \n - Клацніть правою кнопкою миші на будь-якій видимій піктограмі мапи, щоб
+            встановити власний маркер квесту ($clr_lblwaypoint$clr_wht) або розмістити і
+            позначити маркери мапи з назвою $clr_lblpins$clr_wht.
+          \n - Натисніть $clr_yel%s$clr_wht, щоб увімкнути або вимкнути точку маршруту у
+            будь-який час. Якщо вам не потрібен видимий HUD-маркер, ви можете вимкнути його
+            у MCM.
+          \n - Натисніть $clr_yel%s$clr_wht, щоб позначити мапу за допомогою $clr_lblQuick
+            Pin$clr_wht у вашому поточному місці.
+          \n - Утримуйте $clr_yel%s$clr_wht, щоб увійти до $clr_lblCartography
+            Mode$clr_wht для додаткових функцій мапи, як-от $clr_lblping$clr_wht
+            відображення на мапі тимчасових маркерів для точного розміщення міток і
+            маршрутних точок.
           \n
-          \n You'll find all this and more in MCM under $clr_lblAdjustable
-            Waypoint$clr_wht.
+          \n Все це та багато іншого ви знайдете у MCM у розділі $clr_lblНастроювана точка
+            маршруту$clr_wht.
           \n
-          \n This message won't bother you again. Good hunting, %s.
+          \n Це повідомлення більше вас не потурбує. Щасливого полювання, %s.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_hud_vis_on">
         <text>
-            Show Pin on HUD
+            Показати пін на HUD
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_hud_vis_off">
         <text>
-            Hide Pin from HUD
+            Приховати пін від HUD
         </text>
     </string>
     <string id="st_paw_system_disabled">
         <text>
-            PAW System is disabled
+            Систему PAW вимкнено
         </text>
     </string>
 
     <!-- Added in 1.10 -->
     <string id="ui_mcm_paw_current_active_pin">
         <text>
-            Active Pin:
+            Активний штифт:
         </text>
     </string>
     <string id="ui_mcm_paw_pinmenu_header">
         <text>
-            When you place a pin, it uses the Default icon from the Current Active Set. You
-            can change them here, or cycle through pins and sets in-game using keybinds of
-            your choice.
+            Коли ви встановлюєте кеглю, вона використовує іконку за замовчуванням з
+            поточного активного набору. Ви можете змінити їх тут або перемикатися між
+            кеглями та наборами у грі за допомогою комбінацій клавіш на свій розсуд.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cartmode_toggle">
         <text>
-            Cartography Mode is a toggle
+            Режим картографії - це перемикач
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cartmode_toggle_desc">
         <text>
-            By default, you must hold down the key for Cartography Mode. If this option is
-            enabled, it operates as a toggle instead.
+            За замовчуванням, для переходу до режиму картографії потрібно утримувати клавішу
+            . Якщо цю опцію увімкнено, вона працює як перемикач.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts">
         <text>
-            Cartography Mode shows smart terrains
+            Режим картографії показує розумні місцевості
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts_desc">
         <text>
-            By default, Cartography Mode shows an icon (white map with a magnifying glass)
-            to indicate smart terrain spots. If you don't need or want to see these for any
-            reason, you can turn them off with this option.
+            За замовчуванням у режимі Картографія відображається значок (біла карта зі
+            збільшувальним склом), що позначає інтелектуальні ділянки місцевості. Якщо ви з
+            якихось причин не хочете їх бачити, ви можете вимкнути їх за допомогою цієї
+            опції.
         </text>
     </string>
 
@@ -1348,131 +1373,134 @@
     </string>
     <string id="st_paw_unknown">
         <text>
-            Unknown
+            Невідомо
         </text>
     </string>
     <string id="st_paw_stash">
         <text>
-            stash
+            заначка
         </text>
     </string>
     <string id="st_paw_squad">
         <text>
-            squad
+            загін
         </text>
     </string>
     <string id="st_paw_npc_pda_equipped">
         <text>
-            You are currently using an NPC's looted PDA, not your own. Equip a player PDA to
-            make use of waypoints, map pins, or other PAW System functionality.
+            Наразі ви використовуєте КПК, пограбований у NPC, а не свій власний.
+            Переобладнайте КПК гравця, щоб він міг використовувати путівники, мітки на мапі
+            або інші функції системи PAW.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_dist_wp">
         <text>
-            Show distance on waypoint HUD marker
+            Показати відстань на HUD-маркері точки маршруту
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_dist_wp_desc">
         <text>
-            Choose when the waypoint HUD marker should show an indicator for distance:
-            never, always, only when Cartography Mode is active, or only when it is not
-            (Normal PDA view). Has no effect when the HUD marker is not enabled.
+            Виберіть, коли HUD-маркер маршрутної точки показуватиме індикатор відстані:
+            ніколи, завжди, лише коли активовано Режим картографії, або лише коли він не
+            активований (звичайний вигляд КПК). Не має ефекту, якщо HUD-маркер не увімкнено.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_dist_pins">
         <text>
-            Show distance on pin HUD markers
+            Відображати відстань на маркерах HUD на штифтах
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_dist_pins_desc">
         <text>
-            Choose when markers for pins on the HUD should show an indicator for distance:
-            never, always, only when Cartography Mode is active, or only when it is not
-            (Normal PDA view). Has no effect without pins set visible on the HUD.
+            Виберіть, коли маркери кеглів на HUD повинні показувати індикатор відстані:
+            ніколи, завжди, тільки коли активний режим картографії, або тільки коли він не
+            активний (звичайний вигляд КПК). Не має жодного ефекту, якщо встановлені кеглі
+            не видно на екрані HUD.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_hint_pins">
         <text>
-            Show label on pin HUD markers
+            Показати етикетку на маркері HUD на штифті
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_show_hint_pins_desc">
         <text>
-            Choose when markers for pins on the HUD should display their text label above
-            the icon: never, always, only when Cartography Mode is active, or only when it
-            is not (Normal PDA view). Has no effect without pins set visible on the HUD.
+            Виберіть, коли маркери для штифтів на HUD відображатимуть свої текстові мітки
+            над піктограмою: ніколи, завжди, тільки коли активний режим картографії, або
+            тільки коли він не активний (звичайний вигляд КПК). Не має ефекту, якщо не
+            встановлено видимих на екрані штифтів.
         </text>
     </string>
 
     <!-- Added in 1.12 -->
     <string id="ui_mcm_lst_pawsys_pg_npcs">
         <text>
-            NPCs and Services
+            NPC та послуги
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_npcs">
         <text>
-            Default icon for NPCs and Services
+            Значок за замовчуванням для NPC та служб
         </text>
     </string>
     <string id="ui_mcm_lst_paw_diamond_friendly">
         <text>
-            Friendly (diamond style)
+            Дружній (діамантовий стиль)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_diamond_neutral">
         <text>
-            Neutral (diamond style)
+            Нейтральний (ромбовидний стиль)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_diamond_enemy">
         <text>
-            Enemy (diamond style)
+            Ворог (ромбовидний стиль)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_chevron_friendly">
         <text>
-            Friendly (chevron style)
+            Дружній (у стилі шевронів)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_chevron_neutral">
         <text>
-            Neutral (chevron style)
+            Нейтральний (у стилі шевронів)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_chevron_enemy">
         <text>
-            Enemy (chevron style)
+            Ворог (шеврон)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_flag_friendly">
         <text>
-            Friendly (flag style)
+            Дружній (стиль прапора)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_flag_neutral">
         <text>
-            Neutral (flag style)
+            Нейтральний (у стилі прапора)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_flag_enemy">
         <text>
-            Enemy (flag style)
+            Ворог (стиль прапора)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_npc_mechanic">
         <text>
-            NPC Mechanic
+            NPC Механік
         </text>
     </string>
     <string id="ui_mcm_lst_paw_npc_trader">
         <text>
-            NPC Trader
+            NPC Трейдер
         </text>
     </string>
     <string id="ui_mcm_lst_paw_npc_guide">
         <text>
-            NPC Guide
+            Посібник NPC
         </text>
     </string>
     <string id="ui_mcm_lst_paw_npc_food_trader">
@@ -1487,223 +1515,226 @@
     </string>
     <string id="ui_mcm_lst_paw_sleep_zone">
         <text>
-            Sleeping Area
+            Спальна зона
         </text>
     </string>
     <string id="ui_mcm_lst_paw_obj_briefcase">
         <text>
-            Briefcase Object
+            Об'єкт портфеля
         </text>
     </string>
     <string id="ui_mcm_lst_paw_obj_lock">
         <text>
-            Locked Object
+            Заблокований об'єкт
         </text>
     </string>
     <string id="ui_mcm_paw_cartmode_head">
         <text>
-            Cartography Mode
+            Режим картографії
         </text>
     </string>
     <string id="ui_mcm_paw_cartmode_desc">
         <text>
-            Cartography Mode enables additional mapping functionality without cluttering the
-            HUD or menu during normal play. You can configure what functions appear in this
-            mode (or in normal PDA mode) in the Context Menus MCM submenu.
+            Режим картографії уможливлює додаткову картографічну функціональність, не
+            захаращуючи HUD або меню під час звичайної гри. Ви можете налаштувати, які
+            функції з'являтимуться у цьому режимі (або у звичайному режимі КПК) у підменю
+            Контекстні меню MCM.
         </text>
     </string>
     <string id="ui_mcm_paw_mousewheel_head">
         <text>
-            Mouse Wheel Support
+            Підставка для коліщатка миші
         </text>
     </string>
     <string id="ui_mcm_paw_crosshair_target_head">
         <text>
-            Waypointing and Pins - Crosshair Targeting
+            Навігаційні точки та мітки - перехресне наведення на ціль
         </text>
     </string>
     <string id="ui_mcm_paw_crosshair_target_head">
         <text>
-            Waypointing and Pins - Crosshair Targeting
+            Навігаційні точки та мітки - перехресне наведення на ціль
         </text>
     </string>
     <string id="ui_mcm_paw_crosshair_target_desc">
         <text>
-            The first two keybinds allow you to use waypoints and pins on whatever object is
-            currently under your crosshair. In order for the game to register this, the
-            object must be exactly under the center of the crosshair. For a stalker, this
-            means centered enough for the crosshair identification to activate.
+            Перші дві комбінації клавіш дозволяють вам використовувати шляхові точки та
+            кеглі на будь-якому об'єкті, що знаходиться під вашим прицілом. Для того, щоб
+            гра зареєструвала це, об'єкт має бути точно під центром перехрестя. Для сталкера
+            це означає, що він має бути достатньо відцентрованим, щоб спрацювала функція
+            ідентифікації перехрестя.
         </text>
     </string>
     <string id="ui_mcm_paw_generalbinds_head">
         <text>
-            Waypointing and Pins - General Keybinds
+            Навігаційні значки та кеглі - загальні комбінації клавіш
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj">
         <text>
-            Keypress to set waypoint on the target object
+            Натискання клавіші для встановлення точки на цільовому об'єкті
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
         <text>
-            When this key is pressed, the waypoint will be set--or moved--to the object
-            under the player's crosshair. If it was already set to the target object, it
-            will be disabled.
+            При натисканні цієї клавіші маршрутна точка буде встановлена - або переміщена -
+            на об'єкт, що знаходиться під прицілом гравця. Якщо вона вже була встановлена на
+            цільовий об'єкт, її буде вимкнено.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
         <text>
-            Keypress to set a pin on the target object
+            Натискання клавіші для встановлення позначки на цільовому об'єкті
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj_desc">
         <text>
-            When this key is pressed, a pin will be placed on the object under the player's
-            crosshair if there isn't one already, using the current active icon. If a pin
-            already exists for the target, it will be removed.
+            При натисканні цієї клавіші на об'єкт під прицілом гравця буде встановлено
+            мітку, якщо вона ще не встановлена, за допомогою поточної активної іконки. Якщо
+            для цілі вже існує мітка, її буде знято.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_pin_auto_visible">
         <text>
-            Pins created by targeting default to visible on the HUD
+            Штифти, створені за замовчуванням, мають бути видимими на HUD
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_pin_auto_visible_desc">
         <text>
-            If a pin was created by targeting an object with the crosshairs, it will
-            automatically be shown on the HUD. You can show or hide pins on the HUD at any
-            time using your PDA.
+            Якщо мітку було створено шляхом наведення перехрестя на об'єкт, вона автоматично
+            з'явиться на екрані приладу. Ви можете будь-коли показати або приховати мітки на
+            екрані за допомогою КПК.
         </text>
     </string>
     <string id="st_paw_pin_removed_from_target">
         <text>
-            Pin $clr_yel%s$clr_wht removed from $clr_lbl%s$clr_wht.
+            Пін $clr_yel%s$clr_wht вилучено з $clr_lbl%s$clr_wht.
         </text>
     </string>
     <string id="st_paw_pin_added_to_target">
         <text>
-            Pin added to $clr_lbl%s$clr_wht using icon: $clr_lbl%s$clr_wht.
-          \n You can change the current active icon with
+            Пін додано до $clr_lbl%s$clr_wht за допомогою іконки: $clr_lbl%s$clr_wht.
+          \n Ви можете змінити поточну активну іконку за допомогою
             $clr_yel%s$clr_wht/$clr_yel%s$clr_wht.
         </text>
     </string>
     <string id="ui_mcm_paw_pin_target_desc">
         <text>
-            Pin $clr_yel%s$clr_wht removed from $clr_lbl%s$clr_wht.
+            Пін $clr_yel%s$clr_wht вилучено з $clr_lbl%s$clr_wht.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_tip_on_icoset_change">
         <text>
-            Show news tip when changing icons or sets using keybinds
+            Показувати підказку новин під час зміни іконок або наборів за допомогою
+            сполучень клавіш
         </text>
     </string>
 
     <!-- Added in 1.13 -->
     <string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist">
         <text>
-            Pin near fade-out distance (in meters)
+            Відстань до точки згасання (в метрах)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist_desc">
         <text>
-            When the player comes within this distance of a pin, it will begin to fade out.
+            Коли гравець наблизиться до кеглі на цю відстань, вона почне гаснути.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist">
         <text>
-            Pin far fade-out distance (in meters)
+            Відстань дальнього вицвітання штифта (в метрах)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist_desc">
         <text>
-            When the player gets this far away from a pin, it will begin to fade out.
+            Коли гравець відійде на таку відстань від кегля, він почне зникати.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist">
         <text>
-            Pin far hide distance (in meters)
+            Відстань між штифтами (у метрах)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist_desc">
         <text>
-            If the player is more than this far beyond where the fade-out begins, a pin will
-            disappear completely.
+            Якщо гравець знаходиться більше, ніж на цю відстань від місця, де починається
+            згасання, фішка зникає повністю.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cartmode_unfade">
         <text>
-            Pins on the HUD never fade out while in Cartography Mode
+            Піктограми на HUD ніколи не зникають у режимі картографії
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawbinds_cartmode_unfade_desc">
         <text>
-            If there are any pins on the HUD, and they are normally set to fade out, they
-            won't do so while Cartography Mode is active.
+            Якщо на HUD'і є якісь піни, і вони зазвичай налаштовані на згасання, вони не
+            згасатимуть, поки активний режим картографії.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_lock_pin">
         <text>
-            Lock Pin
+            Замковий штифт.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawmenu_unlock_pin">
         <text>
-            Unlock Pin
+            Розблокувати пін-код
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_mode">
         <text>
-            Show smart reticle when a valid object is targeted
+            Показувати розумну прицільну сітку, коли націлено дійсний об'єкт
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_mode_desc">
         <text>
-            This setting controls when the smart reticle can appear: always, only when
-            Cartography Mode is active, or never (disabled).
+            Цей параметр визначає, коли з'являтиметься інтелектуальна прицільна сітка:
+            завжди, лише коли активний режим картографії, або ніколи (вимкнено).
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_alpha">
         <text>
-            Reticle transparency
+            Прозорість сітківки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_alpha_desc">
         <text>
-            The reticle's maximum alpha (transparency) value, with 0 being fully transparent
-            and 255 being no transparency.
+            Максимальне значення альфа (прозорості) прицілу, де 0 - повністю прозорий, а 255
+            - не прозорий.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_ret_fade_attack_time">
         <text>
-            Fade-in duration for object reticle
+            Тривалість затухання для об'єктної сітки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_ret_fade_attack_time_desc">
         <text>
-            The time, in milliseconds, that it takes for the reticle to finish fading in
-            when targeting a valid object.
+            Час у мілісекундах, за який приціл закінчує вицвітання прицільної сітки під час
+            наведення на дійсний об'єкт.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_ret_fade_decay_time">
         <text>
-            Fade-out duration for object reticle
+            Тривалість згасання прицілу для об'єктів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_ret_fade_decay_time_desc">
         <text>
-            The time, in milliseconds, that it takes for the reticle to finish fading out
-            after the crosshair no longer has a target.
+            Час у мілісекундах, за який приціл згасає після того, як у перехресті більше
+            немає цілі.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_preview_aspect">
         <text>
-            Aspect ratio for the screen preview below
+            Співвідношення сторін для попереднього перегляду екрана нижче
         </text>
     </string>
     <string id="ui_mcm_lst_paw_aspect_4_3">
         <text>
-            4:3 (Standard Definition)
+            4:3 (стандартне визначення)
         </text>
     </string>
     <string id="ui_mcm_lst_paw_aspect_16_10">
@@ -1718,14 +1749,14 @@
     </string>
     <string id="ui_mcm_lst_paw_aspect_21_9">
         <text>
-            21:9 (Ultrawide)
+            21:9 (надширокі)
         </text>
     </string>
 
     <!-- Added in 1.14 -->
     <string id="ui_mcm_paw_resolutions">
         <text>
-            Example resolutions in this aspect ratio:
+            Приклади роздільної здатності в цьому співвідношенні сторін:
           \n
         </text>
     </string>
@@ -1772,160 +1803,162 @@
     </string>
     <string id="ui_mcm_pawsys_pawret_enable_autotag">
         <text>
-            Enable automatic smart tagging on reticle ID
+            Увімкнути автоматичне смарт-тегування за ідентифікатором прицілу
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_enable_autotag_desc">
         <text>
-            When this feature is enabled, PAW's HUD reticle will automatically "tag" valid
-            target objects with an appropriate pin once they are identified, as configured
-            below.
+            Коли цю функцію увімкнено, приціл HUD PAW автоматично "позначає" дійсні цільові
+            об'єкти відповідним штифтом, як тільки вони будуть ідентифіковані, як зазначено
+            нижче.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_reticle_info1">
         <text>
-            Use pins and waypoints on any valid object under your crosshairs using
-            configurable hotkeys. By default, the reticle fades in and out to indicate when
-            you are targeting a valid object.
+            Використовуйте приціл і маршрутні точки на будь-якому дійсному об'єкті під вашим
+            прицілом за допомогою налаштованих гарячих клавіш. За замовчуванням приціл
+            зникає і з'являється, коли ви націлюєтесь на дійсний об'єкт.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_reticle_info2">
         <text>
-            To instead mark targeted objects automatically, see the "Autotag" setting below.
+            Щоб автоматично позначати цільові об'єкти, скористайтеся параметром "Автомітка"
+            нижче.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_autotag_info">
         <text>
-            Autotag will automatically mark certain types of objects with pre-defined pins
-            of your choice once they are positively identified. This allows you to free up
-            keybinds, and focus on the Zone instead of your PDA or menus.
+            Autotag автоматично позначає певні типи об'єктів заздалегідь визначеними
+            кнопками на ваш вибір, як тільки вони позитивно ідентифіковані. Це дозволяє вам
+            звільнити клавіші та зосередитися на зоні, а не на КПК чи меню.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawhud_autotag_facid">
         <text>
-            It functions similarly to the Faction Identification addon, reading its MCM
-            settings so that PAW and FacID can work together. Changes that you make in
-            FacID's MCM menu will be respected by PAW.
+            Він працює подібно до аддона Ідентифікація фракції, зчитуючи його налаштування
+            MCM, щоб PAW і FacID могли працювати разом. Зміни, які ви вносите в меню MCM
+            FacID, будуть враховані PAW.
         </text>
     </string>
     <string id="ui_mcm_lst_pawsys_pg_smartpins">
         <text>
-            Smart Pins
+            Розумні шпильки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawpins_poi_icon_smartpins">
         <text>
-            Default icon for Smart Pins
+            Значок за замовчуванням для Smart Pins
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_f_enable">
         <text>
-            Enable Autotagging for friendly stalkers
+            Увімкнути автотегування для дружніх сталкерів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_f">
         <text>
-            Human (friendly) icon
+            Людська (дружня) ікона
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_f_desc">
         <text>
-            Autotag will assign this icon to friendly stalkers.
+            Автотег призначатиме цю іконку дружнім сталкерам.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_n_enable">
         <text>
-            Enable Autotagging for neutral stalkers
+            Увімкнути автотегування для нейтральних сталкерів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_n">
         <text>
-            Human (neutral) icon
+            Людська (нейтральна) піктограма
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_n_desc">
         <text>
-            Autotag will assign this icon to neutral stalkers.
+            Автомітка призначатиме цей значок нейтральним сталкерам.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_e_enable">
         <text>
-            Enable Autotagging for enemy stalkers
+            Увімкнути автомітки для ворожих переслідувачів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_e">
         <text>
-            Human (enemy) icon
+            Піктограма людини (ворога)
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_human_e_desc">
         <text>
-            Autotag will assign this icon to enemy stalkers.
+            Автомітка призначатиме цю іконку ворожим сталкерам.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_monster_enable">
         <text>
-            Enable Autotagging for monsters
+            Увімкнути автотегування для монстрів
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_monster">
         <text>
-            Monsters
+            Монстри
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_monster_desc">
         <text>
-            Autotag will assign this icon to mutants, monsters, and other nonhuman
-            creatures.
+            Автотег призначить цю піктограму мутантам, монстрам та іншим нелюдським істотам.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_stash_enable">
         <text>
-            Enable Autotagging for stash containers
+            Увімкнути автотегування для контейнерів схованок
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_stash">
         <text>
-            Stash container icon
+            Піктограма контейнера для схованки
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_stash_desc">
         <text>
-            Autotag will assign this icon to stashes and other inventory boxes.
+            Автомітка призначить цю піктограму схованкам та іншим інвентарним скринькам.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_mustzoom">
         <text>
-            Only active while using scope/binoculars
+            Активний лише під час використання прицілу/бінокля
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_reticle_mustzoom_desc">
         <text>
-            If this option is enabled, the reticle (and its tagging features) will only be
-            enabled while zoomed with binoculars or a scoped weapon. This is recommended so
-            that tags won't be created just from walking up to or talking to an NPC.
+            Якщо цю опцію увімкнено, приціл (і його функції мітки) буде ввімкнено лише при
+            збільшенні за допомогою бінокля або оптичного прицілу. Це рекомендується для
+            того, щоб мітки не створювалися просто від того, що ви підійшли до NPC або
+            поговорили з ним.
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_manual_smart_pins">
         <text>
-            Manually targeted pins are also smart
+            Ручне таргетування пінів також є розумним
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawret_manual_smart_pins_desc">
         <text>
-            If this option is enabled, reticle pins created by manually triggering the
-            associated keybind will also use the Autotag settings below, assigning the
-            selected icon for the targeted object instead of the current active icon.
+            Якщо цю опцію увімкнено, то для прицільних міток, створених вручну за допомогою
+            пов'язаної з ними клавіші, також використовуватимуться наведені нижче
+            налаштування автомітки, призначаючи вибрану піктограму для цільового об'єкта
+            замість поточної активної піктограми.
         </text>
     </string>
     <string id="ui_mcm_lst_paw_pin_redskull">
         <text>
-            Red Beast Skull
+            Череп червоного звіра
         </text>
     </string>
     <string id="ui_mcm_lst_paw_crosshair_gradient">
         <text>
-            Gradient Crosshairs
+            Градієнтне перехрестя
         </text>
     </string>
 </string_table>

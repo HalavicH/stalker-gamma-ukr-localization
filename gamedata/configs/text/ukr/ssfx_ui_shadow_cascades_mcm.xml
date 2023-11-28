@@ -4,103 +4,104 @@
     <!-- Button -->
     <string id="ui_mcm_ssfx_module_shw_cascades">
         <text>
-            Shadow Cascades
+            Каскади тіней
         </text>
     </string>
 
     <!-- Shadow Cascades Settings -->
     <string id="ui_mcm_ssfx_module_shw_cascades_title">
         <text>
-            Shadow Cascades Settings
+            Налаштування каскадів тіней
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
         <text>
-            Near cascades size
+            Близький розмір каскадів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
         <text>
-            Try to use a lower size value to improve the quality of your sun shadows.
+            Спробуйте використати менший розмір, щоб покращити якість сонячних тіней.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
         <text>
-            Mid cascades size
+            Розмір середніх каскадів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
         <text>
-            Try to use a lower size value to improve the quality of your sun shadows.
+            Спробуйте використати менший розмір, щоб покращити якість сонячних тіней.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
         <text>
-            Far cascades size
+            Розмір дальніх каскадів
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
         <text>
-            This cascade define the final rendering distance of your sun shadows. Lower
-            values will improve performance, higher values will improve your distant shadows
-            at the cost of performance.
+            Цей каскад визначає остаточну відстань рендерингу сонячних тіней. Менші значення
+            покращують продуктивність, більші значення покращують віддалені тіні за рахунок
+            зниження продуктивності.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
         <text>
-            Grass shadows quality
+            Якість тіней від трави
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
         <text>
-            [ LOW ] Grass shadows only render in the NEAR cascade. Default ANOMALY behavior.
-            [ MEDIUM ] Grass will cast shadows in the NEAR and MID cascade. [ HIGH ] Grass
-            shadows will be rendered in all cascades and sun volumetric rays. [ ULTRA ] All
-            lights will cast grass shadows.
+            [ LOW] Тіні від трави зображуються лише у каскаді NEAR. Поведінка за
+            замовчуванням ANOMALY. [ MEDIUM] Трава відкидатиме тіні у ближньому та
+            середньому каскадах. [ HIGH ] Тіні від трави будуть відтворюватися у всіх
+            каскадах і об'ємних променях сонця. [ ULTRA ] Всі джерела світла будуть
+            відкидати тіні від трави.
         </text>
     </string>
     <string id="ui_mcm_lst_shw_cascades_low">
         <text>
-            Low ( ANOMALY Default )
+            Низький (ANOMALY за замовчуванням)
         </text>
     </string>
     <string id="ui_mcm_lst_shw_cascades_medium">
         <text>
-            Medium
+            Середній
         </text>
     </string>
     <string id="ui_mcm_lst_shw_cascades_high">
         <text>
-            High
+            Високий
         </text>
     </string>
     <string id="ui_mcm_lst_shw_cascades_ultra">
         <text>
-            Ultra ( Big performance hit )
+            Ultra (великий хіт продажів)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
         <text>
-            Grass shadows distance ( Sun )
+            Відстань тіні від трави (Сонце)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
         <text>
-            This value adjust the rendering distance of sun grass shadows. The value is
-            porcentual to your grass rendering distance. Lower values will improve
-            performance.
+            Це значення регулює відстань промальовування тіней від сонячної трави. Значення
+            є відсотковим до вашої відстані рендерингу трави. Менші значення покращують
+            продуктивність.
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
         <text>
-            Grass shadows max distance
+            Тіні від трави максимальна відстань
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
         <text>
-            [ ULTRA QUALITY ONLY ] This value adjust the rendering distance of grass shadows
-            for non-directional lights. Lower values will improve performance, but you might
-            notice when the shadows stop being rendered.
+            [ ТІЛЬКИ ДЛЯ ULTRA QUALITY] Це значення регулює відстань промальовування тіней
+            від трави для ненаправленого світла. Менші значення покращують продуктивність,
+            але ви можете помітити, коли тіні перестануть промальовуватися.
         </text>
     </string>
 </string_table>
