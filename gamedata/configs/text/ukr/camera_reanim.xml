@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_crp_title">
         <text>
-            I.N.E.R.T.I.A.
+            I.N.E.R.T.I.A. (Camera Reanim project)
         </text>
     </string>
     <string id="ui_mcm_menu_crpmcm">
         <text>
-            Camera Reanim Project
+            Покращені анімації
         </text>
     </string>
     <string id="ui_mcm_crpmcm_jump_land">

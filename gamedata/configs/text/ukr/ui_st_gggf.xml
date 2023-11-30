@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_gggf_title">
         <text>
-            Конфігурація швидкості гравця
+            Конфігурація швидкості гравця (Grok Gotta Go Fast)
         </text>
     </string>
     <string id="ui_mcm_menu_gggf">
         <text>
-            Grok Gotta Go Fast
+            Швидкість переміщ.
         </text>
     </string>
     <string id="ui_mcm_gggf_gotta_go_fast_run">

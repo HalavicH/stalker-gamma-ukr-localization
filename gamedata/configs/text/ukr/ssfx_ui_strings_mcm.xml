@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_mcm_menu_ssfx_module">
         <text>
-            SSS Settings(Огидне розмиття)
+            Розмиття (фокус)
         </text>
     </string>
 
@@ -21,7 +21,7 @@
     <!-- General Settings -->
     <string id="ui_mcm_ssfx_module_general_title">
         <text>
-            Загальні налаштування
+            Загальні налаштування (SSS Settings)
         </text>
     </string>
     <string id="ui_mcm_ssfx_module_general_shaderscope_patch_mcm">

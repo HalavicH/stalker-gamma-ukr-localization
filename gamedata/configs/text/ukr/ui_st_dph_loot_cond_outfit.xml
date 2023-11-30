@@ -2,17 +2,17 @@
 <string_table>
     <string id="ui_mcm_menu_dph_loot_cond">
         <text>
-            Умова падіння
+            Стан дропу
         </text>
     </string>
     <string id="ui_mcm_menu_outfit">
         <text>
-            Вбрання
+            Броня
         </text>
     </string>
     <string id="ui_mcm_dph_loot_cond_outfit">
         <text>
-            Вбрання
+            Броня
         </text>
     </string>
 

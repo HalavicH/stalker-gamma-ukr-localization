@@ -2,12 +2,12 @@
 <string_table>
     <string id="ui_mcm_patches_by_hotkey_title">
         <text>
-            Нашивки за допомогою гарячої клавіші
+            Клавіша нашивки
         </text>
     </string>
     <string id="ui_mcm_menu_patches_by_hotkey">
         <text>
-            Нашивки за допомогою гарячої клавіші
+            Здирання/пришивання нашивки за допомогою гарячої клавіші
         </text>
     </string>
     <string id="ui_mcm_patches_by_hotkey_enabled">

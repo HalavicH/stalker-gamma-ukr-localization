@@ -334,7 +334,7 @@
     </string>
     <string id="ui_mcm_menu_exo">
         <text>
-            ≈кзоти з електроприводом.
+            ≈кз. з електропр.
         </text>
     </string>
     <string id="ui_mcm_exo_title">
@@ -385,7 +385,7 @@
     </string>
     <string id="ui_mcm_menu_exo_power">
         <text>
-            «в'€зка клав≥ш Exo Power
+             лав≥ш≥ Exo Power
         </text>
     </string>
     <string id="ui_mcm_exo_power_keybind">

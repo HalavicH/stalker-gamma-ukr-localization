@@ -2,7 +2,7 @@
 <string_table>
     <string id="ui_mcm_RF_package_patch_title">
         <text>
-            Варіанти комплектації радіочастотного приймача
+            Комплектація RF-прийм
         </text>
     </string>
     <string id="ui_mcm_menu_RF_package_patch">
