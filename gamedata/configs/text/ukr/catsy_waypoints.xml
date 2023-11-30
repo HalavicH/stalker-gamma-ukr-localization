@@ -209,7 +209,7 @@
     </string>
     <string id="st_paw_pin_already">
         <text>
-            У вас вже є пін у найближчому smart &lt;s_placeholder
+            У вас вже є пін у найближчому розумному %s
         </text>
     </string>
     <string id="ui_mcm_pawsys_pawgen_s_device_pda_1">

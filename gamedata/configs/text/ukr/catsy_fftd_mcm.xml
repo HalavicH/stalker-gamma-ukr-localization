@@ -426,7 +426,7 @@
     </string>
     <string id="st_fftd_farepaid_noguide">
         <text>
-            Сплачено за швидкісний проїзд: &lt;s_placeholder
+            Сплачено за швидкісний перехід локацією: %s
         </text>
     </string>
     <string id="ui_mcm_fftd_gtcfg_ignore_status">
