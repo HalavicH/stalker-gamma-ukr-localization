@@ -206,17 +206,17 @@
     </string>
     <string id="st_text_status">
         <text>
-            [СТАН]:%s%s %%
+            [СТАН]: %s%s %%
         </text>
     </string>
     <string id="st_text_wpn">
         <text>
-            [ЗБРОЯ]:%s%s
+            [ЗБРОЯ]: %s%s
         </text>
     </string>
     <string id="st_text_mode">
         <text>
-            [РЕЖИМ]:%s%s
+            [РЕЖИМ]: %s%s
         </text>
     </string>
     <string id="st_text_mode_1">
@@ -360,7 +360,7 @@
     </string>
     <string id="st_dis_text_10">
         <text>
-            %sВи спробували розрізати:%s%s
+            %sВи спробували розрізати: %s%s
           \nНа жаль, Вам не вдалося отримати жодної деталі
         </text>
     </string>

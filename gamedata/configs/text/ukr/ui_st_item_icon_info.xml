@@ -210,7 +210,7 @@
 	-->
     <string id="ui_utjan_recipe_read">
         <text>
-            читати
+            прочитано
         </text>
     </string>
     <string id="ui_utjan_recipe_unread">
@@ -220,7 +220,7 @@
     </string>
     <string id="ui_utjan_ruble">
         <text>
-            ru
+            грн
         </text>
     </string>
 </string_table>

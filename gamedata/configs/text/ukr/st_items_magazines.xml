@@ -424,7 +424,7 @@
     </string>
     <string id="st_mag_bonus">
         <text>
-            (Костюм:%s + Екстра:%s)
+            (Костюм: %s + Екстра: %s)
         </text>
     </string>
     <string id="st_mag_small">

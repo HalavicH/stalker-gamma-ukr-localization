@@ -33,12 +33,12 @@
     <!-- Messages -->
     <string id="pda_encyclopedia_notify">
         <text>
-            Відкрита стаття:%s, %s
+            Відкрита стаття: %s, %s
         </text>
     </string>
     <string id="pda_encyclopedia_notify_note">
         <text>
-            Нова нотатка:%s
+            Нова нотатка: %s
         </text>
     </string>
 

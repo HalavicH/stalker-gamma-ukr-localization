@@ -1759,7 +1759,7 @@
     </string>
     <string id="st_lamp_power_left">
         <text>
-            Заряд батареї в налобні ліхтарики:%s%
+            Заряд батареї в налобні ліхтарики: %s%
         </text>
     </string>
     <string id="st_lamp_no_power_left">
