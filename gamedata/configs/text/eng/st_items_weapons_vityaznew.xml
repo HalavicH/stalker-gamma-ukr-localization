@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19 Vityaz-SN</text>
+	</string>
+
+	<string id="st_wpn_vityaznew_descr">
+		<text>A variant of the PP-19 with a 30-round magazine chambered for 9x19mm, designed in 2004. It is based on and shares many commonalities with the AK-74 but is directly developed from the PP-19 Bizon. It is used by patrol groups, Russian traffic police, Russian security police, and by units of the MVD. "Vityaz" is Russian for "knight". This is the "SN" variant, which means it has a railed dust cover but no dove-tail side rail, therefore it can use NATO scopes but not Warsaw Pact scopes.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2008\n
+		</text>
+	</string>
+
+</string_table>

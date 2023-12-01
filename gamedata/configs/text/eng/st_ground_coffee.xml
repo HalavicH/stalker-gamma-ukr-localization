@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_ground_coffee">
+		<text>Ground Coffee</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>Ground coffee ready to be brewed.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] food\n
+		%c[d_green] • %c[ui_gray_2] stimulant\n
+		%c[d_orange] • %c[ui_gray_2] requires a cooking kit and water to brew\n
+		</text>
+	</string>
+	
+</string_table>

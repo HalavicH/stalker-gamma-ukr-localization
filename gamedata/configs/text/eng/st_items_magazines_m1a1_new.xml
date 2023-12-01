@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+<!--
+M1A1
+-->
+
+	<string id="st_mag_m1a1_11.43x23_fmj">
+		<text>Standard .45 ACP M1A1 Stick Magazine</text>
+	</string>
+	<string id="st_mag_m1a1_11.43x23_fmj_descr">
+		<text>30-round magazine for the M1A1.\n
+		</text>
+	</string>
+
+	
+	<string id="st_mag_1921_11.43x23_fmj">
+		<text>Standard .45 ACP 1921 Drum Magazine</text>
+	</string>
+	<string id="st_mag_1921_11.43x23_fmj_descr">
+		<text>50-round Drum magazine used for the 1921 model of the Thompson.\n
+		</text>
+	</string>
+	
+</string_table>

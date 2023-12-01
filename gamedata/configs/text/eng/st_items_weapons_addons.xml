@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1M Scope</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[ui_gray_2]A series of Soviet-made optical scopes in common use since 1964 when it was introduced as a standard issue telescopic sight for SVD sniper rifles. The scope has later been adapted to assault rifles such as the AK-74 or AN-94. It is recognized for its durability, versatility and well-designed reticule pattern, featuring a convenient range-finder. This particular scope has 4.0x Magnification rate. It is attached to weapons by means of a dovetail mount; the standard in Warsaw Pact countries.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2]all Warsaw Pact rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]PSO-1
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 "Tulip" Scope</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[ui_gray_2]The USP-1 sight has an optical arrangement with a prism-erecting system. Sighting angles are set mechanically by turning the sight body relative to the weapon mounting bracket. Requires no batteries as it is tritium illuminated. The ranging scale at the edge of the sight's field of view has a range of up to 1200m.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] all Warsaw Pact rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]PSU-1
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Barska Electro Sight AC10632</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>%c[ui_gray_2]The Barska Electro Sight Multi Reticle Red Dot Sight AC10632 was developed in order to be the best product for anybody looking for a high quality sight. Can be mounted on NATO weapons and on the AK-12.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2]all NATO rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]none (collimator)\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG 3.5x Scope</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[ui_gray_2]ACOG stands for Advanced Combat Optical Gunsights and refers to a family of firearm scopes produced by the Trijicon company. Scopes of this type are usually of high quality and have an internal tritium-based reticule illumination. This particular type has a USMC-style Reticule and features adjustable Magnification.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]all NATO rifles\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]3.5x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]USMC
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>EOTech Scope</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>%c[ui_gray_2]Holographic sight for NATO assault rifles and submachine guns.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2]all NATO rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]none (collimator)\n
+
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Galil 4.0x Scope (SUSAT)</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Galil 4.0x Scope</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>%c[ui_gray_2]Optical sight for the Israeli IMI Galil rifle.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] automatic rifle Galil AR\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]SUSAT
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>EKP 1S-03 "Kobra"</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>%c[ui_gray_2]The Kobra sight is an open collimator combat optic using a laser generated HUD to superimpose a reticle pattern onto a filtered lens. It is designed for engaging fast moving targets and targets appearing for a short period of time in close quarters and urban combat in various light conditions.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] all Warsaw Pact rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2] none (collimator)\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>PO4x34 Scope</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>%c[ui_gray_2]Optical sight for the OTs-14 weapon series.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] OTs-14 weapon series\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]4x34
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1 Scope</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[ui_gray_2]The PSO-1M2-O1 features an extremely effective and useful height-based rangefinder for dual use, with graduated scales for both standing and prone figure estimation. The 400 meter Simonov height based gradient (choke style) rangefinder has a chevron for use with the 9x39 calibre rifles.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] all Warsaw Pact rifles\n	
+		%c[0,255,255,255]PROPERTIES:\n	
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]PSO-1-1
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>PU Scope</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>%c[ui_gray_2]Standard-issue telescopic sight of the Red Army in World War II and years after. Designed to fit infantry and precision rifles such as the Mosin-Nagant or SVT-40. It features a fixed 3.5x zoom. Like all Soviet designs, it is durable and effective, remaining in production and use to this day.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] historic Russian rifles\n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]3.5x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]PU
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>ZF-4 Scope</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>%c[ui_gray_2]The ZF-4 is one of the first telescopic sights ever created. Designed and manufactured in Germany during World War II, it was intended to provide regular infantry with the ability to fight at long distances. It has been primarily used by German snipers and elite combat squads. The scope is still in use since weapons it has been designed for are commonly available.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] historic German rifles\n
+		%c[0,255,255,255]PROPERTIES:\n	
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]2.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]ZF-41
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>C-MORE Tactical Sight</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+        <text>High performance red dot sight that provides an unlimited field of view, while eliminating obstruction and tunnel vision common to tube style scopes. The Railway series has a standard rail base pre-installed to allow the sight to be attached to most Weaver or Picatinny rail mounts or receivers.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]none (collimator)\n
+
+		</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>AC11090 Red Dot Sight</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+        <text>Cheap 2xMagnification red dot sight for NATO assault rifles, submachine guns and AK-12s.
+		</text>
+    </string>
+	
+	<string id="st_addon_sil_45">
+		<text>.45 ACP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>%c[ui_gray_2]Suppressor for .45 ACP pistols and submachine guns.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] .45 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>5.7x28 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>%c[ui_gray_2]Suppressor for the FN-P90 PDW.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.7 mm calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>6P9 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>%c[ui_gray_2]Suppressor for the PB pistol.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_9a91">
+		<text>9A-91/VSK-94 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>%c[ui_gray_2]Suppressor for the 9A-91 carbine and VSK-94.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>9mm Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>%c[ui_gray_2]Suppressor for 9mm pistols and submachine guns. An effective sound suppressor for calibre 9x18 weapons. It is very archaic, yet quite effective. Normally used for close-combat engagements against lightly-armoured enemies and for assassinations.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>APS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>%c[ui_gray_2]Suppressor for the OTs-33 "Pernach" pistol.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>ATG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>%c[ui_gray_2]Suppressor for the AK-102, AK-103 and AK-104.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56, 7.62 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Gemtech Suppressor</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>%c[ui_gray_2]Suppressor for the Glock and the FN-FNP.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9 mm, .45 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>KZRZP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>%c[ui_gray_2]Suppressor for the SVD sniper rifles.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>NATO Suppressor</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>%c[ui_gray_2]Suppressor for the standard NATO 5.56x45mm calibre rifles.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] .45, 5.56, 7.62 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>PBS-1 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>%c[ui_gray_2]Suppressor for noiseless and flameless firing from Kalashnikov 7.62mm rifles.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>PBS-4 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>%c[ui_gray_2]Suppressor for AKS-74U rifles.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>SR-25 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>%c[ui_gray_2]Suppressor for the SR-25\n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62 mm calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>TGP-A Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>%c[ui_gray_2]Suppressor for AK rifle series and RPK-74 machine guns.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>SR-3M Suppressor</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>%c[ui_gray_2]Suppressor for the SR-3M rifle.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>US Army Smallbore Rifle Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>%c[ui_gray_2]Advanced rifle suppressor of US design and manufacture. The unit almost completely reduces muzzle flash and considerably suppresses sound emitted when firing. Commonly used on all smallbore Western-made rifles and remain in active service in Western armed forces.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56x45 calibre weapons\n
+		</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>SVU Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>%c[ui_gray_2]This specially designed three-chambered suppressor is not intended to completely silence the SVU rifle since the soldier would not be using subsonic ammunition. Its main purpose is to quiet and diffuse the noise enough to make detection by the enemy difficult.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SVU rifles\n
+		</text>
+	</string>
+	
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG Scope</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>%c[ui_gray_2]Detachable optical scope made specifically for NATO rifles. ACOG stands for Advanced Combat Optical Gunsights and refers to a family of firearm scopes produced by the Trijicon company. Comes with internal tritium-based reticule illumination. This particular type has a modern 'trijicon' reticule pattern and a fixed magnification of 2.0x.\n \n
+		%c[0,255,255,255]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] select NATO rifles\n
+		%c[0,255,255,255]PROPERTIES:\n		
+		%c[d_cyan] • %c[0,255,255,255]Magnification: %c[ui_gray_2]2.0x\n
+		%c[d_cyan] • %c[0,255,255,255]Reticule pattern: %c[ui_gray_2]trijicon
+		</text>
+	</string>
+	
+</string_table>

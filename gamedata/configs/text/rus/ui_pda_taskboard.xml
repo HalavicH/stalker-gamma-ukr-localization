@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_pda_accept_task">
+		<text>Принять</text>
+	</string>
+	<string id="st_pda_refresh_tasks">
+		<text>Обновить</text>
+	</string>
+	<string id="st_pda_next_task">
+		<text>Следующее</text>				
+	</string>
+	<string id="pda_btn_taskboard">
+		<text>Доска объявлений</text>
+	</string>
+</string_table>

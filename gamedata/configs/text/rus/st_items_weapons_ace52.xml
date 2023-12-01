@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_ace52">
+		<text>IWI ACE 52</text>
+	</string>
+	<string id="st_wpn_ace52_descr">
+		<text>
+		Вариант 7.62x51 из серии винтовок, разработанных компанией IWI (Israel Weapon Industries)..\n\n
+		Хотя эти новые варианты ACE созданы на основе старых IMI Галилов, они отличаются лучшей эргономикой и точностью благодаря интеграции стали с полимером вместо использования цельной стальной заготовки.\n
+		%c[ui_gray_2]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n
+		%c[d_purple] · %c[ui_gray_2] все прицелы и коллиматоры, устанавливаемые на планку пикатинни.\n</text>
+	</string>
+
+	<string id="st_up_ace52_a5_name">
+		<text>Установка более тяжелого ствола</text>
+	</string>
+	<string id="st_up_ace52_a5_descr">
+		<text>Установка более тяжелого ствола для дальнейшего улучшения отдачи</text>
+	</string>
+	<string id="st_up_ace52_b1_name">
+		<text>Установка подщечной накладки</text>
+	</string>
+	<string id="st_up_ace52_b1_descr">
+		<text>Установка подщечной накладки на приклад для более комфортного прицеливания. Может значительно уменьшить отдачу при прицеливании.</text>
+	</string>
+	<string id="st_up_ace52_c1_name">
+		<text>Изменине калибра на 7.62x54R</text>
+	</string>
+	<string id="st_up_ace52_c1_descr">
+		<text>Изменение калибра оружия на более распространенный в зоне.</text>
+	</string>
+</string_table>

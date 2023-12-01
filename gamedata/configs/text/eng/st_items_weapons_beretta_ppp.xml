@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_beretta_m9">
+		<text>Beretta M9</text>
+	</string>
+	<string id="st_wpn_beretta_m9_descr">
+		<text>This is the US Marine Corps version of the Italian Beretta 92FS, made by demand from said faction. Since this is the pre-M9A1 version, the changes are few, but visibly the magazine is beveled, has a straight squared trigger guard and more aggressive sights with tritium coating. Since it is famous around Mercenaries, Freedom and some strange mentioned recent faction, it's safe to say that the way this "semi-prototype" got in The Zone is through Western armies' deserters and ex-PMCs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Italy, United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Fabbrica d'Armi Pietro Beretta\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1985\n
+		</text>
+	</string>
+
+	<string id="st_wpn_beretta_px4">
+		<text>Beretta Px4 Storm</text>
+	</string>
+	<string id="st_wpn_beretta_px4_descr">
+		<text>The Px4 Storm is an advancement of the Beretta 8000, meant to be a replacement of the 92FS for personal defense and law enforcement use. Its rotating barrel allows for better recoil control and continuous shots. The light frame also helps with weight. This particular model comes with tritium sights.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Italy\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Fabbrica d'Armi Pietro Beretta\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n
+		</text>
+	</string>
+	
+	<string id="st_up_px4_a1_name">
+		<text>Change of calibre to .45 ACP</text>
+	</string>
+	<string id="st_up_px4_a1_descr">
+		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.\n</text>
+	</string>
+
+</string_table>

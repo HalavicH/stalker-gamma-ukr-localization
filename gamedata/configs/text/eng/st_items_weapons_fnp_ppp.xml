@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_fnx45_v1">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_v1_descr">
+		<text>The FNX line of pistols were introduced in 2009 by FNH USA, a US based subsidiary of the Belgian gun company FN Herstal. Originally developed to the requirements of the US Joint Combat Pistol Program, these pistols are manufactured in US and intended for military, law enforcement and civilian use. All FNX handguns are semi-automatic pistols with double/single action trigger and external hammer. Frame of the every FNX pistol is made from impact resistant polymer, with removable backstraps of different sizes. FNX-45 Tactical is a specialised variant of the basic FNX-45, that features extended threaded barrel and raised sights, to be used with detachable sound suppressor.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor</text>
+	</string>
+
+	<string id="st_wpn_fnx45_v2">
+		<text>FNX-45 Tactical</text>
+	</string>
+	<string id="st_wpn_fnx45_v2_descr">
+		<text>The FNX line of pistols were introduced in 2009 by FNH USA, a US based subsidiary of the Belgian gun company FN Herstal. Originally developed to the requirements of the US Joint Combat Pistol Program, these pistols are manufactured in US and intended for military, law enforcement and civilian use. All FNX handguns are semi-automatic pistols with double/single action trigger and external hammer. Frame of the every FNX pistol is made from impact resistant polymer, with removable backstraps of different sizes. FNX-45 Tactical is a specialised variant of the basic FNX-45, that features extended threaded barrel and raised sights, to be used with detachable sound suppressor.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] FNX Tactical sight (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor</text>
+	</string>
+
+	<string id="st_wpn_fn509">
+		<text>FN 509</text>
+	</string>
+	<string id="st_wpn_fn509_descr">
+		<text>FN 509 is a polymer frame striker-fired semi-automatic pistol manufactured by FN America, a division of FN Herstal. It is chambered in 9?19mm Parabellum featuring double-action operation and a Venom Red Dot sights from Vortex Optics. As part of the XM17 Modular Handgun System competition (MHS) initiated in September 2015, FN Herstal entered a polymer-framed, striker-fired pistol, derived from the FN FNS. After SIG Sauer won the competition in January 2017 with a modified version of the P320, FN America brought a version of their entry, now known as the FN 509, to the commercial market.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Venom Red Dot (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor</text>
+	</string>
+
+</string_table>

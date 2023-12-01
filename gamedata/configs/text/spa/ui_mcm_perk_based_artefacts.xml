@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>Perk Based Artefacts</text>
+	</string>
+	<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>Perk Artefacts</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode">
+		<text>Debug Mode</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
+		<text>Habilita el spam de mensajes en la consola</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
+		<text>Permitir artefactos en contenedores</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
+		<text>Permite que los artefactos con ventajas en contenedores utilicen sus ventajas. Las descripciones de las ventajas seguiran estando disponibles solo para los artefactos fuera de los contenedores.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
+		<text>Regularidad de los artefactos en los alijos</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
+		<text>Cuanto menos sea el numero, mas raros seran los artefactos de ventaja en los alijos</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
+		<text>Degradaciщn de la condiciщn</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
+		<text>Cada 20 segundos los artefactos de perk perderan su condiciщn en este porcentaje</text>
+	</string>
+	
+</string_table>

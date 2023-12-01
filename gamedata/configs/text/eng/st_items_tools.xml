@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Usable Items (Special Purposes)
+-->
+
+<string_table>
+	
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Basic Tools</text>
+	</string>
+	<string id="st_itm_basickit_name">
+		<text>Basic Tools</text>
+	</string>
+	<string id="st_itm_basickit_descr">
+		<text>A basic repair toolkit. Unlikely to be suitable for advanced maintenance, but they could be useful in the hands of a thrifty technician. Contains different types and sizes of pliers, screws, adhesives and assorted fasteners. With enough knowledge and experience, this kit can be used for the creation of basic equipment.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] requires suitable materials\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor.\n \n
+		</text>
+	</string>
+
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Advanced Tools</text>
+	</string>
+	<string id="st_itm_advancedkit_name">
+		<text>Advanced Tools</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
+		<text>A decent set of old tools, but despite their age they appear to be in good condition. Contains a handful set of small pliers, tipped tweezers, probe and pick set. With enough knowledge and experience, this kit can be used for the creation of better equipment.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] requires suitable materials\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor.\n \n
+		</text>
+	</string>
+	
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Expert Tools</text>
+	</string>
+	<string id="st_itm_expertkit_name">
+		<text>Expert Tools</text>
+	</string>
+	<string id="st_itm_expertkit_descr">
+		<text>A professional set of high quality tools for fine-tuning equipment. Contains drill bit set, precision tweezers, soldiering iron, 4 mm Screwdriver bits and a multimeter. With enough knowledge and experience, this kit can be used for the creation of advanced equipment.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] requires suitable materials\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons an
+		armor.\n \n
+		</text>
+	</string>
+	
+	<string id="st_itm_drugkit">
+		<text>Drug-making Kit</text>
+	</string>
+	<string id="st_itm_drugkit_descr">
+		<text>Small cases and various metal objects constitute a kit for managing and producing drugs. Contains some plastic packages, tablets and ampoules.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] requires suitable materials\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a medic could use this in making drugs and medicine.\n \n
+		</text>
+	</string>
+
+	<string id="st_itm_ammokit">
+		<text>Gunsmithing Tools</text>
+	</string>
+	<string id="st_itm_ammokit_descr">
+		<text>A decent set of old gunsmithing tools and accessories. Contains a pin punch set, wheeler hammer, press tool and a black powder measure kit. With enough knowledge and experience, this kit can be used for recycling damaged ammunition and the creation of better variants.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] requires suitable materials\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor.\n \n
+		</text>
+	</string>
+	
+	<string id="st_binocular_name">
+		<text>Binoculars</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Standard Ukrainian-issue military binoculars. Useful for reconnaissance. Very durable.\n</text>
+	</string>
+	
+	<string id="st_con_checker_name">
+		<text>Paper of Equipment Condition</text>
+	</string>
+	<string id="st_con_checker_descr">
+		<text>A scrap of paper with your equipment condition written on it.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for equipment condition assessment\n</text>
+	</string>
+	
+	<string id="st_container_tool_name">
+		<text>Artefact Handling Tool</text>
+	</string>
+	<string id="st_container_tool_descr">
+		<text>Tongs made from hardened steel, intended exclusively for handling artefacts. Due to specific mechanics of operation, there is no other way of removing an artefact from containers. The tongs will also let you avoid burns that normally follow touching an artefact with bare hands; they will not, however, protect you from effects of artefacts on your psyche and neural system. No true artefact hunter in the Zone ever leaves the base without a similar tool.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[ui_cyan] • %c[ui_gray_2] usable for handling artefacts\n
+		%c[ui_cyan] • %c[ui_gray_2] essential for manipulating contents of artefact storage devices\n</text>
+	</string>
+	
+	<string id="st_lead_box_name">
+		<text>Lead-lined Metal Container (Empty)</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[ui_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_cyan] • %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
+		%c[d_red]WARNING: %c[ui_gray_2] You must remove artefacts from the container prior to selling them.\n</text>
+	</string>
+	
+	<string id="st_lead_box_half_name">
+		<text>Lead-lined Metal Container (Half-filled)</text>
+	</string>
+	<string id="st_lead_box_half_descr">
+		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[ui_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_cyan] • %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
+		%c[d_red]WARNING: %c[ui_gray_2] You must remove artefacts from the container prior to selling them.\n</text>
+	</string>
+	
+	<string id="st_lead_box_closed_name">
+		<text>Lead-lined Metal Container (Full)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[ui_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_cyan] • %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
+		%c[d_red]WARNING: %c[ui_gray_2] You must remove artefacts from the container prior to selling them.\n</text>
+	</string>
+	
+	<string id="st_crowbar">
+		<text>Crowbar (Reusable)</text>
+	</string>
+	<string id="st_crowbar_descr">
+		<text>The best tool for opening locks and unhinging doors. A common find in industrial areas. Some stalkers for reasons unknown keep it in their inventories in spite of its heavy weight. Low value. There was a famous Stalker who carried around a unique crowbar with the inscription saying "Property of Black Mesa". It is sought after to such an extent that some stalkers are searching for it as if they were looking for rare and valuable artefacts.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] unlimited usages</text>
+	</string>
+	
+	<string id="st_bolts_pack">
+		<text>Pack of Throwables</text>
+	</string>
+	<string id="st_bolts_pack_descr">
+		<text>A small pack containing a handful of bolts and empty bullets used as a cheap alternative for anomaly navigation.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] contains 20 to 30 bolts and/or empty bullets\n</text>
+	</string>
+	
+	<string id="st_swiss">
+		<text>Swiss Knife</text>
+	</string>
+	<string id="st_swiss_descr">
+		<text>The universal and elegant Swiss knife. It can be utilized as a supportive material in both weapon and outfit repairs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] disassembling tool\n
+		</text>
+	</string>
+	
+	<string id="st_grooming">
+		<text>Grooming Kit</text>
+	</string>
+	<string id="st_grooming_descr">
+		<text>Grooming kit that packs a ballistic nylon travel case with a beard and moustache comb and detail facial scissors, featuring man-sized finger rings, ultra-sharp cutting blades of stainless steel, non-slip rubberized grip, and a precision trimming tip.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] disassembling tool\n
+		</text>
+	</string>
+	
+	<string id="st_drugs_kit">
+		<text>Small Drug Kit</text>
+	</string>
+	<string id="st_drugs_kit_descr">
+		<text>Small cases and various metal objects constitute a kit for managing and producing drugs. Some plastic bags contain pills and herbs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] unusable\n</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Sleeping Bag</text>
+	</string>
+	<string id="st_itm_sleepbag_descr">
+		<text>A light sleeping bag that will keep you warm and dry when you need to rest. Be sure to pick a safe spot with a possible escape route.\n \n
+		%c[d_red]WARNING: %c[ui_gray_2]Sleeping in the open may attract predators.\n
+		Does not protect from radiation.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] sets up portable bed\n
+		%c[d_cyan] • %c[ui_gray_2] use a compression bag to pick up\n
+		%c[d_cyan] • %c[ui_gray_2] infinite usage\n
+</text>
+	</string>
+	
+	<string id="st_compression_bag">
+		<text>Compression Sack</text>
+	</string>
+	<string id="st_compression_bag_descr">
+		<text>Holds a sleeping bag.\n \n
+		%c[ui_gray_2] PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] used to pick up an unrolled sleeping bag\n
+		%c[d_orange] • %c[ui_gray_2] right-click on item when near sleeping bag > 'Use'\n
+		</text>
+	</string>
+	
+	<string id="st_itm_tent_bag">
+		<text>Camping Tent Bag (Empty)</text>
+	</string>
+	<string id="st_itm_tent_bag_descr">
+		<text>A bag, intended for the storage and transportation of a camping tent. Disassembly and packing takes some time.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] used to pack up a tent\n
+		%c[d_orange] • %c[ui_gray_2] right-click on item when near Tent > 'Use'\n
+		</text>
+	</string>
+
+	<string id="st_itm_tent_name">
+		<text>Camping Tent Bag (Full)</text>
+	</string>
+	<string id="st_itm_tent_descr">
+		<text>A bag containing a tent for camping, sheltering from rain and wind. Assembly and installation takes some time. In the Zone, it is best deployed in a place with escape routes in case of danger.\n \n
+		%c[d_red]WARNING: %c[ui_gray_2]Sleeping in the open may attract predators.\n
+		Does not protect from radiation.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] sets up tent\n
+		%c[d_cyan] • %c[ui_gray_2] unlimited usage\n</text>
+	</string>
+	
+	<string id="st_lighter">
+		<text>Lighter</text>
+	</string>
+	<string id="st_lighter_descr">
+		<text>A reliable, water-proof source of fire in the Zone is essential not only for cooking meals, but also for lighting a smoke or something stronger before - knock on wood - a fight with a controller. This durable and robust metal gas lighter is a perfect choice in light of the Zone's toxic and harmful environment.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for cooking, smoking and lighting a fire\n</text>
+	</string>
+	
+	<string id="st_lighter_refillers_descr">
+		<text>There is almost no point in carrying a lighter if you can't use it to light anything. Experienced stalkers always remember to fill their lighters with fuel before departing on longer excursions deep into the Zone. Commonly available "Carcinoleum" lighter fuel is relatively cheap and serves the purpose sufficiently well.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for fueling lighters\n</text>
+	</string>
+	
+	<string id="st_lighter_refiller5">
+		<text>Lighter Fuel (133ml)</text>
+	</string>
+	<string id="st_lighter_refiller4">
+		<text>Lighter Fuel (107ml)</text>
+	</string>
+	<string id="st_lighter_refiller3">
+		<text>Lighter Fuel (80ml)</text>
+	</string>
+	<string id="st_lighter_refiller2">
+		<text>Lighter Fuel (54ml)</text>
+	</string>
+	<string id="st_lighter_refiller1">
+		<text>Lighter Fuel (27ml)</text>
+	</string>
+	
+	<string id="st_itm_mapkit">
+		<text>Anomaly Map</text>
+	</string>
+	<string id="st_itm_mapkit_descr">
+		<text>An untitled document that contains some hand-written sheets of paper, personal pictures and few worn paragraphs. Nothing really special except for one big printed map with some marked locations. Apparently the owner was an artefact hunter.\n \n
+		</text>
+	</string>
+	<string id="st_itm_mapkit_1">
+		<text>Anomaly Map (Army Warehouses)</text>
+	</string>
+	<string id="st_itm_mapkit_2">
+		<text>Anomaly Map (Yantar)</text>
+	</string>
+	<string id="st_itm_mapkit_3">
+		<text>Anomaly Map (Red Forest)</text>
+	</string>
+	<string id="st_itm_mapkit_4">
+		<text>Anomaly Map (Dead City)</text>
+	</string>
+	<string id="st_itm_mapkit_5">
+		<text>Anomaly Map (Truck Cemetery)</text>
+	</string>
+	<string id="st_itm_mapkit_6">
+		<text>Anomaly Map (Jupiter)</text>
+	</string>
+	<string id="st_itm_mapkit_7">
+		<text>Anomaly Map (Zaton)</text>
+	</string>
+	<string id="st_itm_mapkit_8">
+		<text>Anomaly Map (Garbage)</text>
+	</string>
+	<string id="st_itm_mapkit_9">
+		<text>Anomaly Map (Agroprom)</text>
+	</string>
+	
+	<string id="st_ammo_box">
+		<text>A Box of Ammo</text>
+	</string>
+	<string id="st_ammo_box_descr">
+		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimize the risk of a weapon jam in the heat of battle.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_desc">
+		<text>A portable sleeping bag designed to keep the user warm and hidden at night.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] Double-click to place on the ground.\n</text>
+	</string>
+	
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Gunsmith Kit</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>A kit containing oils and tools used for basic firearm maintenance. Useful when out exploring, but also quite heavy.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] drag onto the item you wish to repair\n</text>
+	</string>
+	
+	<string id="st_itm_outfit_toolkit">
+		<text>Sewing Kit</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>A makeshift kit of sewing equipment and spare materials for outfit maintenance. Useful for repairing holes and tears in armor.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] drag onto the item you wish to repair\n</text>
+	</string>
+	
+	<string id="st_itm_tent_desc">
+		<text>Military shelter, made to withstand harsh weather. To place the tent, raise it in an open space.\n</text>
+	</string>
+	
+	<string id="st_itm_lantern_name">
+		<text>LED Lantern</text>
+	</string>
+	<string id="st_itm_lantern_desc">
+		<text>A bulky, durable and powerful lamp running on lithium-ion batteries. For stationary use, it should be placed on the ground.\n</text>
+	</string>
+	
+	<string id="st_itm_artefact_container_name">
+		<text>Artefact Container</text>
+	</string>
+</string_table>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_aug_a1">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="st_wpn_aug_a1_descr">
+		<text>Steyr AUG A1 in standard rifle configuration (military green). The AUG is an Austrian 5.56mm bullpup assault rifle. The AUG (Armee-Universal-Gewehr "universal army rifle") was adopted by the Austrian Army as the StG 77 (Sturmgewehr 77) in 1978, where it replaced the 7.62mm StG 58 automatic rifle (a licence-built FN FAL). In production since 1978, it is the standard small arm of the Austrian Bundesheer and various national police units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1977\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aug_a2">
+		<text>Steyr AUG A2</text>
+	</string>
+	<string id="st_wpn_aug_a2_descr">
+		<text>The Steyr AUG is an Austrian 5.56x45mm NATO bullpup assault rifle. The AUG A2 is an improvement of the A1 introduced in 1997 One of the key differences is the replacement of the integral scope with a Picatinny rail, allowing all sorts of sights and scopes to be added. It is a common rifle to find on the black market and a very reliable one.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1982\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aug_a3">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="st_wpn_aug_a3_descr">
+		<text>The Steyr AUG is an Austrian 5.56x45mm NATO bullpup assault rifle. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats. The top is used for attaching sights, while a grenade launcher or a vertical front handle can be attached to the bottom. A laser pointer or other necessary additional equipment may be attached to the side.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2014\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aug_thales">
+		<text>Thales F90</text>
+	</string>
+	<string id="st_wpn_aug_thales_descr">
+		<text>The Thales F90, also known as the EF88, is an improvement of the Australian version of the AUG, the F88 Austeyr. Produced in 2012 and meant to replace the F88, this is the most modern AUG one can find, having a lot of improvements based on the performance of the F88 which increases its ergonomics and reliability. The unique barrel gives it much better recoil control and accuracy, while the custom foregrip allows for better handling. An incredibly rare gun.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2012\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aug_9mm">
+		<text>Steyr AUG A3 9mm</text>
+	</string>
+	<string id="st_wpn_aug_9mm_descr">
+		<text>Also known as the Steyr AUG Para, although that would be for the original variant that had no Picatinny rails, a different barrel as well as integrated scope and foregrip. The AUG 9mm is, simply, a submachinegun variant chambered in 9x19 Parabellum produced since 1988. It comes with a different unique barrel, bolt and magazine, although a TMP magazine can fit with it. This weapon was made for, as the name would tell, Paratroopers. Kits exist to turn any AUG A3 into the AUG 9mm and vice-versa. It is a reliable submachinegun, in bullpup format, which is why it is popular among Freedomers.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1988\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+</string_table>

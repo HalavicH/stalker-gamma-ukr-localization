@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_usp_compact">
+		<text>USP45 Compact</text>
+	</string>
+	<string id="st_wpn_usp_compact_descr">
+		<text>The ultimate classic favourite of every veteran in The Zone be him of any faction. Using a caliber fit for short-range combat, easy to conceal, very reliable and barely any weight for 8 rounds, one can easily use this instead of the average USP.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Heckler &amp; Koch, EAS\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1996\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_usp_tactical">
+		<text>USP45 Tactical</text>
+	</string>
+	<string id="st_wpn_usp_tactical_descr">
+		<text>Considered to be an improvement of the USP, the USP Tactical incorporates an extended, threaded barrel with O-ring, which increases accuracy and reduces recoil as well as allows the integration of a suppressor by default. Other additions are an adjustable micrometer rear sight, with tritium front and rear sights. With all these enhancements, it's clear that it has been tampered with most likely via the black market. Either way, still a worthy, reliable pistol.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Heckler &amp; Koch, EAS\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1996\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_mk23">
+		<text>HK MK23</text>
+	</string>
+	<string id="st_wpn_mk23_descr">
+		<text>Better known as the USSOCOM MARK 23, this is a pistol made by Heckler &amp; Koch for the USSOCOM, a Spec Ops team of the USA. It has amazing durability, be it harsh environment, water or corrosion, as well as good accuracy and recoil thanks to its polygonal barrel design. It also uses the more powerful .45 ACP round instead of 9mm. Despite proving to be quite useful, especially for USSOCOM, it was discontinued due to its unpopularity outside of Spec Ops. In The Zone, this gun is only popular because of the legendarily unpopular ex-Spetnaz stalker, Boleslav "Sishka" Tarchik.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1991\n \n
+		</text>
+	</string>
+	
+</string_table>

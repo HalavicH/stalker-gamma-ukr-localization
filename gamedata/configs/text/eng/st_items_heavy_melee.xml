@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_sledge_hammer">
+		<text>Sledge Hammer</text>
+	</string>
+
+	<string id="st_sledge_hammer_descr">
+		<text>A sledgehammer is a tool with a large, flat, often metal head, attached to a long handle. The long handle combined with a heavy head allows the sledgehammer to gather momentum during a swing and apply a large amount of force.\n \n
+		[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
+		%c[d_cyan] • %c[ui_gray_2] greater reach compared to knives\n
+		</text>
+	</string>
+
+</string_table>

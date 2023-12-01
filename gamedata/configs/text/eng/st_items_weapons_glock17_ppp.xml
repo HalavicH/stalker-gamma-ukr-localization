@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_glock17">
+		<text>Glock 17, Gen 4</text>
+	</string>
+	<string id="st_wpn_glock17_short">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>A classic polymer-framed, short recoil-operated pistol. Designed and produced by Austrian manufacturer Glock Ges.m.b.H., this firearm entered Austrian military and police service by 1982 after it was the top performer in reliability and safety tests. Ever since then, it has been exported to many other countries, including Ukraine for the Special Forces. Due to its low weight, very good recoil and 9mm caliber, it is a very popular pistol among every faction and rightly so.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Glock Ges.m.b.H.\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n
+		</text>
+	</string>
+
+	<string id="st_up_glock17_45acp_name">
+		<text>Change of calibre to .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_xd9">
+		<text>Springfield Armory XD9</text>
+	</string>
+	<string id="st_wpn_xd9_short">
+		<text>XD9</text>
+	</string>
+	<string id="st_wpn_xd9_descr">
+		<text>Springfield Armory XD is the American equivalent of the polymer-frame, striker-fired HS2000 that is manufactured by HS Produkt, in Croatia. This model is the version Mod.2, Sub-Compact variant, a much smaller version of the HS2000 meant be used for conceal-carry. One of the significant changes this model has compared to the original is the "Grip Zone" featuring an incredibly ergonomic improvement. Despite being a small pistol with low magazine capacity, it is a most welcome addition for those that want an accurate pistol with the lowest recoil possible.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Croatia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]HS Produkt Springfield Armory, Inc.\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2002\n
+		</text>
+	</string>
+
+</string_table>

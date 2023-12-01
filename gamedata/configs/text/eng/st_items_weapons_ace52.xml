@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_ace52">
+		<text>IWI ACE 52</text>
+	</string>
+	<string id="st_wpn_ace52_descr">
+		<text>Chambered in 7.62x51, the ACE 52 has been built to meet the needs of the modern battlefield making it a convinient choice for armies and agents seeking advanced rifles. Heralded as the ultimate assault weapon, this rifle has been battle-proven under the most adverse and extreme conditions. Although based upon the IMI Galils of old, advanced design and performance mechanisms transformed the ACE 52 into a more reliable and highly accurate weapon for combat warfare. These new ACE variants feature better ergonomics and accuracy due to their integration of steel with polymer instead of using a machined solid steel billet action.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Israel\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Israel Weapon Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2008\n
+		</text>
+	</string>
+
+	<string id="st_up_ace52_a5_name">
+		<text>Installation of a heavier barrel</text>
+	</string>
+	<string id="st_up_ace52_a5_descr">
+		<text>Installation of a heavier barrel to further improve recoil </text>
+	</string>
+	<string id="st_up_ace52_b1_name">
+		<text>Installation of Cheek Piece</text>
+	</string>
+	<string id="st_up_ace52_b1_descr">
+		<text>Installation of a Cheek Piece on the Stock for more comfortable aiming. Could reduce the recoil while aiming significantly.</text>
+	</string>
+	<string id="st_up_ace52_c1_name">
+		<text>Rechamber gun to 7.62x54</text>
+	</string>
+	<string id="st_up_ace52_c1_descr">
+		<text>Rechambers the gun to a calibre more commonly available in the zone.</text>
+	</string>
+</string_table>

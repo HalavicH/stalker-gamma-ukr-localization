@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="st_ui_craft_artefacts_container">
+		<text>Artefacts (in containers)</text>
+	</string>
+    <string id="st_item_use_empower">
+		<text>empower artefacts</text>
+	</string>
+	<string id="st_item_use_fuse">
+		<text>fuse artefacts</text>
+	</string>
+	<string id="st_item_use_craft">
+		<text>open workbench</text>
+	</string>	
+    <string id="st_ui_itm_repair_support_grok_artefacts">
+		<text>Artefact to melt</text>
+	</string>
+    <string id="st_ui_itm_repair_base_grok_artefacts">
+		<text>Artefact to strengthen</text>
+	</string>
+    <string id="st_melter">
+		<text>Artefact Melter</text>
+	</string>
+    <string id="st_melter_desc">
+		<text>A strange and high-tech device created by Pr. Sakharov. The Artefacts Melter (AM) allows the manipulation of artefacts materials. This tool is fueled using the energy hold by artefacts, which can be acquired and stored for further uses by melting them. The Artefacts Melter can also strengthen artefacts of the same kind, or even fuse artefacts of different kind to generate new ones. The chemical and physical processes at work are not fully understood yet. Recent researches are pointing towards the ability of the tool to harness the Noosphere's power. Other experiments showed that the AM only works in the Zone. These findings quickly prompted most high ranked stalkers to acquire such a tool in order to create stronger and more expensive artefacts for the black market or their own use.\n \n
+		%c[0,255,255,255]Characteristics of the Artefact Melter Operating System (AMOS) v2.15a installed on this device:\n%c[d_cyan] • Artefact Melting: Hold the secure key (Left-alt) and move the Artefact Melter over any artefact to melt it and refill the AM tank. The more unique the artefact, the more power will be recovered.\n
+		%c[d_cyan] • Artefact Empowering: Choose "empower artifacts" in the AMOS main menu to combine artefacts of the same kind to strengthen them.\n%c[d_cyan] • Artefact Fusion: Choose "fuse artifacts" in the AMOS main menu and open the recipe sub-menu to generate a new artefact from 2 or more artefacts. The resulting artefact will have the average condition of its components. AMOS contains already known and *secure* artefact combinations.\n%c[d_cyan] • AMOS has built-in security protocols to avoid any malfunctions. If the tool refuses to work, be sure that the AM tank holds more than 10% (1 use) of its total capacity.\n
+		</text>
+	</string>
+	    <string id="st_grizzly">
+		<text>Grizzly Detector</text>
+	</string>
+    <string id="st_grizzly_desc">
+		<text>This anomalous activity detector is an updated version of the Bear detector and is able to detect all known artefacts signatures just like the Svarog or Veles detectors. This upgraded Bear is especially appreciated by stalkers hunting artefacts during the night since its simple display is compatible with night vision googles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] moderate electric power consumption\n
+		</text>
+	</string>
+	
+</string_table>

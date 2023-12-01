@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Unique sights for MP412 Rex
+-->
+
+<string_table>
+	<string id="st_integrated_docter">
+		<text>DOCTER Sight</text>
+	</string>
+	<string id="st_integrated_docter_descr">
+		<text>Only available through upgrades.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Magnification: %c[ui_gray_1]none (collimator)\n
+		</text>
+	</string>
+
+    <string id="st_integrated_compact">
+		<text>Compact Sight</text>
+	</string>
+	<string id="st_integrated_compact_descr">
+		<text>Only available through upgrades.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Magnification: %c[ui_gray_1]none (collimator)\n
+		</text>
+	</string>
+</string_table>

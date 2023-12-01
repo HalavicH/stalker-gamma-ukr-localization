@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--
+	Backpacks
+-->
+
+<string_table>
+	<string id="st_itm_backpack_name">
+		<text>Backpack</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>A backpack made of durable material able to withstand the harshest weather conditions.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_equ_smallpack_name">
+		<text>Camping Backpack</text>
+	</string>
+	<string id="st_equ_smallpack_desc">
+		<text>A backpack with considerable storage space. The inside has been modified to keep water out. A popular choice among stalkers and rookies.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_equ_smilpack_name">
+		<text>Travel Backpack</text>
+	</string>
+	<string id="st_equ_smilpack_desc">
+		<text>A large backpack for long journeys. Thanks to the weight distribution system, it allows the wearer to carry enough supplies and equipment.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_equ_milpack_name">
+		<text>Combat Backpack</text>
+	</string>
+	<string id="st_equ_milpack_desc">
+		<text>A combat backpack used by the military. Comes with plenty of space to store additional munitions and medical supplies.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_equ_touristpack_name">
+		<text>Tourist Backpack</text>
+	</string>
+	<string id="st_equ_touristpack_desc">
+		<text>A tourist backpack with a lot of storage space. Not very popular due to its cumbersome size.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_kit_hunt">
+		<text>Hunter's Kit</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>A whole bag full of hooks, knives and other equipment usful for skinning and gutting mutants. Thanks to the variety of tools, the kit can effectively allow the collection of extra mutant parts while skinning.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] item storage\n
+		%c[d_green] • %c[ui_gray_2] increases number of items obtained from mutants\n
+		%c[d_orange] • %c[ui_gray_2] usable as stash\n
+		</text>
+	</string>
+	
+	<string id="st_itm_actor_backpack_name">
+		<text>Quick Release System</text>
+	</string>
+	<string id="st_itm_actor_backpack_descr">
+		<text>The QR-system almost immediately removes the straps from your backpack and lets you escape to a safe place without the additional weight hampering your movement.\n
+		To use it, set it as a hotkey item.\n
+		Push the hotkey to activate the emergency release, instantly dropping your backpack (and everything inside it) to the ground.\n
+		%c[ui_gray_3]NOTE: Your equipped weapon(s), ammunition, armor and armor attachments as well as UPD remain in your possession, so you are ready to fight.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] built-in GPS\n
+		%c[d_cyan] • %c[ui_gray_2] combat gear remains with user\n
+		</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>Often used by stalkers as a fallback in case of unforeseen circumstances. Its features are simple, consisting of a strap which can be dropped along with the backpack at any moment, in order to run away quickly. Quite compact and capacious. Practically, it allows you to reset your backpack along with some content.</text>
+	</string>
+	
+	<string id="st_itm_backpack_stash_name">
+		<text>PDA Marked Backpack</text>
+	</string>
+	<string id="st_itm_backpack_stash_desc">
+		<text>An extremely durable backpack with an implemented GPS device. Automatically synchronizes with your PDA once dropped to generate a stash that is marked on your PDA. The backpack is made of strong and durable materials that will keep your equipment safe and dry regardless of environmental conditions. The camouflaged design assures that it doesn't stand out from the surroundings.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] built-in GPS\n
+		%c[d_red] • %c[ui_gray_2] single usage\n
+		</text>
+	</string>
+	
+</string_table>

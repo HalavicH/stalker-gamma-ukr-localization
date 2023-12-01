@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_itms_campfire_name">
+		<text>Firewood</text>
+	</string>
+	<string id="st_itms_campfire_descr">
+		<text>Firewood suitable for a campfire.\n
+		Helps keep warm at night and provides the opportunity to cook food.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for making campfires'
+		%c[d_orange] • %c[ui_gray_2] right-click on Axe when near a tree > 'chop wood'		
+		%c[d_cyan] • %c[ui_gray_2] may be collected with an Axe
+		</text>
+	</string>
+
+	<string id="st_bad_surface">
+		<text>Surface not sufficient</text>
+	</string>
+
+	<string id="st_gather_wood">
+		<text>chop wood</text>
+	</string>
+
+</string_table>

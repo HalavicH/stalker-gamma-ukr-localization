@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!--COMMON-->
+	<string id="st_mag_weapon_jammed">
+		<text>Weapon Jammed</text>
+	</string>
+	<string id="st_mag_eject_magazine">
+		<text>eject magazine</text>
+	</string>
+	<string id="st_mag_unload_ammo">
+		<text>unload ammo</text>
+	</string>
+	<string id="st_mag_loadout_remove">
+		<text>remove from loadout</text>
+	</string>
+	<string id="st_mag_loadout_add">
+		<text>add to loadout</text>
+	</string>
+	<string id="st_mag_retool">
+		<text>retool</text>
+	</string>
+	<string id="st_mag_err_retool">
+		<text>Cannot retool loaded magazine. Remove all rounds before retooling.</text>
+	</string>
+
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_magazines">
+		<text>Magazines</text>
+	</string>
+	<string id="ui_mcm_menu_mgmt">
+		<text>Mag Management</text>
+	</string>
+	<string id="ui_mcm_menu_hud">
+		<text>Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_menu_gameplay">
+		<text>Gameplay Options</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmtitle">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_magazines_hudtitle">
+		<text>HUD Options</text>
+	</string>
+	<string id="ui_mcm_magazines_gametitle">
+		<text>Gameplay Options</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor">
+		<text>Bullet Load Time factor</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor_desc">
+		<text>Multiplier for bullet load time.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor">
+		<text>Bullet Unload Time Factor</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor_desc">
+		<text>Multiplier for bullet unload time.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip">
+		<text>Magazine Tooltip Information</text>
+	</string>
+	<string id="ui_mcm_lst_topround">
+		<text>Top Round Only</text>
+	</string>
+	<string id="ui_mcm_lst_trcap">
+		<text>Top Round + Exact Capacity</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Complete Information</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip_desc">
+		<text>Verbosity level for magazine data.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug">
+		<text>Enable Debug Logs</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug_desc">
+		<text>Enables debugging logs in console.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack">
+		<text>Stack Empty Magazines In Inventory</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack_desc">
+		<text>If enabled, empty magazines will stack in inventory instead of being separate.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv">
+		<text>Sort Inventory As Magazines Are Updated</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv_desc">
+		<text>Uncheck this if you don't like items in your inventory moving around when magazines are updated.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color">
+		<text>Highlight Color</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color_desc">
+		<text>Highlight color for magazines that are part of your loadout.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a">
+		<text>Highlight Opacity</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a_desc">
+		<text>How much of the UI background is visible through the highlight. Lower values make the highlight more subtle.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ram_orange">
+		<text>Orange</text>
+	</string>
+	<string id="ui_mcm_lst_ram_pink">
+		<text>Pink</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blond">
+		<text>Blond</text>
+	</string>
+	<string id="ui_mcm_lst_ram_white">
+		<text>White</text>
+	</string>
+	<string id="ui_mcm_lst_ram_brown">
+		<text>Brown</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blue">
+		<text>Blue</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_scale">
+		<text>HUD Scale</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_ammo_scale">
+		<text>Ammo Icon Scale</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt">
+		<text>Group by Weapon</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt_desc">
+		<text>If enabled, magazines that work with the same weapon will be grouped together. If disabled, only identical magazines will be grouped together.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_bgrd">
+		<text>Show Background</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_bgrd">
+		<text>Background Texture</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo">
+		<text>Group by Ammo</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo_desc">
+		<text>If enabled, magazines will be broken into groups based on their top round.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud">
+		<text>Enable Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud_desc">
+		<text>If enabled, you will see magazines currently equipped in your HUD, near your ammo counter.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text">
+		<text>Enable Ammo Text on Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text_desc">
+		<text>If enabled, you will see text on the HUD for the first round in a magazine. Requires 'Group by Ammo' to be enabled.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon">
+		<text>Enable Ammo Icons on Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon_desc">
+		<text>If enabled, you will see small ammo icons on the HUD for the first round in a magazine. Requires 'Group by Ammo' to be enabled.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_retain_round">
+		<text>Enable "One In the Chamber"</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_retain_round_desc">
+		<text>If enabled, weapons retain a round in the chamber when magazines are ejected.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_fast_loading">
+		<text>Enable Instant Loading in Stashes</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_fast_loading_desc">
+		<text>If enabled, loading and unloading rounds in stashes will be instant, like in Escape from Tarkov.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_quick_loading">
+		<text>Enable Quick Magazine Loading</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_quick_loading_desc">
+		<text>If enabled, loading rounds in inventory will be faster, doing so one box at a time.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_ejection">
+		<text>Empty Mag Unload Behavior</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_ejection_desc">
+		<text>Controls where empty magazines go.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ruck">
+		<text>Put in Backpack</text>
+	</string>
+
+	<string id="ui_mcm_lst_loadout">
+		<text>Put in loadout</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs">
+		<text>Treat As Empty %</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs_desc">
+		<text>Magazines below this % will be treated as empty.</text>
+	</string>
+	<string id="ui_mcm_magazines_rant">
+		<text>Combat Reloading (reloading with inventory closed) works:\n\n
+		• Your loadout is a set of pockets/loops on your vest for magazines. For this example, you have 4 pockets and 4 magazines in your loadout; one magazine for each pocket and a fifth magazine in the gun.\n
+		• Upon reloading, with your gun in one hand, you remove the magazine in the gun with the other hand.\n
+		You now have a gun in one hand and a magazine in the other.\n
+		All four pockets have a magazine in them so the magazine in your hand cannot be put into a pocket and you cannot take a magazine out of a pocket because both of your hands are full. What do you do?\n
+		• In this situation, the magazine is put into your backpack/inventory and you now have a free hand available. to remove a magazine from one of your pockets and insert it into the gun.\n
+		Reload complete!\n
+		• If you start the reload process with a free pocket in your loadout, the magazine from the gun will be put into that pocket, unless the magazine is empty. In this case, it will go into your backpack/inventory. This can be changed so that empty magazines are placed into loadout slots or dropped to the ground within MCM.\n
+		</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands">
+		<text>Use "Third Hand" for Combat Reloads</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands_desc">
+		<text>Raven still thinks this is wrong...</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality">
+		<text>NPC Mag Quality</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality_desc">
+		<text>Modifier to find better magazines and ammo off corpses.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags">
+		<text>NPC Mag Drops</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags_desc">
+		<text>Multiplier on amount of magazines dropped by NPCs.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo">
+		<text>NPC Ammo Drops</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo_desc">
+		<text>Multiplier on ammo load amount for magazines dropped by NPCs.</text>
+	</string>
+
+	<!--MAGAZINES-->
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_mag_bonus">
+		<text>(Outfit: %s + Extra: %s)<!--alt:> (%s + %s)<--></text>
+	</string>
+	<string id="st_mag_small">
+		<text>Small Magazines: </text>
+	</string>
+	<string id="st_mag_medium">
+		<text>Medium Magazines: </text>
+	</string>
+	<string id="st_mag_large">
+		<text>Large Magazines: </text>
+	</string>
+	<string id="st_mag_base">
+		<text>Magazine Base</text>
+	</string>
+	<string id="st_mag_base_descr">
+		<text>Magazine base.</text>
+	</string>
+	
+	<string id="st_mag_size">
+		<text>Magazine Size:</text>
+	</string>
+	<string id="st_mag_size_small">
+		<text>Small</text>
+	</string>
+	<string id="st_mag_size_medium">
+		<text>Medium</text>
+	</string>
+	<string id="st_mag_size_large">
+		<text>Large</text>
+	</string>
+
+	<string id="st_mag_loaded">
+		<text>Loaded Magazine:</text>
+	</string>
+	<string id="st_mag_loaded_none">
+		<text>WARNING: No Magazine Loaded</text>
+	</string>
+	
+	<string id="st_mag_ammo_loaded_count">
+		<text>Loaded Rounds: </text>
+	</string>
+	<string id="st_mag_capacity">
+		<text>Magazine Capacity: </text>
+	</string>
+	<string id="st_mag_ammo_top_round">
+		<text>Top Round: </text>
+	</string>
+
+	<string id="article_mags">
+		<text>Anomaly Magazines</text>
+	</string>
+	<string id="article_mags_text">
+		<text>
+			%c[pda_green]Mags Redux\n\n
+			%c[ui_gray_2]Welcome to Mags Redux. This guide will cover most of the features and changes you can expect when using this mod.\n
+			For users of the old Anomaly Magazines (from Wuut), most of the functionality is the same but you can expect little difference in gameplay.\n\n
+			%c[pda_green]I. How to load and fire weapons\n
+			%c[ui_gray_2]• Weapons that would logically use magazines will require the usage of magazines.\n
+			• Weapons that do not require magazines will behave as in vanilla (shotguns, some bolt-action rifles and revolvers).\n
+			• Ammo must be manually loaded into magazines. The magazine description will indicate what sort of ammo is compatible. To load ammo, drag the ammo item onto the magazine. This will initiate a loading procedure which will load rounds, one by one.\n
+			• To cancel this procedure, click anywhere.\n
+			• To put a magazine into your loadout, do the following:\n
+			Right-click magazine > 'add to loadout'\n
+			The magazine background will change color and an icon will be added: this means the magazine has been added to your equipment loadout.\n
+			• From here, if you are holding an eligible weapon, reloading your weapon will utilize the magazine in your loadout.\n
+			• The mod will attempt to automatically select the magazine that a) has the largest size and b) has a top round equal to your ammo type.\n
+			• Magazines can also be manually inserted and ejected. Right click a weapon to find the option to eject the magazine.\n
+			• The Ammo wheel can also be used to swap magazines. Magazines are categorized by the top round.\n\n
+			%c[pda_green]II. Where to find magazines\n
+			%c[ui_gray_1]• Vendors that stock guns will stock magazines. Magazines may also be sold for a pittance.\n
+			• NPCs will usually sell an assortment of different magazines.\n
+			• NOTE: 'Mags Buyable at Traders' must be enabled under the 'G.A.M.M.A. Fixes' category in ModOrganizer.
+			• NPCs, specifically high-rank NPCs have a small chance of dropping improved magazines. These magazines load faster, have higher capacities or both.\n\n
+			%c[pda_green]III. Explanation of MCM options\n
+			%c[ui_gray_1]• Loot Quality: Affects quantity of dropped mags, fill amount and chance for improved magazines.\n
+			• Load/unload Time Factor: Multiplier on the bullet load/unload speed in magazines.\n
+			• Fast loading: Enables instant unloading/loading of magazines IN STASH ONLY.\n
+			• One In the Chamber: Preserves a chambered round when switching mags, just like in real life. 
+		</text>
+	</string>
+
+</string_table>

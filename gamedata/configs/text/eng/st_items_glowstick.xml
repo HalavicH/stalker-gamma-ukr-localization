@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_device_glowstick">
+		<text>Glowstick (Green)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]Range: •••\n
+		%c[d_cyan] • %c[ui_gray_2]Illumination: •••\n
+		%c[d_cyan] • %c[ui_gray_2]Lifetime: ~40 minutes\n
+		</text>
+	</string>
+	<string id="st_device_glowstick_red">
+		<text>Glowstick (Red)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]Range: •••••\n
+		%c[d_cyan] • %c[ui_gray_2]Illumination: ••\n
+		%c[d_cyan] • %c[ui_gray_2]Lifetime: ~60 minutes\n
+		</text>
+	</string>
+	<string id="st_device_glowstick_orange">
+		<text>Glowstick (Orange)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]Range: ••\n
+		%c[d_cyan] • %c[ui_gray_2]Illumination: ••\n
+		%c[d_cyan] • %c[ui_gray_2]Lifetime: ~40 minutes\n
+		</text>
+	</string>
+	<string id="st_device_glowstick_blue">
+		<text>Glowstick (Cyan)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]Range: •\n
+		%c[d_cyan] • %c[ui_gray_2]Illumination: •••••\n
+		%c[d_cyan] • %c[ui_gray_2]Lifetime: ~30 minutes\n
+		</text>
+	</string>
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Brain Scorcher and Miracle Machine Flickering</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>Lamps and flashlights flicker in the Brain Scorcher and Miracle Machine as long as they are active, giving a reason to bring/use glowsticks.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>Glowstick Throw Sistance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>Glowstick Stash Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>Chance to find glowsticks in stashes.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>Glowstick Loot Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>Chance to find glowsticks on dead bodies.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>Throw Key</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>Key to hold to throw glowsticks.</text>
+    </string>
+</string_table>

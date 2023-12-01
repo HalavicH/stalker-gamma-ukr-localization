@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_sig229">
+		<text>SIG P229 LEGION</text>
+	</string>
+	<string id="st_wpn_sig229_descr">
+		<text>The P229 is a compact-sized, 9mm caliber chambered, upgraded P228 meant for police duty and conceal-carry. Since this is the "LEGION" variant, it's safe to assume that this is a marvel among the Western factions like the Mercenaries. Despite being chambered in the weaker 9mm instead of the stronger .45 ACP, it's still a relatively good, small pistol for those that prefer a SIG-Sauer that shoots 9mm instead of .45 ACP.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1992\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig320">
+		<text>SIG Sauer P320 RXP</text>
+	</string>
+	<string id="st_wpn_sig320_descr">
+		<text>A very recent addition to the SIG-Sauer pistols chambered in 9mm. It uses a "Strike-Action" mechanism, which should heavily reduce recoil even if rechambered to .45 ACP. It has unmatched reliability, very good accuracy and perfect recoil. The wonderful pistol in the field.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2017\n
+		</text>
+	</string>
+	<string id="st_up_p320_c7_name">
+		<text>Change of calibre to .45 ACP</text>
+	</string>
+	<string id="st_up_p320_c7_descr">
+		<text>A complex, possibly illegal and homemade change of the barrel and firing mechanism to make it feed .45 ACP</text>
+	</string>
+
+</string_table>

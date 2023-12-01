@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_desert_eagle_gold">
+		<text>Desert Eagle (Gold)</text>
+	</string>
+	
+	<string id="st_wpn_desert_eagle_black">
+		<text>Desert Eagle (Black)</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_dhampyr">
+		<text>Desert Eagle "Dhampyr"</text>
+	</string>
+	<string id="st_wpn_desert_eagle_dhampyr_descr">
+		<text>A more modernized version of the Desert Eagle, with a built-in compensator and picatinny rails on the frame and slide. It still has quite a recoil but much lower than any other Desert Eagle, let alone magnum. The slight barrel improvements also improve the accuracy and allow the use of some scopes. It seems to be of relatively new shape, but looking at the slide and the magazine, it claims to use .50AE and yet it's feeding on .357 Magnum. Without a doubt, it was modified right in The Zone.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Magnum Research, Israel Military Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1979\n
+		</text>
+	</string>
+	
+	<string id="st_up_deagle_127_name">
+		<text>Change of calibre to 12.7x55mm</text>
+	</string>
+
+	<string id="st_up_deagle_127_descr">
+		<text>Nimble's Blueprint that came with the gun as a bonus. This allows a change of caliber to 12.27x55mm. Unfortunately, this will allow only one round to fit in the magazine.</text>
+	</string>
+
+</string_table>

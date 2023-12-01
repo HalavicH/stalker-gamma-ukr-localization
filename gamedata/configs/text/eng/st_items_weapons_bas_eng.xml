@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_not_in_use">
+        <text>The Item is not in use</text>
+    </string>
+    <string id="st_not_in_use_descr">
+        <text>The Item is not in use </text>
+    </string>
+
+	<string id="st_knifebf4">
+        	<text>OTs-04 Combat Knife</text>
+    </string>
+    	<string id="st_knifebf4_descr">
+        <text>The OTs-04 knife was developed at the Tula Central Design Research Bureau (TsKIB) in the late 80s and early 90s It was intended for the special forces of the Interior Ministry troops.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]melee weapon\n
+		%c[pda_green] • %c[ui_gray_2]cut thick skin?: %c[ui_green]YES\n
+		</text>
+    	</string>
+	
+	<string id="st_kukri">
+        	<text>Kukri</text>
+    </string>
+    <string id="st_kukri_descr">
+        <text>The kukri is a type of machete originating from the Indian subcontinent. The knife has a distinct recurve in its blade. It serves multiple purposes as a melee weapon and also as a regular cutting tool and is the national weapon of Nepal.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]melee weapon\n
+		%c[pda_green] • %c[ui_gray_2]cut thick skin?: %c[ui_green]YES\n
+		</text>
+	</string>
+		
+	<string id="st_wpn_ak12_custom">
+        <text>AK-12 "Monolith 1.0"</text>
+    </string>
+    <string id="st_wpn_ak12_custom_descr">
+        <text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional a "Kalashnikov type" action with a long stroke gas piston and rotary bolt lock. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2011\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This version is rarely encountered in the Zone, as it is mainly used by the Monolith faction. It comes with three firing modes: automatic, single and three round burst.\n
+		</text>
+    </string>
+
+    <string id="st_wpn_ak12_mono_kit">
+		<text>AK-12 "Monolith 2.0"</text>
+    </string>
+    <string id="st_wpn_ak12_mono_kit_descr">
+        <text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional a "Kalashnikov type" action with a long stroke gas piston and rotary bolt lock. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2011\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This version is rarely encountered in the Zone, as it is mainly used by the Monolith faction. It is a further modification of the 1.0. Thanks to a new triggering system, it is more advanced and powerful than the original with improved ergonomics and an increased rate of fire.\n
+		</text>
+    </string>
+				
+	<string id="st_wpn_ak12_m1">
+        <text>AK-12</text>
+    </string>
+    <string id="st_wpn_ak12_m1_descr">
+        <text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. This version of the AK-12 was presented to the public in 2016. It differs quite significantly in appearance and design from the previous version of the AK-12. The design of the weapon was revised both to eliminate a number of identified shortcomings and problems and in the direction of improving its manufacturing rate, taking into account the military's requests.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode\n
+		</text>
+    </string>
+		
+		<string id="st_wpn_usp_tac">
+        <text>USP "Match Tactical"</text>
+    </string>
+    <string id="st_wpn_usp_tac_descr">
+		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by many police and special forces units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1993\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+    </string>
+
+	<string id="st_wpn_vintorez_m1">
+		<text>VSS Vintorez "Savant"</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>The VSS Vintorez was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm round. The effective range of the VSS is limited to 300-400 meters.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1987\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This is an early prototype of the VSS Vintorez. This build is more popular among experienced stalkers, because of its lower price comparatively to the final version.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_vintorez_m2">
+		<text>VSS Vintorez "Merc"</text>
+	</string>
+	<string id="st_wpn_vintorez_m2_descr">
+		<text>The VSS Vintorez was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm round. The effective range of the VSS is limited to 300-400 meters.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1987\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model benefits from improved accuracy and overall higher reliability due to improved internal mechanics.\n
+		</text>
+	</string>
+	
+	<string id="st_tactical_knife">
+		<text>Monolith Blade</text>
+	</string>
+	<string id="st_tactical_knife_descr">
+		<text>These blades are produced in very few numbers by masters of the Monolith faction. Their composition is from an unknown alloy, rumored to be extracted directly from the heart of the Sarcophagus.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]melee weapon\n
+		%c[pda_green] • %c[ui_gray_2]cut thick skin?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_saiga12s_m1">
+		<text>Saiga-12 "Nerd"</text>
+	</string>
+	<string id="st_wpn_saiga12s_m1_descr">
+		<text>The Saiga-12 is a Kalashnikov pattern, 12-gauge combat shotgun manufactured by Izhmash. The Saiga-12 is recognizable by its Kalashnikov design with the large lever safety on the right side of the receiver, the optic mounting rail on the left and the large top mounted dust cover held in place by the rear of the recoil spring assembly. Earning respect in the Zone for its lethality, it is intended for engaging targets at short range (50 meters or less) or in confined spaces.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This Saiga variant was purchased specifically for the scientific personnel. Experienced hunters look with considerable envy at the "nerds" armed with this model.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_m4_ru556">
+		<text>Ruger SR-556</text>
+	</string>
+	<string id="st_wpn_m4_ru556_descr">
+		<text>The SR-556 is a semiautomatic AR-15 style rifle manufactured by U.S. firearms company Sturm, Ruger &amp; Co. Inc. It is one of several 21st-century AR-15 rifles to use gas piston operation (SR-556). In January 2016 Ruger discontinued all SR-556 rifles and introduced a new takedown variant with a lightweight KeyMod handguard.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Sturm, Ruger &amp; Co.\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2009\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode\n
+		</text>
+	</string>
+	
+	
+	<string id="st_wpn_saiga12s_m2">
+		<text>Saiga "Dushman"</text>
+	</string>
+	<string id="st_wpn_saiga12s_m2_descr">
+		<text>The Saiga-12 is a Kalashnikov pattern, 12-gauge combat shotgun manufactured by Izhmash. The Saiga-12 is recognizable by its Kalashnikov design with the large lever safety on the right side of the receiver, the optic mounting rail on the left and the large top mounted dust cover held in place by the rear of the recoil spring assembly. Earning respect in the Zone for its lethality, it is intended for engaging targets at short range (50 meters or less) or in confined spaces.\n \n   
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Muzzle break\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This version was a direct request of the merceneries.\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74m_beard">
+		<text>AK-74M "Beard"</text>
+	</string>
+	<string id="st_wpn_ak74m_beard_descr">
+		<text>In 1991, the Izhmash factory began production of an improved AK-74 - the AK-74M assault rifle. Apart from several minor production improvements, the rifle also features a new foldable synthetic stock made from a black, glass-filled polyamide. The AK-74M also uses a reinforced muzzle device and dust cover. Each AK-74M is fitted with a side-rail bracket for mounting optics. The AK-74M has been accepted as the new service rifle of the Russian Federation.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This variant, also known as "Beard's venom" (not to be confused with his tea) is a more lightweight version, tailored for the harsh conditions of the Zone. For the purposes of saving weight, however, there is no support for mounting a grenade launcher.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ak105_sp">
+		<text>AK-105 "Specialist"</text>
+	</string>
+	<string id="st_wpn_ak105_sp_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle and is currently supplementing AKS-74U carbines in the Russian Army service. Ideal for CQC, it is not intended for long range combat. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter and more durable.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This version was the merceneries' weapon of choice for a long time. It is a very balanced weapon with low recoil, good accuracy and high wear resistance.\n
+		</text>
+	</string>
+
+		<string id="st_wpn_akm_isg">
+		<text>RD-47</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>A custom model, developed on the basis of the AKM by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Compensator\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+	
+		<string id="st_wpn_ak74u_isg">
+		<text>RD-74U</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text>A custom model, developed on the basis of the AKSU by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n
+		</text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>RD-74U Tactic</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>A custom model, developed on the basis of the RD-74U by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model is chambered in 5.45x39mm.\n
+		</text>
+	</string>
+
+		<string id="st_wpn_ak74_isg">
+		<text>RD-74M</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>A custom model, developed on the basis of the AK-74M by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+		<string id="st_wpn_vintorez_isg">
+		<text>RD-9x39</text>
+	</string>
+	<string id="st_wpn_vintorez_isg_descr">
+		<text>A custom model, developed on the basis of the VSS Vintorez. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model comes with a special mechanism that allows for two round bursts.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_sks_tac">
+		<text>SKS Tactical</text>
+	</string>
+	<string id="st_wpn_sks_tac_descr">
+		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Swiss Arms AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1945\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This variant comes with a lighter trigger for significantly increased rate of fire.\n
+		</text>
+	</string>
+
+		<string id="st_wpn_sks_molot">
+		<text>SKS Molot</text>
+	</string>
+	<string id="st_wpn_sks_molot_descr">
+		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Swiss Arms AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1945\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]Designed for loading 7.62x39.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ks23">
+		<text>KS-23</text>
+	</string>
+	<string id="st_wpn_ks23_descr">
+		<text>The KS-23 is a Soviet shotgun, although because it uses a rifled barrel, it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, "Special Carbine", and was designed in the 1970s for suppressing prison riots. It is renowned for its large caliber, firing 23mm rounds.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1971\n
+		%c[d_orange] • %c[ui_gray_2]The barrel may be reduced from 700mm to 510mm to decrease weight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ks23_kaban">
+		<text>KS-23M Drozd</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_descr">
+		<text>The KS-23M Drozd (Carbine, Special, 23mm, modernized) was developed on the base of the KS-23. Development for it was started in October of 1990. Twenty-five carbines were submitted for testing on December of 1991, after which the winner became the KS-23M Drozd (aka "Thrush") and was accepted for use by the police and the Internal Troops of Russia. The KS-23M includes a detachable wire buttstock and shortened barrel, as opposed to the fixed wooden stock on the standard KS-23.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1971\n
+		</text>
+	</string>	
+
+		<string id="st_tomahawk">
+		<text>Gerber Downrange Tomahawk</text>
+	</string>
+	<string id="st_tomahawk_descr">
+		<text>Tactical tomahawk, multitool and breaching tool, all-in-one solution.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2]melee weapon\n
+		%c[pda_green] • %c[ui_gray_2]cut thick skin?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+		<string id="st_wpn_dvl10_m1">
+		<text>DVL-10 Saboteur</text>
+	</string>
+	<string id="st_wpn_dvl10_m1_descr">
+		<text>The DVL-10 is a lightweight, compact and suppressed rifle in proprietary and current Russian military subsonic calibers. It has been developed for special service and combat missions where exceptional accuracy and range are needed.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Lobaev Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		</text>
+	</string>	
+	
+		<string id="st_wpn_dvl10">
+		<text>DVL-10 Urbana</text>
+	</string>
+	<string id="st_wpn_dvl10_descr">
+		<text>The DVL-10 is a lightweight and compact sniper rifle in proprietary and current Russian military subsonic calibers. It has been developed for special service and combat missions where exceptional accuracy and range are needed.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Lobaev Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n
+		</text>
+	</string>	
+
+		<string id="st_wpn_saiga12s_isg">
+		<text>Kalashnikov USA Saiga-12 ISG</text>
+	</string>
+	<string id="st_wpn_saiga12s_isg_descr">
+		<text>A model developed by Kalashnikov USA on the basis of the Komrad 12 semi-automatic rifle for hunting and protecting members of the ISG research teams from mutants. The weapon has both a dovetail mount and a Picatinny bar for use with various types of sights. This model has a new type of trigger mechanism which allows for two round bursts.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+		<string id="st_wpn_ak74_pmc">
+		<text>AK-74 PMC</text>
+	</string>
+	<string id="st_wpn_ak74_pmc_descr">
+		<text>A modification of the Kalashnikov assault rifle, developed in 1970 for the 5.45x39 cartridge. It differs from the standard version by means of an installed body kit which includes a tactical grip, a forend with Picatinny rails and a folding telescopic buttstock which significantly improves the ergonomics of the gun. The kit also includes a laser targeting device, a tactical flashlight and an adapter mount for sighting devices. In the Zone, similar models are usually used by mercenaries, Ukrainian special forces, various PMCs and other power structures for conducting special operations.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1974\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+		<string id="st_wpn_svds_pmc">
+		<text>SVDS PMC</text>
+	</string>
+	<string id="st_wpn_svds_pmc_descr">
+		<text>Dragunov sniper rifle with a folding stock - an SVDS variant. Especially designed for Russian paratroopers and special forces units. In the Zone, similar models are usually used by mercenaries, Ukrainian special forces, various PMCs and other power structures for conducting special operations.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1978\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_val_tac">
+		<text>AS Val</text>
+	</string>
+	<string id="st_wpn_val_tac_descr">
+		<text>The AS Val is widely used by Russian Army recon units as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but no provision for mounting a bayonet or a grenade launcher. The integral suppressor can be easily detached for maintenance, repair, or compact storage but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1987\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vintorez_n1">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="st_wpn_vintorez_n1_descr">
+		<text>The VSS Vintorez was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm round. The effective range of the VSS is limited to 300-400 meters. Standard sighting equipment consists of a side rail on the receiver which usually accommodates the 4x PSO-1M2-01 scope. Any other scope or night vision sight can be mounted on the appropriate mount.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1987\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_ak74u_n1">
+		<text>AKS-74U</text>
+	</string>
+	<string id="st_wpn_ak74u_n1_descr">
+		<text>The AKS-74U was intended for use mainly by Spetsnaz units, airborne infantry, rear-echelon support units and armoured vehicle crews, who require a compact but relatively powerful individual automatic weapon. The AKS-74U is significantly more maneuverable in tight quarters than the AKS-74, but a significant decline in muzzle velocity resulted in a decrease in effective range.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1982\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u_tac">
+		<text>AKS-74U Tactical</text>
+	</string>
+	<string id="st_wpn_ak74u_tac_descr">
+		<text>The AKS-74U was intended for use mainly by Spetsnaz units, airborne infantry, rear-echelon support units and armoured vehicle crews, who require a compact but relatively powerful individual automatic weapon. The AKS-74U is significantly more maneuverable in tight quarters than the AKS-74, but a significant decline in muzzle velocity resulted in a decrease in effective range.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1982\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m4_tac">
+		<text>M4A1 Tactical</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>The M4A1 is a fully automatic variant of the M4 carbine – a shorter and lighter variant of the M16. It went into service in 1994 to replace the M16 in certain roles. The M4A1 trigger group operates on either safe, semi-automatic, or fully automatic settings. Cartridges are the 5.56x45mm (.223) NATO cartridge that is magazine fed. Firing is achieved via a direct impingement gas operating system. It is primarily used by special operations.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms Company\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1991\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_m4_butcher">
+		<text>M4A1 "Butcher"</text>
+	</string>
+	<string id="st_wpn_m4_butcher_descr">
+		<text>The M4A1 is a fully automatic variant of the M4 carbine – a shorter and lighter variant of the M16. It went into service in 1994 to replace the M16 in certain roles. The M4A1 trigger group operates on either safe, semi-automatic, or fully automatic settings. Cartridges are the 5.56x45mm (.223) NATO cartridge that is magazine fed. Firing is achieved via a direct impingement gas operating system. It is primarily used by special operations.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms Company\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1991\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+    <string id="st_wpn_mp153_m1">
+        <text>MP-153 "Carabinier"</text>
+    </string>
+    <string id="st_wpn_mp153_m1_descr">
+		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin and is widely used to hunt various game in Russia. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmekh Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Muzzle break\n
+		</text>
+    </string>
+
+    <string id="st_wpn_fal_sa58_osw">
+		<text>SA-58 OSW</text>
+    </string>
+    <string id="st_wpn_fal_sa58_osw_descr">
+		<text>SA-58 OSW (Operations Specialist Weapon) manufactured by American company DSA (David Selvaggio Arms) is a legal copy of the FAL. It is made with the same Steyr-Daimler-Puch production line equipment as the StG-58. It may come with a different barrel length, an aluminum-alloy lower receiver and improved Glass-filled Nylon furniture. Civilian models are semi-automatic, but military and Law Enforcement clients can procure select-fire models that have a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]David Selvaggio Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2013\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+    </string>
+	
+    <string id="st_wpn_toz106_m1">
+        <text>TOZ-106</text>
+    </string>
+    <string id="st_wpn_toz106_m1_descr">
+		<text>Single-barreled, 20 gauge hunting shotgun with sliding breech bolt. Widely known by its vernacular name, the Death of the Chairman for its compact size.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1993\n
+		</text>
+    </string>
+
+    <string id="st_wpn_toz106">
+        <text>TOZ-106</text>
+    </string>
+    <string id="st_wpn_toz106_descr">
+		<text>Single-barreled, 20 gauge hunting shotgun with sliding breech bolt. Widely known by its vernacular name, the Death of the Chairman, for its compact size.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tulsky Oruzheiny Zavod\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1993\n
+		</text>
+    </string>
+
+    <string id="st_wpn_fal_aus">
+        <text>SA-58 AUS</text>
+    </string>
+    <string id="st_wpn_fal_aus_descr">
+		<text>SA-58 manufactured by American company DSA (David Selvaggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This model comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model used by military and Law Enforcement and can run a fully automatic  cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]David Selvaggio Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2013\n
+		</text>
+    </string>	
+
+		<string id="st_wpn_glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>The GLOCK 17 is trusted by law enforcement officers and military personnel around the globe because of its unsurpassed reliability, optimal magazine capacity of 17 rounds in the standard magazine and its low weight. It is a polymer-framed, short recoil-operated, locked-breech semi-automatic pistol designed and produced by Austrian manufacturer Glock Ges.m.b.H.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Glock Ges.m.b.H.\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1984\n
+		</text>
+	</string>
+
+		<string id="st_wpn_glock17_m1">
+		<text>Glock 17 Tactical</text>
+	</string>
+	<string id="st_wpn_glock17_m1_descr">
+		<text>The GLOCK 17 is trusted by law enforcement officers and military personnel around the globe because of its unsurpassed reliability, optimal magazine capacity of 17 rounds in the standard magazine and its low weight. It is a polymer-framed, short recoil-operated, locked-breech semi-automatic pistol designed and produced by Austrian manufacturer Glock Ges.m.b.H.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Glock Ges.m.b.H.\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1984\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_pm_bas_actor">
+		<text>Makarov PM "Mythic"</text>
+	</string>
+	<string id="st_wpn_pm_bas_actor_descr">
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and easy to maintain in working order. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy and reasonable stopping power. Unfortunately, it loses out to modern pistols in its class in terms of weight and magazine size and general performance.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhevsk Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1951\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]Some claim it was a limited series manufactured in Bulgaria while some are even prone to think of it as a handcrafted upgrade. How it ended up in the Zone, no living soul can tell.\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_pm_bas_custom">
+		<text>Makarov PM</text>
+	</string>
+	<string id="st_wpn_pm_bas_custom_descr">
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and easy to maintain in working order. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy and reasonable stopping power. Unfortunately, it loses out to modern pistols in its class in terms of weight and magazine size and general performance.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhevsk Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1951\n
+		</text>
+	</string>
+		
+	<string id="st_wpn_pm_bas">
+	      <text>Makarov PM</text>
+	</string>
+	<string id="st_wpn_pm_bas_descr">
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and easy to maintain in working order. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy and reasonable stopping power. Unfortunately, it loses out to modern pistols in its class in terms of weight and magazine size and general performance.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhevsk Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1949\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pmm_bas">
+		<text>Makarov PMM</text>
+	</string>
+	<string id="st_wpn_pmm_bas_descr">
+		<text>The Makarov PMM is a redesign of the original Makarov PM. In 1990 a group of engineers reworked the original Makarov, primarily by increasing the load for the cartridge. The result is 25% more gas pressure increasing muzzle velocity. The PMM magazine also holds 12 rounds, compared to the PM's 8.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhevsk Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1990\n
+		</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_aus_tri">
+		<text>SA-58 AUS "Scout"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_aus_tri_descr">
+		<text>The SA-58 manufactured by the American company DSA (David Selvaggio Arms) is a legal copy of the FAL. It is made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This model comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model is used by military and Law Enforcement and can run a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Lobaev Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_sa5x_spec">
+		<text>SA-58 AUS "Defender"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_sa5x_spec_descr">
+		<text>The SA-58 manufactured by the American company DSA (David Selvaggio Arms) is a legal copy of the FAL. It is made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This model comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model is used by military and Law Enforcement and can run a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Lobaev Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_fal_leup">
+		<text>SA-58 AUS "Marauder"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
+		<text>The SA-58 manufactured by the American company DSA (David Selvaggio Arms) is a legal copy of the FAL. It is made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This model comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model is used by military and Law Enforcement and can run a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Lobaev Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2010\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak12">
+		<text>AK-12</text>
+	</string>
+	<string id="st_wpn_ak12_descr">
+		<text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional a "Kalashnikov type" action with a long stroke gas piston and rotary bolt lock. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2012\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak104_alfa">
+    	<text>AK-104 "Alpha"</text>
+  	</string>
+  	<string id="st_wpn_ak104_alfa_descr">
+		<text>The AK-104 is a 7.62x39mm carbine version of the AK-103 rifle. It features a shortened barrel that makes it a middle ground between a full rifle and the more compact AKS-74U. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter and more durable.\n \n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2001\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+  	</string>
+
+	<string id="st_wpn_ak74_n">
+		<text>AK-74</text>
+	</string>
+    <string id="st_wpn_ak74_n_descr">
+		<text>The AK-74 is a 5.45x45mm assault rifle developed in the early 1970s by Mikhail Kalashnikov to replace the earlier AKM. It was introduced in 1974 and first saw service with Soviet forces engaged in the Afghanistan Conflict. The AKM rifle was adapted to fire smaller 5.45x45mm cartridge and fitted with a large muzzle brake.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1974\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svd_m1">
+		<text>SVD</text>
+	</string>
+	<string id="st_wpn_svd_m1_descr">
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and providing semi-automatic fire, its precision is good but not exceptional when compared to modern snipers. It has an effective range of up to 800 meters.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1963\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svds">
+		<text>SVDS</text>
+	</string>
+	<string id="st_wpn_svds_descr">
+		<text>The SVDS sniper rifle was specially designed for Russian paratroopers and special forces units. It features a tubular metal stock that folds to the right side of the receiver (equipped with a synthetic shoulder pad and a fixed cheek riser) and a synthetic pistol grip. The barrel was also given a heavier profile, the receiver housing was strengthened, the gas cylinder block was improved and a ported, shorter conical flash suppressor was adopted. It is chambered in 7.62x54R ammo.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1963\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74m_n">
+		<text>AK-74M</text>
+	</string>
+    <string id="st_wpn_ak74m_n_descr">
+		<text>In 1991, the Izhmash factory began production of an improved AK-74 - the AK-74M assault rifle. Apart from several minor production improvements, the rifle also features a new foldable synthetic stock made from a black, glass-filled polyamide. The AK-74M also uses a reinforced muzzle device and dust cover. Each AK-74M is fitted with a side-rail bracket for mounting optics. The AK-74M has been accepted as the new service rifle of the Russian Federation.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1991\n
+		</text>
+	</string>
+
+	<string id="st_wpn_colt1911_n">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_n_descr">
+		<text>The M1911 was the standard-issue side arm of the US military from 1911 to 1985. An extremely reliable and robust weapon, its been adopted for military, police and civilian use around the world and remains a very popular firearm to this day.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Colt Manufacturing Company\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1911\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig226">
+		<text>SIG P226R</text>
+	</string>
+	<string id="st_wpn_sig226_descr">
+		<text>The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer and is a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, it features a Picatinny rail mount on the underside of the frame.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig220_n">
+		<text>SIG P220</text>
+	</string>
+	<string id="st_wpn_sig220_n_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 caliber double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organizations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]West Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1975\n
+		</text>
+	</string>
+
+	<string id="st_wpn_walther_p99">
+		<text>Walther P99</text>
+	</string>
+	<string id="st_wpn_walther_p99_descr">
+		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it is employed by police units in a number of countries.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Carl Walther GmbH Sportwaffen\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig226_226sig_kit">
+		<text>SIG P226R</text>
+	</string>
+	<string id="st_wpn_sig226_226sig_kit_descr">
+		<text>The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer and is a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, it features a Picatinny rail mount on the underside of the frame.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig220_n_upg220">
+		<text>SIG P220</text>
+	</string>
+	<string id="st_wpn_sig220_n_upg220_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 caliber double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organizations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]West Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1975\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+	<string id="st_wpn_walther_p99_mod9">
+		<text>Walther P99</text>
+	</string>
+	<string id="st_wpn_walther_p99_mod9_descr">
+		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it is employed by police units in a number of countries.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Carl Walther GmbH Sportwaffen\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rpk74_16">
+		<text>RPK-16 LMG</text>
+	</string>
+	<string id="st_wpn_rpk74_16_descr">
+		<text> The RPK-16 light machine gun was designed as a private venture by Kalashnikov Concern and is based on the AK-12 assault rifle. It is being proposed as a replacement for the venerable RPK-74 light machine gun. The RPK-16 was intended for the Russian Army and special forces. In 2018 a procurement contract was signed, however it seems that this machine gun was produced only in small numbers. It has a Picatinny-type scope rail for mounting various sights and its iron sights have a sighting range of 800m. It can also mount a sound suppressor.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode\n
+		</text>
+	</string>
+
+	<string id="st_wpn_fn57">
+		<text>FN Five-seveN</text>
+	</string>
+	<string id="st_wpn_fn57_descr">
+		<text>The Five-seveN is a delayed blowback operated, semi-automatic firearm. The Five-seveN pistol was designed by FN Herstal as a complimentary sidearm for the P90 submachine gun. The P90 and Five-seveN share the same ammunition, the 5.7x28mm SS190 cartridge. The idea behind the ammunition and weapon is to provide good penetration against targets protected by body armor, while keeping the weapon's weight, dimensions and recoil at reasonable levels.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1998\n
+		</text>
+	</string>
+-->
+	<string id="st_wpn_abakan_n">
+		<text>AN-94</text>
+	</string>
+	<string id="st_wpn_abakan_n_descr">
+		<text>The AN-94 was designed as a potential replacement to the AK-74 series of rifles currently in service with the Russian Armed Forces. Due to its complex design and expense, it failed to fill its intended role as a replacement for the AK-74, but it is in limited use as a special purpose weapon. The AN-94 has the unique feature of delaying recoil felt for the first two rounds. The AN-94 offers a unique two-shot burst function at a stated 1800 rounds per minute and, it is claimed, increases hit probability under the most adverse combat conditions.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ks23_kaban_kab_up">
+		<text>KS-23M "Boar"</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_kab_up_descr">
+		<text>The KS-23 is a Soviet shotgun, although because it uses a rifled barrel, it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, "Special Carbine". The KS-23M includes a detachable wire buttstock and shortened barrel as opposed to the fixed wooden stock on standard KS-23s.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1990\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'Boar' tactical kit\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ks23_23_up">
+		<text>KS-23 (Short Barrel)</text>
+	</string>
+	<string id="st_wpn_ks23_23_up_descr">
+		<text>The KS-23 is a Soviet shotgun, although because it uses a rifled barrel, it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, "Special Carbine", and was designed in the 1970s for suppressing prison riots. It is renowned for its large caliber, firing 23mm rounds.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1971\n
+		</text>
+	</string>
+
+	<string id="st_wpn_remington700">
+		<text>Remington 700</text>
+	</string>
+	<string id="st_wpn_remington700_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. It is a development of the Remington 721 and 722 series of rifles, which were introduced in 1948.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1962\n
+		</text>
+	</string>
+	
+		<string id="st_wpn_remington700_archangel">
+		<text>Remington 700 "Archangel"</text>
+	</string>
+	<string id="st_wpn_remington700_archangel_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. It is a development of the Remington 721 and 722 series of rifles, which were introduced in 1948.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1962\n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'Promag Archangel polymer stock' kit\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+		<string id="st_wpn_remington700_magpul_pro">
+		<text>Remington 700 Magpul PRO</text>
+	</string>
+	<string id="st_wpn_remington700_magpul_pro_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. It is a development of the Remington 721 and 722 series of rifles, which were introduced in 1948.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1962\n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'Magpul PRO 700 chassis' kit\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+		<string id="st_wpn_remington700_mod_x_gen3">
+		<text>Remington 700 Modular Rifle System</text>
+	</string>
+	<string id="st_wpn_remington700_mod_x_gen3_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. It is a development of the Remington 721 and 722 series of rifles, which were introduced in 1948.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1962\n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'MOD X Gen.3 chassis' kit\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+
+		<string id="st_wpn_sr1m">
+		<text>Serdyukov SR1MP Gyurza</text>
+	</string>
+	<string id="st_wpn_sr1m_descr">
+		<text>Chambered in 9x21mm, the Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”), GRAU Index 6P53. It was designed for Russian Federation special forces purposes by P. Serdyukov and I. Belyaev for the 9x21mm cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsNIITochMash Institute\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2003\n
+		</text>
+	</string>
+	
+		<string id="st_wpn_sr1m_sr1upgr1">
+		<text>Serdyukov SR1MP Gyurza</text>
+	</string>
+	<string id="st_wpn_sr1m_sr1upgr1_descr">
+		<text>Chambered in 9x21mm, the Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”), GRAU Index 6P53. It was designed for Russian Federation special forces purposes by P. Serdyukov and I. Belyaev for the 9x21mm cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsNIITochMash Institute\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2003\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]Tactical kit\n 
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_k98_mod">
+		<text>Mauser 98k</text>
+	</string>
+	<string id="st_wpn_k98_mod_descr">
+		<text>A directly-modified version of the WWII German sniper rifle Mauser Karabiner 98k. The wooden stock was replaced with a more ergonomic polymer one. The rifle is equipped with an excellent sniper scope manufactured by MARCH, Japan.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Nazi Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Mauser\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1935\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_k98_mod_silen98">
+		<text>Mauser 98k</text>
+	</string>
+	<string id="st_wpn_k98_mod_silen98_descr">
+		<text>A directly-modified version of the WWII German sniper rifle Mauser Karabiner 98k. The wooden stock was replaced with a more ergonomic polymer one. The rifle is equipped with an excellent sniper scope manufactured by MARCH, Japan.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Nazi Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Mauser\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1935\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ks23_ecolog">
+		<text>KS-23 Ecolog</text>
+	</string>
+	<string id="st_wpn_ks23_ecolog_descr">
+		<text>The KS-23 is a Soviet shotgun, although because it uses a rifled barrel, it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, "Special Carbine", and was designed in the 1970s for suppressing prison riots. It is renowned for its large caliber, firing 23mm rounds.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1971\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This variant was developed for the needs of the scientific staff located in the Zone.\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak105">
+		<text>AK-105</text>
+	</string>
+	<string id="st_wpn_ak105_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle and is currently supplementing AKS-74U carbines in the Russian Army service. Ideal for CQC, it is not intended for long range combat. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter and more durable.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2001\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak105_swamp">
+		<text>AK-105 "Swamp Thing"</text>
+	</string>
+	<string id="st_wpn_ak105_swamp_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle and is currently supplementing AKS-74U carbines in the Russian Army service. Ideal for CQC, it is not intended for long range combat. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter and more durable.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2001\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'Swamp Thing' tactical kit\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]A rare variant of the AK-105, mainly found among the veterans of the Clear Sky faction. Due to the presence of multiple installed sighting devices, it is ideal for combat both at close and medium-long distances.\n
+		</text>
+	</string>
+
+		<string id="st_wpn_remington700_lapua700">
+		<text>M700 "Deer Hunter"</text>
+	</string>
+	<string id="st_wpn_remington700_lapua700_descr">
+		<text>For over 50 years, more Model 700s have been sold than any other bolt-action rifle before or since. The legendary strength of its 3-rings-of-steel receiver paired with a hammer-forged barrel, combine to yield the most popular bolt-action rifle in history. It is a top choice of elite military snipers, the Model 700 is unequalled in tactical precision.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Remington Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1962\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'The Deer Hunter .338' kit\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This is a modification of the Remington Model 700 chambered in .338 for precise shooting at very long distances\n
+		</text>
+	</string>
+
+		<string id="st_wpn_pl15">
+		<text>Lebedev PL-15</text>
+	</string>
+	<string id="st_wpn_pl15_descr">
+		<text>The Lebedev pistol is a Russian semi-automatic pistol, which was produced under Kalashnikov Concern and designed by Dmitry Lebedev. The PL-15 is a 9mm short recoil-operated, locked-breech handgun that uses a modified Browning cam-lock system adapted from the Hi-Power pistol. Ergonomics have been the key priority in the design of the Lebedev PL-15. Both the safety catch and magazine releases are ambidextrous. Because this is a pistol for police and military use, it is intended to have a trigger pull that provides a margin of safety against accidental discharge in crisis situations and in the event the pistol is dropped with the safety catch off. Also, it has a Picatinny rail under the frame and can have the barrel extended and threaded for a sound suppressor.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2014\n
+		</text>
+	</string>
+
+		<string id="st_wpn_pl15_pl15_scolaz">
+		<text>Lebedev PL-15 Tactical</text>
+	</string>
+	<string id="st_wpn_pl15_pl15_scolaz_descr">
+		<text>The Lebedev pistol is a Russian semi-automatic pistol, which was produced under Kalashnikov Concern and designed by Dmitry Lebedev. The PL-15 is a 9mm short recoil-operated, locked-breech handgun that uses a modified Browning cam-lock system adapted from the Hi-Power pistol. Ergonomics have been the key priority in the design of the Lebedev PL-15. Both the safety catch and magazine releases are ambidextrous. Because this is a pistol for police and military use, it is intended to have a trigger pull that provides a margin of safety against accidental discharge in crisis situations and in the event the pistol is dropped with the safety catch off. Also, it has a Picatinny rail under the frame and can have the barrel extended and threaded for a sound suppressor.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2014\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak105_shakal">
+		<text>AK-105 "Shakal"</text>
+	</string>
+	<string id="st_wpn_ak105_shakal_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle and is currently supplementing AKS-74U carbines in the Russian Army service. Ideal for CQC, it is not intended for long range combat. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter and more durable.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmash\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2001\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_orange] • %c[0,255,255,255]'Shakal' tactical kit\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This is a rare variant of the AK-105, mainly found among the veterans of the Duty faction. Due to the presence of multiple installed sighting devices, it is ideal for combat both at close and medium-long distances.\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig220_n_u2p2g0r">
+		<text>SIG P220 Custom Nine</text>
+	</string>
+	<string id="st_wpn_sig220_n_u2p2g0r_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 caliber double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organizations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]West Germany, Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1975\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model has had various aftermarket modifications to the weapon to allow it perform better than an off-the-shelf P220.\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aps_bas">
+		<text>APS</text>
+	</string>
+	<string id="st_wpn_aps_bas_descr">
+		<text>The Stechkin APS is a Russian selective fire machine pistol, bearing the name of its designer Igor Stechkin. The Stechkin automatic pistol was originally chambered for 7.62x25mm Tokarev but was changed to the 9x18mm diameter used in the new Makarov pistol, as it became clear that this cartridge was set to become the new service ammunition for handguns in the Soviet Army. In 1951, both the Makarov and Stechkin were introduced into the Soviet military arsenal, replacing the ageing TT-33.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1970s\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aps_bas_apsabigo">
+		<text>APS</text>
+	</string>
+	<string id="st_wpn_aps_bas_apsabigo_descr">
+		<text>The Stechkin APS is a Russian selective fire machine pistol, bearing the name of its designer Igor Stechkin. The Stechkin automatic pistol was originally chambered for 7.62x25mm Tokarev but was changed to the 9x18mm diameter used in the new Makarov pistol, as it became clear that this cartridge was set to become the new service ammunition for handguns in the Soviet Army. In 1951, both the Makarov and Stechkin were introduced into the Soviet military arsenal, replacing the ageing TT-33.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1970s\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp133_bas">
+		<text>MP-133</text>
+	</string>
+	<string id="st_wpn_mp133_bas_descr">
+		<text>The MP-133 is a product of the Izhevsk Mechanical Plant. This shotgun is an evolution of the earlier IZh-81 pump action shotgun and is intended for civilian and security markets. The MP-133 shotgun uses traditional pump action with a sliding forend that has dual action bars. Locking is achieved by a tilting locking piece, installed in the bolt and engages the notch in the barrel extension when in battery. Feed is from a tubular underbarrel magazine that holds 4 rounds, though capacity can be enhanced by installing magazine extension tubes.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmekh Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp153_bas">
+		<text>MP-153</text>
+	</string>
+	<string id="st_wpn_mp153_bas_descr">
+		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin and is widely used to hunt various game in Russia. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Izhmekh Mechanical Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n
+		</text>
+	</string>
+
+	<string id="st_wpn_gauss_bas">
+		<text>Gauss Rifle</text>
+	</string>
+	<string id="st_wpn_gauss_bas_descr">
+		<text>A highly experimental, extremely accurate, artefact-powered weapon made by an unknown party in the Zone. Instead of gunpowder, the gauss rifle utilizes electromagnetic forces to launch projectiles at incredible speeds similar to a railgun. Proportionate to its tremendous firepower, the recoil is surprisingly insignificant. Among other weapons of its class, its accuracy and firepower is unmatched.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Unknown\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]Unknown\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel_bas">
+		<text>Unidentified Weapon</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_bas_descr">
+		<text>An unknown weapon. The weapon appears faulty - squeezing the trigger doesn't do anything. It's very heavy and definitely high-tech. It appears not to fire bullets based on ignition. The rounds are most likely propelled by electro-magnetic forces. One can only suspect what kind of destructive potential it possesses.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Unknown\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Unknown\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]Unknown\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pb_bas">
+		<text>PB</text>
+	</string>
+	<string id="st_wpn_pb_bas_descr">
+		<text>The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as the 6P9, was developed in 1967 for Spetsnaz units of the Soviet Army as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features a unique integral two part suppressor. It was intended for use by the KGB and army reconnaissance groups. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1967\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pb_bas_custom">
+		<text>PB</text>
+	</string>
+	<string id="st_wpn_pb_bas_custom_descr">
+		<text>The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as the 6P9, was developed in 1967 for Spetsnaz units of the Soviet Army as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features a unique integral two part suppressor. It was intended for use by the KGB and army reconnaissance groups. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1967\n
+		</text>
+	</string>
+
+	<string id="st_wpn_akm_alfa">
+    	<text>CAA AK-Alfa</text>
+  	</string>
+  	<string id="st_wpn_akm_alfa_descr">
+		<text>Developed in Israel by Command Arms &amp; Accessories (CAA), the AK-Alfa assault rifle was first presented to the public in 2016. This weapon is marketed under two brands - "Kalashnikov USA" and "Kalashnikov Israel". Apparently, this weapon made its way into the Zone with the ISG faction. The AK-Alpha assault rifle is an attempt to improve the ergonomics of the AK rifle while maintaining its main advantages - high reliability and ease of maintenance. The base for the AK-Alpha is the Russian-made Saiga carbine. Specifically, the receiver, barrel with gas tube, bolt group and main components of the trigger.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Israel\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov USA, Kalashnikov Israel\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n
+		</text>
+  	</string>
+
+	<string id="st_wpn_sr2_veresk">
+    	<text>SR-2M Veresk</text>
+  	</string>
+  	<string id="st_wpn_sr2_veresk_descr">
+		<text>The SR-2 "Veresk" is a Russian submachine gun manufactured by TsNIITOCHMASH in Klimovsk. "Veresk" and its round were created as a compact weapon capable of engaging enemies wearing Russian class-II body armor (able to stop ordinary pistol bullets, such as 9x19mm Parabellum and 7.62x25mm Tokarev) and soft-skinned vehicles at distances up to 200 meters. The SR-2M is a modified version that also has a forward pistol grip under the handguard with a protrusion to protect the shooter's hand from muzzle blast and accidents. Its stock can be fully folded, even with sights installed.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsNIITOCHMASH\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1999\n
+		</text>
+  	</string>
+
+	<string id="st_wpn_sr2_veresk_sr2_upkit">
+    	<text>SR-2M Veresk</text>
+  	</string>
+  	<string id="st_wpn_sr2_veresk_sr2_upkit_descr">
+		<text>The SR-2 "Veresk" is a Russian submachine gun manufactured by TsNIITOCHMASH in Klimovsk. "Veresk" and its round were created as a compact weapon capable of engaging enemies wearing Russian class-II body armor (able to stop ordinary pistol bullets, such as 9x19mm Parabellum and 7.62x25mm Tokarev) and soft-skinned vehicles at distances up to 200 meters. The SR-2M is a modified version that also has a forward pistol grip under the handguard with a protrusion to protect the shooter's hand from muzzle blast and accidents. Its stock can be fully folded, even with sights installed.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsNIITOCHMASH\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1999\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+        %c[d_orange] • %c[0,255,255,255]Tactical kit\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Suppressor\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+  	</string>	
+
+	<string id="st_wpn_sr2_m1">
+    	<text>SR-2M Veresk</text>
+  	</string>
+  	<string id="st_wpn_sr2_m1_descr">
+		<text>The SR-2 "Veresk" is a Russian submachine gun manufactured by TsNIITOCHMASH in Klimovsk. "Veresk" and its round were created as a compact weapon capable of engaging enemies wearing Russian class-II body armor (able to stop ordinary pistol bullets, such as 9x19mm Parabellum and 7.62x25mm Tokarev) and soft-skinned vehicles at distances up to 200 meters. The SR-2M is a modified version that also has a forward pistol grip under the handguard with a protrusion to protect the shooter's hand from muzzle blast and accidents. Its stock can be fully folded, even with sights installed.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsNIITOCHMASH\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1999\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+  	</string>
+
+	<string id="st_wpn_aug_a1_bas">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="st_wpn_aug_a1_bas_descr">
+		<text>Steyr AUG A1 in standard rifle configuration (military green). The AUG is an Austrian 5.56mm bullpup assault rifle. The AUG (Armee-Universal-Gewehr "universal army rifle") was adopted by the Austrian Army as the StG 77 (Sturmgewehr 77) in 1978, where it replaced the 7.62mm StG 58 automatic rifle (a licence-built FN FAL). In production since 1978, it is the standard small arm of the Austrian Bundesheer and various national police units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1977\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_aug_a3_bas">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="st_wpn_aug_a3_bas_descr">
+		<text>The Steyr AUG is an Austrian 5.56x45mm NATO bullpup assault rifle. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats. The top is used for attaching sights, while a grenade launcher or a vertical front handle can be attached to the bottom. A laser pointer or other necessary additional equipment may be attached to the side.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2014\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_aug_a1_custom_bas">
+		<text>Steyr AUG A1 CQB</text>
+	</string>
+	<string id="st_wpn_aug_a1_custom_bas_descr">
+		<text>Steyr AUG A1 in standard rifle configuration (military green). The AUG is an Austrian 5.56mm bullpup assault rifle. The AUG (Armee-Universal-Gewehr "universal army rifle") was adopted by the Austrian Army as the StG 77 (Sturmgewehr 77) in 1978, where it replaced the 7.62mm StG 58 automatic rifle (a licence-built FN FAL). In production since 1978, it is the standard small arm of the Austrian Bundesheer and various national police units.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1977\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]The CQB variant has less weight and an increased rate of fire compared to the original.\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_aug_a3_custom_bas">
+		<text>Steyr AUG A3 Commando</text>
+	</string>
+	<string id="st_wpn_aug_a3_custom_bas_descr">
+		<text>The Steyr AUG is an Austrian 5.56x45mm NATO bullpup assault rifle. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats. The top is used for attaching sights, while a grenade launcher or a vertical front handle can be attached to the bottom. A laser pointer or other necessary additional equipment may be attached to the side.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Austria\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Steyr Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2014\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak5c_bas">
+		<text>AK 5C</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_descr">
+		<text>The Ak 5 or Automatkarbin 5 ("automatic carbine 5") is the Swedish version of the FN FNC assault rifle with certain modifications, mostly to adapt the weapon to the partially subarctic Swedish climate. The Ak 5 is the service rifle of the Swedish Armed Forces. The AK 5C is the modernized version of the original AK 5, following the trend of modular weapons. One of the most significant improvements is the MIL-STD-1913 rail system to which a variety of different optics, lights and sights can be mounted, such as telescopic sights and image intensifiers. The double gas position, iron sights and bolt catch of the original AK 5 rifle family were discarded.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Sweden\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Carl Gustafs Stads Gevarsfaktori\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ak5c_bas_5c_tik">
+		<text>AK 5C ISG Special</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_5c_tik_descr">
+		<text>The Ak 5 or Automatkarbin 5 ("automatic carbine 5") is the Swedish version of the FN FNC assault rifle with certain modifications, mostly to adapt the weapon to the partially subarctic Swedish climate. The Ak 5 is the service rifle of the Swedish Armed Forces. The AK 5C is the modernized version of the original AK 5, following the trend of modular weapons. One of the most significant improvements is the MIL-STD-1913 rail system to which a variety of different optics, lights and sights can be mounted, such as telescopic sights and image intensifiers. The double gas position, iron sights and bolt catch of the original AK 5 rifle family were discarded.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Sweden\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Carl Gustafs Stads Gevarsfaktori\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_ak5c_isg">
+		<text>AK 5C ISG</text>
+	</string>
+	<string id="st_wpn_ak5c_isg_descr">
+		<text>The Ak 5 or Automatkarbin 5 ("automatic carbine 5") is the Swedish version of the FN FNC assault rifle with certain modifications, mostly to adapt the weapon to the partially subarctic Swedish climate. The Ak 5 is the service rifle of the Swedish Armed Forces. The AK 5C is the modernized version of the original AK 5, following the trend of modular weapons. One of the most significant improvements is the MIL-STD-1913 rail system to which a variety of different optics, lights and sights can be mounted, such as telescopic sights and image intensifiers. The double gas position, iron sights and bolt catch of the original AK 5 rifle family were discarded.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Sweden\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Carl Gustafs Stads Gevarsfaktori\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m4a1_siber">
+		<text>M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_siber_descr">
+		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Colt's Manufacturing Company, Many others\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1991\n
+		</text>
+	</string>
+
+	<string id="st_wpn_akm_bas">
+		<text>AKM</text>
+	</string>
+	<string id="st_wpn_akm_bas_descr">
+		<text>The AKM is a 7.62x39mm assault rifle designed by Mikhail Kalashnikov. It is an improved version of the AK-47 rifle, developed in the 1950's. Introduced to the Red Army in 1959, the AKM is the most ubiquitous variant of the AK series of firearms and it has found widespread use with the former Warsaw Pact states and its many African and Asian allies. The production of AKM rifles was carried out at the Tula Arsenal and Izhevsk Mechanical Works.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Mikhail Kalashnikov\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1959\n
+		</text>
+	</string>
+
+	<string id="st_wpn_akms_bas">
+		<text>AKMS</text>
+	</string>
+	<string id="st_wpn_akms_bas_descr">
+		<text>The AKM is a 7.62x39mm assault rifle designed by Mikhail Kalashnikov. It is an improved version of the AK-47 rifle, developed in the 1950's. Introduced to the Red Army in 1959, the AKM is the most ubiquitous variant of the AK series of firearms and it has found widespread use with the former Warsaw Pact states and its many African and Asian allies. The production of AKM rifles was carried out at the Tula Arsenal and Izhevsk Mechanical Works. This variant of the AKM is equipped with an under-folding metal shoulder stock in place of the fixed wooden stock. The metal stock of the AKMS is somewhat different from the folding stock of the previous model as it has a modified locking mechanism which locks both support arms of its stock, instead of just one.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Mikhail Kalashnikov\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1959\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sks_b">
+		<text>SKS</text>
+	</string>
+	<string id="st_wpn_sks_b_descr">
+		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Swiss Arms AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1945\n
+		</text>
+	</string>
+
+	<string id="st_wpn_l85_m1">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85_m1_descr">
+		<text>The development of the SA80 system, which included two weapons - the SA80 IW assault rifle and SA80 LSW light machine gun, began in the late 1960s when the British Army decided to develop a new rifle to replace the ageing 7.62x51mm L1 SLR British made FN FAL. The standard individual weapon for the British armed forces, the L85 (in its original A1 version) had numerous performance issues. The improved L85A2 is extremely reliable over a range of climates for various operational scenarios. The current L85A2 rifles are recognized as reliable and accurate, especially when using standard issue SUSAT telescope sights.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United Kingdom\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]RSAF Enfield, Royal Ordnance, Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1985\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_l85_m2">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85_m2_descr">
+		<text>The development of the SA80 system, which included two weapons - the SA80 IW assault rifle and SA80 LSW light machine gun, began in the late 1960s when the British Army decided to develop a new rifle to replace the ageing 7.62x51mm L1 SLR British made FN FAL. The standard individual weapon for the British armed forces, the L85 (in its original A1 version) had numerous performance issues. The improved L85A2 is extremely reliable over a range of climates for various operational scenarios. The current L85A2 rifles are recognized as reliable and accurate, especially when using standard issue SUSAT telescope sights.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United Kingdom\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]RSAF Enfield, Royal Ordnance, Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1985\n
+		</text>
+	</string>
+
+	<string id="st_wpn_l85_m3">
+		<text>L85A2 Tactical</text>
+	</string>
+	<string id="st_wpn_l85_m3_descr">
+		<text>The development of the SA80 system, which included two weapons - the SA80 IW assault rifle and SA80 LSW light machine gun, began in the late 1960s when the British Army decided to develop a new rifle to replace the ageing 7.62x51mm L1 SLR British made FN FAL. The standard individual weapon for the British armed forces, the L85 (in its original A1 version) had numerous performance issues. The improved L85A2 is extremely reliable over a range of climates for various operational scenarios. The current L85A2 rifles are recognized as reliable and accurate, especially when using standard issue SUSAT telescope sights.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United Kingdom\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]RSAF Enfield, Royal Ordnance, Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1985\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n	
+		</text>
+	</string>	
+
+	<string id="st_wpn_scar_siber">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="st_wpn_scar_siber_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_black">
+		<text>FN SCAR-H "Black"</text>
+	</string>
+	<string id="st_wpn_scar_siber_black_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1">
+		<text>FN SCAR-H Tactical</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1_black">
+		<text>FN SCAR-H Tactical Black</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_black_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m2">
+		<text>FN SCAR-H Expert Operator</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_scar_siber_m2_custom">
+		<text>FN SCAR-H Specialist Operator</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_custom_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal, FN America\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+
+	<string id="st_wpn_korth">
+		<text>Korth Custom 4 Inch</text>
+	</string>
+	<string id="st_wpn_korth_descr">
+		<text>Korth is a high-end firearms manufacturer based in Lollar, Hesse, Germany. For some gun aficionados, nothing more needs to be said. Builders in the tradition of ultimate European luxury brands, Korth are perhaps best known for revolvers with price tags that most people would find easier to associate with German cars than German guns. But that out-of-this-world pricing reputation which is the stuff of gun counter lore world wide is derived from their full custom stuff; the entry point is far more accessible. The starting point for a Korth is around the starting point for a Rolex: five thousand dollars will put some of that European goodness in your hands and it will sure be memorable. Korth guns are legendary.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Korth Waffen\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n
+		</text>
+	</string>
+
+	<string id="st_wpn_korth_custom">
+		<text>Korth Custom 6 Inch</text>
+	</string>
+	<string id="st_wpn_korth_custom_descr">
+		<text>Korth is a high-end firearms manufacturer based in Lollar, Hesse, Germany. For some gun aficionados, nothing more needs to be said. Builders in the tradition of ultimate European luxury brands, Korth are perhaps best known for revolvers with price tags that most people would find easier to associate with German cars than German guns. But that out-of-this-world pricing reputation which is the stuff of gun counter lore world wide is derived from their full custom stuff; the entry point is far more accessible. The starting point for a Korth is around the starting point for a Rolex: five thousand dollars will put some of that European goodness in your hands and it will sure be memorable. Korth guns are legendary.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Korth Waffen\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher">
+		<text>GP-25 "Kostyor" Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. Designed to greatly expand fire-power of a basic infantry squad. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1978\n
+		</text>
+	</string>
+	
+	<string id="st_grenade_launcher_m203">
+		<text>M203 Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>A modified M203 grenade launcher whose length has been decreased by three inches, and which can be attached to weapons by means of a Picatinny rail. Thanks to a changed mount, this grenade launcher is widely used around the world and can be installed on most currently produced rifles. Although of more modern design, it has almost the same properties as its Soviet counterpart - the GP-25 grenade launcher.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Colt Defense\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1969\n
+		</text>
+	</string>
+
+	<string id="st_wpn_howa20">
+		<text>Howa Type 20</text>
+	</string>
+	<string id="st_wpn_howa20_descr">
+		<text>Intended to replace the Type 89 assault rifle, which has been in service for about 30 years, this new rifle of the Japanese Self-Defense Forces, like the previous one, was developed by Howa Machinery Co, and uses 5.56mm ammunition. The development of a new rifle to replace the Type 89 began at the request of the Japanese Armed Forces in 2014. Externally and structurally, the new Type 20 rifle is a kind of arithmetic mean of many modern rifles, such as the HK433 or CZ BREN II and does not have any original features. However, there is nothing wrong with this, since it is not the originality of the design that is required from the army weapon, but reliability, low price and compliance with the customer's requirements. It remains a mystery how and in what quantity this rifle came to the participants of a scientific expedition to the Zone.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Japan\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Howa\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2020\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ar15_freedom">
+		<text>AR-15 HERA</text>
+	</string>
+	<string id="st_wpn_ar15_freedom_descr">
+		<text>The original Armalite AR-15 is a scaled-down derivative of Eugene Stoner's AR-10 design. The then Fairchild Engine and Airplane Corporation division ArmaLite sold the patent and trademarks to Colt's Manufacturing Company in 1959. After most of Colt's patents for the Colt AR-15 expired in 1977, many firearm manufacturers began to produce copies of the Colt AR-15 under various names. Despite the patents expiring, Colt retained the trademark of the AR-15 and is the sole manufacturer able to label their firearms as AR-15. Although Colt owns the AR-15 trademark, the "AR" in AR-15 stands for "Armalite Rifle", not "assault rifle". A deeply modernized variant, the AR-15 HERA can be usually found in the hands of veterans from the Freedom faction. The installed upgrade kit allows for confidence of use at any range, but at the same time, the weapon is widely known for its high price due to the very expensive components included in the kit.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Hera Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2019\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[d_blue] • %c[0,255,255,255]Extended magazine\n
+		</text>
+	</string>
+	
+</string_table>

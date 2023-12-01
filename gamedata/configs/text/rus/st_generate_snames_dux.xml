@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="lname_woman_0">
+	<text>Иванова</text>
+	</string>
+	<string id="lname_woman_1">
+		<text>Дубинина</text>
+	</string>
+	<string id="lname_woman_2">
+		<text>Сидорова</text>
+	</string>
+	<string id="lname_woman_3">
+		<text>Змея</text>
+	</string>
+	<string id="lname_woman_4">
+		<text>Гадюка</text>
+	</string>
+	<string id="lname_woman_5">
+		<text>Стрела</text>
+	</string>
+	<string id="lname_woman_6">
+		<text>Молния</text>
+	</string>
+	<string id="lname_woman_7">
+		<text>Амалиева</text>
+	</string>
+	<string id="lname_woman_8">
+		<text>Васильева</text>
+	</string>
+	<string id="lname_woman_9">
+		<text>Потапова</text>
+	</string>
+	<string id="lname_woman_10">
+		<text>Гончая</text>
+	</string>
+	<string id="lname_woman_11">
+		<text>Странная</text>
+	</string>
+	<string id="lname_woman_12">
+		<text>Преследовательница</text>
+	</string>
+	<string id="lname_woman_13">
+		<text>Чумакова</text>
+	</string>
+	<string id="lname_woman_14">
+		<text>Матвеева</text>
+	</string>
+	<string id="lname_woman_15">
+		<text>Чума</text>
+	</string>
+	<string id="lname_woman_16">
+		<text>Жнец</text>
+	</string>
+	<string id="lname_woman_17">
+		<text>Петрова</text>
+	</string>
+	<string id="lname_woman_18">
+		<text>Странная</text>
+	</string>
+	<string id="lname_woman_19">
+		<text>Опытная</text>
+	</string>
+	<string id="lname_woman_20">
+		<text>Козлова</text>
+	</string>
+	<string id="lname_woman_21">
+		<text>Баранова</text>
+	</string>
+	<string id="lname_woman_22">
+		<text>Соболева</text>
+	</string>
+	<string id="lname_woman_23">
+		<text>Умелая</text>
+	</string>
+	<string id="lname_woman_24">
+		<text>Заикина</text>
+	</string>
+	<string id="lname_woman_25">
+		<text>Куликова</text>
+	</string>
+	<string id="lname_woman_26">
+		<text>Деревенская</text>
+	</string>
+	<string id="lname_woman_27">
+		<text>Зорина</text>
+	</string>
+	<string id="lname_woman_28">
+		<text>Савельева</text>
+	</string>
+	<string id="lname_woman_29">
+		<text>Свирепая</text>
+	</string>
+	<string id="lname_woman_30">
+		<text>Симонова</text>
+	</string>
+	<string id="lname_woman_31">
+		<text>Строгая</text>
+	</string>
+	<string id="lname_woman_32">
+		<text>Корнева</text>
+	</string>
+	<string id="lname_woman_33">
+		<text>Алая</text>
+	</string>
+	<string id="lname_woman_34">
+		<text>Ульянова</text>
+	</string>
+	<string id="lname_woman_35">
+		<text>Волчица</text>
+	</string>
+	<string id="lname_woman_36">
+		<text>Сержант</text>
+	</string>
+	<string id="lname_woman_37">
+		<text>Шишкина</text>
+	</string>
+	<string id="lname_woman_38">
+		<text>Лисица</text>
+	</string>
+	<string id="lname_woman_39">
+		<text>Пушистая</text>
+	</string>
+	<string id="lname_woman_40">
+		<text>Воин</text>
+	</string>
+	<string id="lname_woman_41">
+		<text>Варварша</text>
+	</string>
+	<string id="lname_woman_42">
+		<text>Русалка</text>
+	</string>
+	<string id="lname_woman_43">
+		<text>Демидова</text>
+	</string>
+	<string id="lname_woman_44">
+		<text>Кобра</text>
+	</string>
+	<string id="lname_woman_45">
+		<text>Корнеева</text>
+	</string>
+	<string id="lname_woman_46">
+		<text>Сталкерша</text>
+	</string>
+	<string id="lname_woman_47">
+		<text>Странная</text>
+	</string>
+	<string id="lname_woman_48">
+		<text>Овечка</text>
+	</string>
+	<string id="lname_woman_49">
+		<text>Баринова</text>
+	</string>
+	<string id="lname_woman_50">
+		<text>Белкина</text>
+	</string>
+	<string id="lname_woman_51">
+		<text>Булкина</text>
+	</string>
+	<string id="lname_woman_52">
+		<text>Злая</text>
+	</string>
+	<string id="lname_woman_53">
+		<text>Добрая</text>
+	</string>
+	<string id="lname_woman_54">
+		<text>Сахарова</text>
+	</string>
+	<string id="lname_woman_55">
+		<text>Епифанова</text>
+	</string>
+	<string id="lname_woman_56">
+		<text>Потапова</text>
+	</string>
+	<string id="lname_woman_57">
+		<text>Волчица</text>
+	</string>
+	<string id="lname_woman_58">
+		<text>Горничная</text>
+	</string>
+	<string id="lname_woman_59">
+		<text>Змея</text>
+	</string>
+	<string id="lname_woman_60">
+		<text>Березова</text>
+	</string>
+	<string id="lname_woman_61">
+		<text>Плотная</text>
+	</string>
+	<string id="lname_woman_62">
+		<text>Простая</text>
+	</string>
+	<string id="lname_woman_63">
+		<text>Хитрая</text>
+	</string>
+	<string id="lname_woman_64">
+		<text>Атлет</text>
+	</string>
+	<string id="lname_woman_65">
+		<text>Гимнастка</text>
+	</string>
+	<string id="lname_woman_66">
+		<text>Прокофьева</text>
+	</string>
+	<string id="lname_woman_67">
+		<text>Грушина</text>
+	</string>
+	<string id="lname_woman_68">
+		<text>Грубая</text>
+	</string>
+	<string id="lname_woman_69">
+		<text>Лань</text>
+	</string>
+	<string id="lname_woman_70">
+		<text>Игристая</text>
+	</string>
+	<string id="lname_woman_71">
+		<text>Особенная</text>
+	</string>
+	<string id="lname_woman_72">
+		<text>Бирюкова</text>
+	</string>
+	<string id="lname_woman_73">
+		<text>Малинина</text>
+	</string>
+	<string id="lname_woman_74">
+		<text>Чемпионка</text>
+	</string>
+</string_table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	<string id="st_wpn_browning_p35">
+		<text>Browning P-35</text>
+	</string>
+	<string id="st_wpn_browning_p35_descr">
+		<text>The Browning Hi-Power is a single-action, 9mm semi-automatic pistol. It's based on the ideas of American firearms inventor John Browning, created and patented in 1922 and later patented by FN Herstal. Browning died in 1926, before he had finished developing a production version, but FN arms designer Dieudonne Saive fully developed it. The Hi-Power pistol was noted for its 13 round magazine capacity, twice that of contemporary designs such as the Luger or Mauser 1910. From the blueing finish and the "barrel sights", it is clear this is a classic, original P-35 made in Belgium.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium, United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Browning Arms, FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1914\n
+		</text>
+	</string>
+
+	<string id="st_wpn_browning_mk3">
+		<text>Browning Hi-Power Mark III</text>
+	</string>
+	<string id="st_wpn_browning_mk3_descr">
+		<text>The Browning Hi-Power Mark III is a modernization of the classic Browning HP, made in 1988. It's also the standard issue gun of the Australian Defence Force. The big change here would is better reliability, which the original Browning lacked, as well as better ironsights, an improved action as well as improved recoil. In terms of The Zone, it is a classic gun; a jack-of-all-trades. Almost every faction tended to use it back before the First Siege of Chernobyl, but strangely during the Second Siege of Chernobyl, it was incredibly rare until finally a new supplement arrived after the travel to the Road to the North.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium, United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]Browning Arms, FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1988\n
+		</text>
+	</string>
+</string_table>

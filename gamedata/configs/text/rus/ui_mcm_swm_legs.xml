@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_mcm_swm_legs_title">
+		<text>SWM Visible Body ! Портировано из Shoker Weapon Mod для ЗП за авторством Shoker, РикошеТ и других !</text>
+	</string>	
+	<string id="ui_mcm_menu_swm_legs">
+		<text>SWM Visible Body</text>
+	</string>
+	<string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+		<text>Скрывать тело в низком приседе</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset">
+		<text>Позиция тела (ближе/дальше)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset_side">
+		<text>Позиция тела (левее/правее)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+		<text>Включить звуки шагов при повороте на месте</text>
+	</string>	
+	<string id="ui_mcm_swm_legs_turn_step_sound_volume">
+		<text>Громкость шагов</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_hd_models">
+		<text>Использовать HD модели (ТРЕБУЕТСЯ АДДОН HD MODELS PACK!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled">
+		<text>Отключить отображение тела (Безопасное удаление!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled_desc">
+		<text>Эта опция позволяет безопасно удалить аддон.\n1) Включите опцию\n2) Убедитесь, что модель тела исчезла\n3) Сохранитесь, выйдите и отключите аддон</text>
+	</string>
+
+</string_table>

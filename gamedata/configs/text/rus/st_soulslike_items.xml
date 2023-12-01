@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_soulslike_rescuers_radio_frequency_note_name">
+		<text>Примечание спасателя</text>
+	</string>
+    
+	<string id="st_soulslike_rescuers_radio_frequency_note_desc">
+		<text>Примечание, написанное одним из сталкеров, который тебя спас.</text>
+	</string>
+
+	<string id="st_soulslike_rescuers_radio_frequency_note_message">
+		<text>В записке указана информация о месте, где находятся ваши вещи. Там написано, что нужно использовать радиоприемник с частотой %s в %s.</text>
+	</string>
+
+</string_table>

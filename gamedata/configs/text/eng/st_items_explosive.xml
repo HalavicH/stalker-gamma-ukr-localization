@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Explosive items + Mines
+-->
+
+<string_table>
+
+	<string id="st_mine_name">
+		<text>PFM-1 Scatterable Anti-personnel Mine</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>The PFM-1 used to be a standard-issue anti-personnel mine of the Red Army, employed mainly during the Soviet invasion of Afghanistan. A large number of these mines have made their way into the Zone. The mine is highly valued mainly for its functionality, user-friendliness, compact size and low weight.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: %c[ui_gray_2]pressure\n
+		</text>
+	</string>
+	
+	<string id="st_ied_rpg">
+		<text>IED (OG-7V Warhead)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Improvised explosive device based on OG-7V warhead and parts of a car battery. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas, to ambushes.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: %c[ui_gray_2]proximity\n
+		</text>
+	</string>
+	
+	<string id="st_ied">
+		<text>IED (Chemical)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Improvised explosive device produced from various chemical substances. This IED is significantly more powerful than the more common OG-7V version. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas, to ambushes.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: %c[ui_gray_2]proximity\n
+		</text>
+	</string>
+	
+	<string id="st_balon_gas">
+		<text>Gas Balloon</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>Heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking or heating as well as for combat purposes, though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		%c[d_red]WARNING: Explodes upon impact\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: bullet impact or explosion\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Gas Balloon (Empty)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Emptied heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking or heating as well as for combat purposes. Though empty, it can still be put to good use in outfit maintenance.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] junk\n
+		</text>
+	</string>
+	
+	<string id="st_metalcan_powder">
+		<text>Powder Can</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>A small and moderately heavy metal can filled with a mixture of explosive industrial chemicals, metal bolts and nuts as well as black gunpowder retrieved from old ammunition. A notorious death trap designed by a group of Russian bandits known as "the Swireksters" and sold to various bandit groups operating in the Zone. Upon direct gunfire, the can will instantly explode with metal bolts and corrosive chemicals bursting in every direction.\n \n
+		%c[d_red]WARNING: Explodes upon impact\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: bullet impact or explosion\n
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_item">
+		<text>Jerrycan
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_fuel">
+		<text>Jerrycan
+		</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>A large metal can filled with E95 gasoline. Usable as a high-tier cooking fuel though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		%c[d_red]WARNING: Explodes upon impact\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_red] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel\n
+		%c[d_cyan] • %c[ui_gray_2] triggering mechanism: bullet impact or explosion\n
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Jerrycan (Empty)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Empty jerrycan. It can only be used as material for the purposes of basic outfit repairs or sold to traders.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] junk\n
+		</text>
+	</string>
+	
+</string_table>
